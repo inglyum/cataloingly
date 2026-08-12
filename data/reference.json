@@ -1,0 +1,502 @@
+{
+  "_meta": {
+    "versione": "R1",
+    "aggiornato": "2026-08",
+    "nota": "Tutti i costi sono parametri TARABILI. Non sono verità: sono ipotesi documentate da sostituire con i costi reali Ingly Design. Cambiando un numero qui, si ricalcolano costi, prezzi, margini e score di tutti i 300 prodotti eseguendo scripts/build.py.",
+    "valuta": "EUR"
+  },
+  "materiali": {
+    "mdf3": {
+      "nome": "MDF 3 mm",
+      "eur_mq": 8.0,
+      "sp": 3,
+      "co2_mm_s": 26,
+      "note": "Prototipi, interni non a vista. Non per uso umido"
+    },
+    "mdf6": {
+      "nome": "MDF 6 mm",
+      "eur_mq": 11.0,
+      "sp": 6,
+      "co2_mm_s": 14,
+      "note": "Economico, bordo scuro"
+    },
+    "mdf10": {
+      "nome": "MDF 10 mm",
+      "eur_mq": 17.0,
+      "sp": 10,
+      "co2_mm_s": 7,
+      "note": "Strutturale"
+    },
+    "mdfnero6": {
+      "nome": "MDF laccato nero 6 mm",
+      "eur_mq": 26.0,
+      "sp": 6,
+      "co2_mm_s": 13,
+      "note": "Superficie finita, bordo bruciato voluto"
+    },
+    "mdfnero10": {
+      "nome": "MDF laccato nero 10 mm",
+      "eur_mq": 34.0,
+      "sp": 10,
+      "co2_mm_s": 7,
+      "note": "Linea Premium/Luxury"
+    },
+    "betulla3": {
+      "nome": "Compensato betulla 3 mm",
+      "eur_mq": 18.0,
+      "sp": 3,
+      "co2_mm_s": 28,
+      "note": "Segnaposto, addobbi, bomboniere"
+    },
+    "betulla4": {
+      "nome": "Compensato betulla 4 mm",
+      "eur_mq": 22.0,
+      "sp": 4,
+      "co2_mm_s": 22,
+      "note": "Magneti, sottobicchieri, tessere"
+    },
+    "betulla6": {
+      "nome": "Compensato betulla 6 mm",
+      "eur_mq": 30.0,
+      "sp": 6,
+      "co2_mm_s": 15,
+      "note": "Il cavallo di battaglia del catalogo"
+    },
+    "betulla8": {
+      "nome": "Compensato betulla 8 mm",
+      "eur_mq": 38.0,
+      "sp": 8,
+      "co2_mm_s": 10,
+      "note": "Scatole, strutture, portanti"
+    },
+    "betulla12": {
+      "nome": "Compensato betulla 12 mm",
+      "eur_mq": 55.0,
+      "sp": 12,
+      "co2_mm_s": 6,
+      "note": "Puzzle bimbi, presa sicura, appendini"
+    },
+    "pioppo5": {
+      "nome": "Compensato pioppo 5 mm",
+      "eur_mq": 13.0,
+      "sp": 5,
+      "co2_mm_s": 20,
+      "note": "Strutture interne non a vista"
+    },
+    "acrilico3": {
+      "nome": "Acrilico colato 3 mm",
+      "eur_mq": 32.0,
+      "sp": 3,
+      "co2_mm_s": 24,
+      "note": "Bordo lucido a specchio"
+    },
+    "acrilico5": {
+      "nome": "Acrilico colato 5 mm",
+      "eur_mq": 46.0,
+      "sp": 5,
+      "co2_mm_s": 15,
+      "note": "Esterni, dehors, umido"
+    },
+    "acrilicosat3": {
+      "nome": "Acrilico satinato 3 mm",
+      "eur_mq": 38.0,
+      "sp": 3,
+      "co2_mm_s": 24,
+      "note": "Diffusore lampade"
+    },
+    "sughero2": {
+      "nome": "Sughero 2 mm",
+      "eur_mq": 9.0,
+      "sp": 2,
+      "co2_mm_s": 40,
+      "note": "Retro antiscivolo"
+    },
+    "feltro3": {
+      "nome": "Feltro tecnico 3 mm",
+      "eur_mq": 12.0,
+      "sp": 3,
+      "co2_mm_s": 35,
+      "note": "Fondo vassoi e organizer"
+    },
+    "ardesia": {
+      "nome": "Ardesia / pietra lavica",
+      "eur_mq": 0.0,
+      "sp": 8,
+      "co2_mm_s": 0,
+      "note": "NON tagliabile CO2 — solo incisione raster. Acquistata a formato"
+    }
+  },
+  "componenti": {
+    "movimento_std": {
+      "nome": "Movimento quarzo silenzioso, alberino 16-20 mm",
+      "eur": 3.2
+    },
+    "movimento_coppia": {
+      "nome": "Movimento alta coppia sfere >150 mm",
+      "eur": 6.5
+    },
+    "sfere_std": {
+      "nome": "Set sfere 110-130 mm",
+      "eur": 1.1
+    },
+    "sfere_grandi": {
+      "nome": "Set sfere 160-200 mm",
+      "eur": 2.3
+    },
+    "targhetta_inox": {
+      "nome": "Placchetta inox 20x40 mm grezza",
+      "eur": 0.42
+    },
+    "targhetta_ottone": {
+      "nome": "Placchetta ottone 20x40 mm",
+      "eur": 0.95
+    },
+    "magnete_neo": {
+      "nome": "Magnete neodimio D10x2",
+      "eur": 0.14
+    },
+    "lamina_magnetica": {
+      "nome": "Lamina magnetica adesiva (per pz 60x60)",
+      "eur": 0.09
+    },
+    "anello_pck": {
+      "nome": "Anello portachiavi D25 + catenella",
+      "eur": 0.11
+    },
+    "led_usb": {
+      "nome": "Modulo LED USB 5V + cavo",
+      "eur": 2.4
+    },
+    "led_tealight": {
+      "nome": "Tealight LED a batteria",
+      "eur": 0.55
+    },
+    "gommini": {
+      "nome": "Set 4 gommini antiscivolo",
+      "eur": 0.08
+    },
+    "gancio": {
+      "nome": "Gancio/attacco a parete",
+      "eur": 0.12
+    },
+    "nastro": {
+      "nome": "Nastro in raso 30 cm",
+      "eur": 0.1
+    },
+    "spilla": {
+      "nome": "Base spilla metallica",
+      "eur": 0.13
+    },
+    "serratura": {
+      "nome": "Serratura a chiave per cassetta",
+      "eur": 1.6
+    },
+    "vaso_interno": {
+      "nome": "Vaso plastica interno per cache-pot",
+      "eur": 0.9
+    },
+    "pennarelli6": {
+      "nome": "Set 6 pennarelli atossici",
+      "eur": 1.3
+    },
+    "cavalletto": {
+      "nome": "Cavalletto in legno per welcome sign",
+      "eur": 8.5
+    },
+    "cordino": {
+      "nome": "Cordino cotone 40 cm",
+      "eur": 0.06
+    }
+  },
+  "macchina": {
+    "co2_eur_h": 28.0,
+    "uv_eur_h": 45.0,
+    "mopa_eur_h": 30.0,
+    "manodopera_eur_h": 18.0,
+    "_nota": "Tariffe orarie onnicomprensive: ammortamento + energia + manutenzione + consumabili + aspirazione",
+    "raster_cm2_min": 8.0,
+    "vettoriale_mm_s": 40.0,
+    "uv_cm2_min": 400.0,
+    "_nota_uv": "400 cm2/min = 2,4 mq/h, velocita' realistica di un flatbed in modalita' qualita'. Passate multiple (bianco+colore+gloss) sono gia' contate separatamente nel costo inchiostro.",
+    "mopa_cm2_min": 12.0,
+    "inchiostro_colore_eur_cm2": 0.0012,
+    "inchiostro_bianco_eur_cm2": 0.001,
+    "inchiostro_gloss_eur_cm2": 0.0008,
+    "_nota_inchiostro": "Circa 12 euro/mq di copertura piena a colori. Verificare sul consumo reale della macchina: e' la voce piu' facile da sbagliare di un ordine di grandezza.",
+    "setup_min_lotto": 6.0,
+    "_nota_setup": "Minuti di attrezzaggio per lotto, ripartiti sul lotto standard"
+  },
+  "packaging": {
+    "busta": {
+      "nome": "Busta kraft + cartoncino",
+      "eur": 0.45,
+      "max_mm": [
+        200,
+        200,
+        10
+      ]
+    },
+    "scatola_s": {
+      "nome": "Scatola piccola con interno",
+      "eur": 0.95,
+      "max_mm": [
+        150,
+        150,
+        60
+      ]
+    },
+    "scatola_m": {
+      "nome": "Scatola media con interno sagomato",
+      "eur": 1.8,
+      "max_mm": [
+        320,
+        250,
+        90
+      ]
+    },
+    "scatola_l": {
+      "nome": "Scatola grande",
+      "eur": 3.4,
+      "max_mm": [
+        520,
+        400,
+        140
+      ]
+    },
+    "tubo": {
+      "nome": "Tubo per pannelli lunghi",
+      "eur": 2.2,
+      "max_mm": [
+        1600,
+        120,
+        120
+      ]
+    },
+    "flatpack": {
+      "nome": "Flat pack + istruzioni",
+      "eur": 1.2,
+      "max_mm": [
+        400,
+        300,
+        40
+      ]
+    },
+    "sfuso_b2b": {
+      "nome": "Imballo collettivo B2B",
+      "eur": 0.3,
+      "max_mm": [
+        600,
+        400,
+        400
+      ]
+    },
+    "cartellino": {
+      "nome": "Cartellino inciso (sempre incluso)",
+      "eur": 0.15,
+      "max_mm": [
+        0,
+        0,
+        0
+      ]
+    },
+    "scatola_xl": {
+      "nome": "Scatola XL / imballo su misura",
+      "eur": 6.5,
+      "max_mm": [
+        900,
+        750,
+        220
+      ]
+    },
+    "scatola_g": {
+      "nome": "Scatola grande con interno",
+      "eur": 2.6,
+      "max_mm": [
+        420,
+        320,
+        110
+      ]
+    }
+  },
+  "piattaforme": {
+    "P1": {
+      "nome": "PIASTRA — lastra piana",
+      "descrizione": "Uno strato, taglio profilo + finestra, opzionale pannello UV retrostante a filo.",
+      "assemblaggio_min": 1.0,
+      "complessita": 1,
+      "usi": "Sottobicchieri, magneti, segnaposto, targhe, addobbi, segnalibri, bomboniere",
+      "processo": [
+        "Preparazione materiale: verifica spessore reale del lotto con calibro, taglio foglio a misura macchina",
+        "Progettazione: layout su griglia 12 mm, nesting con taglio comune dove possibile",
+        "Taglio CO2: prima i tagli interni (CUT-INNER), poi il profilo esterno",
+        "Incisione: vettoriale per il filo e i testi, raster solo dove serve texture",
+        "Stampa UV: pannello o superficie, con bianco di fondo se il materiale e' venato o scuro",
+        "Pulizia: rimozione fuliggine sul lato superiore, panno con alcol isopropilico",
+        "Assemblaggio: incollaggio pannello a filo o applicazione magnete/lamina",
+        "Finitura: smusso spigoli vivi, olio o vernice acrilica opaca se prodotto d'uso",
+        "Controllo qualita': checklist QC (vedi scripts/validate.py)",
+        "Packaging: busta o scatola piccola + cartellino inciso"
+      ]
+    },
+    "P2": {
+      "nome": "PIASTRA + BASE — lastra su base ad asola",
+      "descrizione": "Una sola base scanalata per tutto il catalogo. La lastra cambia, l'asola no: spessore reale meno 0,15 mm.",
+      "assemblaggio_min": 1.5,
+      "complessita": 2,
+      "usi": "Numeri tavolo, porta QR, segnaposto da tavolo, targhe cameretta, calendari, desk sign",
+      "processo": [
+        "Preparazione materiale: misura spessore reale, calcolo asola = spessore - 0,15 mm",
+        "Progettazione: lastra su griglia 12 mm, base da libreria (invariante)",
+        "Taglio CO2: base e lastra nello stesso nesting, tagli interni prima",
+        "Incisione: filo perimetrale, area logo, testo variabile",
+        "Stampa UV: pannello retrostante a colore pieno o area brand",
+        "Pulizia: fuliggine e residui dall'asola con lama sottile",
+        "Assemblaggio: pannello a filo sulla lastra, prova a secco dell'asola",
+        "Finitura: gommini antiscivolo sotto la base, smusso spigoli",
+        "Controllo qualita': verifica tenuta a pressione della lastra nell'asola",
+        "Packaging: scatola piccola con interno, montato o flat pack"
+      ]
+    },
+    "P3": {
+      "nome": "SCATOLA — volume a incastro",
+      "descrizione": "Quattro pareti + fondo, incastri a coda a 45 gradi, smontabile per il lavaggio e per il flat pack.",
+      "assemblaggio_min": 4.0,
+      "complessita": 3,
+      "usi": "Portatovaglioli, porta posate, organizer, portapenne, scatole regalo, fioriere, lanterne",
+      "processo": [
+        "Preparazione materiale: verifica spessore, orientamento venatura coerente fra le pareti",
+        "Progettazione: sviluppo pareti con denti e asole su passo 12 mm, kerf compensato",
+        "Taglio CO2: tutte le pareti nello stesso foglio per uniformita' di spessore",
+        "Incisione: pattern raster sulle pareti a vista, SCORE di montaggio su quelle interne",
+        "Stampa UV: fondo o interno a colore, prima dell'assemblaggio (superficie piana)",
+        "Pulizia: fuliggine dalle asole, prova a secco di tutti gli incastri",
+        "Assemblaggio: montaggio a secco, colla vinilica solo se il prodotto non va lavato",
+        "Finitura: carteggiatura spigoli, vernice acrilica opaca atossica",
+        "Controllo qualita': verifica squadratura e stabilita' a vuoto e a pieno carico",
+        "Packaging: flat pack con istruzioni, oppure scatola media se montato"
+      ]
+    },
+    "P4": {
+      "nome": "LEGGIO — piano inclinato 15 gradi",
+      "descrizione": "Fronte + puntone posteriore + sponda di ritegno 8 mm. Un solo angolo su tutto il catalogo.",
+      "assemblaggio_min": 2.5,
+      "complessita": 2,
+      "usi": "Porta menu, porta conto, espositori, porta tablet, leggio ricette",
+      "processo": [
+        "Preparazione materiale: verifica spessore e planarita' del foglio",
+        "Progettazione: fronte + puntone da libreria, angolo 15 gradi invariante",
+        "Taglio CO2: fronte, puntone e sponda nello stesso nesting",
+        "Incisione: filo perimetrale, area logo in testa",
+        "Stampa UV: fascia colore o pannello, opzionale",
+        "Pulizia: fuliggine, controllo battuta della sponda",
+        "Assemblaggio: incastro puntone, verifica stabilita' a carico (menu o tablet)",
+        "Finitura: gommini antiscivolo, smusso spigoli sul bordo di appoggio",
+        "Controllo qualita': prova di ribaltamento con carico reale",
+        "Packaging: flat pack smontato (riduce volume e costo di spedizione)"
+      ]
+    },
+    "P5": {
+      "nome": "MULTILAYER — strati a telaio",
+      "descrizione": "Da 3 a 5 strati distanziati 3-4 mm, due perni di allineamento asimmetrici, telaio a fascia.",
+      "assemblaggio_min": 7.0,
+      "complessita": 4,
+      "usi": "Orologi, quadri, metri crescita, tableau, insegne, lampade",
+      "processo": [
+        "Preparazione materiale: spessori omogenei fra gli strati, stesso lotto",
+        "Progettazione: strati su griglia 12 mm, perni Ø3 asimmetrici, fori distanziali",
+        "Taglio CO2: uno strato per volta, tagli interni prima del profilo",
+        "Incisione: raster per le texture di profondita', vettoriale per indici e filo",
+        "Stampa UV: pannello di fondo prima del montaggio, mai dopo",
+        "Pulizia: ogni strato singolarmente prima dell'impilaggio",
+        "Assemblaggio: impilaggio su perni, distanziali 3-4 mm, componenti (movimento, LED)",
+        "Finitura: verifica luce fra strati uniforme, nessuna sbavatura visibile in ombra",
+        "Controllo qualita': per gli orologi, centratura foro alberino e passaggio sfere",
+        "Packaging: scatola media o grande con interno sagomato, angoli protetti"
+      ]
+    },
+    "P6": {
+      "nome": "PIASTRA MOPA — legno + metallo marcato",
+      "descrizione": "Piastra P1 con placchetta metallica incassata e marcata al fiber. Il salto di percezione piu' economico del catalogo.",
+      "assemblaggio_min": 2.0,
+      "complessita": 3,
+      "usi": "Targhe premium, medagliette pet, premi aziendali, portachiavi premium, memorial",
+      "processo": [
+        "Preparazione materiale: legno + placchette metalliche sgrassate con alcol",
+        "Progettazione: sede fresata/tagliata per la placchetta, tolleranza +0,2 mm",
+        "Taglio CO2: profilo legno e sede di alloggiamento",
+        "Incisione: filo e testo sul legno",
+        "Marcatura MOPA: testo e logo sul metallo, file separato riferito al componente",
+        "Pulizia: legno e metallo separatamente, il metallo con panno antistatico",
+        "Assemblaggio: incollaggio placchetta con biadesivo strutturale 0,2 mm",
+        "Finitura: verifica complanarita' placchetta-legno",
+        "Controllo qualita': leggibilita' marcatura sotto luce radente",
+        "Packaging: scatola piccola con interno, il metallo protetto da velina"
+      ]
+    },
+    "P7": {
+      "nome": "PUZZLE / TESSERE — incastri planari",
+      "descrizione": "Tessere o pezzi a incastro dentro un vassoio sagomato, tutti tagliati dallo stesso foglio.",
+      "assemblaggio_min": 2.0,
+      "complessita": 2,
+      "usi": "Puzzle nome, alfabeti, memory, tabelle routine, giochi educativi, tessere tableau",
+      "processo": [
+        "Preparazione materiale: betulla spessa per presa sicura (min 8 mm per bimbi piccoli)",
+        "Progettazione: kerf compensato sul profilo tessera, gioco 0,15 mm per estrazione facile",
+        "Taglio CO2: tessere e vassoio dallo stesso foglio, in un'unica passata",
+        "Incisione: pittogrammi e lettere, profondita' uniforme",
+        "Stampa UV: colori pieni su tessere, prima dell'estrazione dal foglio",
+        "Pulizia: carteggiatura obbligatoria di tutti i bordi (contatto bambino)",
+        "Assemblaggio: inserimento tessere nel vassoio, verifica estrazione",
+        "Finitura: vernice a base acqua atossica, spigoli raggiati R12",
+        "Controllo qualita': nessun pezzo staccabile sotto 32 mm, nessuno spigolo vivo",
+        "Packaging: scatola media, tessere alloggiate nel vassoio"
+      ]
+    },
+    "P8": {
+      "nome": "PANNELLO UV — grafica piena su lastra",
+      "descrizione": "La UV fa tutto il lavoro visivo, il laser solo il profilo. Il piu' veloce da produrre in serie.",
+      "assemblaggio_min": 0.5,
+      "complessita": 1,
+      "usi": "Coaster grafici, magneti fotografici, quadretti, mappe, targhe a colori, ritratti pet",
+      "processo": [
+        "Preparazione materiale: superficie pulita e sgrassata, planarita' verificata",
+        "Progettazione: file a 300 dpi CMYK con abbondanza 2 mm, crocini di registro",
+        "Stampa UV: bianco di fondo se serve, poi colore, poi gloss selettivo",
+        "Essiccazione/reticolazione: passaggio UV completo prima di movimentare",
+        "Taglio CO2: profilo esterno con lettura dei crocini di registro",
+        "Pulizia: bordo tagliato, attenzione a non intaccare la stampa",
+        "Assemblaggio: applicazione magnete, sughero o supporto",
+        "Finitura: controllo registro stampa-taglio entro 0,3 mm",
+        "Controllo qualita': uniformita' colore, assenza di bande di stampa",
+        "Packaging: busta con cartoncino rigido o scatola piccola"
+      ]
+    }
+  },
+  "listino_moltiplicatori": {
+    "entry": 2.6,
+    "standard": 3.2,
+    "premium": 4.2,
+    "b2b_10": 2.1,
+    "b2b_25": 1.95,
+    "b2b_50": 1.8,
+    "b2b_100": 1.65,
+    "_nota": "Moltiplicatori sul costo industriale diretto. Regola di sanita': mai sotto 3x in B2C (regge sconti, resi e commissioni marketplace) e mai sotto 1,65x in B2B (regge lo sconto rivenditore del 40-50%)."
+  },
+  "score_pesi": {
+    "demand": 20,
+    "competition": 15,
+    "margin": 20,
+    "production": 15,
+    "personalization": 10,
+    "giftability": 10,
+    "uniqueness": 10,
+    "_nota": "demand, competition, personalization, giftability e uniqueness sono valutati per prodotto. margin e production sono CALCOLATI dal modello di costo: non si possono barare."
+  },
+  "priorita_soglie": {
+    "A+": 80,
+    "A": 75,
+    "B": 70,
+    "C": 64,
+    "D": 0
+  }
+}

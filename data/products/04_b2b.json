@@ -1,0 +1,2756 @@
+{
+ "_categoria": "B2B — 04 Aziendale & B2B",
+ "_nota": "Categoria strategica. Il valore non e' nel pezzo ma nel SET: il listino a scaglioni 10/25/50/100 e' generato da build.py per ogni SKU. Il gap di mercato piu' redditizio del catalogo e' il set sala completo, che nessuno dei 4.000 venditori di numeri tavolo sa comporre.",
+ "prodotti": [
+  {
+   "id": "ING-B2B-REST-091",
+   "cat": "B2B",
+   "coll": "RISTORAZIONE",
+   "name": "Cassaro",
+   "tipo": "numero tavolo bifacciale",
+   "tipo_en": "double-sided table number",
+   "concept": "La cifra e' tagliata dentro la lastra e dietro si vede il pannello nel colore del locale. Bifacciale perche' il cameriere legge da un lato e il cliente dall'altro.",
+   "target": "Ristoranti, pizzerie, trattorie. Lotti da 15 a 40 tavoli.",
+   "desire": "Numerare la sala senza i cartellini di plastica del grossista.",
+   "usp": "Base condivisa con porta QR e calendario: lo stesso locale alterna i pezzi sulla stessa base.",
+   "diff": "Su 4.000 inserzioni concorrenti nessuna e' parte di un sistema coordinato di sala.",
+   "platform": "P2",
+   "mat": [
+    "betulla6",
+    "betulla3"
+   ],
+   "quota_mat": {
+    "betulla3": 0.4
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    72,
+    108,
+    12
+   ],
+   "layers": 2,
+   "cut_mm": 900,
+   "vec_mm": 400,
+   "eng_cm2": 10,
+   "uv_cm2": 50,
+   "uv_white": true,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 40,
+   "mkt": [
+    8,
+    20
+   ],
+   "person": [
+    "numero",
+    "logo",
+    "colore brand"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-REST-092 porta QR",
+    "ING-B2B-REST-093 porta menu",
+    "ING-B2B-REST-097 targa riservato"
+   ],
+   "bundle": [
+    "SET SALA COMPLETO",
+    "SET BASE: 20 numeri + 20 porta QR"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_table_numbers",
+   "kw": [
+    "numeri tavolo ristorante",
+    "numero tavolo legno",
+    "segnatavolo personalizzato",
+    "table number restaurant"
+   ],
+   "s_demand": 18,
+   "s_comp": 4,
+   "s_person": 10,
+   "s_gift": 4,
+   "s_uniq": 6,
+   "prompt_prod": "Lastra betulla 6 mm 72x108, cifra CUT traforata h 48 mm (leggibile in piedi a 1,5 m). Pannello betulla 3 mm UV nel colore brand incollato a filo sul retro, visibile attraverso la cifra. Base P2 96x48 con asola 5,85 mm (spessore reale 6 mm meno 0,15). Area logo 40x14 ENGRAVE-V in testa. Gommini sotto la base. Lotto standard 40 pezzi, nesting 28 set per foglio.",
+   "prompt_img": "three-quarter view of a double-sided restaurant table number in a slotted base, 6 mm Baltic birch with toasted amber cut edges, the numeral 7 cut straight through revealing a deep blue panel behind, small engraved logo area at the top, on a dark walnut table with a linen napkin blurred behind"
+  },
+  {
+   "id": "ING-B2B-REST-092",
+   "cat": "B2B",
+   "coll": "RISTORAZIONE",
+   "name": "Vucciria",
+   "tipo": "porta QR code da tavolo",
+   "tipo_en": "tabletop QR code stand",
+   "concept": "Espositore per il menu digitale con l'area del codice su fondo liscio ad alto contrasto e il resto della lastra decorato.",
+   "target": "Ristoranti, bar, pizzerie, gelaterie.",
+   "desire": "Far scansionare il menu al primo tentativo, senza che il cliente giri il cartoncino verso la luce.",
+   "usp": "Nessun pattern sotto il codice: e' l'errore che rende illeggibili la maggior parte dei porta QR decorati.",
+   "diff": "Progettato attorno al funzionamento della scansione, non attorno alla grafica.",
+   "platform": "P2",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    80,
+    120,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 760,
+   "vec_mm": 420,
+   "eng_cm2": 22,
+   "uv_cm2": 40,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 40,
+   "mkt": [
+    15,
+    50
+   ],
+   "person": [
+    "QR",
+    "logo",
+    "URL",
+    "colore brand"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-REST-091 numero tavolo",
+    "ING-B2B-REST-093 porta menu",
+    "ING-B2B-HOSP-115 QR wifi"
+   ],
+   "bundle": [
+    "SET SALA COMPLETO",
+    "SET BASE"
+   ],
+   "ref": "https://www.etsy.com/market/wooden_menu_holder",
+   "kw": [
+    "porta qr code ristorante",
+    "espositore menu digitale",
+    "porta qr tavolo legno",
+    "qr menu stand"
+   ],
+   "s_demand": 18,
+   "s_comp": 6,
+   "s_person": 10,
+   "s_gift": 4,
+   "s_uniq": 7,
+   "prompt_prod": "Lastra betulla 6 mm 80x120 su base P2. Area QR 44x44 mm ENGRAVE-R su fondo COMPLETAMENTE LISCIO, nessun pattern, nessuna venatura marcata: contrasto minimo 60 percento. Cornice ad arco R12 attorno all'area codice. Area logo 44x12 sopra, URL leggibile ENGRAVE-V sotto (min 4 mm). Test di scansione obbligatorio in QC su 3 telefoni diversi.",
+   "prompt_img": "a tabletop QR code stand 80x120 mm on a slotted birch base, arched frame around a clean pale panel bearing a crisp black QR code, small logo area above, on a café bar counter with a coffee cup beside it"
+  },
+  {
+   "id": "ING-B2B-REST-093",
+   "cat": "B2B",
+   "coll": "RISTORAZIONE",
+   "name": "Ballarò",
+   "tipo": "porta menu a leggio A4/A5",
+   "tipo_en": "menu easel stand",
+   "concept": "Leggio inclinato 15 gradi con sponda tagliata a pettine sul passo 12 mm: tiene un foglio singolo come un fascicolo da otto pagine.",
+   "target": "Ristoranti, hotel, wine bar.",
+   "desire": "Un porta menu che non vada sostituito quando il menu diventa piu' lungo.",
+   "usp": "Il puntone si sfila: si immagazzina piatto in bassa stagione e si spedisce in busta.",
+   "diff": "Il mercato ha 2.000+ leggii a spessore fisso: la sponda a pettine e' un dettaglio funzionale che non ha nessuno.",
+   "platform": "P4",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    216,
+    300,
+    90
+   ],
+   "layers": 1,
+   "cut_mm": 1800,
+   "vec_mm": 800,
+   "eng_cm2": 20,
+   "uv_cm2": 80,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    15,
+    50
+   ],
+   "person": [
+    "logo",
+    "nome locale",
+    "colore brand"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-REST-092 porta QR",
+    "ING-B2B-REST-094 porta conto",
+    "ING-B2B-REST-096 menu board"
+   ],
+   "bundle": [
+    "SET SALA COMPLETO",
+    "SET MENU: 4 leggii + 2 menu board"
+   ],
+   "ref": "https://www.etsy.com/market/wooden_menu_holder",
+   "kw": [
+    "porta menu legno",
+    "leggio menu ristorante",
+    "porta menu a4",
+    "menu holder wood"
+   ],
+   "s_demand": 17,
+   "s_comp": 5,
+   "s_person": 9,
+   "s_gift": 4,
+   "s_uniq": 7,
+   "prompt_prod": "Fronte betulla 6 mm 216x300 (A4) o 156x216 (A5), inclinazione 15 gradi. Sponda inferiore a pettine: denti 12 mm, luce 12 mm, profondita' 20 mm. Puntone posteriore sfilabile a incastro, nessuna colla. Apertura ad arco R12 in testa con pannello UV a colore brand. Area logo 60x20 ENGRAVE-V. Spedizione flat pack.",
+   "prompt_img": "three-quarter view of an A4 wooden menu easel inclined 15 degrees, 6 mm birch with toasted amber edges, comb-cut retaining lip along the bottom, arched aperture at the top showing a mustard panel, holding a cream paper menu, on a marble bistro table"
+  },
+  {
+   "id": "ING-B2B-REST-094",
+   "cat": "B2B",
+   "coll": "RISTORAZIONE",
+   "name": "Kalsa",
+   "tipo": "porta conto con placchetta metallica",
+   "tipo_en": "bill presenter",
+   "concept": "Porta conto con fessura per lo scontrino, molletta di ritegno e placchetta d'acciaio marcata al fiber col nome del locale.",
+   "target": "Ristoranti di fascia media e alta, hotel.",
+   "desire": "Chiudere il servizio con un oggetto che valga il conto che contiene.",
+   "usp": "E' l'ultimo pezzo che il cliente tocca prima di andarsene: qui la finitura migliore si ripaga.",
+   "diff": "La placchetta MOPA giustifica il doppio del prezzo di un porta conto inciso, a fronte di 42 centesimi di componente.",
+   "platform": "P6",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    132,
+    228,
+    10
+   ],
+   "layers": 1,
+   "cut_mm": 900,
+   "vec_mm": 600,
+   "eng_cm2": 15,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_inox": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 25,
+   "mkt": [
+    20,
+    55
+   ],
+   "person": [
+    "logo",
+    "nome locale"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-B2B-REST-093 porta menu",
+    "ING-B2B-REST-091 numero tavolo",
+    "ING-B2B-REST-105 porta mance"
+   ],
+   "bundle": [
+    "SET SALA COMPLETO",
+    "SET SERVIZIO: porta conto + porta mance"
+   ],
+   "ref": "https://www.etsy.com/market/wooden_menu_holder",
+   "kw": [
+    "porta conto ristorante",
+    "portaconto legno personalizzato",
+    "bill presenter",
+    "porta scontrino locale"
+   ],
+   "s_demand": 15,
+   "s_comp": 8,
+   "s_person": 9,
+   "s_gift": 5,
+   "s_uniq": 8,
+   "prompt_prod": "Lastra betulla 6 mm 132x228 con angoli R12 e spigoli SMUSSATI (passa di mano in mano). Fessura porta-scontrino 100x3 mm sul fronte. Sede tagliata 20x40 per placchetta inox, marcata MOPA col nome del locale. Molletta metallica o elastico in canale inciso sul retro. Finitura a vernice acrilica opaca lavabile.",
+   "prompt_img": "a restaurant bill presenter 132x228 mm in birch with an inset brushed stainless steel plate marked by fiber laser, a receipt tucked into the front slot, held in a waiter's hand, warm low restaurant light"
+  },
+  {
+   "id": "ING-B2B-REST-095",
+   "cat": "B2B",
+   "coll": "RISTORAZIONE",
+   "name": "Zisa",
+   "tipo": "targa segnaletica bagno e direzionale",
+   "tipo_en": "restroom and wayfinding sign",
+   "concept": "Pittogramma traforato su fondo colorato, con sistema di frecce direzionali sullo stesso telaio.",
+   "target": "Ristoranti, hotel, negozi, uffici.",
+   "desire": "Indicare i bagni senza l'adesivo storto comprato in ferramenta.",
+   "usp": "Sistema modulare: stessa cornice, pittogrammi e frecce intercambiabili.",
+   "diff": "Venduto come sistema di segnaletica, non come cartello singolo.",
+   "platform": "P1",
+   "mat": [
+    "betulla6",
+    "betulla3"
+   ],
+   "quota_mat": {
+    "betulla3": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    108,
+    108,
+    9
+   ],
+   "layers": 2,
+   "cut_mm": 1000,
+   "vec_mm": 400,
+   "eng_cm2": 8,
+   "uv_cm2": 60,
+   "uv_white": true,
+   "comp": {},
+   "pack": "sfuso_b2b",
+   "lotto": 30,
+   "mkt": [
+    15,
+    45
+   ],
+   "person": [
+    "pittogramma",
+    "logo",
+    "colore brand",
+    "direzione"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-REST-091 numero tavolo",
+    "ING-B2B-HOSP-116 segnaletica direzionale",
+    "ING-B2B-REST-097 targa riservato"
+   ],
+   "bundle": [
+    "SET SALA COMPLETO",
+    "KIT SEGNALETICA: 6 targhe"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "targa bagno ristorante",
+    "segnaletica locale legno",
+    "cartello wc design",
+    "restroom sign wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 8,
+   "s_person": 8,
+   "s_gift": 3,
+   "s_uniq": 7,
+   "prompt_prod": "Lastra betulla 6 mm 108x108 (o 108x264 per la direzionale). Pittogramma CUT traforato, tratti minimi 3 mm. Pannello betulla 3 mm UV a colore brand dietro. ENGRAVE-V filo perimetrale. Retro con area 60x60 per biadesivo strutturale. Nessun testo sotto 8 mm.",
+   "prompt_img": "a square restroom sign plate 108x108 mm in birch, pictogram cut straight through revealing a deep blue layer behind, engraved border line, mounted on a lime-washed plaster wall in a restaurant corridor"
+  },
+  {
+   "id": "ING-B2B-REST-096",
+   "cat": "B2B",
+   "coll": "RISTORAZIONE",
+   "name": "Quattro Canti",
+   "tipo": "menu board da parete a pannelli scorrevoli",
+   "tipo_en": "wall menu board with sliding panels",
+   "concept": "Telaio nero con guide a scanalatura e pannelli intercambiabili: il locale cambia i piatti senza rifare l'insegna.",
+   "target": "Pizzerie, gastronomie, gelaterie, bar.",
+   "desire": "Cambiare il menu di stagione senza ricomprare un'insegna da 200 euro.",
+   "usp": "Il telaio si compra una volta, i pannelli sono un consumabile a basso costo e ad alta ricorrenza.",
+   "diff": "Modello a ricorrenza: il cliente torna a comprare i pannelli, non solo il telaio.",
+   "platform": "P5",
+   "mat": [
+    "mdfnero10",
+    "betulla6"
+   ],
+   "quota_mat": {
+    "betulla6": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    432,
+    612,
+    20
+   ],
+   "layers": 2,
+   "cut_mm": 3400,
+   "vec_mm": 1200,
+   "eng_cm2": 40,
+   "uv_cm2": 700,
+   "uv_white": true,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "scatola_xl",
+   "lotto": 10,
+   "mkt": [
+    60,
+    300
+   ],
+   "person": [
+    "logo",
+    "nome locale",
+    "piatti",
+    "colore brand"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-REST-093 porta menu",
+    "ING-B2B-RET-101 insegna logo",
+    "ING-B2B-REST-095 segnaletica"
+   ],
+   "bundle": [
+    "SET MENU",
+    "SET SALA COMPLETO"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "menu board parete",
+    "lavagna menu legno",
+    "insegna menu ristorante",
+    "wall menu board"
+   ],
+   "s_demand": 14,
+   "s_comp": 9,
+   "s_person": 10,
+   "s_gift": 3,
+   "s_uniq": 9,
+   "prompt_prod": "Telaio MDF laccato nero 10 mm 432x612 con testa ad arco R12. Quattro guide a scanalatura 6,2 mm ricavate su montanti laterali. Quattro pannelli betulla 6 mm 396x132 scorrevoli, UV PRINT con i piatti. Area logo 120x40 in testa ENGRAVE-V oro. Aggancio a 2 punti (peso oltre 2 kg). Pannelli venduti anche separatamente come ricambio.",
+   "prompt_img": "a wall-mounted restaurant menu board 432x612 mm, matte black lacquered frame with an arched top, four interchangeable birch panels sliding in grooved rails printed with dish names, gold engraved logo area at the top, on a dark plaster wall"
+  },
+  {
+   "id": "ING-B2B-REST-097",
+   "cat": "B2B",
+   "coll": "RISTORAZIONE",
+   "name": "Erice",
+   "tipo": "targa riservato bifacciale",
+   "tipo_en": "reserved table sign",
+   "concept": "Cartellino bifacciale su piedino, Riservato da un lato e Reserved dall'altro.",
+   "target": "Ristoranti, hotel, wine bar.",
+   "desire": "Tenere un tavolo senza il foglio A4 piegato a meta'.",
+   "usp": "Costo industriale bassissimo: entra in ogni set sala senza pesare sul preventivo.",
+   "diff": "Bilingue su due facce invece che stampato due volte sullo stesso lato.",
+   "platform": "P2",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2",
+   "dim": [
+    144,
+    48,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 620,
+   "vec_mm": 380,
+   "eng_cm2": 8,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 50,
+   "mkt": [
+    8,
+    25
+   ],
+   "person": [
+    "logo",
+    "testo",
+    "lingua"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-REST-091 numero tavolo",
+    "ING-B2B-REST-092 porta QR",
+    "ING-B2B-REST-095 segnaletica"
+   ],
+   "bundle": [
+    "SET SALA COMPLETO",
+    "SET BASE"
+   ],
+   "ref": "https://www.etsy.com/market/restaurant_order_numbers",
+   "kw": [
+    "targa riservato ristorante",
+    "cartello tavolo riservato",
+    "segnaposto riservato",
+    "reserved sign"
+   ],
+   "s_demand": 14,
+   "s_comp": 9,
+   "s_person": 7,
+   "s_gift": 3,
+   "s_uniq": 5,
+   "prompt_prod": "Lastra betulla 6 mm 144x48 con estremita' ad arco R12. ENGRAVE-V RISERVATO su una faccia, RESERVED sull'altra, altezza carattere 10 mm. Base P2 ridotta 96x36 con asola 5,85. Area logo 24x10. Nesting molto denso: e' un riempitivo ideale dei fogli degli altri prodotti.",
+   "prompt_img": "a small double-sided reserved table sign 144x48 mm standing on a tiny wooden foot, birch with arched ends, engraved lettering, on a set restaurant table with wine glasses"
+  },
+  {
+   "id": "ING-B2B-REST-098",
+   "cat": "B2B",
+   "coll": "RISTORAZIONE",
+   "name": "Marzamemi",
+   "tipo": "porta stuzzicadenti e bustine zucchero",
+   "tipo_en": "toothpick and sugar sachet holder",
+   "concept": "Doppio scomparto da banco: bustine di zucchero da un lato, stuzzicadenti dall'altro.",
+   "target": "Bar, caffetterie, trattorie.",
+   "desire": "Togliere dal bancone i due contenitori di plastica del fornitore.",
+   "usp": "Prodotto da bancone ad altissima visibilita': lo vedono tutti i clienti del bar, tutti i giorni.",
+   "diff": "I due formati sono dimensionati sulle bustine e sugli stuzzicadenti standard, non generici.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    120,
+    72,
+    72
+   ],
+   "layers": 1,
+   "cut_mm": 1400,
+   "vec_mm": 380,
+   "eng_cm2": 25,
+   "uv_cm2": 45,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 30,
+   "mkt": [
+    12,
+    35
+   ],
+   "person": [
+    "logo",
+    "nome locale",
+    "colore brand"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-REST-092 porta QR",
+    "ING-B2B-REST-105 porta mance",
+    "ING-HOME-TAV-012 coaster brandizzati"
+   ],
+   "bundle": [
+    "SET BANCONE BAR",
+    "SET SALA COMPLETO"
+   ],
+   "ref": "https://www.etsy.com/market/table_menu_holder",
+   "kw": [
+    "porta bustine zucchero",
+    "porta stuzzicadenti bar",
+    "accessori bancone bar",
+    "sugar sachet holder"
+   ],
+   "s_demand": 14,
+   "s_comp": 11,
+   "s_person": 8,
+   "s_gift": 3,
+   "s_uniq": 8,
+   "prompt_prod": "Scatola betulla 6 mm 120x72x72 con divisorio centrale. Scomparto A 72x60 (bustine zucchero standard in verticale), scomparto B 36x60 (stuzzicadenti). Fronti con apertura ad arco R12 per l'estrazione. Area logo 48x14 ENGRAVE-V sul fronte. Vernice lavabile. Gommini.",
+   "prompt_img": "a small wooden counter caddy 120x72x72 mm with two compartments, arched cut-outs on the fronts, holding sugar sachets and toothpicks, engraved logo area, on a café bar counter beside an espresso machine"
+  },
+  {
+   "id": "ING-B2B-REST-105",
+   "cat": "B2B",
+   "coll": "RISTORAZIONE",
+   "name": "Sciacca",
+   "tipo": "porta mance da banco",
+   "tipo_en": "tip jar",
+   "concept": "Cassetta chiusa con fessura, finestra ad arco che lascia vedere l'interno e messaggio inciso.",
+   "target": "Bar, caffetterie, gelaterie, pub.",
+   "desire": "Un porta mance che inviti a lasciarle invece del barattolo di vetro.",
+   "usp": "La finestra che mostra le monete e' un meccanismo di prova sociale: si vede che gli altri hanno lasciato.",
+   "diff": "Progettato per essere visto pieno, non per nascondere il contenuto.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    108,
+    96,
+    144
+   ],
+   "layers": 1,
+   "cut_mm": 1700,
+   "vec_mm": 500,
+   "eng_cm2": 30,
+   "uv_cm2": 60,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 25,
+   "mkt": [
+    15,
+    45
+   ],
+   "person": [
+    "logo",
+    "frase",
+    "nome locale"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER"
+   ],
+   "upsell": [
+    "ING-B2B-REST-098 porta bustine",
+    "ING-B2B-REST-094 porta conto",
+    "ING-B2B-REST-092 porta QR"
+   ],
+   "bundle": [
+    "SET BANCONE BAR",
+    "SET SERVIZIO"
+   ],
+   "ref": "https://www.etsy.com/market/table_menu_holder",
+   "kw": [
+    "porta mance bar",
+    "tip jar legno",
+    "cassetta mance personalizzata",
+    "porta mance design"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 8,
+   "s_gift": 3,
+   "s_uniq": 8,
+   "prompt_prod": "Scatola betulla 6 mm 108x96x144, chiusa, con fessura superiore 60x6 mm. Fronte con finestra ad arco R12 aperta (nessun vetro) che mostra le monete. Fondo estraibile con dente di ritegno. Frase incisa ENGRAVE-V sotto la finestra. Gommini antiscivolo.",
+   "prompt_img": "a wooden tip jar 108x96x144 mm on a bar counter, arched open window on the front showing coins and notes inside, slot on top, engraved message below the window, warm café lighting"
+  },
+  {
+   "id": "ING-B2B-RET-099",
+   "cat": "B2B",
+   "coll": "RETAIL",
+   "name": "Noto",
+   "tipo": "espositore da banco a tre ripiani",
+   "tipo_en": "three-tier counter display",
+   "concept": "Espositore a scala con fianchi traforati, smontabile, per prodotti confezionati e pasticceria.",
+   "target": "Pasticcerie, gastronomie, negozi gourmet, panifici.",
+   "desire": "Far vedere i prodotti sul banco senza il plexiglass anonimo.",
+   "usp": "Argomento di vendita imbattibile: aumenta le vendite del negozio, quindi si ripaga da solo.",
+   "diff": "Il mercato degli espositori e' plexiglass e cartone: il legno di design non c'e'.",
+   "platform": "P3",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    168,
+    216,
+    264
+   ],
+   "layers": 1,
+   "cut_mm": 3200,
+   "vec_mm": 900,
+   "eng_cm2": 50,
+   "uv_cm2": 120,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    40,
+    120
+   ],
+   "person": [
+    "logo",
+    "nome negozio",
+    "colore brand"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-RET-100 porta depliant",
+    "ING-B2B-RET-102 cartellini prezzo",
+    "ING-B2B-RET-101 insegna logo"
+   ],
+   "bundle": [
+    "SET NEGOZIO: espositore + porta depliant + cartellini",
+    "SET VETRINA"
+   ],
+   "ref": "https://www.etsy.com/market/restaurant_order_numbers",
+   "kw": [
+    "espositore da banco legno",
+    "espositore negozio design",
+    "espositore pasticceria",
+    "counter display wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 3,
+   "s_uniq": 9,
+   "prompt_prod": "Due fianchi betulla 8 mm 216x264 sagomati a scala, con traforo Griglia Barocca. Tre ripiani 160x140 a incastro 45 gradi, inclinati 5 gradi con fermo frontale 8 mm. Area logo 100x24 sulla traversa alta. Smontabile per il trasporto e il magazzino. Verifica carico 3 kg per ripiano.",
+   "prompt_img": "a three-tier wooden countertop display stand 168x216x264 mm in 8 mm birch, arched fretwork side panels, holding wrapped pastries and jars, engraved shop logo on the top rail, on a bakery counter"
+  },
+  {
+   "id": "ING-B2B-RET-100",
+   "cat": "B2B",
+   "coll": "RETAIL",
+   "name": "Salina",
+   "tipo": "porta depliant e volantini da banco",
+   "tipo_en": "leaflet holder",
+   "concept": "Tasca inclinata per depliant A5 e biglietti, con fronte basso perche' la grafica del volantino resti visibile.",
+   "target": "Negozi, studi professionali, hotel, agenzie.",
+   "desire": "Distribuire materiale senza la vaschetta di plastica trasparente.",
+   "usp": "Il fronte e' volutamente basso: si vede il messaggio del depliant, non il portadepliant.",
+   "diff": "Dimensionato sui formati reali A5 e DL, non generico.",
+   "platform": "P4",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    156,
+    108,
+    120
+   ],
+   "layers": 1,
+   "cut_mm": 1500,
+   "vec_mm": 450,
+   "eng_cm2": 20,
+   "uv_cm2": 50,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 30,
+   "mkt": [
+    12,
+    38
+   ],
+   "person": [
+    "logo",
+    "nome"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-RET-099 espositore",
+    "ING-B2B-OFF-103 porta biglietti",
+    "ING-B2B-RET-102 cartellini"
+   ],
+   "bundle": [
+    "SET NEGOZIO",
+    "KIT ACCOGLIENZA UFFICIO"
+   ],
+   "ref": "https://www.etsy.com/market/table_menu_holder",
+   "kw": [
+    "porta depliant legno",
+    "espositore volantini",
+    "porta brochure banco",
+    "leaflet holder wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 8,
+   "s_gift": 3,
+   "s_uniq": 7,
+   "prompt_prod": "Tasca betulla 6 mm per A5 (156 mm di larghezza interna), fronte alto solo 48 mm, retro 120 mm, inclinazione 15 gradi. Fianchi con profilo ad arco R12. Area logo 60x16 sul fronte. Variante DL 108 mm come SKU separato. Flat pack.",
+   "prompt_img": "a wooden leaflet holder 156x108x120 mm with a low front so the brochure artwork stays visible, arched side profiles, birch, holding A5 flyers, on a shop counter"
+  },
+  {
+   "id": "ING-B2B-RET-101",
+   "cat": "B2B",
+   "coll": "RETAIL",
+   "name": "Monreale",
+   "tipo": "insegna aziendale con logo",
+   "tipo_en": "business logo sign",
+   "concept": "Insegna a due strati con logo del cliente traforato o inciso e placchetta metallica marcata.",
+   "target": "Negozi, studi, uffici, laboratori.",
+   "desire": "Un'insegna che non sia corten arrugginito o plexiglass.",
+   "usp": "Legno e metallo insieme distinguono subito da tutto il resto della categoria.",
+   "diff": "Il segmento e' saturo di corten e acrilico: il legno con inserto metallico e' un territorio libero.",
+   "platform": "P6",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.8
+   },
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    300,
+    300,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 2600,
+   "vec_mm": 900,
+   "eng_cm2": 60,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "mopa_cm2": 16,
+   "comp": {
+    "targhetta_inox": 1,
+    "gancio": 2
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 10,
+   "mkt": [
+    60,
+    300
+   ],
+   "person": [
+    "logo",
+    "nome azienda",
+    "colore brand",
+    "payoff"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-B2B-OFF-104 desk sign",
+    "ING-B2B-RET-099 espositore",
+    "ING-B2B-AWD-107 targa inaugurazione"
+   ],
+   "bundle": [
+    "SET NEGOZIO",
+    "IDENTITA AZIENDALE: insegna + desk sign + porta biglietti"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "insegna aziendale legno",
+    "insegna negozio personalizzata",
+    "targa azienda logo",
+    "business sign wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 9,
+   "s_person": 10,
+   "s_gift": 3,
+   "s_uniq": 9,
+   "prompt_prod": "Fondo betulla 8 mm 300x300 con UV PRINT nel colore brand. Strato frontale betulla 4 mm distanziato 4 mm con logo CUT traforato (richiedere file VETTORIALE al cliente, tratto minimo 3 mm). Placchetta inox 20x40 MOPA con payoff o anno di fondazione. ENGRAVE-V filo perimetrale. Aggancio a 2 punti con distanziali 12 mm per l'ombra.",
+   "prompt_img": "a business logo sign 300x300 mm mounted on an exterior plaster wall, birch front layer with the logo cut through revealing a coloured panel behind, small steel plate below, mounted on spacers casting a shadow, daylight"
+  },
+  {
+   "id": "ING-B2B-RET-102",
+   "cat": "B2B",
+   "coll": "RETAIL",
+   "name": "Trapani",
+   "tipo": "set cartellini prezzo da vetrina",
+   "tipo_en": "price tag display set",
+   "concept": "Cartellini a pinza e da appoggio con area scrivibile riscrivibile, coordinati col resto del negozio.",
+   "target": "Negozi, gastronomie, mercati, banchi.",
+   "desire": "Prezzi leggibili e coordinati invece dei cartoncini scritti a pennarello.",
+   "usp": "Superficie trattata riscrivibile: il negozio cambia i prezzi ogni giorno senza ricomprare nulla.",
+   "diff": "Venduti in set da 12 con supporto, non a pezzo singolo.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    72,
+    48,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 420,
+   "vec_mm": 260,
+   "eng_cm2": 6,
+   "uv_cm2": 30,
+   "uv_white": true,
+   "comp": {},
+   "pack": "scatola_s",
+   "lotto": 60,
+   "mkt": [
+    10,
+    35
+   ],
+   "person": [
+    "logo",
+    "colore brand",
+    "formato"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-RET-099 espositore",
+    "ING-B2B-RET-100 porta depliant",
+    "ING-B2B-RET-101 insegna"
+   ],
+   "bundle": [
+    "SET NEGOZIO",
+    "SET VETRINA: 12 cartellini + espositore"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "cartellini prezzo legno",
+    "segnaprezzo negozio",
+    "cartellini vetrina personalizzati",
+    "price tags wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 8,
+   "s_gift": 2,
+   "s_uniq": 7,
+   "prompt_prod": "Cartellini betulla 4 mm 72x48 con testa ad arco R12. Area scrivibile 56x24 con UV WHITE opaco riscrivibile a pennarello cancellabile. Area logo 24x8 ENGRAVE-V. Due varianti: con foro Ø4 per pinza e con dente per base P2. Set da 12 + supporto verticale a incastro. Nesting: 60 pezzi/foglio, riempitivo ideale.",
+   "prompt_img": "a set of twelve small wooden price tags 72x48 mm with arched tops and matte writable panels, some clipped to jars and some standing in a slotted holder, engraved shop logo on each, on a delicatessen counter"
+  },
+  {
+   "id": "ING-B2B-OFF-103",
+   "cat": "B2B",
+   "coll": "UFFICIO",
+   "name": "Ortigia",
+   "tipo": "porta biglietti da visita da banco",
+   "tipo_en": "business card holder",
+   "concept": "Supporto inclinato che presenta i biglietti in ventaglio invece che impilati.",
+   "target": "Professionisti, negozi, studi, fiere.",
+   "desire": "Far prendere il biglietto a chi passa, invece di lasciarlo in una pila che nessuno tocca.",
+   "usp": "Prodotto civetta perfetto: costa poco, entra facilmente in azienda e apre la strada al resto del catalogo.",
+   "diff": "Il ventaglio inclinato aumenta il prelievo rispetto alla pila orizzontale.",
+   "platform": "P4",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2",
+   "dim": [
+    96,
+    72,
+    60
+   ],
+   "layers": 1,
+   "cut_mm": 800,
+   "vec_mm": 320,
+   "eng_cm2": 12,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "scatola_s",
+   "lotto": 40,
+   "mkt": [
+    12,
+    35
+   ],
+   "person": [
+    "logo",
+    "nome",
+    "frase"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-OFF-104 desk sign",
+    "ING-B2B-RET-100 porta depliant",
+    "ING-HOME-ORG-010 portapenne"
+   ],
+   "bundle": [
+    "IDENTITA AZIENDALE",
+    "ONBOARDING: desk sign + porta biglietti + portapenne"
+   ],
+   "ref": "https://www.etsy.com/market/table_menu_holder",
+   "kw": [
+    "porta biglietti da visita legno",
+    "portabiglietti da banco",
+    "porta business card",
+    "business card holder wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 8,
+   "s_gift": 5,
+   "s_uniq": 7,
+   "prompt_prod": "Base betulla 6 mm 96x72 con canale inclinato 15 gradi profondo 20 mm per biglietti 85x55. Fronte basso 24 mm perche' il biglietto resti visibile. Fianchi ad arco R12. Area logo 40x12 ENGRAVE-V sul fronte. Gommini.",
+   "prompt_img": "a small wooden business card holder 96x72x60 mm on a reception desk, cards fanned forward in an inclined channel, arched side profiles, engraved logo on the low front, soft office light"
+  },
+  {
+   "id": "ING-B2B-OFF-104",
+   "cat": "B2B",
+   "coll": "UFFICIO",
+   "name": "Segesta",
+   "tipo": "desk sign nome e ruolo",
+   "tipo_en": "desk name plate",
+   "concept": "Targa da scrivania bifacciale con nome inciso sul legno e ruolo su placchetta metallica sostituibile.",
+   "target": "Uffici, studi, reception, coworking.",
+   "desire": "Targhe uguali per tutto il team, aggiornabili quando qualcuno cambia ruolo.",
+   "usp": "La placchetta del ruolo si sostituisce senza rifare la targa: il cliente torna per i ricambi.",
+   "diff": "Progettata per un'organizzazione che cambia, non per una persona sola.",
+   "platform": "P6",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    204,
+    60,
+    48
+   ],
+   "layers": 1,
+   "cut_mm": 900,
+   "vec_mm": 500,
+   "eng_cm2": 16,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_inox": 1,
+    "gommini": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 25,
+   "mkt": [
+    18,
+    60
+   ],
+   "person": [
+    "nome",
+    "ruolo",
+    "logo",
+    "colore brand"
+   ],
+   "tags": [
+    "B2B",
+    "PERSONALIZZABILE",
+    "BUNDLE",
+    "FAST SELLER"
+   ],
+   "upsell": [
+    "ING-B2B-OFF-103 porta biglietti",
+    "ING-HOME-ORG-009 organizer",
+    "ING-B2B-GIFT-108 kit onboarding"
+   ],
+   "bundle": [
+    "ONBOARDING",
+    "IDENTITA AZIENDALE",
+    "SET UFFICIO x10"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "targa scrivania nome",
+    "desk sign personalizzato",
+    "targhetta ufficio legno",
+    "desk name plate"
+   ],
+   "s_demand": 14,
+   "s_comp": 9,
+   "s_person": 10,
+   "s_gift": 6,
+   "s_uniq": 7,
+   "prompt_prod": "Prisma betulla 8 mm 204x60x48, tre lastre a incastro 45 gradi (fronte, retro, base). Nome ENGRAVE-V h 12 mm su entrambe le facce. Sede 20x40 per placchetta inox MOPA col ruolo, tenuta da due linguette: SOSTITUIBILE senza attrezzi. Area logo 30x10. Gommini.",
+   "prompt_img": "a wooden desk name plate 204x60x48 mm on an office desk, engraved name on the front face, small brushed steel plate below marked with a job title, birch with clean laser edges, blurred office behind"
+  },
+  {
+   "id": "ING-B2B-OFF-106",
+   "cat": "B2B",
+   "coll": "UFFICIO",
+   "name": "Palermo",
+   "tipo": "targa professionale da porta",
+   "tipo_en": "professional door plate",
+   "concept": "Targa da esterno porta con nome, professione e numero di albo, in acrilico per resistere agli agenti atmosferici.",
+   "target": "Avvocati, medici, commercialisti, architetti, studi associati.",
+   "desire": "Una targa professionale che non sia l'ottone lucido di quarant'anni fa.",
+   "usp": "Microsegmento con capacita' di spesa alta, standard estetico fermo da decenni e nessuna concorrenza di design.",
+   "diff": "Acrilico e metallo invece dell'ottone tradizionale: contemporaneo ma ancora formale.",
+   "platform": "P6",
+   "mat": [
+    "acrilico5"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    240,
+    180,
+    5
+   ],
+   "layers": 1,
+   "cut_mm": 900,
+   "vec_mm": 700,
+   "eng_cm2": 0,
+   "mopa_cm2": 24,
+   "comp": {
+    "targhetta_inox": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 15,
+   "mkt": [
+    40,
+    150
+   ],
+   "person": [
+    "nome",
+    "professione",
+    "albo",
+    "logo"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-B2B-OFF-104 desk sign",
+    "ING-B2B-OFF-103 porta biglietti",
+    "ING-B2B-RET-101 insegna"
+   ],
+   "bundle": [
+    "IDENTITA STUDIO: targa porta + desk sign + porta biglietti"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "targa studio professionale",
+    "targa avvocato",
+    "targa medico personalizzata",
+    "professional door sign"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 2,
+   "s_uniq": 9,
+   "prompt_prod": "Acrilico colato 5 mm 240x180, bordi lucidi a vista. Placchetta inox 200x140 MOPA con nome, professione e albo, applicata a filo sul fronte con biadesivo strutturale 0,2 mm. Quattro distanziali cromati agli angoli, fori Ø6 (+0,3 su acrilico). NESSUN LEGNO: sta all'esterno.",
+   "prompt_img": "a professional door plate 240x180 mm in clear acrylic with polished edges, an inset brushed steel panel fiber-marked with a name and profession, mounted on four chrome standoffs beside a dark office door"
+  },
+  {
+   "id": "ING-B2B-AWD-107",
+   "cat": "B2B",
+   "coll": "PREMI",
+   "name": "Concordia",
+   "tipo": "trofeo aziendale a strati",
+   "tipo_en": "corporate award trophy",
+   "concept": "Trofeo verticale a tre strati con colonna ad archi e placchetta metallica per la dedica.",
+   "target": "Aziende, HR, eventi, associazioni sportive.",
+   "desire": "Un premio che il vincitore tenga sulla scrivania invece che in un cassetto.",
+   "usp": "Il mercato dei premi e' dominato dal cristallo anonimo importato: il legno con metallo e' immediatamente distintivo.",
+   "diff": "Ricorrenza annuale garantita con budget dedicato, e quasi nessuna concorrenza artigianale.",
+   "platform": "P5",
+   "mat": [
+    "betulla8",
+    "acrilico5"
+   ],
+   "quota_mat": {
+    "acrilico5": 0.5
+   },
+   "tech": "CO2+MOPA",
+   "dim": [
+    132,
+    264,
+    60
+   ],
+   "layers": 3,
+   "cut_mm": 2000,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "mopa_cm2": 12,
+   "comp": {
+    "targhetta_ottone": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 15,
+   "mkt": [
+    35,
+    150
+   ],
+   "person": [
+    "nome",
+    "dedica",
+    "anno",
+    "logo azienda"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "LIMITED EDITION"
+   ],
+   "upsell": [
+    "ING-B2B-OFF-104 desk sign",
+    "ING-B2B-GIFT-108 kit onboarding",
+    "ING-B2B-RET-101 insegna"
+   ],
+   "bundle": [
+    "PREMIAZIONE: 10 trofei + 30 medaglie",
+    "EVENTO AZIENDALE"
+   ],
+   "ref": "https://gemarparma.it/trend-2026-nel-merchandising-aziendale/",
+   "kw": [
+    "trofeo aziendale legno",
+    "premio personalizzato",
+    "targa premiazione",
+    "corporate award wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Base betulla 8 mm 132x60 con asola. Colonna verticale a due strati: betulla 8 mm 132x264 traforata ad archi R12 + acrilico 5 mm satinato distanziato 4 mm dietro. Placchetta ottone 20x40 MOPA con dedica, incassata sulla base. Perni Ø3 asimmetrici. Verifica stabilita': baricentro entro il perimetro della base.",
+   "prompt_img": "a corporate award trophy 132x264 mm standing on a desk, birch column with arched fretwork over a frosted acrylic layer, polished brass plate on the base fiber-marked with a dedication, warm directional light, dark background"
+  },
+  {
+   "id": "ING-B2B-AWD-109",
+   "cat": "B2B",
+   "coll": "PREMI",
+   "name": "Medaglia Ingly",
+   "tipo": "placca riconoscimento da parete",
+   "tipo_en": "recognition wall plaque",
+   "concept": "Placca circolare a due strati con corona ad archi e disco metallico marcato al centro.",
+   "target": "Aziende, scuole, associazioni, enti.",
+   "desire": "Riconoscere un traguardo con qualcosa da appendere in ufficio.",
+   "usp": "Prodotto ad alto volume nelle premiazioni: si ordina a decine, non a pezzo singolo.",
+   "diff": "Formato circolare a strati invece della solita placca rettangolare in laminato.",
+   "platform": "P6",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+MOPA",
+   "dim": [
+    204,
+    204,
+    12
+   ],
+   "layers": 2,
+   "cut_mm": 1800,
+   "vec_mm": 600,
+   "eng_cm2": 30,
+   "mopa_cm2": 20,
+   "comp": {
+    "targhetta_inox": 1,
+    "gancio": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 25,
+   "mkt": [
+    25,
+    90
+   ],
+   "person": [
+    "nome",
+    "dedica",
+    "anno",
+    "logo"
+   ],
+   "tags": [
+    "B2B",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-AWD-107 trofeo",
+    "ING-B2B-OFF-104 desk sign",
+    "ING-B2B-GIFT-110 portachiavi brandizzato"
+   ],
+   "bundle": [
+    "PREMIAZIONE",
+    "EVENTO AZIENDALE"
+   ],
+   "ref": "https://gemarparma.it/trend-2026-nel-merchandising-aziendale/",
+   "kw": [
+    "placca riconoscimento",
+    "targa premio parete",
+    "placca commemorativa legno",
+    "recognition plaque"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 7,
+   "s_uniq": 8,
+   "prompt_prod": "Disco betulla 6 mm Ø204 di fondo. Corona betulla 4 mm Ø204/Ø132 traforata ad archi R12, distanziata 3 mm. Disco inox Ø120 MOPA con dedica, incassato al centro. ENGRAVE-V filo perimetrale. Aggancio a fessura sul retro.",
+   "prompt_img": "a circular recognition plaque 204 mm across, birch outer ring with arched fretwork over a solid base, a brushed steel disc fiber-marked with a dedication at the centre, hanging on an office wall"
+  },
+  {
+   "id": "ING-B2B-HOSP-111",
+   "cat": "B2B",
+   "coll": "HOSPITALITY",
+   "name": "Benvenuto",
+   "tipo": "welcome sign per struttura ricettiva",
+   "tipo_en": "hospitality welcome sign",
+   "concept": "Pannello di benvenuto con nome della struttura traforato e pannello colorato dietro.",
+   "target": "Hotel, B&B, case vacanza, agriturismi.",
+   "desire": "Accogliere l'ospite con qualcosa di piu' di un foglio plastificato.",
+   "usp": "E' il primo oggetto che l'ospite fotografa: lavora come marketing per la struttura.",
+   "diff": "Venduto come apertura del kit hospitality completo, che nessuno propone.",
+   "platform": "P5",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.8
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    400,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 2600,
+   "vec_mm": 900,
+   "eng_cm2": 40,
+   "uv_cm2": 400,
+   "uv_white": true,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 10,
+   "mkt": [
+    50,
+    180
+   ],
+   "person": [
+    "nome struttura",
+    "logo",
+    "colore brand",
+    "frase"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-HOSP-112 numero camera",
+    "ING-B2B-HOSP-115 QR wifi",
+    "ING-B2B-HOSP-117 vassoio benvenuto"
+   ],
+   "bundle": [
+    "KIT B&B COMPLETO",
+    "ACCOGLIENZA: welcome sign + QR wifi + vassoio"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "welcome sign bb",
+    "insegna benvenuto struttura",
+    "cartello benvenuto legno",
+    "hospitality welcome sign"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 10,
+   "s_gift": 4,
+   "s_uniq": 8,
+   "prompt_prod": "Fondo betulla 8 mm 300x400 con UV PRINT nel colore della struttura. Strato frontale betulla 4 mm distanziato 4 mm, nome della struttura CUT traforato (h min 20 mm, ponticelli 2,5 mm). Testa ad arco R12. ENGRAVE-V filo perimetrale. Aggancio a 2 punti.",
+   "prompt_img": "a welcome sign 300x400 mm hanging in a bed and breakfast entrance, birch front layer with the property name cut through revealing a warm terracotta panel behind, arched top, engraved border, sunlit stone wall"
+  },
+  {
+   "id": "ING-B2B-HOSP-112",
+   "cat": "B2B",
+   "coll": "HOSPITALITY",
+   "name": "Camera",
+   "tipo": "numero camera da porta",
+   "tipo_en": "room number plate",
+   "concept": "Numero di camera a due strati con cifra traforata, in acrilico per le strutture al mare.",
+   "target": "Hotel, B&B, case vacanza, affittacamere.",
+   "desire": "Numerare le camere in modo coordinato con il resto della struttura.",
+   "usp": "Ordine per lotto garantito: una struttura da 12 camere compra 12 pezzi in un colpo solo.",
+   "diff": "Materiale scelto in base all'ambiente: acrilico dove c'e' salsedine, legno all'interno.",
+   "platform": "P1",
+   "mat": [
+    "betulla6",
+    "betulla3"
+   ],
+   "quota_mat": {
+    "betulla3": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    100,
+    150,
+    9
+   ],
+   "layers": 2,
+   "cut_mm": 1000,
+   "vec_mm": 420,
+   "eng_cm2": 10,
+   "uv_cm2": 70,
+   "uv_white": true,
+   "comp": {},
+   "pack": "sfuso_b2b",
+   "lotto": 30,
+   "mkt": [
+    12,
+    60
+   ],
+   "person": [
+    "numero",
+    "nome camera",
+    "logo",
+    "colore brand"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-HOSP-113 targa nome camera",
+    "ING-B2B-HOSP-114 non disturbare",
+    "ING-B2B-HOSP-116 segnaletica"
+   ],
+   "bundle": [
+    "KIT B&B COMPLETO",
+    "KIT CAMERE: numero + targa + non disturbare x12"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "numero camera hotel",
+    "targa numero camera",
+    "numeri camere bb",
+    "room number sign"
+   ],
+   "s_demand": 16,
+   "s_comp": 8,
+   "s_person": 9,
+   "s_gift": 3,
+   "s_uniq": 7,
+   "prompt_prod": "Lastra betulla 6 mm 100x150 (o acrilico 5 mm per strutture al mare). Cifra CUT traforata h 60 mm. Pannello betulla 3 mm UV a colore brand dietro. Testa ad arco R12. Retro con area 60x100 per biadesivo strutturale. ENGRAVE-V filo perimetrale.",
+   "prompt_img": "a hotel room number plate 100x150 mm mounted on a panelled door, birch with the numeral cut straight through revealing a deep teal panel behind, arched top, engraved border line, warm corridor light"
+  },
+  {
+   "id": "ING-B2B-HOSP-113",
+   "cat": "B2B",
+   "coll": "HOSPITALITY",
+   "name": "Nome Camera",
+   "tipo": "targa nome camera tematica",
+   "tipo_en": "named room plate",
+   "concept": "Targa con nome tematico invece del numero, con piccola illustrazione geometrica del tema.",
+   "target": "B&B, agriturismi, boutique hotel.",
+   "desire": "Dare carattere alle camere senza ristrutturare niente.",
+   "usp": "Alza il livello percepito della struttura a costo bassissimo: nomi al posto di numeri.",
+   "diff": "Ogni camera ha una sua icona geometrica, non solo un nome diverso in stampatello.",
+   "platform": "P1",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    150,
+    80,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 700,
+   "vec_mm": 500,
+   "eng_cm2": 18,
+   "uv_cm2": 50,
+   "comp": {},
+   "pack": "sfuso_b2b",
+   "lotto": 30,
+   "mkt": [
+    12,
+    50
+   ],
+   "person": [
+    "nome camera",
+    "icona",
+    "logo",
+    "colore"
+   ],
+   "tags": [
+    "B2B",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-HOSP-112 numero camera",
+    "ING-B2B-HOSP-114 non disturbare",
+    "ING-B2B-HOSP-111 welcome sign"
+   ],
+   "bundle": [
+    "KIT CAMERE",
+    "KIT B&B COMPLETO"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "targa nome camera",
+    "nomi camere bb",
+    "targhe camere agriturismo",
+    "named room sign"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 10,
+   "s_gift": 3,
+   "s_uniq": 8,
+   "prompt_prod": "Lastra betulla 6 mm 150x80 con estremita' ad arco R12. Nome ENGRAVE-V h 14 mm. Icona geometrica ENGRAVE-R 24x24 a sinistra, costruita con archi R12 (limone, onda, cupola, sole, fico d'india, ulivo: sei icone di serie). Fascia UV colore sotto il nome. Biadesivo strutturale sul retro.",
+   "prompt_img": "a named room plate 150x80 mm on a guest room door, birch with an engraved room name and a small geometric lemon icon beside it, a band of colour below, arched ends, sunlit corridor"
+  },
+  {
+   "id": "ING-B2B-HOSP-114",
+   "cat": "B2B",
+   "coll": "HOSPITALITY",
+   "name": "Quiete",
+   "tipo": "cartello non disturbare bifacciale",
+   "tipo_en": "do not disturb hanger",
+   "concept": "Appendino da maniglia con due messaggi sulle due facce, non disturbare e rifare la camera.",
+   "target": "Hotel, B&B, case vacanza.",
+   "desire": "Sostituire il cartoncino plastificato che si accartoccia dopo una settimana.",
+   "usp": "Due funzioni in un pezzo solo, e dura tutta la stagione invece che una settimana.",
+   "diff": "In legno invece che in cartoncino: il costo per stagione e' piu' basso nonostante il prezzo piu' alto.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    80,
+    200,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 640,
+   "vec_mm": 420,
+   "eng_cm2": 14,
+   "uv_cm2": 60,
+   "uv_white": true,
+   "comp": {},
+   "pack": "sfuso_b2b",
+   "lotto": 40,
+   "mkt": [
+    8,
+    30
+   ],
+   "person": [
+    "logo",
+    "testo",
+    "lingua",
+    "colore brand"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-HOSP-112 numero camera",
+    "ING-B2B-HOSP-115 QR wifi",
+    "ING-B2B-HOSP-113 nome camera"
+   ],
+   "bundle": [
+    "KIT CAMERE",
+    "KIT B&B COMPLETO"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "cartello non disturbare",
+    "do not disturb legno",
+    "appendino maniglia hotel",
+    "do not disturb sign wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 8,
+   "s_gift": 3,
+   "s_uniq": 7,
+   "prompt_prod": "Lastra betulla 4 mm 80x200 con foro a goccia superiore (Ø32 con imbocco 16 mm) per maniglie standard. Faccia A UV rossa NON DISTURBARE, faccia B UV verde RIFARE LA CAMERA, bilingue IT/EN. Testa ad arco R12. Area logo 40x12 su entrambe le facce. Spigoli smussati: si maneggia di continuo.",
+   "prompt_img": "a wooden do not disturb hanger 80x200 mm hanging from a hotel room door handle, teardrop hole at the top, printed red message on the visible face, arched top, engraved logo, warm corridor light"
+  },
+  {
+   "id": "ING-B2B-HOSP-115",
+   "cat": "B2B",
+   "coll": "HOSPITALITY",
+   "name": "Rete",
+   "tipo": "QR wifi da camera",
+   "tipo_en": "wifi QR stand",
+   "concept": "Espositore da comodino col QR della rete e, sotto, nome e password incisi per chi non usa il codice.",
+   "target": "Hotel, B&B, case vacanza, ristoranti.",
+   "desire": "Smettere di dettare la password del wifi a ogni ospite.",
+   "usp": "Doppia modalita', QR e testo: risolve anche per gli ospiti meno digitali, che sono la meta'.",
+   "diff": "Quasi tutti i QR wifi in commercio hanno solo il codice e lasciano a piedi chi non lo sa usare.",
+   "platform": "P2",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    80,
+    100,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 720,
+   "vec_mm": 460,
+   "eng_cm2": 20,
+   "uv_cm2": 35,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 30,
+   "mkt": [
+    10,
+    40
+   ],
+   "person": [
+    "QR",
+    "SSID",
+    "password",
+    "logo"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-HOSP-112 numero camera",
+    "ING-B2B-HOSP-117 vassoio benvenuto",
+    "ING-B2B-REST-092 porta QR menu"
+   ],
+   "bundle": [
+    "KIT CAMERE",
+    "KIT B&B COMPLETO",
+    "ACCOGLIENZA"
+   ],
+   "ref": "https://www.etsy.com/market/wooden_menu_holder",
+   "kw": [
+    "qr wifi legno",
+    "cartello password wifi",
+    "wifi qr code stand",
+    "targa wifi bb"
+   ],
+   "s_demand": 15,
+   "s_comp": 9,
+   "s_person": 9,
+   "s_gift": 3,
+   "s_uniq": 8,
+   "prompt_prod": "Lastra betulla 6 mm 80x100 su base P2 96x36. Area QR 40x40 ENGRAVE-R su fondo liscio, nessun pattern. Sotto, SSID e password ENGRAVE-V h 5 mm. Testa ad arco R12 con area logo. Test di scansione in QC. Gommini sotto la base.",
+   "prompt_img": "a small wifi QR stand 80x100 mm on a bedside table in a guest room, birch plate with a crisp QR code above and engraved network name and password below, arched top, soft morning light"
+  },
+  {
+   "id": "ING-B2B-HOSP-116",
+   "cat": "B2B",
+   "coll": "HOSPITALITY",
+   "name": "Direzione",
+   "tipo": "segnaletica direzionale modulare",
+   "tipo_en": "modular wayfinding sign",
+   "concept": "Sistema di frecce e targhe su un unico telaio, componibile per indicare piu' destinazioni.",
+   "target": "Hotel, agriturismi, strutture con piu' edifici, uffici.",
+   "desire": "Indirizzare gli ospiti senza cartelli scritti a mano.",
+   "usp": "Un solo telaio e pannelli intercambiabili: si aggiunge una destinazione senza rifare niente.",
+   "diff": "E' un sistema di segnaletica, non un cartello: si vende sempre in quantita'.",
+   "platform": "P1",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    204,
+    60,
+    8
+   ],
+   "layers": 1,
+   "cut_mm": 760,
+   "vec_mm": 420,
+   "eng_cm2": 14,
+   "uv_cm2": 60,
+   "comp": {},
+   "pack": "sfuso_b2b",
+   "lotto": 40,
+   "mkt": [
+    15,
+    45
+   ],
+   "person": [
+    "destinazione",
+    "direzione",
+    "logo",
+    "colore"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-HOSP-112 numero camera",
+    "ING-B2B-REST-095 targa bagno",
+    "ING-B2B-HOSP-111 welcome sign"
+   ],
+   "bundle": [
+    "KIT SEGNALETICA",
+    "KIT B&B COMPLETO"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "segnaletica direzionale legno",
+    "frecce direzionali hotel",
+    "cartelli indicazioni struttura",
+    "wayfinding sign wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 9,
+   "s_gift": 2,
+   "s_uniq": 8,
+   "prompt_prod": "Lastra betulla 8 mm 204x60 con estremita' a freccia (una delle due, speculare per SKU sinistra/destra). Testo ENGRAVE-V h 12 mm. Fascia UV colore in coda. Due fori Ø5 su interasse 168 mm per montaggio impilato su un palo o una parete. Nesting a coppie speculari: scarto minimo.",
+   "prompt_img": "three stacked wooden directional signs 204x60 mm on a post, arrow-shaped ends pointing different ways, engraved destination names, coloured band on each, in an agriturismo courtyard with olive trees"
+  },
+  {
+   "id": "ING-B2B-HOSP-117",
+   "cat": "B2B",
+   "coll": "HOSPITALITY",
+   "name": "Accoglienza",
+   "tipo": "vassoio di benvenuto con mappa",
+   "tipo_en": "welcome tray with local map",
+   "concept": "Vassoio da camera con il fondo stampato con la mappa dei dintorni e i punti d'interesse a piedi.",
+   "target": "B&B, case vacanza, boutique hotel.",
+   "desire": "Dare all'ospite qualcosa di utile che parli del posto.",
+   "usp": "E' il pezzo che gli ospiti fotografano e postano: fa marketing per la struttura mentre serve la colazione.",
+   "diff": "Il vassoio e' anche informazione: nessuno stampa la mappa dei dintorni sul fondo.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    204,
+    24
+   ],
+   "layers": 1,
+   "cut_mm": 1900,
+   "vec_mm": 800,
+   "eng_cm2": 0,
+   "uv_cm2": 620,
+   "uv_white": true,
+   "uv_gloss_cm2": 200,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 15,
+   "mkt": [
+    35,
+    110
+   ],
+   "person": [
+    "mappa",
+    "logo",
+    "nome struttura",
+    "punti interesse"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-HOSP-115 QR wifi",
+    "ING-B2B-HOSP-111 welcome sign",
+    "ING-SICILY-SOUV-271 souvenir ospite"
+   ],
+   "bundle": [
+    "ACCOGLIENZA",
+    "KIT B&B COMPLETO"
+   ],
+   "ref": "https://www.outfy.com/blog/top-selling-etsy-home-decor-trends/",
+   "kw": [
+    "vassoio benvenuto bb",
+    "vassoio colazione personalizzato",
+    "vassoio mappa locale",
+    "welcome tray hotel"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 5,
+   "s_uniq": 10,
+   "prompt_prod": "Fondo betulla 6 mm 300x204: UV WHITE + UV PRINT mappa stilizzata dei dintorni con punti d'interesse numerati + UV GLOSS sui soli percorsi. Quattro sponde h 24 mm a incastro 45 gradi, maniglie ad arco R12 sulle corte. Legenda ENGRAVE-V sul bordo interno. Gommini.",
+   "prompt_img": "a wooden welcome tray 300x204 mm with arched handles, base UV-printed with a stylised local map showing numbered points of interest and glossy walking routes, holding a coffee pot and pastries, on a bed and breakfast table"
+  },
+  {
+   "id": "ING-B2B-HOSP-118",
+   "cat": "B2B",
+   "coll": "HOSPITALITY",
+   "name": "Chiavi",
+   "tipo": "rack porta chiavi da reception",
+   "tipo_en": "reception key rack",
+   "concept": "Pannello a parete con ganci numerati allineati sul passo della griglia, uno per camera.",
+   "target": "B&B, affittacamere, agriturismi, palestre.",
+   "desire": "Sapere a colpo d'occhio quali camere sono occupate.",
+   "usp": "Il numero inciso sotto ogni gancio rende immediato il controllo delle presenze.",
+   "diff": "Configurabile sul numero reale di camere: 6, 12 o 18 posizioni sulla stessa matrice.",
+   "platform": "P1",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    156,
+    8
+   ],
+   "layers": 1,
+   "cut_mm": 1100,
+   "vec_mm": 700,
+   "eng_cm2": 26,
+   "uv_cm2": 80,
+   "comp": {
+    "gancio": 12
+   },
+   "pack": "scatola_m",
+   "lotto": 15,
+   "mkt": [
+    35,
+    110
+   ],
+   "person": [
+    "numeri",
+    "nomi camere",
+    "logo",
+    "numero posizioni"
+   ],
+   "tags": [
+    "B2B",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-HOSP-112 numero camera",
+    "ING-B2B-HOSP-111 welcome sign",
+    "ING-B2B-HOSP-116 segnaletica"
+   ],
+   "bundle": [
+    "KIT B&B COMPLETO",
+    "RECEPTION: rack + welcome sign + porta depliant"
+   ],
+   "ref": "https://www.etsy.com/market/lasercut_wall_decor",
+   "kw": [
+    "porta chiavi reception",
+    "rack chiavi hotel",
+    "bacheca chiavi bb",
+    "key rack hotel"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 2,
+   "s_uniq": 8,
+   "prompt_prod": "Pannello betulla 8 mm 300x156, testa ad arco R12. Ganci su griglia 48x48 mm: 6 (2x3), 12 (4x3) o 18 (6x3) come SKU distinti sulla stessa matrice. Numero ENGRAVE-V h 8 mm sotto ogni gancio. Fascia UV colore in testa con nome struttura. Aggancio a 2 punti.",
+   "prompt_img": "a wall-mounted key rack 300x156 mm in birch behind a small reception desk, twelve hooks in a grid with engraved room numbers beneath each, coloured band with the property name at the top, some keys hanging"
+  },
+  {
+   "id": "ING-B2B-GIFT-119",
+   "cat": "B2B",
+   "coll": "REGALO AZIENDALE",
+   "name": "Onboarding",
+   "tipo": "kit di benvenuto per nuovi assunti",
+   "tipo_en": "employee onboarding kit",
+   "concept": "Scatola con desk sign personalizzato, porta biglietti, portapenne e portachiavi, tutti col nome della persona.",
+   "target": "Aziende con assunzioni ricorrenti, HR, startup.",
+   "desire": "Far sentire atteso chi arriva il primo giorno.",
+   "usp": "Ricorrenza automatica: ogni assunzione genera un ordine, senza bisogno di rivendere niente.",
+   "diff": "Nessuno vende l'onboarding come prodotto confezionato: si vendono i pezzi sciolti.",
+   "platform": "P3",
+   "mat": [
+    "betulla6",
+    "betulla8"
+   ],
+   "quota_mat": {
+    "betulla8": 0.4
+   },
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    300,
+    204,
+    90
+   ],
+   "layers": 1,
+   "cut_mm": 3600,
+   "vec_mm": 1600,
+   "eng_cm2": 60,
+   "uv_cm2": 220,
+   "uv_white": true,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_inox": 1,
+    "anello_pck": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 20,
+   "mkt": [
+    45,
+    160
+   ],
+   "person": [
+    "nome",
+    "ruolo",
+    "logo",
+    "colore brand"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-OFF-104 desk sign",
+    "ING-B2B-AWD-107 trofeo",
+    "ING-B2B-GIFT-120 portachiavi brandizzato"
+   ],
+   "bundle": [
+    "ONBOARDING x10",
+    "IDENTITA AZIENDALE"
+   ],
+   "ref": "https://www.giftcampaign.it/blog/tendenze-gadget-italia/",
+   "kw": [
+    "kit benvenuto dipendenti",
+    "welcome kit aziendale",
+    "regalo nuovo assunto",
+    "employee onboarding kit"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Scatola betulla 6 mm 300x204x90 con interno sagomato in feltro. Contenuto: desk sign P6 204x60 con placchetta MOPA, porta biglietti P4, portapenne P3 96x96, portachiavi P1 40x60. Tutti col nome della persona e il logo aziendale. Coperchio con finestra ad arco R12. Ordine minimo 5 kit.",
+   "prompt_img": "an open wooden onboarding gift box 300x204 mm with a shaped felt interior holding a personalised desk name plate, a business card holder, a pen cup and a keyring, all in birch with a company logo, on an office desk"
+  },
+  {
+   "id": "ING-B2B-GIFT-120",
+   "cat": "B2B",
+   "coll": "REGALO AZIENDALE",
+   "name": "Gadget Ingly",
+   "tipo": "portachiavi aziendale brandizzato",
+   "tipo_en": "branded corporate keyring",
+   "concept": "Portachiavi in legno con placchetta metallica marcata, per ordini aziendali da 50 a 500 pezzi.",
+   "target": "Aziende, fiere, eventi, congressi.",
+   "desire": "Un gadget che il cliente tenga davvero, invece della penna che si perde.",
+   "usp": "Il mercato del merchandising chiede progetti su misura e materiali naturali: e' esattamente questo.",
+   "diff": "Legno e metallo veri contro il gadget in plastica anonimo da catalogo.",
+   "platform": "P6",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    40,
+    60,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 260,
+   "vec_mm": 180,
+   "eng_cm2": 5,
+   "mopa_cm2": 6,
+   "comp": {
+    "anello_pck": 1,
+    "targhetta_inox": 1
+   },
+   "pack": "busta",
+   "lotto": 100,
+   "mkt": [
+    3,
+    15
+   ],
+   "person": [
+    "logo",
+    "nome azienda",
+    "numerazione"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-B2B-GIFT-119 kit onboarding",
+    "ING-B2B-OFF-103 porta biglietti",
+    "ING-B2B-AWD-109 placca"
+   ],
+   "bundle": [
+    "FIERA: 200 portachiavi + espositore",
+    "ONBOARDING"
+   ],
+   "ref": "https://www.giftcampaign.it/regali-impresa-originali.html",
+   "kw": [
+    "portachiavi aziendale personalizzato",
+    "gadget aziendale legno",
+    "portachiavi logo azienda",
+    "branded keyring wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 7,
+   "s_person": 9,
+   "s_gift": 7,
+   "s_uniq": 6,
+   "prompt_prod": "Lastra betulla 6 mm 40x60 con testa ad arco R12 e foro Ø5 per anello. Sede 20x40 per placchetta inox MOPA col logo. ENGRAVE-V filo perimetrale. Lotto minimo 100 pezzi, nesting 180 pezzi/foglio: e' il riempitivo dei fogli di tutti gli altri prodotti B2B.",
+   "prompt_img": "a wooden keyring 40x60 mm with an inset brushed steel plate fiber-marked with a company logo, arched top, split ring attached, several of them arranged in a row on a dark surface"
+  },
+  {
+   "id": "ING-B2B-AWD-121",
+   "cat": "B2B",
+   "coll": "PREMI",
+   "name": "Fondazione",
+   "tipo": "targa inaugurazione e anniversario aziendale",
+   "tipo_en": "company anniversary plaque",
+   "concept": "Targa commemorativa con anno di fondazione traforato e placca in ottone per la dedica.",
+   "target": "Aziende storiche, comuni, associazioni, negozi.",
+   "desire": "Segnare un anniversario con qualcosa che resti alla parete per anni.",
+   "usp": "Vendibile anche a comuni e pro loco: canale pubblico che nessun laboratorio laser presidia.",
+   "diff": "L'ottone marcato al fiber invecchia bene e da' l'aria istituzionale che la ricorrenza richiede.",
+   "platform": "P6",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.8
+   },
+   "tech": "CO2+MOPA",
+   "dim": [
+    240,
+    300,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 2200,
+   "vec_mm": 800,
+   "eng_cm2": 40,
+   "mopa_cm2": 24,
+   "comp": {
+    "targhetta_ottone": 1,
+    "gancio": 2
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 10,
+   "mkt": [
+    50,
+    200
+   ],
+   "person": [
+    "anno",
+    "dedica",
+    "logo",
+    "nome"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "LIMITED EDITION",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-B2B-AWD-107 trofeo",
+    "ING-B2B-RET-101 insegna",
+    "ING-B2B-AWD-109 placca"
+   ],
+   "bundle": [
+    "EVENTO AZIENDALE",
+    "PREMIAZIONE"
+   ],
+   "ref": "https://gemarparma.it/trend-2026-nel-merchandising-aziendale/",
+   "kw": [
+    "targa anniversario azienda",
+    "targa commemorativa legno",
+    "targa inaugurazione",
+    "company anniversary plaque"
+   ],
+   "s_demand": 11,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 7,
+   "s_uniq": 9,
+   "prompt_prod": "Fondo betulla 8 mm 240x300, testa ad arco R12. Strato frontale betulla 4 mm distanziato 4 mm con anno CUT traforato h 60 mm. Placca ottone 20x40 MOPA con la dedica, incassata in basso. ENGRAVE-V filo perimetrale. Aggancio a 2 punti. Numerazione progressiva se edizione celebrativa.",
+   "prompt_img": "a company anniversary plaque 240x300 mm on an office wall, birch front layer with the founding year cut through revealing a dark panel, a polished brass plate below with an engraved dedication, arched top, directional light"
+  },
+  {
+   "id": "ING-B2B-RET-122",
+   "cat": "B2B",
+   "coll": "RETAIL",
+   "name": "Regalo",
+   "tipo": "porta gift card da banco",
+   "tipo_en": "gift card holder",
+   "concept": "Espositore da cassa con tasca per la gift card e busta coordinata, per l'acquisto d'impulso all'ultimo momento.",
+   "target": "Negozi, parrucchieri, centri estetici, ristoranti.",
+   "desire": "Vendere gift card senza il cartoncino anonimo del circuito.",
+   "usp": "Sta in cassa nel momento esatto in cui il cliente decide: e' il punto di vendita a piu' alta conversione del negozio.",
+   "diff": "Il gift card holder di design praticamente non esiste: si usano espositori in plexiglass generici.",
+   "platform": "P4",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    120,
+    156,
+    84
+   ],
+   "layers": 1,
+   "cut_mm": 1300,
+   "vec_mm": 500,
+   "eng_cm2": 18,
+   "uv_cm2": 70,
+   "uv_white": true,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "busta",
+   "lotto": 25,
+   "mkt": [
+    15,
+    50
+   ],
+   "person": [
+    "logo",
+    "nome negozio",
+    "colore brand"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-RET-099 espositore",
+    "ING-B2B-RET-102 cartellini",
+    "ING-B2B-RET-100 porta depliant"
+   ],
+   "bundle": [
+    "SET NEGOZIO",
+    "CASSA: porta gift card + cartellini"
+   ],
+   "ref": "https://www.etsy.com/market/table_menu_holder",
+   "kw": [
+    "porta gift card negozio",
+    "espositore buoni regalo",
+    "porta card da banco",
+    "gift card holder wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 6,
+   "s_uniq": 9,
+   "prompt_prod": "Espositore betulla 6 mm 120x156x84, inclinazione 15 gradi. Tasca frontale per card 85x54 con apertura ad arco R12 per l'estrazione. Retro con scomparto per le buste. Area logo 60x18 in testa, fascia UV colore. Gommini.",
+   "prompt_img": "a wooden gift card holder 120x156 mm on a shop counter beside a till, inclined front pocket holding gift cards with an arched cut-out, coloured band and engraved shop logo at the top, warm retail lighting"
+  },
+  {
+   "id": "ING-B2B-REST-123",
+   "cat": "B2B",
+   "coll": "RISTORAZIONE",
+   "name": "Dehors",
+   "tipo": "numero tavolo da esterno in acrilico",
+   "tipo_en": "outdoor terrace table number",
+   "concept": "Numero per il plateatico in acrilico colato, che sole e pioggia non deformano.",
+   "target": "Ristoranti e bar con dehors, chioschi, stabilimenti.",
+   "desire": "Numerare i tavoli esterni senza che si rovinino in una stagione.",
+   "usp": "Materiale scelto per l'ambiente: il legno all'aperto si gonfia in una stagione e va rifatto.",
+   "diff": "Onesta' tecnica dichiarata a listino: dove il legno non va, non lo proponiamo.",
+   "platform": "P2",
+   "mat": [
+    "acrilico5"
+   ],
+   "tech": "CO2",
+   "dim": [
+    96,
+    144,
+    10
+   ],
+   "layers": 1,
+   "cut_mm": 1000,
+   "vec_mm": 300,
+   "eng_cm2": 0,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 30,
+   "mkt": [
+    10,
+    35
+   ],
+   "person": [
+    "numero",
+    "logo",
+    "colore"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-REST-091 numero tavolo interno",
+    "ING-B2B-REST-092 porta QR",
+    "ING-B2B-REST-097 targa riservato"
+   ],
+   "bundle": [
+    "SET SALA COMPLETO",
+    "SET DEHORS: 20 numeri esterni"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_table_numbers",
+   "kw": [
+    "numero tavolo esterno",
+    "numeri dehors plateatico",
+    "segnatavolo acrilico",
+    "outdoor table number"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 8,
+   "s_gift": 2,
+   "s_uniq": 8,
+   "prompt_prod": "Acrilico colato 5 mm 96x144, bordi lucidi a vista. Cifra CUT traforata h 60 mm. Secondo strato acrilico colorato 3 mm incollato dietro con adesivo per acrilico. Base P2 in acrilico 5 mm, asola 4,85. NESSUN LEGNO: esposizione a sole e pioggia. Fori +0,3 mm su acrilico.",
+   "prompt_img": "an outdoor terrace table number 96x144 mm in cast acrylic with polished cut edges, the numeral cut through revealing a turquoise layer behind, standing on a slotted base on an outdoor café table in bright Mediterranean sunlight"
+  },
+  {
+   "id": "ING-B2B-REST-124",
+   "cat": "B2B",
+   "coll": "RISTORAZIONE",
+   "name": "Buffet",
+   "tipo": "cartellini piatti e allergeni",
+   "tipo_en": "buffet dish and allergen labels",
+   "concept": "Cartellini da buffet con nome del piatto e icone allergeni incise, su piedino o a pinza.",
+   "target": "Hotel con colazione, catering, gastronomie, buffet.",
+   "desire": "Indicare piatti e allergeni in modo leggibile e a norma, senza fogli plastificati.",
+   "usp": "Le icone allergeni incise rispondono a un obbligo informativo reale: non e' decorazione, e' conformita'.",
+   "diff": "Prodotto normativo travestito da oggetto di design: doppia leva di vendita.",
+   "platform": "P2",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    60,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 640,
+   "vec_mm": 480,
+   "eng_cm2": 16,
+   "uv_cm2": 36,
+   "comp": {},
+   "pack": "sfuso_b2b",
+   "lotto": 50,
+   "mkt": [
+    6,
+    22
+   ],
+   "person": [
+    "nome piatto",
+    "allergeni",
+    "logo",
+    "lingua"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-REST-091 numero tavolo",
+    "ING-B2B-RET-102 cartellini prezzo",
+    "ING-B2B-HOSP-117 vassoio"
+   ],
+   "bundle": [
+    "SET BUFFET: 24 cartellini + supporto",
+    "KIT B&B COMPLETO"
+   ],
+   "ref": "https://www.etsy.com/market/restaurant_order_numbers",
+   "kw": [
+    "cartellini buffet allergeni",
+    "segnapiatti hotel",
+    "cartellini piatti legno",
+    "buffet labels wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 2,
+   "s_uniq": 9,
+   "prompt_prod": "Lastra betulla 6 mm 96x60 su base P2 ridotta 72x30. Nome piatto ENGRAVE-V h 8 mm (bilingue IT/EN su due righe). Fascia inferiore con fino a 6 icone allergeni ENGRAVE-R 10x10 mm, dalla serie standard dei 14 allergeni. Superficie UV opaca riscrivibile in una variante SKU. Vernice lavabile: sta accanto al cibo.",
+   "prompt_img": "small wooden buffet labels 96x60 mm standing on slotted bases along a hotel breakfast buffet, engraved dish names in two languages with a row of small allergen icons beneath, birch, warm morning light"
+  },
+  {
+   "id": "ING-B2B-RET-125",
+   "cat": "B2B",
+   "coll": "RETAIL",
+   "name": "Vetrina",
+   "tipo": "espositore da vetrina a gradoni",
+   "tipo_en": "window display riser set",
+   "concept": "Set di tre gradoni componibili che alzano i prodotti in vetrina su piani diversi.",
+   "target": "Negozi, gioiellerie, profumerie, gastronomie.",
+   "desire": "Dare profondita' alla vetrina senza scatole rovesciate coperte di stoffa.",
+   "usp": "Componibili e impilabili: la vetrina si riconfigura a ogni cambio stagione senza ricomprare nulla.",
+   "diff": "I gradoni da vetrina sono quasi tutti in plexiglass o cartone: il legno finito e' raro.",
+   "platform": "P3",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2",
+   "dim": [
+    240,
+    144,
+    120
+   ],
+   "layers": 1,
+   "cut_mm": 2600,
+   "vec_mm": 600,
+   "eng_cm2": 20,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    35,
+    120
+   ],
+   "person": [
+    "logo",
+    "colore",
+    "altezze"
+   ],
+   "tags": [
+    "B2B",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-B2B-RET-099 espositore",
+    "ING-B2B-RET-102 cartellini",
+    "ING-B2B-RET-101 insegna"
+   ],
+   "bundle": [
+    "SET VETRINA",
+    "SET NEGOZIO"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "espositore vetrina legno",
+    "alzatine vetrina negozio",
+    "gradoni espositivi",
+    "window display riser"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 7,
+   "s_gift": 2,
+   "s_uniq": 9,
+   "prompt_prod": "Tre gradoni betulla 8 mm a incastro senza colla: 240x144x48, 192x144x84, 144x144x120. Fianchi con profilo ad arco R12. Impilabili e affiancabili sul passo 12 mm. Piani con ENGRAVE-R antiscivolo leggero. Flat pack, montaggio senza attrezzi.",
+   "prompt_img": "three wooden display risers of stepped heights arranged in a shop window, 8 mm birch with arched side profiles, small products displayed on each level, daylight through the glass"
+  },
+  {
+   "id": "ING-B2B-OFF-126",
+   "cat": "B2B",
+   "coll": "UFFICIO",
+   "name": "Riunione",
+   "tipo": "segnaposto e targa sala riunioni",
+   "tipo_en": "meeting room and place sign",
+   "concept": "Targa da porta per sale riunioni con indicatore libero e occupato scorrevole.",
+   "target": "Uffici, coworking, studi, sale conferenze.",
+   "desire": "Sapere se la sala e' libera senza aprire la porta.",
+   "usp": "L'indicatore scorrevole risolve un problema quotidiano di ogni ufficio con sale condivise.",
+   "diff": "Meccanismo semplice a cursore invece di prenotazioni digitali che nessuno aggiorna.",
+   "platform": "P1",
+   "mat": [
+    "betulla6",
+    "betulla3"
+   ],
+   "quota_mat": {
+    "betulla3": 0.4
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    180,
+    108,
+    9
+   ],
+   "layers": 2,
+   "cut_mm": 1200,
+   "vec_mm": 560,
+   "eng_cm2": 20,
+   "uv_cm2": 80,
+   "uv_white": true,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 25,
+   "mkt": [
+    18,
+    60
+   ],
+   "person": [
+    "nome sala",
+    "logo",
+    "colore brand"
+   ],
+   "tags": [
+    "B2B",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-OFF-104 desk sign",
+    "ING-B2B-HOSP-116 segnaletica",
+    "ING-B2B-OFF-103 porta biglietti"
+   ],
+   "bundle": [
+    "SET UFFICIO",
+    "KIT COWORKING: 6 targhe sala"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "targa sala riunioni",
+    "cartello libero occupato",
+    "targa porta ufficio",
+    "meeting room sign"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 2,
+   "s_uniq": 9,
+   "prompt_prod": "Lastra betulla 6 mm 180x108. Finestra 48x24 con cursore betulla 3 mm scorrevole in guida fresata: UV verde LIBERA da un lato, rosso OCCUPATA dall'altro. Nome sala ENGRAVE-V h 12 mm. Testa ad arco R12. Biadesivo strutturale sul retro.",
+   "prompt_img": "a meeting room door sign 180x108 mm in birch with an engraved room name and a sliding wooden indicator showing a green FREE panel, arched top, mounted on a glass office door"
+  },
+  {
+   "id": "ING-B2B-REST-127",
+   "cat": "B2B",
+   "coll": "RISTORAZIONE",
+   "name": "Lavagna",
+   "tipo": "cavalletto da marciapiede a doppia faccia",
+   "tipo_en": "pavement A-frame sign",
+   "concept": "Cavalletto pieghevole con pannelli intercambiabili sui due lati, per il menu del giorno.",
+   "target": "Bar, ristoranti, gelaterie, negozi con affaccio su strada.",
+   "desire": "Fermare chi passa senza la lavagna nera di tutti gli altri.",
+   "usp": "Pannelli sostituibili come per il menu board: consumabile a ricorrenza.",
+   "diff": "In acrilico e legno trattato invece che nella solita lavagna di ardesia scheggiata.",
+   "platform": "P5",
+   "mat": [
+    "betulla12",
+    "acrilico5"
+   ],
+   "quota_mat": {
+    "acrilico5": 0.4
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    480,
+    720,
+    600
+   ],
+   "layers": 2,
+   "cut_mm": 4200,
+   "vec_mm": 1400,
+   "eng_cm2": 40,
+   "uv_cm2": 500,
+   "uv_white": true,
+   "comp": {
+    "gancio": 4
+   },
+   "pack": "scatola_xl",
+   "lotto": 8,
+   "mkt": [
+    70,
+    250
+   ],
+   "person": [
+    "logo",
+    "nome locale",
+    "colore brand"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-B2B-REST-096 menu board",
+    "ING-B2B-RET-101 insegna",
+    "ING-B2B-REST-093 porta menu"
+   ],
+   "bundle": [
+    "SET MENU",
+    "VETRINA SU STRADA: cavalletto + insegna"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "cavalletto pubblicitario legno",
+    "lavagna marciapiede locale",
+    "espositore stradale",
+    "pavement sign wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 10,
+   "s_gift": 2,
+   "s_uniq": 8,
+   "prompt_prod": "Due telai betulla 12 mm 480x720 uniti da cerniere, apertura a 30 gradi con catenella di ritegno. Pannelli acrilico 5 mm scrivibili, inseriti in guide a scanalatura, sostituibili. Trattamento idrorepellente su tutto il legno: sta all'aperto di giorno. Piedi allargati e zavorrabili per il vento. Verifica stabilita' a ribaltamento.",
+   "prompt_img": "a wooden A-frame pavement sign standing on a pavement outside a café, 480x720 mm panels in birch with a writable acrylic insert showing the day's menu, engraved logo at the top, morning street light"
+  },
+  {
+   "id": "ING-B2B-GIFT-128",
+   "cat": "B2B",
+   "coll": "REGALO AZIENDALE",
+   "name": "Natale Aziendale",
+   "tipo": "box regalo aziendale personalizzato",
+   "tipo_en": "corporate christmas gift box",
+   "concept": "Scatola in legno con coperchio scorrevole inciso, da riempire con prodotti del cliente o del territorio.",
+   "target": "Aziende, per il regalo di fine anno a clienti e dipendenti.",
+   "desire": "Un regalo aziendale che non finisca nel cassetto come la solita agenda.",
+   "usp": "La scatola resta e viene riusata: il logo aziendale continua a essere visto per anni.",
+   "diff": "Il contenitore e' il regalo, non l'imballo: e' il ribaltamento che giustifica il prezzo.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    300,
+    204,
+    108
+   ],
+   "layers": 1,
+   "cut_mm": 3000,
+   "vec_mm": 1000,
+   "eng_cm2": 80,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_inox": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 50,
+   "mkt": [
+    25,
+    90
+   ],
+   "person": [
+    "logo",
+    "nome azienda",
+    "dedica",
+    "anno"
+   ],
+   "tags": [
+    "B2B",
+    "SEASONAL",
+    "PREMIUM",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-B2B-GIFT-120 portachiavi",
+    "ING-B2B-GIFT-119 kit onboarding",
+    "ING-B2B-AWD-109 placca"
+   ],
+   "bundle": [
+    "NATALE AZIENDALE x100",
+    "EVENTO AZIENDALE"
+   ],
+   "ref": "https://www.giftcampaign.it/blog/tendenze-gadget-italia/",
+   "kw": [
+    "box regalo aziendale legno",
+    "scatola regalo personalizzata azienda",
+    "cofanetto natale aziendale",
+    "corporate gift box wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Scatola betulla 6 mm 300x204x108, incastri 45 gradi. Coperchio SCORREVOLE in guide fresate sui fianchi (non a cerniera: meno ferramenta, piu' pulito). Logo ENGRAVE-R sul coperchio + placchetta inox MOPA con l'anno. Interno diviso in 4 scomparti sagomati. PRODURRE ENTRO SETTEMBRE per la consegna di dicembre.",
+   "prompt_img": "a wooden corporate gift box 300x204x108 mm with a sliding engraved lid partly open, birch, a small steel plate with the year, four compartments inside holding local products, on a desk with warm December light"
+  },
+  {
+   "id": "ING-B2B-HOSP-129",
+   "cat": "B2B",
+   "coll": "HOSPITALITY",
+   "name": "Regolamento",
+   "tipo": "pannello informativo e regolamento casa",
+   "tipo_en": "house rules information panel",
+   "concept": "Pannello con le informazioni pratiche della struttura — orari, wifi, raccolta differenziata, contatti — in icone e testo.",
+   "target": "Case vacanza, affittacamere, B&B, host di affitti brevi.",
+   "desire": "Smettere di rispondere sempre alle stesse cinque domande degli ospiti.",
+   "usp": "Riduce concretamente i messaggi agli host: e' un prodotto che fa risparmiare tempo, non solo bello.",
+   "diff": "Le informazioni sono organizzate per icone, leggibili anche da chi non parla italiano.",
+   "platform": "P1",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    400,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 1500,
+   "vec_mm": 1600,
+   "eng_cm2": 90,
+   "uv_cm2": 420,
+   "uv_white": true,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 15,
+   "mkt": [
+    30,
+    100
+   ],
+   "person": [
+    "testo",
+    "icone",
+    "logo",
+    "lingua",
+    "contatti"
+   ],
+   "tags": [
+    "B2B",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-HOSP-115 QR wifi",
+    "ING-B2B-HOSP-111 welcome sign",
+    "ING-B2B-HOSP-117 vassoio"
+   ],
+   "bundle": [
+    "KIT B&B COMPLETO",
+    "ACCOGLIENZA"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "regolamento casa vacanza",
+    "pannello informativo bb",
+    "cartello informazioni ospiti",
+    "house rules sign"
+   ],
+   "s_demand": 14,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 2,
+   "s_uniq": 9,
+   "prompt_prod": "Pannello betulla 6 mm 300x400, testa ad arco R12. Griglia di 8 riquadri sul passo 12 mm, ciascuno con icona ENGRAVE-R 24x24 e testo ENGRAVE-V h 5 mm bilingue. Fascia UV colore in testa col nome struttura. Aggancio a 2 punti. Layout fisso, contenuto variabile: nessuna riprogettazione per cliente.",
+   "prompt_img": "an information panel 300x400 mm on a holiday apartment wall, birch with a grid of eight engraved icons and short bilingual texts, coloured header band with the property name, arched top, daylight from a window"
+  },
+  {
+   "id": "ING-B2B-REST-130",
+   "cat": "B2B",
+   "coll": "RISTORAZIONE",
+   "name": "Cantina",
+   "tipo": "targhette identificative per bottiglie e barili",
+   "tipo_en": "bottle and keg identification tags",
+   "concept": "Targhette appese con nome, annata e provenienza, per carta dei vini e spine alla mescita.",
+   "target": "Wine bar, enoteche, birrerie artigianali, ristoranti con cantina.",
+   "desire": "Far vedere cosa c'e' alla spina o in cantina senza il pennarello sul nastro adesivo.",
+   "usp": "Segmento birrerie artigianali e wine bar in crescita, con quasi zero offerta laser dedicata.",
+   "diff": "Riscrivibile su una faccia e permanente sull'altra: cambia la spina, non la targhetta.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    60,
+    108,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 420,
+   "vec_mm": 300,
+   "eng_cm2": 10,
+   "uv_cm2": 40,
+   "uv_white": true,
+   "comp": {
+    "cordino": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 60,
+   "mkt": [
+    5,
+    18
+   ],
+   "person": [
+    "nome",
+    "annata",
+    "logo",
+    "colore"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-B2B-REST-093 porta menu",
+    "ING-B2B-REST-091 numero tavolo",
+    "ING-HOME-TAV-016 portabottiglia"
+   ],
+   "bundle": [
+    "SET CANTINA: 24 targhette",
+    "SET SALA COMPLETO"
+   ],
+   "ref": "https://www.etsy.com/market/restaurant_order_numbers",
+   "kw": [
+    "targhette bottiglie vino",
+    "segna spine birra",
+    "cartellini cantina legno",
+    "bottle tags wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 3,
+   "s_uniq": 9,
+   "prompt_prod": "Lastra betulla 4 mm 60x108 con testa ad arco R12 e foro Ø5 per cordino. Faccia A: area UV WHITE opaca riscrivibile a pennarello. Faccia B: logo del locale ENGRAVE-V permanente. Nesting 80 pezzi/foglio: riempitivo ideale. Cordino cotone incluso.",
+   "prompt_img": "small wooden tags 60x108 mm hanging from beer taps and wine bottles behind a bar, arched tops, one face with a handwritten name on a matte panel, cotton cords, warm bar lighting"
+  }
+ ]
+}

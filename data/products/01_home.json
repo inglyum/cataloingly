@@ -1,0 +1,2123 @@
+{
+ "_categoria": "HOME — 01 Casa & Arredamento",
+ "_nota": "30 prodotti con funzione distinta, non varianti dello stesso oggetto. Ogni misura e' multiplo del modulo 12 mm del sistema Griglia Mediterranea.",
+ "prodotti": [
+  {
+   "id": "ING-HOME-ING-001",
+   "cat": "HOME",
+   "coll": "INGRESSO",
+   "name": "Cassaro",
+   "tipo": "portachiavi da parete con mensola",
+   "tipo_en": "wall key holder with shelf",
+   "concept": "Un portachiavi da ingresso dove i ganci escono da un'apertura ad arco e la mensola sopra raccoglie posta e occhiali.",
+   "target": "Coppie 25-45, casa nuova, regalo di inaugurazione.",
+   "desire": "Smettere di cercare le chiavi ogni mattina, con un oggetto che non sembri un ferramenta.",
+   "usp": "Risolve un problema quotidiano reale e resta bello dopo anni di uso.",
+   "diff": "Il mercato e' tutto rustico-farmhouse: qui la geometria e' mediterranea contemporanea, con arco e filo inciso.",
+   "platform": "P5",
+   "mat": [
+    "betulla8",
+    "betulla6"
+   ],
+   "quota_mat": {
+    "betulla6": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    324,
+    144,
+    72
+   ],
+   "layers": 2,
+   "cut_mm": 2100,
+   "vec_mm": 900,
+   "eng_cm2": 40,
+   "uv_cm2": 120,
+   "uv_white": true,
+   "comp": {
+    "gancio": 5
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "person": [
+    "nome famiglia",
+    "data",
+    "coordinate GPS"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-ING-002 svuotatasche",
+    "ING-HOME-DEC-003 targa famiglia",
+    "ING-HOME-ING-020 appendini"
+   ],
+   "bundle": [
+    "SET INGRESSO: portachiavi + svuotatasche + targa famiglia",
+    "SET CASA NUOVA: portachiavi + targa + coaster"
+   ],
+   "ref": "https://www.etsy.com/market/lasercut_wall_decor",
+   "kw": [
+    "portachiavi da parete",
+    "organizer ingresso",
+    "portachiavi legno personalizzato",
+    "key holder"
+   ],
+   "s_demand": 17,
+   "s_comp": 8,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 7,
+   "prompt_prod": "Pannello di fondo betulla 8 mm 324x144. Strato frontale betulla 6 mm 324x96 distanziato 4 mm, con apertura ad arco ribassato R12 larga 240 mm. 5 ganci allineati sul passo 48 mm nella fascia bassa. Mensola 324x72 a incastro a 45 gradi sotto il frontale. Pannello UV blu mediterraneo dietro l'arco. ENGRAVE-V filo a 4 mm dal bordo, interrotto sull'area nome. Fissaggio a 2 punti con asole a goccia sul retro.",
+   "prompt_img": "three-quarter view of a wall-mounted key holder 324x144 mm in Baltic birch, arched cut-out revealing a deep blue panel, five brass hooks in a row, small shelf below holding sunglasses and letters, engraved line 4 mm from edge, on a lime-washed hallway wall, soft daylight",
+   "mkt": [
+    35,
+    90
+   ]
+  },
+  {
+   "id": "ING-HOME-ING-002",
+   "cat": "HOME",
+   "coll": "INGRESSO",
+   "name": "Bagheria",
+   "tipo": "svuotatasche da ingresso",
+   "tipo_en": "entryway valet tray",
+   "concept": "Vassoio basso con fondo stampato a piena grafica e vernice lucida selettiva sul pattern: si sente al tatto.",
+   "target": "Uomini 30-55, regalo, autoacquisto arredo.",
+   "desire": "Un posto dove svuotare le tasche che non sia il tavolo della cucina.",
+   "usp": "Il gloss selettivo sul pattern e' l'effetto premium piu' economico che esista e nessuno lo usa in categoria.",
+   "diff": "Non e' un vassoio inciso: e' un vassoio stampato a colori pieni con rilievo tattile.",
+   "platform": "P3",
+   "mat": [
+    "betulla6",
+    "feltro3"
+   ],
+   "quota_mat": {
+    "feltro3": 0.8
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    204,
+    156,
+    24
+   ],
+   "layers": 1,
+   "cut_mm": 1400,
+   "vec_mm": 700,
+   "eng_cm2": 0,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "uv_gloss_cm2": 180,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "person": [
+    "nome",
+    "iniziali",
+    "data"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-HOME-ING-001 portachiavi",
+    "ING-HOME-ORG-022 porta occhiali",
+    "ING-HOME-TAV-012 coaster"
+   ],
+   "bundle": [
+    "SET INGRESSO",
+    "REGALO LUI: svuotatasche + porta occhiali"
+   ],
+   "ref": "https://www.outfy.com/blog/top-selling-etsy-home-decor-trends/",
+   "kw": [
+    "svuotatasche legno",
+    "vassoio ingresso",
+    "svuotatasche personalizzato",
+    "valet tray"
+   ],
+   "s_demand": 15,
+   "s_comp": 9,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 8,
+   "prompt_prod": "Fondo betulla 6 mm 204x156 con UV PRINT a piena superficie (bianco di fondo + CMYK pattern Maiolica Modulare) e UV GLOSS selettivo sui soli moduli del pattern. Quattro sponde h 24 mm a incastro 45 gradi, angoli R12. Feltro 3 mm incollato sotto. Gommini nei 4 angoli.",
+   "prompt_img": "top-down three-quarter view of a shallow wooden valet tray 204x156 mm, base fully UV-printed with a geometric maiolica pattern in cobalt blue and lemon with raised gloss varnish catching the light, low birch sides, holding keys, a watch and coins, on a dark hallway console",
+   "mkt": [
+    22,
+    60
+   ]
+  },
+  {
+   "id": "ING-HOME-DEC-003",
+   "cat": "HOME",
+   "coll": "DECORO",
+   "name": "Sperlinga",
+   "tipo": "targa nome famiglia a strati",
+   "tipo_en": "layered family name sign",
+   "concept": "Targa di casa a tre strati con il cognome traforato sul primo piano e le coordinate GPS marcate su placchetta d'acciaio.",
+   "target": "30-60, casa nuova, regalo nozze o trasloco.",
+   "desire": "Segnare che questa casa e' nostra, con qualcosa di piu' serio di un adesivo.",
+   "usp": "Le coordinate al fiber restano leggibili a 2 mm: nessuna incisione su legno ci arriva.",
+   "diff": "Non e' il solito rettangolo inciso: ha profondita' fisica e un componente metallico vero.",
+   "platform": "P6",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.6
+   },
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    108,
+    264,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 1600,
+   "vec_mm": 600,
+   "eng_cm2": 20,
+   "uv_cm2": 140,
+   "uv_white": true,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_inox": 1,
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "person": [
+    "cognome",
+    "coordinate GPS",
+    "anno",
+    "frase"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-ING-001 portachiavi",
+    "ING-HOME-ING-002 svuotatasche",
+    "ING-EVENT-KEEP-053 targa anniversario"
+   ],
+   "bundle": [
+    "SET CASA NUOVA",
+    "REGALO TRASLOCO: targa + portachiavi"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_home_sign",
+   "kw": [
+    "targa casa personalizzata",
+    "insegna nome famiglia",
+    "targa coordinate gps",
+    "targa ingresso legno"
+   ],
+   "s_demand": 16,
+   "s_comp": 6,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 7,
+   "prompt_prod": "Fondo betulla 6 mm 108x264 con testa ad arco R12. Strato frontale betulla 4 mm distanziato 3 mm con cognome CUT traforato (altezza carattere min 12 mm, ponticelli 2,5 mm sulle lettere chiuse). Pannello UV blu dietro il traforo. Sede tagliata per placchetta inox 20x40 in basso, marcata MOPA con le coordinate. ENGRAVE-V filo perimetrale.",
+   "prompt_img": "front view of a layered house name plate 108x264 mm in birch, arched top, family name cut straight through the front layer revealing a deep blue panel behind, small brushed steel plate at the bottom with fine engraved coordinates, mounted beside a blue front door in Mediterranean sunlight",
+   "mkt": [
+    30,
+    120
+   ]
+  },
+  {
+   "id": "ING-HOME-DEC-004",
+   "cat": "HOME",
+   "coll": "DECORO",
+   "name": "Ginestra",
+   "tipo": "quadro multilayer paesaggio mediterraneo",
+   "tipo_en": "layered Mediterranean landscape art",
+   "concept": "Cinque strati che ricostruiscono un paesaggio per quote: mare, costa, colline, monte, cielo stampato in gradiente.",
+   "target": "30-55, arredo soggiorno, regalo importante.",
+   "desire": "Un quadro che non sia una stampa, con profondita' vera che cambia con la luce.",
+   "usp": "L'ombra fra gli strati fa il rilievo senza nessuna curvatura da produrre: effetto alto, costo controllato.",
+   "diff": "Il multilayer di mercato e' tutto montagna nordica e foresta: il paesaggio mediterraneo non esiste.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    400,
+    28
+   ],
+   "layers": 5,
+   "cut_mm": 5200,
+   "vec_mm": 400,
+   "eng_cm2": 60,
+   "uv_cm2": 900,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "scatola_l",
+   "lotto": 10,
+   "person": [
+    "nome luogo",
+    "coordinate",
+    "data"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-HOME-LUX-006 lampada",
+    "ING-HOME-DEC-018 portafoto",
+    "ING-SICILY-DEC-282 mappa"
+   ],
+   "bundle": [
+    "PARETE MEDITERRANEA: quadro + lampada",
+    "REGALO CASA PREMIUM"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_wall_decor",
+   "kw": [
+    "quadro multilayer legno",
+    "pannello decorativo strati",
+    "quadro paesaggio mediterraneo",
+    "laser cut wall art"
+   ],
+   "s_demand": 15,
+   "s_comp": 10,
+   "s_person": 6,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Cinque strati betulla 4 mm 300x400, distanziati 4 mm con perni Ø3 asimmetrici. Ogni strato una quota del paesaggio, profili tagliati CUT con ponticelli min 2,5 mm. Strato 5 (fondo) pannello UV con gradiente turchese-crema. Telaio a fascia betulla 4 mm perimetrale. ENGRAVE-V filo sul telaio. Aggancio a 2 punti.",
+   "prompt_img": "three-quarter view of layered wooden wall art 300x400 mm, five birch layers spaced 4 mm building a Mediterranean landscape in depth — sea, coastline, hills, mountain — deep shadows between the layers, gradient turquoise-to-cream printed sky behind, on a pale plaster wall with raking afternoon light",
+   "mkt": [
+    45,
+    180
+   ]
+  },
+  {
+   "id": "ING-HOME-DEC-005",
+   "cat": "HOME",
+   "coll": "DECORO",
+   "name": "Etna",
+   "tipo": "orologio da parete multilayer",
+   "tipo_en": "layered wall clock",
+   "concept": "Le curve di livello del cono vulcanico diventano i quattro strati fisici, e le lancette escono dal cratere.",
+   "target": "28-60, arredo, regalo casa.",
+   "desire": "Un orologio che sia un oggetto d'arredo e non un disco con i numeri.",
+   "usp": "La geometria del monte e la meccanica dell'oggetto coincidono: il centro del quadrante e' il cratere.",
+   "diff": "Non e' una grafica applicata su un disco: la forma nasce dalla funzione.",
+   "platform": "P5",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    300,
+    24
+   ],
+   "layers": 4,
+   "cut_mm": 4400,
+   "vec_mm": 800,
+   "eng_cm2": 50,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {
+    "movimento_std": 1,
+    "sfere_std": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "person": [
+    "nome",
+    "data",
+    "logo"
+   ],
+   "tags": [
+    "PREMIUM",
+    "FAST SELLER",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-HOME-DEC-004 quadro",
+    "ING-HOME-LUX-006 lampada",
+    "ING-HOME-TAV-012 coaster"
+   ],
+   "bundle": [
+    "PARETE MEDITERRANEA",
+    "REGALO CASA PREMIUM: orologio + coaster"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "orologio parete legno",
+    "orologio multilayer",
+    "orologio design laser",
+    "orologio etna"
+   ],
+   "s_demand": 16,
+   "s_comp": 10,
+   "s_person": 7,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Quattro strati betulla 6 mm Ø300, distanziati 4 mm, ogni strato una curva di livello. Foro alberino Ø8 al CENTRO GEOMETRICO ESATTO su tutti gli strati. Spessore pacco 24 mm: alberino 20 mm obbligatorio. Sfere 110 mm, aria minima 3 mm sopra lo strato piu' alto. 12 indici ENGRAVE-V. Pannello UV rosso magma nel cratere. Perni Ø3 asimmetrici.",
+   "prompt_img": "hero shot, three-quarter view of a 300 mm wall clock built from four stacked birch layers spaced 4 mm, each a contour line of a volcano cone, soft shadows between layers, slim matte black hands emerging from the crater, deep magma-red panel visible at the centre, toasted amber cut edges, against a lime-washed wall",
+   "mkt": [
+    40,
+    150
+   ]
+  },
+  {
+   "id": "ING-HOME-LUX-006",
+   "cat": "HOME",
+   "coll": "LUCE",
+   "name": "Timpa",
+   "tipo": "lampada da tavolo traforata",
+   "tipo_en": "fretwork table lamp",
+   "concept": "Quattro pareti traforate ad archi su diffusore in acrilico satinato: accesa proietta il pattern sulla parete.",
+   "target": "28-50, arredo camera e soggiorno, regalo premium.",
+   "desire": "Una luce d'atmosfera che faccia qualcosa alla stanza, non solo illuminarla.",
+   "usp": "L'oggetto acceso e' il contenuto social piu' performante di tutto il catalogo.",
+   "diff": "Cablaggio nascosto e modulo LED a bassa tensione: la maggior parte delle lampade laser in commercio e' improvvisata sul piano elettrico.",
+   "platform": "P5",
+   "mat": [
+    "betulla4",
+    "acrilicosat3"
+   ],
+   "quota_mat": {
+    "acrilicosat3": 0.8
+   },
+   "tech": "CO2",
+   "dim": [
+    156,
+    156,
+    264
+   ],
+   "layers": 2,
+   "cut_mm": 4800,
+   "vec_mm": 600,
+   "eng_cm2": 0,
+   "comp": {
+    "led_usb": 1,
+    "gommini": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 10,
+   "person": [
+    "nome",
+    "frase",
+    "pattern"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-HOME-DEC-004 quadro",
+    "ING-HOME-LUX-008 lanterna",
+    "ING-HOME-DEC-005 orologio"
+   ],
+   "bundle": [
+    "PARETE MEDITERRANEA",
+    "LUCE DI CASA: lampada + lanterna"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "lampada legno traforata",
+    "lampada da tavolo design",
+    "lampada laser cut",
+    "abat jour legno"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 7,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Quattro pareti betulla 4 mm 156x264 con traforo ad archi R12 ripetuti, incastri a 45 gradi. Diffusore acrilico satinato 3 mm interno, distanziato 8 mm dalle pareti (dissipazione). Base betulla 4 mm con passaggio cavo 12 mm e sede modulo LED USB 5V. Cappello superiore aperto per il calore. Gommini sotto.",
+   "prompt_img": "a lit table lamp 156x156x264 mm, birch fretwork walls of repeating arches over a frosted acrylic diffuser, warm glow throwing an arched pattern across the wall behind, USB cable running discreetly off the base, on a bedside table at night",
+   "mkt": [
+    55,
+    200
+   ]
+  },
+  {
+   "id": "ING-HOME-LUX-007",
+   "cat": "HOME",
+   "coll": "LUCE",
+   "name": "Solunto",
+   "tipo": "applique da parete",
+   "tipo_en": "wall sconce",
+   "concept": "Mezza lampada: pannello traforato a semicerchio che lava la parete di luce dal basso verso l'alto.",
+   "target": "30-55, corridoi, camere, B&B.",
+   "desire": "Illuminare un corridoio senza forare il muro per un impianto.",
+   "usp": "A batteria ricaricabile: si monta con biadesivo strutturale, zero opere murarie. Argomento decisivo per gli affitti.",
+   "diff": "Le applique laser in commercio richiedono quasi tutte un punto luce esistente.",
+   "platform": "P5",
+   "mat": [
+    "betulla4",
+    "acrilicosat3"
+   ],
+   "quota_mat": {
+    "acrilicosat3": 0.6
+   },
+   "tech": "CO2",
+   "dim": [
+    204,
+    120,
+    72
+   ],
+   "layers": 2,
+   "cut_mm": 2400,
+   "vec_mm": 400,
+   "eng_cm2": 0,
+   "comp": {
+    "led_usb": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 15,
+   "person": [
+    "pattern",
+    "nome"
+   ],
+   "tags": [
+    "PREMIUM",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-HOME-LUX-006 lampada",
+    "ING-B2B-HOSP-118 numero camera",
+    "ING-HOME-LUX-008 lanterna"
+   ],
+   "bundle": [
+    "LUCE DI CASA",
+    "KIT B&B CORRIDOIO: 4 applique"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "applique legno",
+    "lampada parete senza fili",
+    "applique laser cut",
+    "illuminazione corridoio"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 5,
+   "s_gift": 6,
+   "s_uniq": 9,
+   "prompt_prod": "Pannello frontale betulla 4 mm 204x120 con traforo a semicerchi R12. Fianchi 72 mm di profondita' a incastro. Diffusore acrilico satinato interno. Modulo LED ricaricabile con interruttore sul fianco inferiore. Retro con 2 asole a goccia + area per biadesivo strutturale 40x40.",
+   "prompt_img": "a wall sconce 204x120 mm in birch with semicircular fretwork, mounted on a plaster corridor wall, warm light washing upward across the wall surface, no visible cable, evening interior",
+   "mkt": [
+    45,
+    120
+   ]
+  },
+  {
+   "id": "ING-HOME-LUX-008",
+   "cat": "HOME",
+   "coll": "LUCE",
+   "name": "Lipari",
+   "tipo": "lanterna portacandela",
+   "tipo_en": "candle lantern",
+   "concept": "Scatola a quattro pareti traforate che proietta archi di luce sul tavolo attorno.",
+   "target": "25-60, terrazza, tavola, regalo.",
+   "desire": "Atmosfera sul tavolo la sera senza rischio di fiamma libera.",
+   "usp": "Progettata per tealight LED e dichiarato sul cartellino: onesta' che nessun concorrente mette per iscritto.",
+   "diff": "Si smonta piatta per riporla fuori stagione, invece di occupare un armadio tutto l'anno.",
+   "platform": "P3",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2",
+   "dim": [
+    108,
+    108,
+    156
+   ],
+   "layers": 1,
+   "cut_mm": 2600,
+   "vec_mm": 500,
+   "eng_cm2": 0,
+   "comp": {
+    "led_tealight": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "person": [
+    "nome",
+    "frase",
+    "pattern"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE",
+    "SEASONAL"
+   ],
+   "upsell": [
+    "ING-HOME-LUX-006 lampada",
+    "ING-HOME-TAV-017 centrotavola",
+    "ING-SEASON-HAL-194 lanterna zucca"
+   ],
+   "bundle": [
+    "LUCE DI CASA",
+    "TAVOLA D'ESTATE: lanterna + centrotavola + coaster"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "lanterna legno",
+    "portacandela laser",
+    "lanterna traforata",
+    "portacandele da tavolo"
+   ],
+   "s_demand": 15,
+   "s_comp": 9,
+   "s_person": 7,
+   "s_gift": 9,
+   "s_uniq": 7,
+   "prompt_prod": "Quattro pareti betulla 4 mm 108x156 con traforo ad archi R12, incastri a dente 45 gradi senza colla. Base 108x108 con sede circolare Ø40 per tealight LED. Nessun coperchio: sfogo del calore. Cartellino con avvertenza 'solo tealight LED'. Spedizione flat pack con istruzioni di montaggio a 4 passi.",
+   "prompt_img": "a wooden candle lantern 108x108x156 mm, four fretwork walls with arched cut-outs, warm LED tealight glowing inside throwing arch-shaped light patterns across a terrace table at dusk, Mediterranean evening",
+   "mkt": [
+    22,
+    60
+   ]
+  },
+  {
+   "id": "ING-HOME-ORG-009",
+   "cat": "HOME",
+   "coll": "ORGANIZER",
+   "name": "Zagara",
+   "tipo": "organizer da scrivania modulare",
+   "tipo_en": "modular desk organiser",
+   "concept": "Tre moduli — portapenne, vaschetta, cassetto — che si agganciano fra loro sul passo della griglia da 12 mm.",
+   "target": "22-45, ufficio e smart working, autoacquisto.",
+   "desire": "Mettere ordine sulla scrivania con qualcosa che non sia plastica nera.",
+   "usp": "Il cliente compra un modulo e torna per gli altri: e' il prodotto che genera il secondo ordine da solo.",
+   "diff": "La modularita' vera, con aggancio meccanico, e' rarissima: quasi tutti vendono pezzi scollegati.",
+   "platform": "P3",
+   "mat": [
+    "betulla6",
+    "feltro3"
+   ],
+   "quota_mat": {
+    "feltro3": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    192,
+    96,
+    108
+   ],
+   "layers": 1,
+   "cut_mm": 2800,
+   "vec_mm": 600,
+   "eng_cm2": 70,
+   "uv_cm2": 150,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 20,
+   "person": [
+    "nome",
+    "logo",
+    "frase"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "B2B",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-ORG-010 portapenne",
+    "ING-HOME-ORG-023 calendario",
+    "ING-B2B-OFF-104 desk sign"
+   ],
+   "bundle": [
+    "SET SCRIVANIA: 3 moduli",
+    "ONBOARDING AZIENDA: organizer + desk sign + porta biglietti"
+   ],
+   "ref": "https://www.xtool.com/blogs/business-ideas/laser-cutter-projects-engraving-ideas",
+   "kw": [
+    "organizer scrivania legno",
+    "portapenne design",
+    "organizer modulare",
+    "desk organiser"
+   ],
+   "s_demand": 16,
+   "s_comp": 9,
+   "s_person": 8,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Tre moduli betulla 6 mm: portapenne 96x96x108, vaschetta 192x96x48, cassetto 192x96x72. Incastri 45 gradi. Sul fianco di ogni modulo dente sporgente 12x6 e asola corrispondente, passo 12 mm, per agganciarsi. Pareti ENGRAVE-R sezione agrume a quote diverse. Interno UV blu. Feltro 3 mm sul fondo.",
+   "prompt_img": "top-down three-quarter view of a modular wooden desk organiser set — pen cup, shallow tray, drawer — 6 mm birch with 45 degree joints clipping together along a visible grid, walls engraved with a radial citrus pattern, deep blue printed interiors, on a pale oak desk in morning light",
+   "mkt": [
+    25,
+    80
+   ]
+  },
+  {
+   "id": "ING-HOME-ORG-010",
+   "cat": "HOME",
+   "coll": "ORGANIZER",
+   "name": "Zagara Mini",
+   "tipo": "portapenne singolo",
+   "tipo_en": "pen cup",
+   "concept": "Il modulo d'ingresso del sistema Zagara, venduto singolo come prezzo di accesso.",
+   "target": "20-45, studenti, ufficio, regalo piccolo.",
+   "desire": "Provare il sistema senza impegnarsi sul set intero.",
+   "usp": "Costa poco, si aggancia agli altri moduli e per questo porta al secondo acquisto.",
+   "diff": "Non e' un portapenne isolato: e' la porta d'ingresso di un sistema modulare.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    96,
+    108
+   ],
+   "layers": 1,
+   "cut_mm": 1300,
+   "vec_mm": 300,
+   "eng_cm2": 30,
+   "uv_cm2": 60,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "scatola_s",
+   "lotto": 40,
+   "person": [
+    "nome",
+    "iniziali",
+    "logo"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-HOME-ORG-009 organizer completo",
+    "ING-B2B-OFF-104 desk sign",
+    "ING-HOME-ORG-023 calendario"
+   ],
+   "bundle": [
+    "SET SCRIVANIA",
+    "REGALO UFFICIO: portapenne + calendario"
+   ],
+   "ref": "https://www.xtool.com/blogs/business-ideas/laser-cutter-projects-engraving-ideas",
+   "kw": [
+    "portapenne legno",
+    "portapenne personalizzato",
+    "porta matite design",
+    "pen holder wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 8,
+   "s_person": 8,
+   "s_gift": 7,
+   "s_uniq": 6,
+   "prompt_prod": "Quattro pareti betulla 6 mm 96x108 + fondo 96x96, incastri 45 gradi. Denti e asole di aggancio sul passo 12 mm su due fianchi. ENGRAVE-R sezione agrume su una parete. Interno UV a colore pieno. Gommini sotto.",
+   "prompt_img": "a wooden pen cup 96x96x108 mm in birch with 45 degree joints, one wall engraved with a radial citrus section, bright printed interior visible from above, holding pencils and a pair of scissors, on a desk",
+   "mkt": [
+    12,
+    32
+   ]
+  },
+  {
+   "id": "ING-HOME-TAV-011",
+   "cat": "HOME",
+   "coll": "TAVOLA",
+   "name": "Scopello",
+   "tipo": "vassoio da servizio con maniglie",
+   "tipo_en": "serving tray",
+   "concept": "Vassoio con fondo stampato a piena superficie e maniglie ad arco traforate nelle sponde.",
+   "target": "28-60, casa, colazione, regalo.",
+   "desire": "Portare due caffe' in terrazza senza reggere i piattini in equilibrio.",
+   "usp": "Il fondo e' una superficie grafica ampia: e' il prodotto dove la UV rende di piu' per euro speso.",
+   "diff": "Le maniglie sono ricavate dal traforo delle sponde, non applicate: nessun componente aggiuntivo.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    204,
+    24
+   ],
+   "layers": 1,
+   "cut_mm": 1900,
+   "vec_mm": 900,
+   "eng_cm2": 0,
+   "uv_cm2": 620,
+   "uv_white": true,
+   "uv_gloss_cm2": 300,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 20,
+   "person": [
+    "nome",
+    "frase",
+    "logo",
+    "pattern"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-HOME-TAV-012 coaster",
+    "ING-HOME-TAV-014 portatovaglioli",
+    "ING-B2B-HOSP-121 vassoio benvenuto"
+   ],
+   "bundle": [
+    "COLAZIONE: vassoio + coaster + portatovaglioli",
+    "REGALO CASA"
+   ],
+   "ref": "https://www.outfy.com/blog/top-selling-etsy-home-decor-trends/",
+   "kw": [
+    "vassoio legno",
+    "vassoio da colazione",
+    "vassoio personalizzato",
+    "serving tray wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 9,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 7,
+   "prompt_prod": "Fondo betulla 6 mm 300x204: UV WHITE + UV PRINT pattern sezione agrume a piena superficie + UV GLOSS sulle sole nervature. Quattro sponde h 24 mm a incastro 45 gradi; le due sponde corte hanno maniglia ad arco R12 traforata 90x28. Gommini nei 4 angoli.",
+   "prompt_img": "three-quarter view of a rectangular wooden serving tray 300x204 mm with arched cut-out handles, base fully UV-printed with a geometric citrus-section pattern in lemon and olive with selective raised gloss, holding two espresso cups and a pastry, on a linen tablecloth in morning light",
+   "mkt": [
+    22,
+    60
+   ]
+  },
+  {
+   "id": "ING-HOME-TAV-012",
+   "cat": "HOME",
+   "coll": "TAVOLA",
+   "name": "Favignana",
+   "tipo": "set 4 sottobicchieri con supporto",
+   "tipo_en": "set of 4 coasters with holder",
+   "concept": "Quattro sottobicchieri con quattro pattern diversi della stessa famiglia, in un supporto verticale a incastro.",
+   "target": "25-55, regalo, casa.",
+   "desire": "Un set da tavola che non sia quattro volte lo stesso disegno.",
+   "usp": "Quattro pattern coordinati costano quanto quattro copie e valgono molto di piu' percepito.",
+   "diff": "Il mercato vende 4 pezzi identici: qui ogni pezzo e' diverso ma della stessa famiglia.",
+   "platform": "P1",
+   "mat": [
+    "betulla6",
+    "sughero2"
+   ],
+   "quota_mat": {
+    "sughero2": 0.9
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    96,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 1500,
+   "vec_mm": 1200,
+   "eng_cm2": 0,
+   "uv_cm2": 290,
+   "uv_white": true,
+   "comp": {},
+   "pack": "scatola_s",
+   "lotto": 40,
+   "person": [
+    "nome",
+    "logo",
+    "pattern",
+    "frase"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "B2B",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-HOME-TAV-011 vassoio",
+    "ING-HOME-TAV-013 sottopentola",
+    "ING-HOME-DEC-005 orologio"
+   ],
+   "bundle": [
+    "COLAZIONE",
+    "TAVOLA D'ESTATE",
+    "REGALO CASA PREMIUM"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "sottobicchieri legno",
+    "set sottobicchieri personalizzati",
+    "coaster legno",
+    "sottobicchieri design"
+   ],
+   "s_demand": 17,
+   "s_comp": 6,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 7,
+   "prompt_prod": "Quattro dischi betulla 6 mm Ø96 + sughero 2 mm incollato sotto. UV WHITE + CMYK, quattro varianti dello stesso pattern (rotazione moduli). ENGRAVE-V filo a 4 mm dal bordo. Supporto verticale: due lastre 96x108 a croce incastrate, scanalature 6,2 mm. Nesting: 4 dischi + supporto in un rettangolo 220x220.",
+   "prompt_img": "set of four round birch coasters 96 mm in a vertical slotted holder, each printed with a different variation of a geometric Mediterranean pattern in blue, lemon and terracotta, cork backing visible on one tilted coaster, glass of wine beside them on an oak table",
+   "mkt": [
+    18,
+    45
+   ]
+  },
+  {
+   "id": "ING-HOME-TAV-013",
+   "cat": "HOME",
+   "coll": "TAVOLA",
+   "name": "Stagnone",
+   "tipo": "sottopentola esagonale componibile",
+   "tipo_en": "hexagonal modular trivet",
+   "concept": "Esagoni che si affiancano a nido d'ape: si comprano a uno, due o tre e formano superfici piu' grandi.",
+   "target": "28-60, cucina, regalo utile.",
+   "desire": "Appoggiare una pentola grande senza avere un sottopentola gigante che non sta nel cassetto.",
+   "usp": "Il formato modulare risolve un problema reale e moltiplica lo scontrino senza nuovi stampi.",
+   "diff": "Nessuno in categoria progetta il sottopentola come sistema componibile.",
+   "platform": "P1",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2",
+   "dim": [
+    168,
+    146,
+    8
+   ],
+   "layers": 1,
+   "cut_mm": 700,
+   "vec_mm": 1600,
+   "eng_cm2": 80,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 50,
+   "person": [
+    "nome",
+    "iniziali",
+    "pattern"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-TAV-012 coaster",
+    "ING-HOME-TAV-011 vassoio",
+    "ING-HOME-CUC-026 porta capsule"
+   ],
+   "bundle": [
+    "CUCINA: sottopentola x3 + coaster",
+    "TAVOLA D'ESTATE"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "sottopentola legno",
+    "sottopentola esagonale",
+    "sottopentola design",
+    "trivet wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 6,
+   "s_gift": 7,
+   "s_uniq": 8,
+   "prompt_prod": "Esagono regolare betulla 8 mm, lato 84 mm (ingombro 168x146), tassellabile a nido d'ape. ENGRAVE-R curve di livello concentriche, profondita' 0,6 mm per creare presa e resistenza al calore. ENGRAVE-V filo a 4 mm. Nessun componente. Nesting a nido d'ape: scarto sotto il 12 percento.",
+   "prompt_img": "two hexagonal birch trivets 168 mm across tiled side by side under a cast iron pot, engraved concentric contour rings on their surfaces, 8 mm thick edges visible, on a dark kitchen worktop",
+   "mkt": [
+    14,
+    38
+   ]
+  },
+  {
+   "id": "ING-HOME-TAV-014",
+   "cat": "HOME",
+   "coll": "TAVOLA",
+   "name": "Salina",
+   "tipo": "portatovaglioli a incastro",
+   "tipo_en": "napkin holder",
+   "concept": "Pareti incise a quote diverse come le vasche delle saline viste dall'alto, con archetto a molla interno.",
+   "target": "28-60, casa e ristorazione.",
+   "desire": "Tenere i tovaglioli fermi anche quando ne restano due.",
+   "usp": "L'archetto interno risolve il difetto di tutti i portatovaglioli: quando si svuota, la carta cade.",
+   "diff": "La superficie cambia quota davvero, non e' un disegno stampato sopra.",
+   "platform": "P3",
+   "mat": [
+    "betulla6",
+    "betulla3"
+   ],
+   "quota_mat": {
+    "betulla3": 0.3
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    132,
+    132,
+    72
+   ],
+   "layers": 1,
+   "cut_mm": 2000,
+   "vec_mm": 500,
+   "eng_cm2": 110,
+   "uv_cm2": 80,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "person": [
+    "nome",
+    "logo",
+    "frase"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "B2B",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-HOME-TAV-011 vassoio",
+    "ING-HOME-TAV-015 porta oliera",
+    "ING-B2B-REST-092 numero tavolo"
+   ],
+   "bundle": [
+    "COLAZIONE",
+    "SET TAVOLA RISTORANTE"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "portatovaglioli legno",
+    "portatovaglioli design",
+    "porta tovaglioli personalizzato",
+    "napkin holder wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 8,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Due fianchi betulla 6 mm 132x72 + fondo 132x120, incastri 45 gradi. Fianchi ENGRAVE-R a griglia di vasche rettangolari a tre profondita' diverse (0,3 / 0,6 / 1,0 mm). Archetto betulla 3 mm 120x60 curvato a molla, inserito in due asole sul fondo. Smontabile per il lavaggio.",
+   "prompt_img": "three-quarter view of a wooden napkin holder 132x132x72 mm, 6 mm birch with 45 degree joints, side walls engraved at varying depths forming a grid of shallow rectangular basins like aerial salt pans catching raking light, holding cream linen napkins, on a travertine counter",
+   "mkt": [
+    18,
+    48
+   ]
+  },
+  {
+   "id": "ING-HOME-TAV-015",
+   "cat": "HOME",
+   "coll": "TAVOLA",
+   "name": "Mozia",
+   "tipo": "porta oliera e spezie da tavolo",
+   "tipo_en": "condiment caddy",
+   "concept": "Struttura con sedi tonde per ampolle standard e fondo estraibile per il lavaggio.",
+   "target": "30-60, casa e ristorazione.",
+   "desire": "Portare olio, aceto e sale in tavola in un colpo solo, senza il vassoio di plastica.",
+   "usp": "Il fondo si sfila: e' l'unico dettaglio che rende lavabile un oggetto che si sporca sempre.",
+   "diff": "Progettato attorno al problema reale — l'olio cola — invece che attorno all'estetica.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    156,
+    96,
+    84
+   ],
+   "layers": 1,
+   "cut_mm": 1800,
+   "vec_mm": 450,
+   "eng_cm2": 40,
+   "uv_cm2": 70,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "person": [
+    "nome",
+    "logo"
+   ],
+   "tags": [
+    "B2B",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-TAV-014 portatovaglioli",
+    "ING-HOME-TAV-016 portabottiglia",
+    "ING-B2B-REST-093 porta menu"
+   ],
+   "bundle": [
+    "SET TAVOLA RISTORANTE",
+    "CUCINA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "porta oliera legno",
+    "porta spezie da tavolo",
+    "porta condimenti",
+    "condiment caddy"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 7,
+   "s_gift": 6,
+   "s_uniq": 8,
+   "prompt_prod": "Quattro pareti betulla 6 mm, ingombro 156x96x84. Piano superiore con due sedi Ø62 per ampolle standard e una sede Ø48 per macinino. Fronte con apertura ad arco R12. Fondo NON incollato: appoggiato su quattro dentini interni, si sfila per il lavaggio. Gommini sotto.",
+   "prompt_img": "a wooden condiment caddy 156x96x84 mm holding an oil cruet and a vinegar cruet in round seats, arched cut-out on the front face, birch with visible laser-cut edges, on a set restaurant table",
+   "mkt": [
+    20,
+    50
+   ]
+  },
+  {
+   "id": "ING-HOME-TAV-016",
+   "cat": "HOME",
+   "coll": "TAVOLA",
+   "name": "Vendicari",
+   "tipo": "portabottiglia e cesta pane",
+   "tipo_en": "bottle cradle and bread basket",
+   "concept": "Una culla traforata che regge una bottiglia coricata e, girata, diventa cesta per il pane.",
+   "target": "28-60, casa, trattorie, regalo.",
+   "desire": "Un oggetto solo invece di due, per un tavolo che ne ha gia' troppi.",
+   "usp": "Doppia funzione dichiarata: e' l'argomento di vendita, non un effetto collaterale.",
+   "diff": "Spessore 8 mm perche' deve reggere 1,5 kg: la maggior parte dei portabottiglie laser e' sottodimensionata.",
+   "platform": "P3",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2",
+   "dim": [
+    348,
+    120,
+    120
+   ],
+   "layers": 1,
+   "cut_mm": 3200,
+   "vec_mm": 600,
+   "eng_cm2": 0,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 20,
+   "person": [
+    "nome",
+    "logo",
+    "frase"
+   ],
+   "tags": [
+    "PREMIUM",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-TAV-015 porta oliera",
+    "ING-HOME-TAV-012 coaster",
+    "ING-B2B-REST-093 porta menu"
+   ],
+   "bundle": [
+    "SET TAVOLA RISTORANTE",
+    "REGALO VINO: portabottiglia + coaster"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "portabottiglia legno",
+    "cesta pane legno",
+    "porta bottiglia design",
+    "bread basket wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 7,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Due fianchi betulla 8 mm sagomati a culla 348x120 con traforo Griglia Barocca, uniti da tre traverse a incastro 45 gradi. VERIFICA DI CARICO: prova a 1,5 kg prima del lancio, spessore 8 mm non riducibile. Base concava per la bottiglia, piana se rovesciato per il pane.",
+   "prompt_img": "a wooden bottle cradle 348x120 mm in 8 mm birch, side walls with repeating baroque-grid fretwork cut through, holding a dark wine bottle lying on its side, on a rustic trattoria table with bread in the background",
+   "mkt": [
+    28,
+    75
+   ]
+  },
+  {
+   "id": "ING-HOME-TAV-017",
+   "cat": "HOME",
+   "coll": "TAVOLA",
+   "name": "Levanzo",
+   "tipo": "centrotavola smontabile",
+   "tipo_en": "flat-pack centrepiece",
+   "concept": "Due lastre a croce e un anello: si spedisce in busta e si monta in cinque secondi.",
+   "target": "25-60, casa, eventi, ristorazione.",
+   "desire": "Un centrotavola che non occupi un armadio undici mesi l'anno.",
+   "usp": "Costo di spedizione da busta invece che da scatola: cambia completamente l'economia del prodotto online.",
+   "diff": "Il centrotavola di mercato e' un oggetto ingombrante: questo e' piatto finche' non serve.",
+   "platform": "P1",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2",
+   "dim": [
+    264,
+    264,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 2600,
+   "vec_mm": 800,
+   "eng_cm2": 0,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 30,
+   "person": [
+    "nome",
+    "data",
+    "frase"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE",
+    "SEASONAL"
+   ],
+   "upsell": [
+    "ING-HOME-LUX-008 lanterna",
+    "ING-HOME-TAV-012 coaster",
+    "ING-EVENT-WED-046 tableau"
+   ],
+   "bundle": [
+    "TAVOLA D'ESTATE",
+    "CENTROTAVOLA CERIMONIA x10"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "centrotavola legno",
+    "centrotavola smontabile",
+    "centrotavola laser",
+    "centrepiece wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 7,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Due lastre betulla 6 mm Ø264 con traforo radiale sezione agrume, ciascuna con asola centrale 6,2x132 (meta' altezza) per incastro a croce. Anello esterno Ø264/Ø200 che le tiene in squadra. Tre pezzi totali, spediti piatti in busta. Sede centrale Ø60 per candela o vaso.",
+   "prompt_img": "a flat-pack wooden centrepiece 264 mm across made of two cross-slotted birch plates and an outer ring, radial citrus-section fretwork, holding a pillar candle, on a white linen tablecloth, with the flat unassembled pieces lying beside it",
+   "mkt": [
+    20,
+    55
+   ]
+  },
+  {
+   "id": "ING-HOME-DEC-018",
+   "cat": "HOME",
+   "coll": "DECORO",
+   "name": "Marzamemi",
+   "tipo": "portafoto a strati con piedino",
+   "tipo_en": "layered photo frame",
+   "concept": "Cornice a due strati con passepartout ad arco e piedino a incastro progettato davvero.",
+   "target": "25-60, regalo, casa.",
+   "desire": "Una cornice che stia in piedi senza cadere ogni volta che si sfiora il mobile.",
+   "usp": "Il retro e il piedino sono progettati: nel 90% dei portafoto laser in commercio sono improvvisati.",
+   "diff": "Il passepartout ad arco e' la firma di forma del sistema, non un rettangolo qualsiasi.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    156,
+    204,
+    18
+   ],
+   "layers": 2,
+   "cut_mm": 1900,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "uv_cm2": 90,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 30,
+   "person": [
+    "nome",
+    "data",
+    "frase"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-DEC-003 targa famiglia",
+    "ING-KIDS-KEEP-137 quadretto nascita",
+    "ING-PET-MEM-072 portafoto pet"
+   ],
+   "bundle": [
+    "REGALO CASA",
+    "RICORDO: portafoto + targa anniversario"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "portafoto legno",
+    "cornice personalizzata",
+    "portafoto laser",
+    "photo frame wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 8,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 6,
+   "prompt_prod": "Cornice betulla 6 mm 156x204 con luce ad arco R12 (apertura 100x140). Passepartout betulla 4 mm distanziato 3 mm. Retro con sede fotografica 10x15 e linguette di ritegno. Piedino betulla 6 mm a incastro con battuta a 15 gradi, angolo identico alla piattaforma leggio. ENGRAVE-V filo perimetrale.",
+   "prompt_img": "a layered wooden photo frame 156x204 mm standing on a shelf, arched inner opening, two birch layers spaced 3 mm casting a shadow line, engraved border, holding a black and white photograph, warm interior light",
+   "mkt": [
+    20,
+    65
+   ]
+  },
+  {
+   "id": "ING-HOME-DEC-019",
+   "cat": "HOME",
+   "coll": "DECORO",
+   "name": "Erice",
+   "tipo": "mensola decorativa a incastro",
+   "tipo_en": "decorative wall shelf",
+   "concept": "Mensola con mensole di sostegno ricavate dal profilo barocco, senza ferramenta a vista.",
+   "target": "28-55, arredo, B&B.",
+   "desire": "Una mensola piccola che sia essa stessa una decorazione.",
+   "usp": "Le staffe non si vedono perche' non ci sono: la struttura e' il decoro.",
+   "diff": "Le mensole laser in commercio usano squadrette metalliche: qui il sostegno e' geometria.",
+   "platform": "P3",
+   "mat": [
+    "betulla12"
+   ],
+   "tech": "CO2",
+   "dim": [
+    324,
+    120,
+    144
+   ],
+   "layers": 1,
+   "cut_mm": 2200,
+   "vec_mm": 700,
+   "eng_cm2": 0,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "person": [
+    "nome",
+    "frase"
+   ],
+   "tags": [
+    "PREMIUM",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-HOME-DEC-018 portafoto",
+    "ING-HOME-ING-020 appendini",
+    "ING-HOME-DEC-024 cache-pot"
+   ],
+   "bundle": [
+    "PARETE MEDITERRANEA",
+    "KIT B&B CAMERA"
+   ],
+   "ref": "https://www.etsy.com/market/lasercut_wall_decor",
+   "kw": [
+    "mensola legno design",
+    "mensola laser cut",
+    "mensola decorativa",
+    "wall shelf wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 11,
+   "s_person": 5,
+   "s_gift": 6,
+   "s_uniq": 8,
+   "prompt_prod": "Piano betulla 12 mm 324x120. Due mensole laterali 120x144 sagomate a voluta barocca ridotta a spirali R12 costanti, incastrate nel piano con dente passante 12 mm. VERIFICA DI CARICO 3 kg. Retro con due asole a goccia allineate su interasse 240 mm.",
+   "prompt_img": "a wooden wall shelf 324x120 mm in 12 mm birch with two scrolled bracket sides cut as constant-radius spirals, no visible hardware, holding a small plant and two books, mounted on a pale plaster wall",
+   "mkt": [
+    28,
+    80
+   ]
+  },
+  {
+   "id": "ING-HOME-ING-020",
+   "cat": "HOME",
+   "coll": "INGRESSO",
+   "name": "Monreale",
+   "tipo": "set 6 appendini da parete",
+   "tipo_en": "wall coat rack",
+   "concept": "Barra con profilo superiore ad archi ripetuti e sei pomelli tornati.",
+   "target": "25-55, ingresso, bagno, cameretta.",
+   "desire": "Appendere i cappotti senza il solito attaccapanni da ufficio.",
+   "usp": "Il profilo ad archi ripetuti e' la firma del sistema letta in negativo: si riconosce da lontano.",
+   "diff": "Spessore 12 mm: regge un cappotto bagnato, cosa che i 6 mm di mercato non fanno.",
+   "platform": "P1",
+   "mat": [
+    "betulla12"
+   ],
+   "tech": "CO2",
+   "dim": [
+    324,
+    72,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 1100,
+   "vec_mm": 500,
+   "eng_cm2": 0,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 25,
+   "person": [
+    "nome",
+    "frase",
+    "numero"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-ING-001 portachiavi",
+    "ING-HOME-DEC-019 mensola",
+    "ING-PET-ORG-070 porta guinzaglio"
+   ],
+   "bundle": [
+    "SET INGRESSO",
+    "KIT B&B CAMERA"
+   ],
+   "ref": "https://www.etsy.com/market/lasercut_wall_decor",
+   "kw": [
+    "appendiabiti parete legno",
+    "ganci da parete",
+    "appendini legno",
+    "coat rack wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 7,
+   "s_gift": 7,
+   "s_uniq": 7,
+   "prompt_prod": "Barra betulla 12 mm 324x72 con profilo superiore a sei archi R12 ripetuti sul passo 48 mm. Sei fori Ø10 per pomelli tornati, allineati sul passo 48. ENGRAVE-V filo lungo il bordo inferiore. Retro con due asole a goccia interasse 288 mm.",
+   "prompt_img": "a wall coat rack 324x72 mm in 12 mm birch, top profile a repeating arch silhouette, six round wooden knobs in a row, engraved line along the lower edge, mounted on a white wall with a linen jacket and a straw hat hanging",
+   "mkt": [
+    25,
+    70
+   ]
+  },
+  {
+   "id": "ING-HOME-ORG-021",
+   "cat": "HOME",
+   "coll": "ORGANIZER",
+   "name": "Acireale",
+   "tipo": "porta telecomandi da divano",
+   "tipo_en": "remote control caddy",
+   "concept": "Tre scomparti verticali di altezza diversa, cosi' ogni telecomando si riconosce senza tirarlo fuori.",
+   "target": "30-65, soggiorno, regalo pratico.",
+   "desire": "Smettere di cercare il telecomando fra i cuscini.",
+   "usp": "Gli scomparti sono di altezza scalare: si vede subito quale e' quale.",
+   "diff": "Non e' una scatola con tre buchi uguali: la differenza di altezza e' la funzione.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    192,
+    84,
+    132
+   ],
+   "layers": 1,
+   "cut_mm": 1900,
+   "vec_mm": 450,
+   "eng_cm2": 50,
+   "uv_cm2": 80,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "person": [
+    "nome",
+    "frase"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-ORG-022 porta occhiali",
+    "ING-HOME-ING-002 svuotatasche",
+    "ING-HOME-TAV-012 coaster"
+   ],
+   "bundle": [
+    "SALOTTO: porta telecomandi + porta occhiali + coaster",
+    "REGALO PRATICO"
+   ],
+   "ref": "https://www.xtool.com/blogs/business-ideas/laser-cutter-projects-engraving-ideas",
+   "kw": [
+    "porta telecomandi legno",
+    "organizer divano",
+    "porta telecomandi design",
+    "remote holder"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 6,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Scatola betulla 6 mm 192x84 con tre scomparti da 60 mm di larghezza e altezze 132/108/84 mm, divisori a incastro. Fronte di ogni scomparto con apertura ad arco R12 per estrazione facile. ENGRAVE-R pattern su un fianco. Interno UV colore. Gommini sotto.",
+   "prompt_img": "a wooden remote control caddy 192x84x132 mm with three stepped compartments of different heights, arched cut-outs on each front, birch, holding three remotes, on a fabric sofa arm",
+   "mkt": [
+    16,
+    45
+   ]
+  },
+  {
+   "id": "ING-HOME-ORG-022",
+   "cat": "HOME",
+   "coll": "ORGANIZER",
+   "name": "Cefalù",
+   "tipo": "porta occhiali da comodino",
+   "tipo_en": "eyeglass stand",
+   "concept": "Supporto a forcella che tiene gli occhiali aperti e appoggiati, senza graffiare le lenti.",
+   "target": "40-70, comodino, regalo pratico.",
+   "desire": "Non svegliarsi con gli occhiali schiacciati sotto un libro.",
+   "usp": "Le lenti non toccano mai il legno: la geometria le tiene sospese.",
+   "diff": "Il mercato offre scatole o vassoi: qui la forma segue esattamente la forma di un occhiale.",
+   "platform": "P3",
+   "mat": [
+    "betulla6",
+    "feltro3"
+   ],
+   "quota_mat": {
+    "feltro3": 0.4
+   },
+   "tech": "CO2",
+   "dim": [
+    108,
+    84,
+    96
+   ],
+   "layers": 1,
+   "cut_mm": 1200,
+   "vec_mm": 350,
+   "eng_cm2": 25,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "scatola_s",
+   "lotto": 40,
+   "person": [
+    "nome",
+    "iniziali",
+    "frase"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-ORG-021 porta telecomandi",
+    "ING-HOME-ING-002 svuotatasche",
+    "ING-HOME-DEC-018 portafoto"
+   ],
+   "bundle": [
+    "SALOTTO",
+    "REGALO NONNI: porta occhiali + portafoto"
+   ],
+   "ref": "https://www.xtool.com/blogs/business-ideas/laser-cutter-projects-engraving-ideas",
+   "kw": [
+    "porta occhiali legno",
+    "supporto occhiali comodino",
+    "porta occhiali personalizzato",
+    "eyeglass holder"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 7,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Base betulla 6 mm 108x84 + montante verticale sagomato a forcella, incastrato a 90 gradi con dente passante. La forcella ha due bracci R12 distanti 62 mm che reggono le aste dell'occhiale: le lenti restano sospese sopra la base. Feltro 3 mm sulla base. Gommini sotto.",
+   "prompt_img": "a small wooden eyeglass stand 108x84x96 mm, a forked upright holding a pair of glasses open with the lenses suspended clear of the base, birch with felt base, on a bedside table beside a book",
+   "mkt": [
+    12,
+    35
+   ]
+  },
+  {
+   "id": "ING-HOME-ORG-023",
+   "cat": "HOME",
+   "coll": "ORGANIZER",
+   "name": "Perpetuo",
+   "tipo": "calendario perpetuo da scrivania",
+   "tipo_en": "perpetual desk calendar",
+   "concept": "Base scanalata e tessere mese e giorno che si spostano a mano ogni mattina.",
+   "target": "25-60, ufficio, regalo aziendale.",
+   "desire": "Un calendario che non si butti il 31 dicembre.",
+   "usp": "Si vende tutto l'anno e diventa regalo aziendale a dicembre: due mercati con un prodotto.",
+   "diff": "Usa la base della piattaforma P2, quindi non aggiunge nessuna matrice al catalogo.",
+   "platform": "P2",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    156,
+    108,
+    48
+   ],
+   "layers": 1,
+   "cut_mm": 2400,
+   "vec_mm": 1400,
+   "eng_cm2": 60,
+   "uv_cm2": 60,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "busta",
+   "lotto": 30,
+   "person": [
+    "nome",
+    "logo",
+    "frase"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "B2B",
+    "PERSONALIZZABILE",
+    "SEASONAL"
+   ],
+   "upsell": [
+    "ING-HOME-ORG-009 organizer",
+    "ING-B2B-OFF-104 desk sign",
+    "ING-HOME-ORG-010 portapenne"
+   ],
+   "bundle": [
+    "SET SCRIVANIA",
+    "REGALO AZIENDALE DICEMBRE x50"
+   ],
+   "ref": "https://www.xtool.com/blogs/business-ideas/laser-cutter-projects-engraving-ideas",
+   "kw": [
+    "calendario perpetuo legno",
+    "calendario da scrivania",
+    "calendario personalizzato",
+    "perpetual calendar"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 7,
+   "prompt_prod": "Base P2 betulla 6 mm 156x48 con due scanalature parallele 6,2 mm. Tessere: 12 mesi (48x36) + 2 blocchi cifre 0-9 (36x36). Testa ad arco R12 con area logo 60x20 ENGRAVE-V. Tessere ENGRAVE-V su entrambi i lati per raddoppiare le combinazioni. Gommini sotto la base.",
+   "prompt_img": "a perpetual desk calendar 156x108 mm, grooved birch base holding engraved month and number tiles, arched top plate with a blank logo area, on a wooden desk beside a coffee cup and a fountain pen",
+   "mkt": [
+    18,
+    50
+   ]
+  },
+  {
+   "id": "ING-HOME-DEC-024",
+   "cat": "HOME",
+   "coll": "DECORO",
+   "name": "Mandorlo",
+   "tipo": "cache-pot a doghe verticali",
+   "tipo_en": "slatted planter cover",
+   "concept": "Copri-vaso a doghe verticali sul passo 12 mm, con vaso di plastica interno che il legno non tocca mai.",
+   "target": "25-55, arredo, regalo verde.",
+   "desire": "Nascondere il vaso di plastica del vivaio senza rinvasare la pianta.",
+   "usp": "Il legno non tocca l'acqua: e' il motivo per cui questo dura e i cache-pot laser in commercio si gonfiano.",
+   "diff": "Progettato attorno al problema dell'umidita', che tutti gli altri ignorano.",
+   "platform": "P3",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2",
+   "dim": [
+    144,
+    144,
+    144
+   ],
+   "layers": 1,
+   "cut_mm": 2800,
+   "vec_mm": 900,
+   "eng_cm2": 0,
+   "comp": {
+    "vaso_interno": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "person": [
+    "nome",
+    "frase"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-DEC-019 mensola",
+    "ING-HOME-LUX-008 lanterna",
+    "ING-HOME-TAV-012 coaster"
+   ],
+   "bundle": [
+    "ANGOLO VERDE: cache-pot + mensola",
+    "REGALO CASA"
+   ],
+   "ref": "https://www.outfy.com/blog/top-selling-etsy-home-decor-trends/",
+   "kw": [
+    "cache pot legno",
+    "copri vaso design",
+    "porta piante legno",
+    "planter cover wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 6,
+   "s_gift": 8,
+   "s_uniq": 7,
+   "prompt_prod": "Quattro pareti betulla 8 mm 144x144 a doghe verticali larghe 12 mm con luce 6 mm, unite da traverse superiore e inferiore. Incastri 45 gradi. Fondo con quattro appoggi rialzati 12 mm: il vaso interno non poggia sul legno. Vaso plastica Ø130 fornito. Trattamento con olio idrorepellente su tutte le facce.",
+   "prompt_img": "a wooden planter cover 144 mm cube in 8 mm birch with vertical slatted walls, a green trailing plant growing out of it, hidden plastic inner pot, on a windowsill with strong side light",
+   "mkt": [
+    22,
+    60
+   ]
+  },
+  {
+   "id": "ING-HOME-CUC-025",
+   "cat": "HOME",
+   "coll": "CUCINA",
+   "name": "Vucciria",
+   "tipo": "organizer lavello per spugne",
+   "tipo_en": "sink caddy",
+   "concept": "Due scomparti sopraelevati e forati che fanno sgocciolare spugna e detersivo.",
+   "target": "28-60, cucina.",
+   "desire": "Togliere la spugna bagnata dal bordo del lavello.",
+   "usp": "In acrilico invece che in legno: e' l'unico modo perche' duri accanto a un lavello.",
+   "diff": "Onesta' tecnica: qui il legno non va bene e non lo usiamo, mentre il mercato lo usa e i prodotti si gonfiano.",
+   "platform": "P3",
+   "mat": [
+    "acrilico5"
+   ],
+   "tech": "CO2",
+   "dim": [
+    168,
+    96,
+    84
+   ],
+   "layers": 1,
+   "cut_mm": 1900,
+   "vec_mm": 400,
+   "eng_cm2": 0,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 25,
+   "person": [
+    "frase",
+    "pattern"
+   ],
+   "tags": [
+    "FAST SELLER"
+   ],
+   "upsell": [
+    "ING-HOME-CUC-026 porta capsule",
+    "ING-HOME-CUC-027 leggio ricette",
+    "ING-HOME-TAV-013 sottopentola"
+   ],
+   "bundle": [
+    "CUCINA",
+    "KIT LAVELLO: organizer + porta spugne"
+   ],
+   "ref": "https://www.outfy.com/blog/top-selling-etsy-home-decor-trends/",
+   "kw": [
+    "porta spugne lavello",
+    "organizer cucina",
+    "porta detersivo design",
+    "sink caddy"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 4,
+   "s_gift": 5,
+   "s_uniq": 8,
+   "prompt_prod": "Acrilico colato 5 mm, NON legno (contatto continuo con acqua). Due scomparti 168x96x84, fondo forato con griglia di Ø6 sul passo 12 mm, rialzato 12 mm su quattro piedini. Incastri a 45 gradi + colla per acrilico. Bordi lucidi lasciati a vista come finitura.",
+   "prompt_img": "a clear acrylic sink caddy 168x96x84 mm with two compartments and a perforated raised base, polished cut edges catching the light, holding a sponge and a dish soap bottle, beside a stainless steel kitchen sink",
+   "mkt": [
+    12,
+    32
+   ]
+  },
+  {
+   "id": "ING-HOME-CUC-026",
+   "cat": "HOME",
+   "coll": "CUCINA",
+   "name": "Bronte",
+   "tipo": "porta capsule caffè a scala",
+   "tipo_en": "coffee capsule holder",
+   "concept": "Scaletta a quattro ripiani inclinati dove le capsule scorrono in avanti da sole.",
+   "target": "25-60, cucina, ufficio, regalo.",
+   "desire": "Vedere quante capsule restano senza aprire un cassetto.",
+   "usp": "I ripiani sono inclinati di 8 gradi: la capsula successiva si presenta da sola.",
+   "diff": "Non e' un contenitore, e' un distributore a gravita'.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    132,
+    180,
+    240
+   ],
+   "layers": 1,
+   "cut_mm": 2600,
+   "vec_mm": 600,
+   "eng_cm2": 40,
+   "uv_cm2": 90,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "person": [
+    "nome",
+    "logo",
+    "frase"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-TAV-012 coaster",
+    "ING-HOME-CUC-027 leggio ricette",
+    "ING-B2B-REST-098 espositore"
+   ],
+   "bundle": [
+    "ANGOLO CAFFE: porta capsule + coaster + vassoio",
+    "REGALO UFFICIO"
+   ],
+   "ref": "https://www.xtool.com/blogs/business-ideas/laser-cutter-projects-engraving-ideas",
+   "kw": [
+    "porta capsule caffe legno",
+    "porta cialde design",
+    "dispenser capsule",
+    "coffee capsule holder"
+   ],
+   "s_demand": 15,
+   "s_comp": 10,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 8,
+   "prompt_prod": "Due fianchi betulla 6 mm 180x240 con quattro scanalature inclinate a 8 gradi. Quattro ripiani 120x160 a incastro, larghezza canale calibrata sul diametro capsula (verificare il formato: Nespresso 37 mm, Dolce Gusto 50 mm — due varianti SKU). Fermo frontale h 12 mm. Retro aperto per il caricamento.",
+   "prompt_img": "a wooden coffee capsule dispenser 132x180x240 mm with four inclined shelves in birch, capsules rolling forward to the front lip, arched side profile, beside an espresso machine on a kitchen counter",
+   "mkt": [
+    18,
+    50
+   ]
+  },
+  {
+   "id": "ING-HOME-CUC-027",
+   "cat": "HOME",
+   "coll": "CUCINA",
+   "name": "Noto",
+   "tipo": "leggio da cucina per libri e tablet",
+   "tipo_en": "kitchen cookbook and tablet stand",
+   "concept": "Leggio a 15 gradi con sponda a pettine che regge sia un ricettario aperto sia un tablet.",
+   "target": "28-65, cucina.",
+   "desire": "Leggere la ricetta senza appoggiare il telefono nella farina.",
+   "usp": "La sponda a pettine sul passo 12 mm tiene qualsiasi spessore, da un tablet a un libro da 800 pagine.",
+   "diff": "Un solo prodotto per due oggetti che di solito richiedono due supporti diversi.",
+   "platform": "P4",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2",
+   "dim": [
+    240,
+    180,
+    168
+   ],
+   "layers": 1,
+   "cut_mm": 2000,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "person": [
+    "nome",
+    "frase",
+    "logo"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-CUC-026 porta capsule",
+    "ING-HOME-TAV-013 sottopentola",
+    "ING-B2B-REST-093 porta menu"
+   ],
+   "bundle": [
+    "CUCINA",
+    "REGALO CHI CUCINA: leggio + sottopentola + presine"
+   ],
+   "ref": "https://www.xtool.com/blogs/business-ideas/laser-cutter-projects-engraving-ideas",
+   "kw": [
+    "leggio cucina legno",
+    "porta ricettario",
+    "supporto tablet cucina",
+    "cookbook stand"
+   ],
+   "s_demand": 15,
+   "s_comp": 10,
+   "s_person": 7,
+   "s_gift": 9,
+   "s_uniq": 8,
+   "prompt_prod": "Fronte betulla 8 mm 240x180 inclinato 15 gradi (stesso angolo di tutta la piattaforma P4). Sponda inferiore tagliata a pettine: denti 12 mm, luce 12 mm, profondita' 24 mm. Puntone posteriore sfilabile a incastro. Passaggio cavo 12 mm per la ricarica del tablet. Gommini.",
+   "prompt_img": "a wooden cookbook and tablet stand 240x180 mm inclined 15 degrees, 8 mm birch with a comb-cut retaining lip, holding an open cookbook, on a flour-dusted kitchen worktop",
+   "mkt": [
+    22,
+    60
+   ]
+  },
+  {
+   "id": "ING-HOME-BAG-028",
+   "cat": "HOME",
+   "coll": "BAGNO",
+   "name": "Sciacca",
+   "tipo": "organizer da bagno a mensola",
+   "tipo_en": "bathroom shelf organiser",
+   "concept": "Mensola stretta con foro per bicchiere e traversa porta-asciugamano, in acrilico per l'umidita'.",
+   "target": "28-60, bagno, B&B.",
+   "desire": "Ordine sul lavabo senza mobiletti che marciscono.",
+   "usp": "Materiale scelto per l'ambiente e non per abitudine: acrilico, non legno.",
+   "diff": "Il bagno e' la stanza che tutti evitano in categoria proprio per il problema dell'umidita'.",
+   "platform": "P3",
+   "mat": [
+    "acrilico5"
+   ],
+   "tech": "CO2",
+   "dim": [
+    300,
+    108,
+    120
+   ],
+   "layers": 1,
+   "cut_mm": 2200,
+   "vec_mm": 500,
+   "eng_cm2": 0,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "scatola_m",
+   "lotto": 20,
+   "person": [
+    "frase",
+    "pattern"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM"
+   ],
+   "upsell": [
+    "ING-HOME-BAG-029 porta diffusore",
+    "ING-B2B-HOSP-119 targa bagno",
+    "ING-HOME-DEC-019 mensola"
+   ],
+   "bundle": [
+    "KIT B&B BAGNO",
+    "BAGNO: organizer + porta diffusore"
+   ],
+   "ref": "https://www.outfy.com/blog/top-selling-etsy-home-decor-trends/",
+   "kw": [
+    "mensola bagno acrilico",
+    "organizer bagno design",
+    "mensola lavabo",
+    "bathroom shelf"
+   ],
+   "s_demand": 11,
+   "s_comp": 12,
+   "s_person": 4,
+   "s_gift": 5,
+   "s_uniq": 9,
+   "prompt_prod": "Acrilico colato 5 mm. Piano 300x108 con foro Ø72 per bicchiere e Ø48 per spazzolini. Due fianchi 108x120 a incastro + traversa tonda porta-asciugamano Ø12 sotto il piano. Bordi lucidi a vista. Fissaggio a parete con due asole. NESSUN LEGNO in questo prodotto.",
+   "prompt_img": "a clear acrylic bathroom shelf 300x108 mm mounted above a basin, polished cut edges, a glass sitting in the circular cut-out, a rolled towel hanging from the rail below, bright tiled bathroom",
+   "mkt": [
+    20,
+    55
+   ]
+  },
+  {
+   "id": "ING-HOME-BAG-029",
+   "cat": "HOME",
+   "coll": "BAGNO",
+   "name": "Segesta",
+   "tipo": "porta diffusore a bastoncini",
+   "tipo_en": "reed diffuser holder",
+   "concept": "Guscio traforato che nasconde la bottiglia del diffusore lasciando uscire solo i bastoncini.",
+   "target": "28-60, bagno e ingresso, regalo.",
+   "desire": "Tenere il profumatore senza vedere l'etichetta del supermercato.",
+   "usp": "Trasforma un prodotto di consumo anonimo in un oggetto d'arredo, e si riusa a ogni ricarica.",
+   "diff": "Categoria di prodotto praticamente inesistente nel laser: il diffusore lo hanno tutti, il guscio nessuno.",
+   "platform": "P3",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2",
+   "dim": [
+    96,
+    96,
+    132
+   ],
+   "layers": 1,
+   "cut_mm": 2200,
+   "vec_mm": 400,
+   "eng_cm2": 0,
+   "comp": {},
+   "pack": "scatola_s",
+   "lotto": 30,
+   "person": [
+    "nome",
+    "frase",
+    "pattern"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-HOME-BAG-028 organizer bagno",
+    "ING-HOME-LUX-008 lanterna",
+    "ING-HOME-ING-002 svuotatasche"
+   ],
+   "bundle": [
+    "BAGNO",
+    "KIT B&B BAGNO"
+   ],
+   "ref": "https://www.outfy.com/blog/top-selling-etsy-home-decor-trends/",
+   "kw": [
+    "porta diffusore legno",
+    "copri diffusore",
+    "porta profumatore design",
+    "reed diffuser holder"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 6,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Quattro pareti betulla 4 mm 96x132 con traforo ad archi R12, incastri 45 gradi, aperto sopra e sotto. Diametro interno libero 88 mm: accoglie le bottiglie di diffusore standard fino a Ø80. Nessun fondo, si cala sopra la bottiglia esistente. Piedini alti 6 mm per far uscire il vapore.",
+   "prompt_img": "a wooden fretwork sleeve 96x96x132 mm hiding a reed diffuser bottle, only the rattan sticks emerging from the top, arched cut-outs in the birch walls, on a bathroom shelf beside folded towels",
+   "mkt": [
+    15,
+    40
+   ]
+  },
+  {
+   "id": "ING-HOME-DEC-030",
+   "cat": "HOME",
+   "coll": "DECORO",
+   "name": "Ortigia",
+   "tipo": "specchio con cornice traforata",
+   "tipo_en": "fretwork framed mirror",
+   "concept": "Specchio tondo dentro una cornice ad archi che proietta un'ombra decorativa sulla parete.",
+   "target": "28-55, ingresso, bagno, camera.",
+   "desire": "Uno specchio piccolo che sia anche una decorazione quando non ci si guarda dentro.",
+   "usp": "La cornice traforata proietta il proprio disegno sulla parete: la decorazione e' anche l'ombra.",
+   "diff": "Gli specchi laser in commercio hanno cornici piene: qui il traforo e' il progetto.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "acrilico3"
+   ],
+   "quota_mat": {
+    "acrilico3": 0.6
+   },
+   "tech": "CO2",
+   "dim": [
+    264,
+    264,
+    12
+   ],
+   "layers": 2,
+   "cut_mm": 3400,
+   "vec_mm": 800,
+   "eng_cm2": 0,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "person": [
+    "nome",
+    "frase",
+    "pattern"
+   ],
+   "tags": [
+    "PREMIUM",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-ING-001 portachiavi",
+    "ING-HOME-DEC-019 mensola",
+    "ING-HOME-ING-020 appendini"
+   ],
+   "bundle": [
+    "SET INGRESSO",
+    "PARETE MEDITERRANEA"
+   ],
+   "ref": "https://www.etsy.com/market/lasercut_wall_decor",
+   "kw": [
+    "specchio legno design",
+    "specchio cornice traforata",
+    "specchio laser cut",
+    "framed mirror wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 5,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Cornice betulla 6 mm Ø264 con corona traforata di archi R12 fra Ø200 e Ø264. Specchio acrilico 3 mm Ø204 alloggiato in battuta sul retro, tenuto da quattro linguette rotanti (nessuna colla: sostituibile). Distanziale 6 mm dalla parete perche' il traforo proietti l'ombra. Aggancio centrale.",
+   "prompt_img": "a round wall mirror 264 mm across with a birch fretwork frame of repeating arches, mounted slightly off the wall so the cut pattern throws a soft shadow behind it, reflecting a lit window, on a pale plaster wall",
+   "mkt": [
+    30,
+    90
+   ]
+  }
+ ]
+}
