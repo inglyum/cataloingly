@@ -11,8 +11,9 @@ produzione e prompt per la foto di catalogo.
 perché vende, quanto costa e **dove trovarne i file**, con la licenza come primo criterio.
 Ogni voce porta un prompt di design per costruirne una versione originale, non per copiarla.
 
-Entrambe le pagine si possono **scaricare** dai pulsanti in alto: la pagina intera in HTML,
-oppure i soli dati filtrati in CSV o JSON.
+Entrambe le pagine si possono **scaricare** dai pulsanti in alto: la pagina intera in
+Markdown, oppure i soli dati **attualmente filtrati** in CSV o JSON. Se cerchi "orologio"
+e scarichi, ottieni quei prodotti, non tutti.
 
 ---
 
@@ -20,18 +21,18 @@ oppure i soli dati filtrati in CSV o JSON.
 
 | | |
 | --- | --- |
-| Prodotti Ingly completi | **68** su 300 previsti |
-| Categorie prodotto complete | **2** su 10 (01 Casa & Arredamento, 04 Aziendale & B2B) |
+| Prodotti Ingly completi | **128** su 300 previsti |
+| Categorie prodotto complete | **4** su 10 (01 Casa, 02 Eventi, 04 B2B, 10 Sicilia) |
 | Voci di enciclopedia | **63** su tutte e 10 le categorie |
 | Fonti di file catalogate | **24** (6 gratuite, 7 a pagamento, 11 fra rassegne e documentazione) |
+| Strumenti di lavoro | **34** divisi per fase, con costo reale |
 | Piattaforme costruttive | 8 |
 | Analisi di mercato | **10 categorie su 10** — completa |
 | Motore di calcolo | completo e collaudato |
 
-Le otto categorie mancanti (02 Eventi, 03 Animali, 05 Bambini, 06 Stagionale,
-07 Edizioni limitate, 08 Anime, 09 Turismo, 10 Sicilia) hanno **analisi di mercato,
-riferimenti e market gap già completi** in `data/categories.json`: manca solo la
-scrittura dei prodotti, che segue esattamente lo stesso schema dei 68 esistenti.
+Le sei categorie mancanti (03 Animali, 05 Bambini, 06 Stagionale, 07 Edizioni limitate,
+08 Anime, 09 Turismo) hanno **analisi di mercato, market gap e voci di enciclopedia già
+completi**: manca solo la scrittura dei prodotti, che segue lo stesso schema dei 128 esistenti.
 
 ---
 
@@ -56,6 +57,7 @@ python3 scripts/build_enciclopedia.py # enciclopedia prodotti e fonti
 | `enciclopedia.html` | Enciclopedia navigabile dei prodotti e delle fonti |
 | `enciclopedia.csv` / `.json` | Le 63 voci con i prompt di design |
 | `fonti.csv` | Le 24 fonti di file con licenze e costi |
+| `strumenti.csv` | I 34 strumenti con costo, fase e consiglio d'uso |
 
 ---
 
@@ -153,9 +155,13 @@ data/
   enciclopedia.json   63 voci dei prodotti più venduti al mondo, ciascuna
                       con il prompt di design per una versione originale
   fonti.json          24 fonti di file laser, ordinate per licenza
+  strumenti.json      34 strumenti per disegnare, ottimizzare, produrre,
+                      fotografare e vendere, divisi per fase di lavoro
   products/
     01_home.json      30 prodotti
+    02_eventi.json    30 prodotti
     04_b2b.json       38 prodotti
+    10_sicilia.json   30 prodotti
 scripts/
   build.py            motore di calcolo e catalogo Ingly
   build_enciclopedia.py  enciclopedia prodotti e fonti
@@ -223,7 +229,7 @@ non possono acquistare merce contraffatta.
 
 ## Cosa resta da fare
 
-1. Scrivere i prodotti delle 8 categorie mancanti (analisi, gap e voci di enciclopedia già pronti)
+1. Scrivere i prodotti delle 6 categorie mancanti (analisi, gap e voci di enciclopedia già pronti)
 2. **Tarare le tariffe** in `reference.json` sui costi reali di produzione
 3. Verificare le tolleranze con una tavola di test sulla macchina reale —
    soprattutto l'asola della piattaforma P2, che si porta dietro otto prodotti

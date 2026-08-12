@@ -166,10 +166,10 @@ def costruisci():
         a(f'<option value="{d}">domanda {d}</option>')
     a(f'</select><span class="count" id="n">{len(voci)} voci</span>')
     a('<span class="dl">'
-      '<button class="dl-b" data-dl="html" type="button">scarica pagina</button>'
+      '<button class="dl-b" data-dl="md" type="button">scarica pagina</button>'
       '<button class="dl-b" data-dl="csv" type="button">csv</button>'
       '<button class="dl-b" data-dl="json" type="button">json</button>'
-      '</span>')
+      '</span><span class="count" id="dlmsg" role="status" aria-live="polite"></span>')
     a('</div></nav><div class="wrap">')
 
     # ---------------- avvertenza licenze ----------------
@@ -270,7 +270,7 @@ def costruisci():
             ip_key = "ALTO" if ip.startswith("ALTO") else ("medio" if ip.startswith("medio") else "nullo")
             hay = " ".join([v["id"], v["nome"], v["nome_en"], v["cosa_e"], v["materiali"],
                             v["tech"], v["perche_vende"]]).lower()
-            a(f'<article class="e" data-id="{v["id"]}" data-cat="{cid}" data-ip="{ip_key}" '
+            a(f'<article class="e" data-dlid="{v["id"]}" data-cat="{cid}" data-ip="{ip_key}" '
               f'data-dom="{v["domanda"]}" data-s="{esc(hay)}">')
             a('<div class="e-h">')
             a(f'<span class="id">{v["id"]}</span><h3>{esc(v["nome"])}</h3>')
@@ -321,8 +321,38 @@ def costruisci():
 
     a('<script type="application/json" id="dati">'
       + json.dumps(voci, ensure_ascii=False).replace("</", "<\\/") + "</script>")
+    a('<script type="application/json" id="extra">'
+      + json.dumps({"fonti": FONTI["fonti"], "strumenti": STRU["strumenti"],
+                    "percorso": STRU["percorso_consigliato"],
+                    "strategia": FONTI["strategia_ingly"]},
+                   ensure_ascii=False).replace("</", "<\\/") + "</script>")
     a('<script>const DATI=JSON.parse(document.getElementById("dati").textContent);'
-      'const NOMEFILE="enciclopedia";</script>')
+      'const EXTRA=JSON.parse(document.getElementById("extra").textContent);'
+      'const NOMEFILE="enciclopedia";const IDKEY="id";'
+      'const MD=function(rs){'
+      'var o="# Ingly Design - Enciclopedia prodotti, fonti e strumenti\\n\\n";'
+      'o+="## Fonti di file ("+EXTRA.fonti.length+")\\n\\n";'
+      'EXTRA.fonti.forEach(function(f){o+="### "+f.nome+" ["+f.tipo+"]\\n\\n"'
+      '+"**Licenza** "+f.licenza+"  \\n**Costo** "+f.costo+"  \\n**Formati** "+f.formati'
+      '+"  \\n**Link** "+f.url+"\\n\\n"+f.cosa_offre+"\\n\\n"+f.note+"\\n\\n"});'
+      'o+="## Strumenti ("+EXTRA.strumenti.length+")\\n\\n";'
+      'EXTRA.strumenti.forEach(function(t){o+="### "+t.nome+" ["+t.fase+", "+t.livello+"]\\n\\n"'
+      '+"**Costo** "+t.costo+"  \\n**Link** "+t.url+"\\n\\n"+t.cosa_fa+"\\n\\n"'
+      '+t.perche_serve+"\\n\\n> "+t.consiglio+"\\n\\n"});'
+      'o+="### "+EXTRA.percorso.titolo+"\\n\\n";'
+      'EXTRA.percorso.passi.forEach(function(x,i){o+=(i+1)+". "+x+"\\n"});'
+      'o+="\\nSpesa minima: "+EXTRA.percorso.spesa_minima+"\\n\\n";'
+      'o+="## Prodotti piu venduti nel mondo ("+rs.length+")\\n\\n";'
+      'o+=rs.map(function(r){return "### "+r.nome+" ("+r.nome_en+")\\n\\n"'
+      '+r.cosa_e+"\\n\\n**Perche vende.** "+r.perche_vende+"\\n\\n"'
+      '+"**Prezzo** "+r.prezzo_range+"  \\n**Domanda** "+r.domanda'
+      '+"  \\n**Concorrenza** "+r.concorrenza+"  \\n**Difficolta** "+r.difficolta'
+      '+"  \\n**Materiali** "+r.materiali+"  \\n**Tecnologia** "+r.tech'
+      '+"  \\n**Rischio IP** "+r.rischio_ip'
+      '+"  \\n**Fonti file** "+(r.fonti||[]).join(", ")'
+      '+"  \\n**Riferimento** "+r.ref'
+      '+"\\n\\n#### Prompt di design\\n\\n"+r.prompt_design+"\\n"'
+      '}).join("\\n---\\n\\n");return o};</script>')
     a(f"<script>{DL_JS}</script>")
     a(f"<script>{FILTRI_JS}</script>")
 

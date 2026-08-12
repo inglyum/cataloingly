@@ -679,30 +679,44 @@ footer p{font-family:var(--serif);font-size:15.5px;color:var(--mid);max-width:70
 """
 
 DL_JS = """
-function scarica(nome, testo, tipo){
- const b=new Blob([testo],{type:tipo+';charset=utf-8'}),u=URL.createObjectURL(b),a=document.createElement('a');
- a.href=u;a.download=nome;document.body.appendChild(a);a.click();a.remove();
- setTimeout(function(){URL.revokeObjectURL(u)},1000);}
+const OGGI=new Date().toISOString().slice(0,10);
+function msg(t,err){const e=document.getElementById('dlmsg');if(!e)return;
+ e.textContent=t;e.style.color=err?'var(--crit)':'var(--soft)';
+ clearTimeout(window._dlt);window._dlt=setTimeout(function(){e.textContent=''},6000);}
 function datiVisibili(){
- const vis=new Set();document.querySelectorAll('.p').forEach(function(el){
-  if(el.style.display!=='none')vis.add(el.dataset.sku);});
- return DATI.filter(function(r){return vis.has(r.sku)});}
+ const vis=new Set();document.querySelectorAll('[data-dlid]').forEach(function(el){
+  if(el.style.display!=='none')vis.add(el.dataset.dlid);});
+ return DATI.filter(function(r){return vis.has(String(r[IDKEY]))});}
 function csvDa(righe){
  if(!righe.length)return '';
  const c=Object.keys(righe[0]);
- const esc=function(v){v=v==null?'':String(v);
-  return /[",\n;]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v};
+ const esc=function(v){if(v==null)v='';if(typeof v==='object')v=JSON.stringify(v);
+  v=String(v);return /[",;\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v};
  return [c.join(';')].concat(righe.map(function(r){
   return c.map(function(k){return esc(r[k])}).join(';')})).join('\n');}
+async function offri(nome,testo,ripiego){
+ const d=window.claude&&window.claude.downloads;
+ if(!d){msg('download non disponibile in questa vista',true);return;}
+ try{await d.save({filename:nome,data:testo});msg('salvato: '+nome);return;}
+ catch(e){
+  const c=e&&e.code;
+  if(c==='extension_not_enabled'&&ripiego){
+   try{await d.save({filename:ripiego,data:testo});msg('salvato: '+ripiego);return;}
+   catch(e2){msg('non riuscito: '+(e2&&e2.message||'errore'),true);return;}}
+  if(c==='declined'){msg('download annullato');return;}
+  if(c==='too_large'){msg('file troppo grande: filtra prima di scaricare',true);return;}
+  if(c==='rate_limited'){msg('attendi qualche secondo e riprova',true);return;}
+  msg('non riuscito: '+(e&&e.message||'errore'),true);}}
 document.addEventListener('click',function(e){
  const b=e.target.closest('[data-dl]');if(!b)return;
- const d=datiVisibili(),oggi=new Date().toISOString().slice(0,10);
- if(b.dataset.dl==='json')scarica('ingly-'+NOMEFILE+'-'+oggi+'.json',
-   JSON.stringify(d,null,2),'application/json');
- if(b.dataset.dl==='csv')scarica('ingly-'+NOMEFILE+'-'+oggi+'.csv','\ufeff'+csvDa(d),'text/csv');
- if(b.dataset.dl==='html')scarica('ingly-'+NOMEFILE+'-'+oggi+'.html',
-   '<!doctype html><html><head><meta charset="utf-8">'+document.head.innerHTML+
-   '</head><body>'+document.body.innerHTML+'</body></html>','text/html');});
+ const d=datiVisibili();
+ if(!d.length){msg('nessun elemento da scaricare con i filtri attuali',true);return;}
+ const base='ingly-'+NOMEFILE+'-'+OGGI;
+ if(b.dataset.dl==='json')offri(base+'.json',JSON.stringify(d,null,2));
+ if(b.dataset.dl==='csv')offri(base+'.csv','﻿'+csvDa(d),base+'.txt');
+ if(b.dataset.dl==='md')offri(base+'.md',MD(d));});
+if(!(window.claude&&window.claude.downloads)){
+ document.querySelectorAll('.dl').forEach(function(e){e.style.display='none'});}
 """
 
 JS = """
@@ -769,10 +783,10 @@ def scrivi_html(records, path):
         a(f'<option value="{esc(t)}">{esc(t)}</option>')
     a(f'</select><span class="count" id="n">{tot} prodotti</span>')
     a('<span class="dl">'
-      '<button class="dl-b" data-dl="html" type="button">scarica pagina</button>'
+      '<button class="dl-b" data-dl="md" type="button">scarica pagina</button>'
       '<button class="dl-b" data-dl="csv" type="button">csv</button>'
       '<button class="dl-b" data-dl="json" type="button">json</button>'
-      '</span>')
+      '</span><span class="count" id="dlmsg" role="status" aria-live="polite"></span>')
     a('</div></nav><div class="wrap">')
 
     for cid, rs in per_cat.items():
@@ -806,7 +820,7 @@ def scrivi_html(records, path):
             cls = {"A+": "b-ap", "A": "b-a", "B": "b-b", "C": "b-c", "D": "b-d"}[r["priorita"]]
             hay = " ".join([r["sku"], r["nome"], r["tipo"], r["materiali"], r["keywords"],
                             r["tag"], r["concept"]]).lower()
-            a(f'<article class="p" data-sku="{r["sku"]}" data-cat="{cid}" '
+            a(f'<article class="p" data-dlid="{r["sku"]}" data-cat="{cid}" '
               f'data-prio="{r["priorita"]}" data-tag="{esc(r["tag"])}" data-s="{esc(hay)}">')
             a('<div class="ph">')
             a(f'<span class="sku">{r["sku"]}</span><h3>{esc(r["nome"])}</h3>')
@@ -864,7 +878,28 @@ def scrivi_html(records, path):
     a('<script type="application/json" id="dati">'
       + json.dumps(records, ensure_ascii=False).replace("</", "<\\/") + "</script>")
     a('<script>const DATI=JSON.parse(document.getElementById("dati").textContent);'
-      'const NOMEFILE="catalogo";</script>')
+      'const NOMEFILE="catalogo";const IDKEY="sku";'
+      'const MD=function(rs){return "# Ingly Design - Catalogo prodotti\\n\\n"'
+      '+rs.length+" prodotti\\n\\n"+rs.map(function(r){return '
+      '"## "+r.titolo_it+"\\n\\n"'
+      '+"**SKU** "+r.sku+" - "+r.categoria+" - priorita "+r.priorita+" (score "+r.market_score+")\\n\\n"'
+      '+r.descrizione_lunga_it+"\\n\\n"'
+      '+"**Materiali** "+r.materiali+"  \\n**Dimensioni** "+r.dimensioni_mm'
+      '+"  \\n**Tecnologia** "+r.tecnologia+"  \\n**Piattaforma** "+r.piattaforma_nome'
+      '+"  \\n**Componenti** "+r.componenti+"  \\n**Packaging** "+r.packaging'
+      '+"  \\n**Tempo** "+r.t_totale_min+" min  \\n**Costo** "+r.costo_totale+" EUR"'
+      '+"  \\n**Prezzi** entry "+r.prezzo_entry+" / standard "+r.prezzo_standard'
+      '+" / premium "+r.prezzo_premium+" / b2b50 "+r.prezzo_b2b_50'
+      '+"  \\n**Margine** "+r.margine_standard+" EUR ("+r.margine_pct_standard+"%)"'
+      '+"  \\n**Posizionamento** "+r.posizionamento'
+      '+"  \\n**Personalizzazione** "+r.personalizzazione+"  \\n**Tag** "+r.tag'
+      '+"  \\n**Upsell** "+r.upsell+"  \\n**Bundle** "+r.bundle'
+      '+"  \\n**Riferimento** "+r.link_riferimento'
+      '+"  \\n**SEO** "+r.seo_title+"  \\n**Keywords** "+r.keywords'
+      '+(r.alert_competitivita?"\\n\\n> ALERT: "+r.alert_competitivita:"")'
+      '+"\\n\\n### Prompt di produzione\\n\\n"+r.prompt_produzione'
+      '+"\\n\\n### Prompt immagine\\n\\n"+r.prompt_immagine+"\\n"'
+      '}).join("\\n---\\n\\n")};</script>')
     a(f"<script>{DL_JS}</script>")
     a(f"<script>{JS}</script>")
 
