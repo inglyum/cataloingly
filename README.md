@@ -150,11 +150,15 @@ data/
                       moltiplicatori di listino, pesi dello score
   categories.json     analisi di mercato delle 10 categorie, riferimenti
                       con link reali, market gap (10 per categoria)
+  enciclopedia.json   63 voci dei prodotti più venduti al mondo, ciascuna
+                      con il prompt di design per una versione originale
+  fonti.json          24 fonti di file laser, ordinate per licenza
   products/
     01_home.json      30 prodotti
     04_b2b.json       38 prodotti
 scripts/
-  build.py            motore di calcolo e generazione output
+  build.py            motore di calcolo e catalogo Ingly
+  build_enciclopedia.py  enciclopedia prodotti e fonti
   validate.py         controllo qualità pre-produzione
 out/                  generato — non versionare a mano
 ```
