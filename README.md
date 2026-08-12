@@ -1,10 +1,18 @@
 # Ingly Design — Catalogo prodotti
 
-Catalogo commerciale per prodotti in taglio laser CO₂, stampa UV e marcatura fiber MOPA.
+Due cataloghi per prodotti in taglio laser CO₂, stampa UV e marcatura fiber MOPA.
 
-Non è un documento: è un **database**. Costi, prezzi, margini, punteggi di mercato e
-priorità di lancio non sono scritti a mano — sono **calcolati** da un modello di costo
-parametrico. Cambi una tariffa e tutto il catalogo si ricalcola in modo coerente.
+**1. Il catalogo Ingly Design** (`out/index.html`) — i prodotti originali, con costi,
+prezzi, margini e priorità di lancio **calcolati** da un modello di costo parametrico,
+non scritti a mano. Ogni prodotto ha titolo, descrizione pubblicabile, prompt di
+produzione e prompt per la foto di catalogo.
+
+**2. L'enciclopedia** (`out/enciclopedia.html`) — la mappa di cosa già vende nel mondo,
+perché vende, quanto costa e **dove trovarne i file**, con la licenza come primo criterio.
+Ogni voce porta un prompt di design per costruirne una versione originale, non per copiarla.
+
+Entrambe le pagine si possono **scaricare** dai pulsanti in alto: la pagina intera in HTML,
+oppure i soli dati filtrati in CSV o JSON.
 
 ---
 
@@ -12,8 +20,10 @@ parametrico. Cambi una tariffa e tutto il catalogo si ricalcola in modo coerente
 
 | | |
 | --- | --- |
-| Prodotti completi | **68** su 300 previsti |
-| Categorie complete | **2** su 10 (01 Casa & Arredamento, 04 Aziendale & B2B) |
+| Prodotti Ingly completi | **68** su 300 previsti |
+| Categorie prodotto complete | **2** su 10 (01 Casa & Arredamento, 04 Aziendale & B2B) |
+| Voci di enciclopedia | **63** su tutte e 10 le categorie |
+| Fonti di file catalogate | **24** (6 gratuite, 7 a pagamento, 11 fra rassegne e documentazione) |
 | Piattaforme costruttive | 8 |
 | Analisi di mercato | **10 categorie su 10** — completa |
 | Motore di calcolo | completo e collaudato |
@@ -28,8 +38,9 @@ scrittura dei prodotti, che segue esattamente lo stesso schema dei 68 esistenti.
 ## Come si usa
 
 ```bash
-python3 scripts/validate.py     # controllo qualità: blocca gli errori di producibilità
-python3 scripts/build.py        # calcola tutto e genera gli output
+python3 scripts/validate.py           # controllo qualità: blocca gli errori di producibilità
+python3 scripts/build.py              # catalogo Ingly: calcola tutto e genera gli output
+python3 scripts/build_enciclopedia.py # enciclopedia prodotti e fonti
 ```
 
 `build.py` produce in `out/`:
@@ -42,6 +53,9 @@ python3 scripts/build.py        # calcola tutto e genera gli output
 | `shopify_import.csv` | Import diretto in Shopify (prodotti in bozza) |
 | `woocommerce_import.csv` | Import diretto in WooCommerce |
 | `catalogo.xlsx` | Foglio di lavoro (richiede `pip install openpyxl`) |
+| `enciclopedia.html` | Enciclopedia navigabile dei prodotti e delle fonti |
+| `enciclopedia.csv` / `.json` | Le 63 voci con i prompt di design |
+| `fonti.csv` | Le 24 fonti di file con licenze e costi |
 
 ---
 
@@ -162,6 +176,33 @@ Esce con codice 1 se trova errori bloccanti: si può mettere in una CI.
 
 ---
 
+## Le fonti di file: la licenza prima di tutto
+
+`data/fonti.json` cataloga 24 fonti di file laser, gratuite e a pagamento. Il criterio
+di ordinamento non è la qualità ma **la licenza**, perché è lì che si fanno i danni.
+
+**Fatto verificato:** la maggior parte dei file laser preconfezionati è concessa **solo
+per uso personale**. Puoi realizzare l'oggetto per te, ma **non puoi vendere** il prodotto
+che ne ricavi. Le licenze commerciali esistono, sono quasi sempre a pagamento e spesso
+hanno limiti — una fonte censita consente la vendita fino a 250 pezzi assemblati, e oltre
+serve una licenza estesa.
+
+**La regola Ingly Design:** questi file servono a **studio tecnico** (come è risolto un
+incastro, una tolleranza, un meccanismo) e a **ricerca di mercato**. Non servono a produrre
+merce da vendere, nemmeno quando la licenza lo consentirebbe. Il motivo non è legale ma
+commerciale: un file acquistato da migliaia di persone produce un oggetto identico a quello
+di migliaia di concorrenti, e il prezzo è già crollato prima che tu lo produca.
+
+Le due eccezioni utili sono **i font** e **i pattern per la stampa UV**: si comprano con
+licenza commerciale senza intaccare l'identità, perché la firma di Ingly Design sta nella
+geometria costruttiva, non nel riempimento.
+
+C'è anche un'opportunità rovesciata: Ingly Design può **vendere** i propri file. Il disegno
+è già fatto e pagato dal catalogo fisico, il costo marginale è zero e non c'è logistica —
+ma solo sui prodotti che non vogliamo tenere esclusivi.
+
+---
+
 ## Proprietà intellettuale
 
 I pattern del catalogo sono **regole generative** — griglia, arco a raggio costante,
@@ -178,7 +219,7 @@ non possono acquistare merce contraffatta.
 
 ## Cosa resta da fare
 
-1. Scrivere i prodotti delle 8 categorie mancanti (analisi e gap già pronti)
+1. Scrivere i prodotti delle 8 categorie mancanti (analisi, gap e voci di enciclopedia già pronti)
 2. **Tarare le tariffe** in `reference.json` sui costi reali di produzione
 3. Verificare le tolleranze con una tavola di test sulla macchina reale —
    soprattutto l'asola della piattaforma P2, che si porta dietro otto prodotti

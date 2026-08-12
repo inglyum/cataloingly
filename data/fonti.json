@@ -1,0 +1,210 @@
+{
+  "_meta": {
+    "versione": "R1",
+    "rilevazione": "agosto 2026",
+    "scopo": "Fonti di file per taglio laser, gratuite e a pagamento, con la licenza come primo criterio di valutazione.",
+    "avvertenza_licenze": "REGOLA GENERALE VERIFICATA: la maggior parte dei file laser preconfezionati e' concessa SOLO PER USO PERSONALE. Significa che puoi realizzare l'oggetto per te, ma NON puoi vendere il prodotto che ne ricavi. Le licenze commerciali esistono ma sono quasi sempre a pagamento e spesso con limiti (numero massimo di pezzi vendibili, divieto di modifica, divieto di rivendita del file). Le condizioni cambiano per singolo file e per singolo sito: vanno lette caso per caso PRIMA di produrre, non dopo.",
+    "regola_ingly": "Per Ingly Design questi file servono a due cose: STUDIO TECNICO (capire come e' risolto un incastro, una tolleranza, un meccanismo) e RICERCA DI MERCATO (capire cosa vende). NON servono a produrre merce da vendere, nemmeno quando la licenza lo consentirebbe. Il motivo non e' legale ma commerciale: un file acquistato da migliaia di persone produce un oggetto identico a quello di migliaia di concorrenti, e il prezzo crolla. Il valore di Ingly Design sta nel disegno proprio.",
+    "mai_fare": [
+      "Rivendere o ridistribuire un file scaricato, gratuito o a pagamento che sia",
+      "Vendere prodotti realizzati con file a licenza 'personal use only'",
+      "Caricare su un marketplace un file altrui come proprio",
+      "Assumere che 'gratuito' significhi 'libero da vincoli': quasi mai e' cosi'",
+      "Usare file con personaggi, loghi o marchi protetti, anche se il sito li distribuisce"
+    ]
+  },
+
+  "legenda_licenze": {
+    "PERSONALE": "Solo uso personale. Non si possono vendere i prodotti realizzati.",
+    "COMMERCIALE": "Consente la vendita dei prodotti realizzati. Verificare sempre eventuali limiti di quantita'.",
+    "COMMERCIALE_LIMITATA": "Consente la vendita entro un numero massimo di pezzi o con altre restrizioni.",
+    "VARIABILE": "La licenza cambia per singolo file: va letta su ogni scheda prima del download.",
+    "ATTRIBUZIONE": "Consente l'uso ma richiede di citare l'autore.",
+    "DA_VERIFICARE": "Condizioni non chiare dalla documentazione pubblica: contattare il sito prima dell'uso commerciale."
+  },
+
+  "fonti": [
+
+    {"id":"F01","nome":"FreeLaserFile","tipo":"GRATUITO","url":"https://freelaserfile.com/",
+     "formati":["DXF","SVG","AI","CDR"],"licenza":"COMMERCIALE",
+     "costo":"gratuito, senza registrazione",
+     "cosa_offre":"Libreria di file DXF e SVG pronti per Glowforge, xTool, Ortur e macchine CNC generiche.",
+     "qualita":"media","utile_per":"Studio rapido di geometrie e incastri, prototipazione interna.",
+     "note":"Dichiara uso commerciale libero e nessuna registrazione richiesta. Verificare comunque la scheda del singolo file: e' la prassi prudente su qualsiasi repository."},
+
+    {"id":"F02","nome":"Design Bundles — sezione laser gratuita","tipo":"GRATUITO","url":"https://designbundles.net/free-design-resources/free-laser-cutting-files",
+     "formati":["SVG","DXF","PNG","EPS","AI","CDR","PDF"],"licenza":"COMMERCIALE",
+     "costo":"gratuito con account",
+     "cosa_offre":"Selezione gratuita di file per taglio laser, scaricabili subito.",
+     "qualita":"medio-alta","utile_per":"Riferimenti di stile e struttura, studio di layout commerciali.",
+     "note":"I file gratuiti della sezione laser sono dichiarati con licenza sia personale sia commerciale. E' fra le fonti gratuite piu' chiare sul piano delle condizioni d'uso."},
+
+    {"id":"F03","nome":"Vectors File","tipo":"GRATUITO","url":"https://vectorsfile.com/",
+     "formati":["SVG","DXF","AI","EPS","CDR","PDF","DWG","STL","LightBurn"],"licenza":"COMMERCIALE",
+     "costo":"gratuito",
+     "cosa_offre":"Template vettoriali e progetti laser, inclusi file nativi LightBurn.",
+     "qualita":"media","utile_per":"Chi lavora in LightBurn e vuole partire da un file gia' impostato.",
+     "note":"Dichiara l'uso per progetti personali e commerciali, inclusa la creazione di prodotti da vendere."},
+
+    {"id":"F04","nome":"Free Patterns Area","tipo":"GRATUITO","url":"https://www.freepatternsarea.com/",
+     "formati":["DXF","CDR","EPS","PDF"],"licenza":"VARIABILE",
+     "costo":"gratuito",
+     "cosa_offre":"Vettoriali, disegni CAD e progetti di taglio, molto orientati al decorativo e al traforo.",
+     "qualita":"media","utile_per":"Pattern e trafori, studio di ponticelli e tratti minimi.",
+     "note":"Ottimo per capire come si risolvono i ponticelli in un traforo complesso. Licenza da verificare per file."},
+
+    {"id":"F05","nome":"Laser Craft Files","tipo":"MISTO","url":"https://lasercraftfiles.com/",
+     "formati":["SVG","DXF","PDF"],"licenza":"COMMERCIALE_LIMITATA",
+     "costo":"file gratuiti e a pagamento",
+     "cosa_offre":"Modelli assemblabili, scatole, organizer, oggetti 3D in legno.",
+     "qualita":"alta","utile_per":"Studio di incastri e di strutture assemblate.",
+     "note":"LIMITE DICHIARATO: la licenza commerciale consente la vendita fino a 250 modelli assemblati. Superato quel numero serve una licenza estesa. E' un buon esempio di quanto vanno lette le condizioni."},
+
+    {"id":"F06","nome":"Creative Fabrica","tipo":"A PAGAMENTO","url":"https://www.creativefabrica.com/subscriptions/graphics/laser-engraving/",
+     "formati":["SVG","DXF","PNG","EPS","font"],"licenza":"COMMERCIALE",
+     "costo":"abbonamento; le fonti pubbliche riportano cifre molto diverse fra loro (dell'ordine di 5 $/mese sul piano annuale fino a circa 29 $/mese sul mensile). Verificare il prezzo corrente sul sito prima di sottoscrivere.",
+     "cosa_offre":"Libreria molto ampia di grafica, font e file per incisione laser, oltre 6.800 risorse nella sola sezione laser.",
+     "qualita":"alta","utile_per":"Font, texture e pattern da usare come base di lavorazione, non come prodotto finito.",
+     "note":"L'abbonamento sblocca la libreria con licenza commerciale a vita su cio' che si scarica durante l'abbonamento. E' la fonte piu' utile per i FONT, che sono il vero collo di bottiglia di un catalogo personalizzabile."},
+
+    {"id":"F07","nome":"Design Bundles Plus","tipo":"A PAGAMENTO","url":"https://designbundles.net/plus",
+     "formati":["SVG","DXF","PNG","EPS","AI"],"licenza":"COMMERCIALE",
+     "costo":"abbonamento Plus con crediti mensili; piani annuali scontati rispetto al mensile",
+     "cosa_offre":"Oltre 218.000 risorse grafiche esclusive, inclusi file laser.",
+     "qualita":"alta","utile_per":"Grafica di supporto per la stampa UV, pattern, illustrazioni.",
+     "note":"Il piano Plus include un numero di crediti mensili per i prodotti esclusivi e uno sconto sugli acquisti. Modello a crediti, non a download illimitati: va valutato sul consumo reale."},
+
+    {"id":"F08","nome":"Glowforge Premium","tipo":"A PAGAMENTO","url":"https://support.glowforge.com/hc/en-us/articles/4605387818267-glowforge-premium-account-faq",
+     "formati":["SVG","catalogo integrato"],"licenza":"DA_VERIFICARE",
+     "costo":"circa 20 $/mese, oppure 239 $/anno in un'unica soluzione; prova di 14 giorni",
+     "cosa_offre":"Catalogo di design pronti e strumenti di progettazione assistita.",
+     "qualita":"alta","utile_per":"Ispirazione e strumenti, meno utile come fonte di file da produrre.",
+     "note":"Funziona con qualsiasi laser, non solo Glowforge. Le condizioni d'uso commerciale dei design del catalogo vanno verificate direttamente: non sono documentate in modo inequivocabile nelle fonti pubbliche."},
+
+    {"id":"F09","nome":"Etsy — sezione file digitali laser","tipo":"A PAGAMENTO","url":"https://www.etsy.com/market/glowforge_files",
+     "formati":["SVG","DXF","PDF","LightBurn"],"licenza":"VARIABILE",
+     "costo":"da pochi euro a file",
+     "cosa_offre":"Decine di migliaia di file singoli venduti da progettisti indipendenti.",
+     "qualita":"molto variabile","utile_per":"RICERCA DI MERCATO, prima ancora che come fonte di file: si vede in tempo reale cosa vende.",
+     "note":"La licenza la stabilisce il singolo venditore e cambia da inserzione a inserzione. E' anche il posto dove Ingly Design potrebbe VENDERE i propri file, non solo comprarli: e' un ricavo aggiuntivo a costo marginale zero sui disegni gia' fatti."},
+
+    {"id":"F10","nome":"Etsy — bundle di file laser","tipo":"A PAGAMENTO","url":"https://www.etsy.com/market/laser_cut_bundle",
+     "formati":["SVG","DXF"],"licenza":"VARIABILE",
+     "costo":"pacchetti da pochi euro a qualche decina",
+     "cosa_offre":"Raccolte tematiche di decine o centinaia di file.",
+     "qualita":"variabile","utile_per":"Vedere quali temi vengono raggruppati insieme: dice molto su come il mercato segmenta la domanda.",
+     "note":"Attenzione ai bundle che contengono personaggi e marchi protetti: sono diffusissimi e sono illeciti a prescindere da cosa dichiara il venditore."},
+
+    {"id":"F11","nome":"Cults 3D","tipo":"MISTO","url":"https://cults3d.com/",
+     "formati":["STL","SVG","DXF"],"licenza":"VARIABILE",
+     "costo":"file gratuiti e a pagamento",
+     "cosa_offre":"Marketplace di modelli, prevalentemente stampa 3D ma con sezione laser.",
+     "qualita":"alta","utile_per":"Studio di meccanismi e incastri complessi.",
+     "note":"Ogni autore imposta la propria licenza. Molto utile per capire come si risolve un meccanismo, poco per il taglio piano."},
+
+    {"id":"F12","nome":"Thingiverse","tipo":"GRATUITO","url":"https://www.thingiverse.com/",
+     "formati":["STL","SVG","DXF"],"licenza":"ATTRIBUZIONE",
+     "costo":"gratuito",
+     "cosa_offre":"Enorme archivio di progetti caricati dalla comunita', in prevalenza Creative Commons.",
+     "qualita":"variabile","utile_per":"Meccanismi, incastri, soluzioni tecniche non ovvie.",
+     "note":"Le licenze Creative Commons sono spesso con clausola NonCommercial o ShareAlike: la seconda obbligherebbe a rilasciare il proprio lavoro derivato con la stessa licenza. Per un'azienda e' quasi sempre incompatibile con la produzione da vendere."},
+
+    {"id":"F13","nome":"MakerFlo — libreria laser gratuita","tipo":"GRATUITO","url":"https://makerflo.com/blogs/craft-library/free-laser-engraving-cutting-files",
+     "formati":["SVG","DXF"],"licenza":"VARIABILE",
+     "costo":"gratuito",
+     "cosa_offre":"Oltre mille file per incisione e taglio, raccolti per categoria.",
+     "qualita":"media","utile_per":"Panoramica rapida delle tipologie di prodotto piu' diffuse.",
+     "note":"Utile soprattutto come indice ragionato di cosa esiste, piu' che come fonte da cui produrre."},
+
+    {"id":"F14","nome":"xTool — guida ai file gratuiti","tipo":"INDICE","url":"https://www.xtool.com/blogs/buyer-guide/free-laser-cut-files",
+     "formati":["indice di fonti"],"licenza":"VARIABILE",
+     "costo":"gratuito",
+     "cosa_offre":"Rassegna aggiornata di 25 siti da cui scaricare file laser.",
+     "qualita":"—","utile_per":"Punto di partenza per mappare le fonti disponibili.",
+     "note":"E' un articolo di rassegna, non un archivio. Va usato come mappa, verificando poi ogni fonte."},
+
+    {"id":"F15","nome":"Atomm — migliori siti DXF","tipo":"INDICE","url":"https://www.atomm.com/blog/2513-best-dxf-websites",
+     "formati":["indice di fonti"],"licenza":"VARIABILE",
+     "costo":"gratuito",
+     "cosa_offre":"Selezione di 15 siti per file DXF laser e CNC.",
+     "qualita":"—","utile_per":"Confronto fra archivi, orientato al DXF e quindi al taglio.",
+     "note":"Utile per trovare fonti orientate alla meccanica piu' che alla decorazione."},
+
+    {"id":"F16","nome":"TwoTrees — rassegna file gratuiti","tipo":"INDICE","url":"https://twotrees3d.com/blogs/twotrees-blog/the-best-free-websites-for-laser-cut-files-svgs-dxfs",
+     "formati":["indice di fonti"],"licenza":"VARIABILE",
+     "costo":"gratuito",
+     "cosa_offre":"Elenco commentato di archivi SVG e DXF.",
+     "qualita":"—","utile_per":"Verifica incrociata delle fonti gia' note.",
+     "note":"Da leggere insieme a F14 e F15: dove le tre rassegne concordano, la fonte e' probabilmente solida."},
+
+    {"id":"F17","nome":"FacFox — 40 fonti di SVG gratuiti","tipo":"INDICE","url":"https://facfox.com/news/40-places-to-download-free-svg-files-for-laser-cutting/",
+     "formati":["indice di fonti"],"licenza":"VARIABILE",
+     "costo":"gratuito",
+     "cosa_offre":"La rassegna piu' ampia fra quelle rilevate, oltre 40 fonti.",
+     "qualita":"—","utile_per":"Ricerca esaustiva quando serve un soggetto molto specifico.",
+     "note":"Quantita' alta, selezione bassa: molte fonti dell'elenco hanno licenze poco chiare."},
+
+    {"id":"F18","nome":"Cutting Paths","tipo":"MISTO","url":"https://cuttingpaths.com/",
+     "formati":["SVG","DXF"],"licenza":"VARIABILE",
+     "costo":"file gratuiti e a pagamento",
+     "cosa_offre":"Progetti per taglio laser organizzati per tipologia.",
+     "qualita":"media","utile_per":"Riferimenti di struttura per scatole e organizer.",
+     "note":"Leggere le condizioni sul singolo file prima di qualsiasi uso non personale."},
+
+    {"id":"F19","nome":"Creative Fabrica — licenza abbonamento","tipo":"DOCUMENTAZIONE","url":"https://www.creativefabrica.com/subscription-license/",
+     "formati":["—"],"licenza":"COMMERCIALE",
+     "costo":"—",
+     "cosa_offre":"Il testo della licenza dell'abbonamento, da leggere prima di sottoscrivere.",
+     "qualita":"—","utile_per":"Capire esattamente cosa si puo' e non si puo' fare col materiale scaricato.",
+     "note":"DOCUMENTO DA LEGGERE PER INTERO prima di basarci sopra un prodotto in vendita. Vale piu' di qualsiasi riassunto, incluso questo."},
+
+    {"id":"F20","nome":"We Can Make That — guida alle licenze commerciali","tipo":"DOCUMENTAZIONE","url":"https://wecanmakethat.me/commercial-use-svg-files/",
+     "formati":["—"],"licenza":"—",
+     "costo":"gratuito",
+     "cosa_offre":"Spiegazione pratica di cosa significa licenza commerciale per chi vende artigianato.",
+     "qualita":"—","utile_per":"Formazione di base per chiunque in azienda scarichi file.",
+     "note":"Da far leggere a chiunque tocchi i file in Ingly Design. La maggior parte dei problemi nasce da chi crede che 'gratuito' voglia dire 'libero'."},
+
+    {"id":"F21","nome":"Laser Templates — sezione bambini","tipo":"A PAGAMENTO","url":"https://laser-templates.com/collections/kids-stuff",
+     "formati":["SVG","DXF","PDF"],"licenza":"VARIABILE",
+     "costo":"a file",
+     "cosa_offre":"Progetti per giochi e arredo cameretta.",
+     "qualita":"alta","utile_per":"Studio delle soluzioni di sicurezza: spigoli, spessori, incastri per bambini.",
+     "note":"Utile soprattutto per capire come si dimensionano i pezzi destinati ai bambini piccoli."},
+
+    {"id":"F22","nome":"Creative Fabrica — metro di crescita a puzzle","tipo":"A PAGAMENTO","url":"https://www.creativefabrica.com/product/puzzle-piece-growth-chart-laser-cut-file/",
+     "formati":["SVG","DXF"],"licenza":"COMMERCIALE",
+     "costo":"a file o incluso nell'abbonamento",
+     "cosa_offre":"Esempio concreto di uno dei best seller della categoria bambini.",
+     "qualita":"alta","utile_per":"Studio della soluzione tecnica di un prodotto che vende molto.",
+     "note":"Serve a capire come e' risolto, non a produrlo: il nostro metro di crescita deve essere un disegno nostro."},
+
+    {"id":"F23","nome":"Busy Puzzle","tipo":"RIFERIMENTO","url":"https://busypuzzle.com/",
+     "formati":["prodotti finiti"],"licenza":"—",
+     "costo":"—",
+     "cosa_offre":"Produttore di giochi in legno per bambini, non fonte di file.",
+     "qualita":"alta","utile_per":"Riferimento di qualita' costruttiva e di finitura per la categoria bambini.",
+     "note":"Da guardare per capire lo standard di finitura, i raggi degli spigoli e il tipo di vernice."},
+
+    {"id":"F24","nome":"TechDraw — vendere file laser su Etsy","tipo":"DOCUMENTAZIONE","url":"https://techdrawai.com/blog/sell-laser-cut-files-on-etsy",
+     "formati":["—"],"licenza":"—",
+     "costo":"gratuito",
+     "cosa_offre":"Guida su come vendere i propri file laser come prodotto digitale.",
+     "qualita":"—","utile_per":"OPPORTUNITA' PER INGLY: i disegni gia' fatti per il catalogo fisico possono essere venduti anche come file, con costo marginale quasi nullo e nessuna logistica.",
+     "note":"Attenzione: vendere il file significa che altri produrranno quell'oggetto. Ha senso solo per i prodotti che NON vogliamo difendere come esclusivi, mai per le firme di catalogo."}
+
+  ],
+
+  "strategia_ingly": {
+    "titolo": "Come usare queste fonti senza farsi male",
+    "punti": [
+      "STUDIO, NON PRODUZIONE. Scaricare per capire come e' risolto un incastro o una tolleranza e' legittimo e utile. Produrre e vendere quell'oggetto e' un'altra cosa, e quasi sempre non si puo'.",
+      "Anche quando la licenza commerciale c'e', il problema resta commerciale: un file venduto a migliaia di persone genera un oggetto identico a quello di migliaia di concorrenti. Il prezzo di quell'oggetto e' gia' crollato prima che tu lo produca.",
+      "I FONT sono l'eccezione utile. Un catalogo personalizzabile vive di caratteri, e comprare una licenza font commerciale e' l'investimento con il rapporto costo-beneficio migliore fra tutte queste fonti.",
+      "Anche i PATTERN e le TEXTURE per la stampa UV si possono acquistare con licenza commerciale senza intaccare l'identita': la firma di Ingly Design sta nella geometria costruttiva, non nel riempimento.",
+      "Le rassegne (F14-F17) valgono piu' degli archivi. Servono a mappare cosa esiste e a non riscoprire l'acqua calda, che e' l'uso piu' produttivo del tempo.",
+      "L'opportunita' rovesciata: Ingly Design puo' VENDERE i propri file (F09, F24). Il disegno e' gia' fatto e pagato dal catalogo fisico, il costo marginale e' zero e non c'e' logistica. Ma solo sui prodotti che non vogliamo tenere esclusivi.",
+      "Prima di ogni acquisto o download destinato a un uso non personale: leggere la licenza per intero e archiviarne una copia con la data. Se un domani arriva una contestazione, la prova di cosa diceva la licenza quel giorno vale piu' di qualsiasi ricordo."
+    ]
+  }
+}

@@ -617,6 +617,11 @@ background:var(--surface);color:var(--ink);border-radius:0}
 input:focus-visible,select:focus-visible{outline:2px solid var(--acc);outline-offset:1px}
 input[type=search]{min-width:220px;flex:1}
 .count{font-family:var(--mono);font-size:11px;color:var(--soft);letter-spacing:.08em}
+.dl{display:flex;gap:6px;flex-wrap:wrap}
+button.dl-b{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;
+padding:8px 11px;border:1px solid var(--rule2);background:var(--surface);color:var(--mid);cursor:pointer}
+button.dl-b:hover{border-color:var(--acc);color:var(--acc)}
+button.dl-b:focus-visible{outline:2px solid var(--acc);outline-offset:1px}
 h2{font-size:26px;font-weight:800;letter-spacing:-.02em;margin:48px 0 6px}
 .cat-an{font-family:var(--serif);font-size:17px;line-height:1.6;color:var(--mid);max-width:72ch;margin:0 0 8px}
 .gaps{background:var(--accw);border-left:3px solid var(--accb);padding:14px 18px;margin:16px 0}
@@ -671,6 +676,33 @@ color:var(--mid);white-space:pre-wrap;word-break:break-word}
 footer{margin-top:64px;border-top:2px solid var(--ink);background:var(--surface);padding:28px 0 48px}
 footer p{font-family:var(--serif);font-size:15.5px;color:var(--mid);max-width:70ch}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+"""
+
+DL_JS = """
+function scarica(nome, testo, tipo){
+ const b=new Blob([testo],{type:tipo+';charset=utf-8'}),u=URL.createObjectURL(b),a=document.createElement('a');
+ a.href=u;a.download=nome;document.body.appendChild(a);a.click();a.remove();
+ setTimeout(function(){URL.revokeObjectURL(u)},1000);}
+function datiVisibili(){
+ const vis=new Set();document.querySelectorAll('.p').forEach(function(el){
+  if(el.style.display!=='none')vis.add(el.dataset.sku);});
+ return DATI.filter(function(r){return vis.has(r.sku)});}
+function csvDa(righe){
+ if(!righe.length)return '';
+ const c=Object.keys(righe[0]);
+ const esc=function(v){v=v==null?'':String(v);
+  return /[",\n;]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v};
+ return [c.join(';')].concat(righe.map(function(r){
+  return c.map(function(k){return esc(r[k])}).join(';')})).join('\n');}
+document.addEventListener('click',function(e){
+ const b=e.target.closest('[data-dl]');if(!b)return;
+ const d=datiVisibili(),oggi=new Date().toISOString().slice(0,10);
+ if(b.dataset.dl==='json')scarica('ingly-'+NOMEFILE+'-'+oggi+'.json',
+   JSON.stringify(d,null,2),'application/json');
+ if(b.dataset.dl==='csv')scarica('ingly-'+NOMEFILE+'-'+oggi+'.csv','\ufeff'+csvDa(d),'text/csv');
+ if(b.dataset.dl==='html')scarica('ingly-'+NOMEFILE+'-'+oggi+'.html',
+   '<!doctype html><html><head><meta charset="utf-8">'+document.head.innerHTML+
+   '</head><body>'+document.body.innerHTML+'</body></html>','text/html');});
 """
 
 JS = """
@@ -736,6 +768,11 @@ def scrivi_html(records, path):
     for t in tutti_tag:
         a(f'<option value="{esc(t)}">{esc(t)}</option>')
     a(f'</select><span class="count" id="n">{tot} prodotti</span>')
+    a('<span class="dl">'
+      '<button class="dl-b" data-dl="html" type="button">scarica pagina</button>'
+      '<button class="dl-b" data-dl="csv" type="button">csv</button>'
+      '<button class="dl-b" data-dl="json" type="button">json</button>'
+      '</span>')
     a('</div></nav><div class="wrap">')
 
     for cid, rs in per_cat.items():
@@ -769,8 +806,8 @@ def scrivi_html(records, path):
             cls = {"A+": "b-ap", "A": "b-a", "B": "b-b", "C": "b-c", "D": "b-d"}[r["priorita"]]
             hay = " ".join([r["sku"], r["nome"], r["tipo"], r["materiali"], r["keywords"],
                             r["tag"], r["concept"]]).lower()
-            a(f'<article class="p" data-cat="{cid}" data-prio="{r["priorita"]}" '
-              f'data-tag="{esc(r["tag"])}" data-s="{esc(hay)}">')
+            a(f'<article class="p" data-sku="{r["sku"]}" data-cat="{cid}" '
+              f'data-prio="{r["priorita"]}" data-tag="{esc(r["tag"])}" data-s="{esc(hay)}">')
             a('<div class="ph">')
             a(f'<span class="sku">{r["sku"]}</span><h3>{esc(r["nome"])}</h3>')
             a(f'<span class="t">{esc(r["tipo"])}</span><span class="sp"></span>')
@@ -824,6 +861,11 @@ def scrivi_html(records, path):
       'è 3× il costo diretto in B2C e 1,65× in B2B. I riferimenti di mercato servono a capire cosa vende, '
       'mai come modelli da replicare.</p>')
     a('</div></footer>')
+    a('<script type="application/json" id="dati">'
+      + json.dumps(records, ensure_ascii=False).replace("</", "<\\/") + "</script>")
+    a('<script>const DATI=JSON.parse(document.getElementById("dati").textContent);'
+      'const NOMEFILE="catalogo";</script>')
+    a(f"<script>{DL_JS}</script>")
     a(f"<script>{JS}</script>")
 
     with open(path, "w", encoding="utf-8") as fh:
