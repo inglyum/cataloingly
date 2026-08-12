@@ -13,6 +13,7 @@ Esce con codice 1 se trova errori bloccanti, cosi' puo' stare in una CI.
 """
 
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -105,11 +106,15 @@ def controlla(p):
         err.append(f"formato packaging inesistente: {pk}")
     elif len(dim) >= 2:
         maxd = PACK[pk]["max_mm"]
-        if maxd[0] and (dim[0] > maxd[0] or dim[1] > maxd[1]):
-            err.append(
-                f"il prodotto ({dim[0]}x{dim[1]}) non entra nel packaging "
-                f"'{PACK[pk]['nome']}' ({maxd[0]}x{maxd[1]})"
-            )
+        if maxd[0]:
+            # il pezzo si puo' ruotare dentro la scatola: confronto lato lungo con lato lungo
+            pezzo = sorted(dim[:2], reverse=True)
+            scatola = sorted(maxd[:2], reverse=True)
+            if pezzo[0] > scatola[0] or pezzo[1] > scatola[1]:
+                err.append(
+                    f"il prodotto ({dim[0]}x{dim[1]}) non entra nel packaging "
+                    f"'{PACK[pk]['nome']}' ({maxd[0]}x{maxd[1]}), nemmeno ruotato"
+                )
 
     # --- componenti -------------------------------------------------------
     for c in p.get("comp", {}):
@@ -142,11 +147,20 @@ def controlla(p):
     # --- proprieta' intellettuale ----------------------------------------
     testo = " ".join(str(p.get(k, "")) for k in
                      ("name", "concept", "usp", "diff", "prompt_prod", "prompt_img", "kw"))
-    vietati = ["pokemon", "disney", "marvel", "ghibli", "totoro", "one piece",
-               "naruto", "star wars", "harry potter", "nintendo", "hello kitty",
-               "batman", "spiderman", "super mario"]
-    for v in vietati:
-        if v in testo.lower():
+
+    # Termini inequivocabili: si cercano come PAROLA INTERA, senza distinzione di maiuscole.
+    vietati_parola = ["pokemon", "disney", "marvel", "ghibli", "totoro", "naruto",
+                      "nintendo", "batman", "spiderman", "pikachu", "minecraft"]
+    for v in vietati_parola:
+        if re.search(rf"\b{re.escape(v)}\b", testo, re.IGNORECASE):
+            err.append(f"RISCHIO COPYRIGHT/TRADEMARK: riferimento a proprieta' protetta '{v}'")
+
+    # Termini ambigui: 'one piece' e 'star wars' sono anche espressioni comuni in inglese
+    # ('lifting one piece out'). Qui si cerca solo la forma esatta del marchio, maiuscole comprese.
+    vietati_marchio = ["One Piece", "Star Wars", "Harry Potter", "Hello Kitty",
+                       "Super Mario", "Le Petit Prince"]
+    for v in vietati_marchio:
+        if re.search(rf"\b{re.escape(v)}\b", testo):
             err.append(f"RISCHIO COPYRIGHT/TRADEMARK: riferimento a proprieta' protetta '{v}'")
 
     # --- commerciale ------------------------------------------------------

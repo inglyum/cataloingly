@@ -1,0 +1,2210 @@
+{
+ "_categoria": "EVENT — 02 Eventi, Feste & Ricorrenze",
+ "_nota": "Il gap principale è la BOMBONIERA: mercato italiano ad altissimo volume, dominato da ceramica e argento, con il laser quasi assente. Finestra aprile-giugno per comunioni e cresime, produzione da avviare a febbraio. Regola: i pezzi a basso margine unitario non si vendono mai sciolti, solo dentro un pacchetto.",
+ "prodotti": [
+  {
+   "id": "ING-EVENT-WED-041",
+   "cat": "EVENT",
+   "coll": "MATRIMONIO",
+   "name": "Nome",
+   "tipo": "segnaposto in legno",
+   "tipo_en": "wooden place card",
+   "concept": "Cartellino con il nome inciso e un piccolo traforo ad arco che regge il tovagliolo.",
+   "target": "Sposi, wedding planner. Lotti da 80 a 150 pezzi.",
+   "desire": "Assegnare i posti senza i cartoncini che si accartocciano.",
+   "usp": "Il traforo tiene il tovagliolo: fa due lavori con un pezzo solo.",
+   "diff": "Progettato per il nesting a taglio comune, che su 150 pezzi è l'intero margine.",
+   "platform": "P1",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2",
+   "dim": [
+    96,
+    48,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 300,
+   "vec_mm": 220,
+   "eng_cm2": 4,
+   "comp": {},
+   "pack": "sfuso_b2b",
+   "lotto": 150,
+   "mkt": [
+    1.5,
+    4
+   ],
+   "person": [
+    "nome",
+    "tavolo",
+    "data",
+    "font"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-WED-042 tableau",
+    "ING-EVENT-WED-044 numeri tavolo",
+    "ING-EVENT-BOMB-048 bomboniera"
+   ],
+   "bundle": [
+    "PACCHETTO CERIMONIA COMPLETO",
+    "SET TAVOLA: segnaposto + numeri + menu"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_name_place_cards",
+   "kw": [
+    "segnaposto matrimonio legno",
+    "segnaposto personalizzato",
+    "place card legno",
+    "wedding place cards wood"
+   ],
+   "s_demand": 18,
+   "s_comp": 4,
+   "s_person": 10,
+   "s_gift": 4,
+   "s_uniq": 5,
+   "prompt_prod": "Betulla 3 mm 96x48, testa ad arco R12. Nome ENGRAVE-V h 8 mm. Asola ad arco 40x6 sul bordo inferiore per infilare il tovagliolo. NESTING A TAGLIO COMUNE obbligatorio: i pezzi condividono il bordo lungo, la lunghezza di taglio scende del 40 percento. 120 pz/foglio. MAI venduto sciolto: solo dentro un pacchetto cerimonia.",
+   "prompt_img": "a row of small wooden place cards 96x48 mm on a set wedding table, each with an engraved guest name and an arched slot holding a folded linen napkin, birch with toasted laser edges, soft candlelight"
+  },
+  {
+   "id": "ING-EVENT-WED-042",
+   "cat": "EVENT",
+   "coll": "MATRIMONIO",
+   "name": "Tableau",
+   "tipo": "tableau modulare con telaio riutilizzabile",
+   "tipo_en": "modular seating chart frame",
+   "concept": "Telaio con guide a scanalatura e tessere-nome intercambiabili: il telaio resta, le tessere cambiano.",
+   "target": "Wedding planner, location, sposi.",
+   "desire": "Un tableau scenografico senza rifare tutto da zero a ogni matrimonio.",
+   "usp": "Il telaio diventa prodotto di catalogo o noleggiabile, le tessere sono il consumabile.",
+   "diff": "Il tableau di mercato è sempre pezzo unico irripetibile: qui l'economia del prodotto cambia del tutto.",
+   "platform": "P5",
+   "mat": [
+    "mdfnero10",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.6
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    420,
+    600,
+    20
+   ],
+   "layers": 2,
+   "cut_mm": 3600,
+   "vec_mm": 1600,
+   "eng_cm2": 50,
+   "uv_cm2": 500,
+   "uv_white": true,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "scatola_xl",
+   "lotto": 8,
+   "mkt": [
+    70,
+    280
+   ],
+   "person": [
+    "nomi",
+    "tavoli",
+    "data",
+    "colore"
+   ],
+   "tags": [
+    "PREMIUM",
+    "B2B",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-WED-043 tessere ricambio",
+    "ING-EVENT-WED-041 segnaposto",
+    "ING-EVENT-WED-045 welcome sign"
+   ],
+   "bundle": [
+    "PACCHETTO CERIMONIA COMPLETO",
+    "NOLEGGIO WEDDING PLANNER"
+   ],
+   "ref": "https://www.etsy.com/market/wedding_seating_chart",
+   "kw": [
+    "tableau matrimonio legno",
+    "seating chart personalizzato",
+    "tableau de mariage laser",
+    "wedding seating chart wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 10,
+   "s_person": 10,
+   "s_gift": 6,
+   "s_uniq": 10,
+   "prompt_prod": "Telaio MDF laccato nero 10 mm 420x600, testa ad arco R12. Sei guide a scanalatura 4,2 mm ricavate sui montanti, passo verticale 84 mm. Tessere betulla 4 mm 384x72 scorrevoli, una per tavolo, con nomi ENGRAVE-V h 6 mm. Area intestazione 200x60 con nomi degli sposi e data. Aggancio a 2 punti, peso oltre 3 kg.",
+   "prompt_img": "a wall-mounted wedding seating chart 420x600 mm, matte black lacquered frame with an arched top, six interchangeable birch tiles sliding in grooved rails engraved with table names and guests, gold couple names at the header, on a stone wall with greenery"
+  },
+  {
+   "id": "ING-EVENT-WED-043",
+   "cat": "EVENT",
+   "coll": "MATRIMONIO",
+   "name": "Tessera",
+   "tipo": "tessere nome di ricambio per tableau",
+   "tipo_en": "replacement chart tiles",
+   "concept": "Le tessere incise che scorrono nel telaio del tableau, vendute a set.",
+   "target": "Wedding planner e location che hanno già il telaio.",
+   "desire": "Riusare il telaio per l'evento successivo cambiando solo i nomi.",
+   "usp": "È il consumabile che genera il riacquisto: il telaio si vende una volta, le tessere sempre.",
+   "diff": "Modello a ricorrenza applicato a una categoria che vive di pezzi unici.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    384,
+    72,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 960,
+   "vec_mm": 900,
+   "eng_cm2": 20,
+   "uv_cm2": 80,
+   "comp": {},
+   "pack": "sfuso_b2b",
+   "lotto": 60,
+   "mkt": [
+    4,
+    14
+   ],
+   "person": [
+    "nomi",
+    "tavolo",
+    "font",
+    "colore"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-WED-042 telaio tableau",
+    "ING-EVENT-WED-041 segnaposto",
+    "ING-EVENT-WED-044 numeri tavolo"
+   ],
+   "bundle": [
+    "NOLEGGIO WEDDING PLANNER",
+    "RICAMBI TABLEAU x12"
+   ],
+   "ref": "https://www.etsy.com/market/seating_cards",
+   "kw": [
+    "tessere tableau ricambio",
+    "targhette nomi tavoli",
+    "tessere seating chart",
+    "seating chart name tiles"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 3,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 4 mm 384x72, spessore calibrato sulla guida da 4,2 mm del telaio: gioco 0,2 mm perché scorra senza ballare. Nome tavolo ENGRAVE-V h 10 mm a sinistra, elenco ospiti h 6 mm a destra su due colonne. Fascia UV colore sul bordo sinistro per il codice tavolo. Nesting 6 tessere/foglio.",
+   "prompt_img": "three long wooden tiles 384x72 mm lying on a workbench, each engraved with a table name and a two-column guest list, a coloured printed band on the left edge, one being slid into a black grooved frame"
+  },
+  {
+   "id": "ING-EVENT-WED-044",
+   "cat": "EVENT",
+   "coll": "MATRIMONIO",
+   "name": "Tavolo",
+   "tipo": "numero tavolo cerimonia bifacciale",
+   "tipo_en": "double-sided ceremony table number",
+   "concept": "Cifra traforata su base scanalata, con pannello colorato dietro coordinato al tema dell'evento.",
+   "target": "Sposi, wedding planner, location. Lotti da 10 a 25.",
+   "desire": "Numerare i tavoli in modo coordinato con il resto dell'allestimento.",
+   "usp": "Condivide la base P2 con altri otto prodotti a catalogo: costo di sviluppo già ammortizzato.",
+   "diff": "Con 4.000 inserzioni concorrenti si entra solo dentro un pacchetto, mai da soli.",
+   "platform": "P2",
+   "mat": [
+    "betulla6",
+    "betulla3"
+   ],
+   "quota_mat": {
+    "betulla3": 0.4
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    144,
+    12
+   ],
+   "layers": 2,
+   "cut_mm": 1000,
+   "vec_mm": 420,
+   "eng_cm2": 10,
+   "uv_cm2": 60,
+   "uv_white": true,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 25,
+   "mkt": [
+    6,
+    20
+   ],
+   "person": [
+    "numero",
+    "colore",
+    "data",
+    "font"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-EVENT-WED-041 segnaposto",
+    "ING-EVENT-WED-049 menu cerimonia",
+    "ING-EVENT-WED-042 tableau"
+   ],
+   "bundle": [
+    "PACCHETTO CERIMONIA COMPLETO",
+    "SET TAVOLA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_table_numbers",
+   "kw": [
+    "numeri tavolo matrimonio",
+    "segnatavolo cerimonia legno",
+    "numeri tavolo laser",
+    "wedding table numbers wood"
+   ],
+   "s_demand": 16,
+   "s_comp": 5,
+   "s_person": 9,
+   "s_gift": 4,
+   "s_uniq": 6,
+   "prompt_prod": "Lastra betulla 6 mm 96x144, cifra CUT traforata h 72 mm leggibile in piedi a 2 m. Pannello betulla 3 mm UV nel colore del tema incollato a filo sul retro. Base P2 96x48 con asola 5,85 mm. Data degli sposi ENGRAVE-V h 4 mm sotto la cifra. Gommini.",
+   "prompt_img": "a double-sided wedding table number in a slotted birch base, the numeral 5 cut straight through revealing a dusty rose panel behind, small engraved date beneath, on a set table with candles and eucalyptus"
+  },
+  {
+   "id": "ING-EVENT-WED-045",
+   "cat": "EVENT",
+   "coll": "MATRIMONIO",
+   "name": "Benvenuti",
+   "tipo": "welcome sign con tessera rimovibile",
+   "tipo_en": "welcome sign with removable tile",
+   "concept": "Pannello di benvenuto dove nomi e data stanno su una tessera che si sfila dopo l'evento.",
+   "target": "Sposi, wedding planner, location.",
+   "desire": "Accogliere gli ospiti con un pezzo che poi resta in casa.",
+   "usp": "Sfilata la tessera, il pannello diventa decorazione domestica: da oggetto monouso a regalo che dura.",
+   "diff": "Nessuno progetta il welcome sign per sopravvivere all'evento, ed è un argomento di vendita fortissimo.",
+   "platform": "P5",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    420,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 2600,
+   "vec_mm": 1000,
+   "eng_cm2": 50,
+   "uv_cm2": 420,
+   "uv_white": true,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "scatola_g",
+   "lotto": 12,
+   "mkt": [
+    50,
+    180
+   ],
+   "person": [
+    "nomi",
+    "data",
+    "colore",
+    "frase"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-EVENT-WED-042 tableau",
+    "ING-EVENT-WED-051 indicazioni",
+    "ING-EVENT-WED-044 numeri tavolo"
+   ],
+   "bundle": [
+    "PACCHETTO CERIMONIA COMPLETO",
+    "ACCOGLIENZA: welcome + indicazioni"
+   ],
+   "ref": "https://www.etsy.com/market/wedding_seating_chart",
+   "kw": [
+    "welcome sign matrimonio",
+    "cartello benvenuto nozze legno",
+    "insegna benvenuto cerimonia",
+    "wedding welcome sign wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 9,
+   "s_person": 10,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Fondo betulla 8 mm 300x420 con UV PRINT nel colore del tema e motivo floreale geometrico. Strato frontale betulla 4 mm distanziato 4 mm con apertura ad arco R12. TESSERA RIMOVIBILE betulla 4 mm 240x96 con nomi e data, alloggiata in due guide a scanalatura: si sfila senza attrezzi. Aggancio a 2 punti.",
+   "prompt_img": "a wedding welcome sign 300x420 mm on an easel at a venue entrance, birch front layer with an arched aperture, a removable engraved tile with the couple's names and date seated in grooves, printed floral geometric panel behind, warm outdoor light"
+  },
+  {
+   "id": "ING-EVENT-WED-046",
+   "cat": "EVENT",
+   "coll": "MATRIMONIO",
+   "name": "Scrigno",
+   "tipo": "cassetta buste con serratura",
+   "tipo_en": "wedding card box with lock",
+   "concept": "Cassetta chiusa con fessura, coperchio incernierato e serratura a chiave vera.",
+   "target": "Sposi, location.",
+   "desire": "Raccogliere le buste degli ospiti sentendosi tranquilli.",
+   "usp": "La serratura vera è il dettaglio che giustifica da solo la differenza di prezzo.",
+   "diff": "Le cassette di mercato hanno serrature simboliche o nessuna.",
+   "platform": "P3",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    204,
+    204
+   ],
+   "layers": 1,
+   "cut_mm": 3400,
+   "vec_mm": 1000,
+   "eng_cm2": 60,
+   "uv_cm2": 200,
+   "uv_white": true,
+   "comp": {
+    "serratura": 1
+   },
+   "pack": "scatola_g",
+   "lotto": 12,
+   "mkt": [
+    50,
+    150
+   ],
+   "person": [
+    "nomi",
+    "data",
+    "colore",
+    "frase"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-WED-045 welcome sign",
+    "ING-EVENT-WED-047 guest book",
+    "ING-EVENT-WED-042 tableau"
+   ],
+   "bundle": [
+    "PACCHETTO CERIMONIA COMPLETO",
+    "RICORDO NOZZE: cassetta + guest book"
+   ],
+   "ref": "https://www.etsy.com/market/wedding_seating_chart",
+   "kw": [
+    "cassetta buste matrimonio",
+    "urna matrimonio legno",
+    "card box nozze",
+    "wedding card box lock"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Scatola betulla 8 mm 300x204x204, incastri 45 gradi + colla (non si smonta). Fessura superiore 140x8 mm. Coperchio incernierato con serratura a chiave. Fronte con apertura ad arco R12 e pannello UV. Nomi e data ENGRAVE-V. VERIFICA DI CARICO: deve reggere piena senza cedere sugli incastri del fondo.",
+   "prompt_img": "a wooden wedding card box 300x204x204 mm with a slot in the lid, small brass lock, arched printed panel on the front with engraved names and date, envelopes visible in the slot, on a decorated welcome table"
+  },
+  {
+   "id": "ING-EVENT-WED-047",
+   "cat": "EVENT",
+   "coll": "MATRIMONIO",
+   "name": "Firme",
+   "tipo": "guest book a tessere componibili",
+   "tipo_en": "tile guest book",
+   "concept": "Cento tessere sagomate che gli ospiti firmano e che, incastrate tutte, compongono un disegno unico.",
+   "target": "Sposi, cerimonie, anniversari.",
+   "desire": "Un libro firme che diventi un quadro invece di finire in un cassetto.",
+   "usp": "La firma di ogni ospite è un pezzo del quadro finale: è un'esperienza, non un adempimento.",
+   "diff": "Le versioni a tessere sono poche e nessuna compone un disegno.",
+   "platform": "P7",
+   "mat": [
+    "betulla4",
+    "betulla8"
+   ],
+   "quota_mat": {
+    "betulla8": 0.4
+   },
+   "tech": "CO2",
+   "dim": [
+    396,
+    300,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 6800,
+   "vec_mm": 800,
+   "eng_cm2": 30,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "scatola_g",
+   "lotto": 10,
+   "mkt": [
+    45,
+    140
+   ],
+   "person": [
+    "nomi",
+    "data",
+    "disegno"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-WED-046 cassetta buste",
+    "ING-EVENT-WED-045 welcome sign",
+    "ING-EVENT-KEEP-058 targa anniversario"
+   ],
+   "bundle": [
+    "RICORDO NOZZE",
+    "PACCHETTO CERIMONIA COMPLETO"
+   ],
+   "ref": "https://www.etsy.com/market/seating_cards",
+   "kw": [
+    "guest book legno matrimonio",
+    "libro firme alternativo",
+    "guestbook tessere legno",
+    "wooden guest book tiles"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Cornice betulla 8 mm 396x300. Cento tessere betulla 4 mm sagomate a incastro che compongono un motivo (cuore geometrico, albero, iniziali intrecciate). CARTEGGIATURA OBBLIGATORIA della faccia da firmare: se il pennarello sbava sulla venatura il prodotto è fallito. Provino con tre pennarelli diversi prima del lancio.",
+   "prompt_img": "a wooden guest book frame 396x300 mm on a table, a hundred interlocking birch tiles composing a geometric tree, some already signed in black pen, a guest placing a signed tile into the pattern, warm reception light"
+  },
+  {
+   "id": "ING-EVENT-BOMB-048",
+   "cat": "EVENT",
+   "coll": "BOMBONIERA",
+   "name": "Confetto",
+   "tipo": "scatolina portaconfetti a incastro",
+   "tipo_en": "flat-pack favour box",
+   "concept": "Scatolina in betulla che si monta senza colla e si spedisce piatta.",
+   "target": "Famiglie, cerimonie, comunioni e cresime. Lotti da 50 a 200.",
+   "desire": "Una bomboniera che non sia il solito tulle col cartoncino.",
+   "usp": "Si spedisce piatta: il costo logistico su 150 pezzi crolla rispetto alle scatole montate.",
+   "diff": "Il portaconfetti di mercato è cartoncino; in legno a incastro è un altro prodotto.",
+   "platform": "P3",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    72,
+    72,
+    60
+   ],
+   "layers": 1,
+   "cut_mm": 900,
+   "vec_mm": 400,
+   "eng_cm2": 10,
+   "uv_cm2": 40,
+   "comp": {
+    "nastro": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 150,
+   "mkt": [
+    2,
+    6
+   ],
+   "person": [
+    "nome",
+    "data",
+    "simbolo",
+    "colore"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-BOMB-049 segnalibro bomboniera",
+    "ING-EVENT-BOMB-050 magnete bomboniera",
+    "ING-EVENT-CERI-055 quadretto comunione"
+   ],
+   "bundle": [
+    "BOMBONIERE COMUNIONE x100",
+    "PACCHETTO CERIMONIA COMPLETO"
+   ],
+   "ref": "https://www.albalu.it/bomboniere-2026-idee-personalizzate/",
+   "kw": [
+    "scatolina portaconfetti legno",
+    "bomboniera scatolina laser",
+    "portaconfetti personalizzato",
+    "wooden favour box"
+   ],
+   "s_demand": 17,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 3 mm, sviluppo piano 200x150, montata 72x72x60. Incastri a dente 45 gradi SENZA COLLA, montaggio in 4 mosse. Coperchio con traforo ad arco R12 e passaggio nastro. Nome e data ENGRAVE-V sul fronte. Nesting 8 sviluppi/foglio. Istruzioni di montaggio incise sul telaio di sfrido.",
+   "prompt_img": "a small wooden favour box 72x72x60 mm tied with a satin ribbon, arched cut-out on the lid, engraved name and date on the front, sugared almonds visible inside, with the flat unassembled sheet lying beside it"
+  },
+  {
+   "id": "ING-EVENT-BOMB-049",
+   "cat": "EVENT",
+   "coll": "BOMBONIERA",
+   "name": "Pagina",
+   "tipo": "bomboniera segnalibro inciso",
+   "tipo_en": "bookmark favour",
+   "concept": "Segnalibro sottile con nome, data e simbolo della cerimonia, in busta con confetti.",
+   "target": "Comunioni, cresime, lauree, battesimi.",
+   "desire": "Una bomboniera che si usi davvero invece di finire in un cassetto.",
+   "usp": "È un oggetto d'uso: resta in casa dell'invitato per anni dentro un libro.",
+   "diff": "La bomboniera di mercato è un soprammobile; questa lavora.",
+   "platform": "P1",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    36,
+    144,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 400,
+   "vec_mm": 200,
+   "eng_cm2": 6,
+   "uv_cm2": 18,
+   "comp": {
+    "nastro": 1
+   },
+   "pack": "busta",
+   "lotto": 150,
+   "mkt": [
+    2.5,
+    7
+   ],
+   "person": [
+    "nome",
+    "data",
+    "simbolo",
+    "frase"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-BOMB-048 scatolina",
+    "ING-EVENT-BOMB-050 magnete",
+    "ING-EVENT-CERI-055 quadretto"
+   ],
+   "bundle": [
+    "BOMBONIERE COMUNIONE x100",
+    "BOMBONIERE CRESIMA x80"
+   ],
+   "ref": "https://www.albalu.it/bomboniere-2026-idee-personalizzate/",
+   "kw": [
+    "bomboniera segnalibro legno",
+    "bomboniera comunione personalizzata",
+    "segnalibro cresima",
+    "communion bookmark favour"
+   ],
+   "s_demand": 16,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 3 mm 36x144, testa ad arco R12 con foro Ø4 per nastro. Simbolo della cerimonia CUT traforato (croce geometrica, calice, colomba ridotti a forma pura, mai illustrativi). Nome e data ENGRAVE-V h 5 mm. Fascia UV colore in coda. Nesting 40 pz/foglio. Produzione da febbraio per la finestra aprile-giugno.",
+   "prompt_img": "a slim wooden bookmark 36x144 mm with a geometric cross cut through the head, engraved name and date below, a thin satin ribbon through the top hole, resting on an open missal, soft church light"
+  },
+  {
+   "id": "ING-EVENT-BOMB-050",
+   "cat": "EVENT",
+   "coll": "BOMBONIERA",
+   "name": "Memoria",
+   "tipo": "bomboniera magnete a due strati",
+   "tipo_en": "magnet favour",
+   "concept": "Magnete con simbolo traforato su pannello colorato, nome e data incisi.",
+   "target": "Comunioni, cresime, battesimi, matrimoni.",
+   "desire": "Una bomboniera piccola che resti in vista, non in un cassetto.",
+   "usp": "Sul frigo lo vedono tutti i giorni: è la bomboniera con la vita più lunga.",
+   "diff": "Due strati veri invece della solita stampa piatta su legno.",
+   "platform": "P1",
+   "mat": [
+    "betulla4",
+    "betulla3"
+   ],
+   "quota_mat": {
+    "betulla3": 0.6
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    60,
+    72,
+    7
+   ],
+   "layers": 2,
+   "cut_mm": 460,
+   "vec_mm": 220,
+   "eng_cm2": 6,
+   "uv_cm2": 34,
+   "uv_white": true,
+   "comp": {
+    "lamina_magnetica": 1
+   },
+   "pack": "busta",
+   "lotto": 150,
+   "mkt": [
+    2.5,
+    7
+   ],
+   "person": [
+    "nome",
+    "data",
+    "simbolo",
+    "colore"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-BOMB-049 segnalibro",
+    "ING-EVENT-BOMB-051 sottobicchiere",
+    "ING-EVENT-BOMB-048 scatolina"
+   ],
+   "bundle": [
+    "BOMBONIERE COMUNIONE x100",
+    "BOMBONIERE BATTESIMO x60"
+   ],
+   "ref": "https://www.albalu.it/bomboniere-2026-idee-personalizzate/",
+   "kw": [
+    "bomboniera magnete legno",
+    "calamita bomboniera personalizzata",
+    "bomboniera battesimo magnete",
+    "magnet favour wood"
+   ],
+   "s_demand": 16,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 8,
+   "prompt_prod": "Fondo betulla 3 mm 60x72 con UV colore pieno. Fronte betulla 4 mm con simbolo CUT traforato, incollato a filo. Nome e data ENGRAVE-V h 4 mm sul bordo inferiore. Lamina magnetica sul retro. Nesting 60 set/foglio.",
+   "prompt_img": "a small two-layer wooden magnet 60x72 mm on a fridge door, a geometric dove cut through the front layer revealing a soft blue panel behind, engraved name and date along the bottom edge"
+  },
+  {
+   "id": "ING-EVENT-BOMB-051",
+   "cat": "EVENT",
+   "coll": "BOMBONIERA",
+   "name": "Brindisi",
+   "tipo": "bomboniera sottobicchiere singolo",
+   "tipo_en": "single coaster favour",
+   "concept": "Sottobicchiere singolo con pattern stampato e dedica incisa sul bordo.",
+   "target": "Matrimoni, anniversari, lauree.",
+   "desire": "Una bomboniera utile che entri nella vita quotidiana dell'invitato.",
+   "usp": "Costo industriale bassissimo e valore percepito alto: il rapporto migliore della categoria.",
+   "diff": "Sottobicchiere singolo pensato come bomboniera, non set spezzato.",
+   "platform": "P1",
+   "mat": [
+    "betulla4",
+    "sughero2"
+   ],
+   "quota_mat": {
+    "sughero2": 0.9
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    96,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 340,
+   "vec_mm": 300,
+   "eng_cm2": 0,
+   "uv_cm2": 72,
+   "uv_white": true,
+   "comp": {
+    "nastro": 1
+   },
+   "pack": "busta",
+   "lotto": 120,
+   "mkt": [
+    2.5,
+    8
+   ],
+   "person": [
+    "nomi",
+    "data",
+    "pattern",
+    "colore"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-BOMB-050 magnete",
+    "ING-EVENT-BOMB-049 segnalibro",
+    "ING-HOME-TAV-012 set coaster"
+   ],
+   "bundle": [
+    "BOMBONIERE MATRIMONIO x120",
+    "PACCHETTO CERIMONIA COMPLETO"
+   ],
+   "ref": "https://www.albalu.it/bomboniere-2026-idee-personalizzate/",
+   "kw": [
+    "bomboniera sottobicchiere",
+    "bomboniera utile matrimonio",
+    "sottobicchiere personalizzato nozze",
+    "coaster wedding favour"
+   ],
+   "s_demand": 15,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 4 mm Ø96 + sughero 2 mm sotto. UV WHITE + CMYK pattern coordinato al tema. Nomi e data ENGRAVE-V lungo un arco sul bordo, non al centro: il bicchiere copre il centro. Nesting 30 pz/foglio.",
+   "prompt_img": "a single round wooden coaster 96 mm printed with a soft geometric floral pattern, names and a date engraved along the curved edge, cork backing, tied with a thin ribbon, beside a champagne flute"
+  },
+  {
+   "id": "ING-EVENT-BOMB-052",
+   "cat": "EVENT",
+   "coll": "BOMBONIERA",
+   "name": "Chiave",
+   "tipo": "bomboniera portachiavi con simbolo",
+   "tipo_en": "keyring favour",
+   "concept": "Portachiavi con simbolo traforato e dedica, in busta con confetti.",
+   "target": "Cresime, lauree, 18 anni, matrimoni.",
+   "desire": "Una bomboniera che i ragazzi tengano davvero.",
+   "usp": "Per il pubblico giovane il portachiavi è l'unica bomboniera che sopravvive.",
+   "diff": "Formato scelto sul destinatario reale, non sulla tradizione.",
+   "platform": "P1",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    48,
+    72,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 320,
+   "vec_mm": 200,
+   "eng_cm2": 5,
+   "uv_cm2": 24,
+   "comp": {
+    "anello_pck": 1
+   },
+   "pack": "busta",
+   "lotto": 150,
+   "mkt": [
+    2.5,
+    8
+   ],
+   "person": [
+    "nome",
+    "data",
+    "simbolo",
+    "colore"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-BOMB-049 segnalibro",
+    "ING-EVENT-BOMB-050 magnete",
+    "ING-EVENT-CERI-056 quadretto cresima"
+   ],
+   "bundle": [
+    "BOMBONIERE CRESIMA x80",
+    "BOMBONIERE 18 ANNI x60"
+   ],
+   "ref": "https://www.albalu.it/bomboniere-2026-idee-personalizzate/",
+   "kw": [
+    "bomboniera portachiavi legno",
+    "portachiavi cresima personalizzato",
+    "bomboniera 18 anni",
+    "keyring favour wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 6 mm 48x72, testa ad arco R12, foro Ø5 per anello. Simbolo CUT traforato. Nome e data ENGRAVE-V h 4 mm. Fascia UV colore. Spigoli smussati: sta in tasca. Nesting 90 pz/foglio, riempitivo dei fogli degli altri prodotti cerimonia.",
+   "prompt_img": "a small wooden keyring 48x72 mm with a geometric symbol cut through, engraved name and date, split ring attached, lying on a table with sugared almonds and a small organza bag"
+  },
+  {
+   "id": "ING-EVENT-CERI-053",
+   "cat": "EVENT",
+   "coll": "CERIMONIA",
+   "name": "Prima Luce",
+   "tipo": "quadretto ricordo prima comunione",
+   "tipo_en": "first communion keepsake",
+   "concept": "Pannello a due strati con calice geometrico traforato, nome, data e parrocchia.",
+   "target": "Famiglie, padrini e madrine. Finestra aprile-giugno.",
+   "desire": "Un ricordo della cerimonia che stia bene appeso in casa.",
+   "usp": "Segmento italiano ad altissimo volume dove il laser è quasi assente.",
+   "diff": "I simboli sono ridotti a geometria pura, mai illustrazioni devozionali stampate.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    156,
+    204,
+    14
+   ],
+   "layers": 2,
+   "cut_mm": 1700,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    18,
+    55
+   ],
+   "person": [
+    "nome",
+    "data",
+    "parrocchia",
+    "frase"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "SEASONAL",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-BOMB-049 segnalibro",
+    "ING-EVENT-BOMB-048 scatolina",
+    "ING-EVENT-CERI-054 quadretto cresima"
+   ],
+   "bundle": [
+    "COMUNIONE COMPLETA: quadretto + 100 bomboniere",
+    "PACCHETTO CERIMONIA"
+   ],
+   "ref": "https://www.albalu.it/bomboniere-2026-idee-personalizzate/",
+   "kw": [
+    "ricordo prima comunione legno",
+    "quadretto comunione personalizzato",
+    "regalo comunione bambino",
+    "first communion keepsake wood"
+   ],
+   "s_demand": 16,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Fondo betulla 6 mm 156x204 con UV PRINT avorio e oro. Strato frontale betulla 4 mm distanziato 3 mm con calice CUT traforato costruito su archi R12, mai figurativo. Nome h 10 mm, data e parrocchia h 5 mm ENGRAVE-V. Testa ad arco R12. Aggancio a fessura sul retro. PRODUZIONE DA FEBBRAIO.",
+   "prompt_img": "a layered wooden keepsake plaque 156x204 mm, a geometric chalice cut through the front birch layer revealing an ivory and gold printed panel, engraved child's name and date below, arched top, on a wall beside a family photo"
+  },
+  {
+   "id": "ING-EVENT-CERI-054",
+   "cat": "EVENT",
+   "coll": "CERIMONIA",
+   "name": "Conferma",
+   "tipo": "quadretto ricordo cresima",
+   "tipo_en": "confirmation keepsake",
+   "concept": "Pannello con colomba geometrica traforata e sette raggi incisi, nome e data.",
+   "target": "Famiglie, padrini. Ragazzi 12-14 anni.",
+   "desire": "Un ricordo adatto a un ragazzo, non a un bambino piccolo.",
+   "usp": "Registro grafico più adulto: il destinatario ha quattordici anni, non sette.",
+   "diff": "Il mercato tratta cresima e comunione allo stesso modo, e sbaglia il destinatario.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    156,
+    204,
+    14
+   ],
+   "layers": 2,
+   "cut_mm": 1700,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    18,
+    55
+   ],
+   "person": [
+    "nome",
+    "data",
+    "parrocchia",
+    "frase"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "SEASONAL",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-BOMB-052 portachiavi",
+    "ING-EVENT-BOMB-049 segnalibro",
+    "ING-EVENT-CERI-053 quadretto comunione"
+   ],
+   "bundle": [
+    "CRESIMA COMPLETA: quadretto + 80 bomboniere",
+    "PACCHETTO CERIMONIA"
+   ],
+   "ref": "https://www.albalu.it/bomboniere-2026-idee-personalizzate/",
+   "kw": [
+    "ricordo cresima legno",
+    "quadretto cresima personalizzato",
+    "regalo cresima ragazzo",
+    "confirmation keepsake wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Stessa matrice del quadretto comunione, soggetto e palette diversi: colomba ridotta a tre archi R12 sovrapposti, sette raggi ENGRAVE-V a raggiera. Palette grafite e rame invece di avorio e oro: registro più adulto. Nome h 10 mm.",
+   "prompt_img": "a layered wooden keepsake 156x204 mm, a dove abstracted into three overlapping arcs cut through the front layer, seven engraved rays radiating behind, graphite and copper printed panel, engraved name and date, on a dark wall"
+  },
+  {
+   "id": "ING-EVENT-CERI-055",
+   "cat": "EVENT",
+   "coll": "CERIMONIA",
+   "name": "Culla",
+   "tipo": "quadretto ricordo battesimo",
+   "tipo_en": "christening keepsake",
+   "concept": "Pannello con onda geometrica traforata, nome, data e peso del bambino.",
+   "target": "Famiglie, padrini, nonni. Regalo di battesimo.",
+   "desire": "Un ricordo del battesimo che resti in cameretta.",
+   "usp": "I dati del bambino lo rendono irripetibile e sottraggono il prodotto al confronto di prezzo.",
+   "diff": "Battesimo e nascita sono molto meno presidiati del matrimonio a parità di domanda.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    156,
+    204,
+    14
+   ],
+   "layers": 2,
+   "cut_mm": 1700,
+   "vec_mm": 800,
+   "eng_cm2": 34,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    18,
+    60
+   ],
+   "person": [
+    "nome",
+    "data",
+    "peso",
+    "padrini"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-BOMB-050 magnete",
+    "ING-EVENT-BOMB-048 scatolina",
+    "ING-KIDS-KEEP-137 quadretto nascita"
+   ],
+   "bundle": [
+    "BATTESIMO COMPLETO: quadretto + 60 bomboniere",
+    "REGALO NASCITA"
+   ],
+   "ref": "https://www.albalu.it/bomboniere-2026-idee-personalizzate/",
+   "kw": [
+    "ricordo battesimo legno",
+    "quadretto battesimo personalizzato",
+    "regalo battesimo bambino",
+    "christening keepsake wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Stessa matrice dei quadretti cerimonia. Soggetto: tre onde concentriche su archi R12 (l'acqua del battesimo) CUT traforate. Palette azzurro polvere e crema. Nome h 10 mm, data, peso e lunghezza ENGRAVE-V h 5 mm su tre righe. Nomi dei padrini in coda.",
+   "prompt_img": "a layered wooden christening keepsake 156x204 mm, three concentric wave arcs cut through the front birch layer revealing a soft powder-blue panel, engraved baby name, date and birth data below, on a nursery wall"
+  },
+  {
+   "id": "ING-EVENT-WED-056",
+   "cat": "EVENT",
+   "coll": "MATRIMONIO",
+   "name": "Fedi",
+   "tipo": "porta fedi a cuscinetto rigido",
+   "tipo_en": "ring bearer box",
+   "concept": "Scatolina aperta con due sedi per gli anelli e coperchio traforato incernierato.",
+   "target": "Sposi, wedding planner.",
+   "desire": "Portare gli anelli all'altare senza il cuscinetto di raso di tutti.",
+   "usp": "Le sedi trattengono gli anelli: non rotolano via nel momento peggiore.",
+   "diff": "Progettato attorno al rischio reale del momento, non solo attorno all'estetica.",
+   "platform": "P3",
+   "mat": [
+    "betulla6",
+    "feltro3"
+   ],
+   "quota_mat": {
+    "feltro3": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    96,
+    48
+   ],
+   "layers": 1,
+   "cut_mm": 1200,
+   "vec_mm": 500,
+   "eng_cm2": 20,
+   "uv_cm2": 50,
+   "comp": {
+    "nastro": 1
+   },
+   "pack": "scatola_s",
+   "lotto": 25,
+   "mkt": [
+    25,
+    75
+   ],
+   "person": [
+    "nomi",
+    "data",
+    "frase"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-WED-045 welcome sign",
+    "ING-EVENT-WED-046 cassetta buste",
+    "ING-EVENT-KEEP-058 targa anniversario"
+   ],
+   "bundle": [
+    "PACCHETTO CERIMONIA COMPLETO",
+    "RICORDO NOZZE"
+   ],
+   "ref": "https://www.etsy.com/market/wedding_place_cards",
+   "kw": [
+    "porta fedi legno",
+    "portafedi matrimonio personalizzato",
+    "scatola anelli nozze",
+    "ring bearer box wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Scatola betulla 6 mm 96x96x48. Inserto in feltro 3 mm con DUE FESSURE 12x2 mm che trattengono gli anelli per il gambo: non rotolano. Coperchio con traforo ad arco R12 e nastro. Nomi e data ENGRAVE-V all'interno del coperchio, visibili all'apertura.",
+   "prompt_img": "an open wooden ring box 96x96x48 mm on a stone ledge, two wedding bands held upright in felt slots, arched fretwork lid open showing engraved names inside, satin ribbon, soft outdoor ceremony light"
+  },
+  {
+   "id": "ING-EVENT-WED-057",
+   "cat": "EVENT",
+   "coll": "MATRIMONIO",
+   "name": "Menu Cerimonia",
+   "tipo": "menu da tavolo cerimonia",
+   "tipo_en": "ceremony table menu",
+   "concept": "Lastra su base scanalata col menu inciso, coordinata con numeri tavolo e segnaposto.",
+   "target": "Sposi, location, catering.",
+   "desire": "Un menu che non sia un foglio stampato che si macchia.",
+   "usp": "Stessa base P2 di numeri tavolo e porta QR: nessun costo di sviluppo aggiuntivo.",
+   "diff": "Fa parte di un coordinato vero, non è un pezzo isolato.",
+   "platform": "P2",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    120,
+    204,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 900,
+   "vec_mm": 1200,
+   "eng_cm2": 40,
+   "uv_cm2": 60,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 30,
+   "mkt": [
+    6,
+    20
+   ],
+   "person": [
+    "menu",
+    "nomi",
+    "data",
+    "colore"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-WED-044 numeri tavolo",
+    "ING-EVENT-WED-041 segnaposto",
+    "ING-EVENT-WED-042 tableau"
+   ],
+   "bundle": [
+    "SET TAVOLA",
+    "PACCHETTO CERIMONIA COMPLETO"
+   ],
+   "ref": "https://www.etsy.com/market/wooden_menu_holder",
+   "kw": [
+    "menu matrimonio legno",
+    "menu cerimonia inciso",
+    "menu da tavolo nozze",
+    "wedding menu wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 10,
+   "s_gift": 4,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 4 mm 120x204 su base P2 96x48 con asola 3,85 mm. Menu ENGRAVE-V: portate h 6 mm, sezioni h 8 mm, interlinea 12 mm. Testa ad arco R12 con nomi e data. Fascia UV colore in coda. Un pezzo per tavolo o uno per coperto come SKU distinti.",
+   "prompt_img": "a wooden ceremony menu 120x204 mm standing in a slotted base on a set table, engraved courses in clean typography, arched top with couple names, coloured band at the foot, candles and glassware around"
+  },
+  {
+   "id": "ING-EVENT-KEEP-058",
+   "cat": "EVENT",
+   "coll": "RICORRENZE",
+   "name": "Nozze",
+   "tipo": "targa anniversario di matrimonio",
+   "tipo_en": "wedding anniversary plaque",
+   "concept": "Targa a strati con l'anno traforato e le coordinate del luogo del matrimonio su acciaio.",
+   "target": "Coppie, figli che regalano ai genitori. Nozze d'argento e d'oro.",
+   "desire": "Celebrare l'anniversario con qualcosa che non sia l'ennesima cornice.",
+   "usp": "La fascia 50-65 anni ha alta capacità di spesa e un'offerta scarsissima.",
+   "diff": "Anniversari d'argento e d'oro sono quasi non presidiati nel laser italiano.",
+   "platform": "P6",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    204,
+    204,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 1900,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "uv_cm2": 220,
+   "uv_white": true,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_ottone": 1,
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    30,
+    110
+   ],
+   "person": [
+    "anno",
+    "nomi",
+    "coordinate",
+    "dedica"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-WED-047 guest book",
+    "ING-HOME-DEC-018 portafoto",
+    "ING-EVENT-KEEP-059 targa laurea"
+   ],
+   "bundle": [
+    "RICORDO NOZZE",
+    "REGALO GENITORI: targa + portafoto"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_home_sign",
+   "kw": [
+    "targa anniversario matrimonio",
+    "regalo nozze d'oro",
+    "targa 25 anni matrimonio",
+    "wedding anniversary plaque"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Fondo betulla 8 mm 204x204 con UV PRINT. Strato frontale betulla 4 mm distanziato 4 mm con ANNO CUT traforato h 60 mm. Placchetta ottone 20x40 MOPA con coordinate del luogo e dedica. Palette argento per i 25 anni, oro per i 50: due SKU sulla stessa matrice.",
+   "prompt_img": "a layered wooden anniversary plaque 204x204 mm, the year 1975 cut through the front birch layer revealing a warm gold printed panel, a polished brass plate below fiber-marked with coordinates and a dedication, on a living room wall"
+  },
+  {
+   "id": "ING-EVENT-KEEP-059",
+   "cat": "EVENT",
+   "coll": "RICORRENZE",
+   "name": "Alloro",
+   "tipo": "targa ricordo laurea",
+   "tipo_en": "graduation keepsake plaque",
+   "concept": "Targa con corona d'alloro geometrica traforata, nome, corso di laurea e voto su ottone.",
+   "target": "Genitori e nonni del laureato. Picchi a luglio e ottobre-novembre.",
+   "desire": "Celebrare la laurea con qualcosa di più serio di una cornice del supermercato.",
+   "usp": "L'ottone dà il registro istituzionale che la ricorrenza richiede, a 95 centesimi di componente.",
+   "diff": "Segmento poco presidiato nel laser italiano rispetto alla domanda reale.",
+   "platform": "P6",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    204,
+    264,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 2200,
+   "vec_mm": 800,
+   "eng_cm2": 40,
+   "uv_cm2": 260,
+   "uv_white": true,
+   "mopa_cm2": 12,
+   "comp": {
+    "targhetta_ottone": 1,
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    25,
+    80
+   ],
+   "person": [
+    "nome",
+    "corso",
+    "voto",
+    "data",
+    "ateneo"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "SEASONAL"
+   ],
+   "upsell": [
+    "ING-EVENT-KEEP-058 targa anniversario",
+    "ING-EVENT-BOMB-052 portachiavi",
+    "ING-B2B-AWD-109 placca"
+   ],
+   "bundle": [
+    "LAUREA: targa + 60 bomboniere",
+    "REGALO FAMIGLIA"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_home_sign",
+   "kw": [
+    "targa laurea personalizzata",
+    "regalo laurea legno",
+    "quadretto laurea",
+    "graduation plaque wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Fondo betulla 8 mm 204x264 con UV PRINT bordeaux o blu ateneo. Strato frontale betulla 4 mm con corona d'alloro CUT traforata costruita su archi R12, ponticelli 2,5 mm sulle foglie. Placchetta ottone MOPA con nome, corso, voto e data. Testa ad arco R12.",
+   "prompt_img": "a layered wooden graduation plaque 204x264 mm, a geometric laurel wreath cut through the front layer over a deep burgundy printed panel, a polished brass plate fiber-marked with name, degree and grade, on a study wall"
+  },
+  {
+   "id": "ING-EVENT-FEST-060",
+   "cat": "EVENT",
+   "coll": "FESTE",
+   "name": "Candelina",
+   "tipo": "topper per torta a numero",
+   "tipo_en": "number cake topper",
+   "concept": "Numero su stelo da infilare nella torta, in betulla sottile con dettaglio traforato.",
+   "target": "Feste di compleanno, pasticcerie, famiglie.",
+   "desire": "Un topper che si conservi invece di bruciare.",
+   "usp": "Riusabile ogni anno cambiando solo il numero: si ricompra la cifra, non il prodotto.",
+   "diff": "Il topper di mercato è cartoncino o plastica usa e getta.",
+   "platform": "P1",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    84,
+    204,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 700,
+   "vec_mm": 300,
+   "eng_cm2": 8,
+   "uv_cm2": 40,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 80,
+   "mkt": [
+    5,
+    16
+   ],
+   "person": [
+    "numero",
+    "nome",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE",
+    "SEASONAL"
+   ],
+   "upsell": [
+    "ING-EVENT-FEST-061 kit compleanno",
+    "ING-EVENT-FEST-062 numero da tavolo",
+    "ING-EVENT-BOMB-050 magnete"
+   ],
+   "bundle": [
+    "KIT COMPLEANNO BAMBINO",
+    "FESTA: topper + segnaposto"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_name_place_cards",
+   "kw": [
+    "topper torta legno",
+    "cake topper numero personalizzato",
+    "topper compleanno bambino",
+    "number cake topper wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 9,
+   "s_gift": 7,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 3 mm, numero h 84 mm con stelo integrato 120 mm (totale 204). Traforo decorativo dentro la cifra su archi R12. UV colore pieno su una faccia, l'altra lasciata a legno. Spigoli smussati. Nome ENGRAVE-V sullo stelo, che resta nascosto nella torta. Set 0-9 come SKU.",
+   "prompt_img": "a wooden number cake topper standing in a frosted birthday cake, the numeral 5 in painted birch with a small arched cut-out pattern inside, child's party table with balloons blurred behind"
+  },
+  {
+   "id": "ING-EVENT-FEST-061",
+   "cat": "EVENT",
+   "coll": "FESTE",
+   "name": "Festa",
+   "tipo": "kit compleanno bambino",
+   "tipo_en": "children's party kit",
+   "concept": "Topper, otto segnaposto e una ghirlanda di lettere, coordinati e nella stessa scatola.",
+   "target": "Genitori, feste a casa, ludoteche.",
+   "desire": "Allestire la festa senza comprare dieci cose in dieci posti.",
+   "usp": "Un solo acquisto risolve l'allestimento: scontrino alto su un pubblico che compra d'impulso.",
+   "diff": "Il mercato vende pezzi sciolti, mai il kit completo coordinato.",
+   "platform": "P1",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    204,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 3200,
+   "vec_mm": 1600,
+   "eng_cm2": 40,
+   "uv_cm2": 320,
+   "uv_white": true,
+   "comp": {
+    "cordino": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 25,
+   "mkt": [
+    25,
+    70
+   ],
+   "person": [
+    "nome",
+    "età",
+    "colori",
+    "tema"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-FEST-060 topper",
+    "ING-KIDS-GIO-146 memory",
+    "ING-EVENT-FEST-062 numero da tavolo"
+   ],
+   "bundle": [
+    "KIT COMPLEANNO BAMBINO",
+    "FESTA COMPLETA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_name_place_cards",
+   "kw": [
+    "kit compleanno bambino legno",
+    "allestimento festa personalizzato",
+    "decorazioni compleanno legno",
+    "kids party kit wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Tutto betulla 3 mm dallo stesso foglio 300x204: 1 topper numero, 8 segnaposto 72x36, lettere del nome per ghirlanda con foro Ø4 e cordino. UV a colori pieni nel tema scelto. Carteggiatura bordi: lo maneggiano bambini. Vernice a base acqua atossica. Un foglio = un kit, sfrido sotto il 15 percento.",
+   "prompt_img": "a children's birthday party set laid out on a table — a wooden number cake topper, eight small name place cards and a garland of letters spelling a child's name — all in brightly printed birch, balloons and paper cups around"
+  },
+  {
+   "id": "ING-EVENT-FEST-062",
+   "cat": "EVENT",
+   "coll": "FESTE",
+   "name": "Età",
+   "tipo": "numero età da tavolo a strati",
+   "tipo_en": "milestone age table number",
+   "concept": "Cifra grande a due strati su base, per i compleanni importanti e i tavoli delle foto.",
+   "target": "18, 30, 40, 50 anni. Feste, locali, fotografi.",
+   "desire": "Un elemento scenografico per le foto della festa.",
+   "usp": "È il pezzo che finisce in tutte le foto: fa marketing per chi lo ha comprato.",
+   "diff": "A strati con pannello colorato invece della solita cifra piatta di polistirolo.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    204,
+    300,
+    14
+   ],
+   "layers": 2,
+   "cut_mm": 2000,
+   "vec_mm": 600,
+   "eng_cm2": 20,
+   "uv_cm2": 260,
+   "uv_white": true,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 20,
+   "mkt": [
+    22,
+    70
+   ],
+   "person": [
+    "numero",
+    "nome",
+    "data",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-FEST-060 topper",
+    "ING-EVENT-FEST-061 kit compleanno",
+    "ING-EVENT-BOMB-052 portachiavi"
+   ],
+   "bundle": [
+    "FESTA COMPLETA",
+    "18 ANNI: numero + 60 bomboniere"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_table_numbers",
+   "kw": [
+    "numero compleanno da tavolo",
+    "decorazione 18 anni legno",
+    "numero età personalizzato",
+    "milestone age number wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Fondo betulla 6 mm 204x300 con UV PRINT. Cifra betulla 4 mm distanziata 4 mm sovrapposta, con traforo interno su archi R12. Piedino a incastro con battuta a 15 gradi, stesso angolo della piattaforma P4. Nome e data ENGRAVE-V alla base. Gommini.",
+   "prompt_img": "a large layered wooden number 204x300 mm standing on a party table, the digits raised 4 mm above a printed gradient panel with small arched cut-outs inside, engraved name and date at the base, fairy lights blurred behind"
+  },
+  {
+   "id": "ING-EVENT-WED-063",
+   "cat": "EVENT",
+   "coll": "MATRIMONIO",
+   "name": "Direzione",
+   "tipo": "set cartelli indicazioni cerimonia",
+   "tipo_en": "ceremony direction signs",
+   "concept": "Frecce direzionali su palo per indirizzare gli ospiti fra cerimonia, aperitivo e ricevimento.",
+   "target": "Sposi, location con più aree, wedding planner.",
+   "desire": "Non dover spiegare a centocinquanta persone dove andare.",
+   "usp": "Risolve un problema operativo reale della giornata, non solo estetico.",
+   "diff": "Venduto come sistema di 5 frecce con palo, non come cartello singolo.",
+   "platform": "P1",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    72,
+    8
+   ],
+   "layers": 1,
+   "cut_mm": 840,
+   "vec_mm": 500,
+   "eng_cm2": 20,
+   "uv_cm2": 90,
+   "comp": {},
+   "pack": "sfuso_b2b",
+   "lotto": 40,
+   "mkt": [
+    10,
+    32
+   ],
+   "person": [
+    "testo",
+    "direzione",
+    "colore",
+    "nomi"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-WED-045 welcome sign",
+    "ING-EVENT-WED-042 tableau",
+    "ING-EVENT-WED-044 numeri tavolo"
+   ],
+   "bundle": [
+    "ACCOGLIENZA",
+    "PACCHETTO CERIMONIA COMPLETO"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "cartelli indicazioni matrimonio",
+    "frecce direzionali cerimonia",
+    "segnaletica matrimonio legno",
+    "wedding direction signs"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 4,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 8 mm 300x72 con estremità a freccia, SKU speculari sinistra e destra. Testo ENGRAVE-V h 14 mm. Fascia UV colore in coda. Due fori Ø5 interasse 240 mm per montaggio impilato su palo. Trattamento idrorepellente: sta all'aperto tutto il giorno. Set standard da 5 frecce.",
+   "prompt_img": "five wooden direction arrows 300x72 mm stacked on a wooden post in a garden, engraved words pointing to ceremony, aperitif and reception, coloured bands on each, olive trees and warm afternoon light"
+  },
+  {
+   "id": "ING-EVENT-WED-064",
+   "cat": "EVENT",
+   "coll": "MATRIMONIO",
+   "name": "Confettata",
+   "tipo": "espositore per confettata a gradoni",
+   "tipo_en": "sweet table display riser",
+   "concept": "Tre gradoni componibili per allestire il tavolo dei dolci e dei confetti.",
+   "target": "Sposi, catering, pasticcerie, location.",
+   "desire": "Dare altezza al tavolo dolci senza scatole coperte di stoffa.",
+   "usp": "Componibili e riusabili: il catering li ammortizza su decine di eventi.",
+   "diff": "In legno finito invece del solito plexiglass o cartone coperto.",
+   "platform": "P3",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2",
+   "dim": [
+    300,
+    180,
+    144
+   ],
+   "layers": 1,
+   "cut_mm": 3000,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    40,
+    120
+   ],
+   "person": [
+    "nomi",
+    "data",
+    "logo"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-BOMB-048 scatolina",
+    "ING-EVENT-WED-045 welcome sign",
+    "ING-B2B-RET-099 espositore"
+   ],
+   "bundle": [
+    "PACCHETTO CERIMONIA COMPLETO",
+    "CATERING: gradoni + cartellini"
+   ],
+   "ref": "https://www.etsy.com/market/restaurant_order_numbers",
+   "kw": [
+    "espositore confettata",
+    "alzatine tavolo dolci",
+    "gradoni buffet matrimonio",
+    "sweet table risers wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 8,
+   "s_gift": 4,
+   "s_uniq": 9,
+   "prompt_prod": "Tre gradoni betulla 8 mm a incastro senza colla: 300x180x48, 240x180x96, 180x180x144. Fianchi con traforo ad arco R12. Impilabili e affiancabili sul passo 12 mm. Verifica di carico 4 kg per piano. Flat pack, montaggio senza attrezzi.",
+   "prompt_img": "three stepped wooden risers of different heights on a wedding sweet table, 8 mm birch with arched fretwork sides, glass jars of sugared almonds and small cakes displayed on each level, soft reception lighting"
+  },
+  {
+   "id": "ING-EVENT-WED-065",
+   "cat": "EVENT",
+   "coll": "MATRIMONIO",
+   "name": "Invito",
+   "tipo": "invito in legno per eventi premium",
+   "tipo_en": "wooden invitation card",
+   "concept": "Invito in betulla sottilissima con testo inciso e dettaglio traforato, spedibile in busta rigida.",
+   "target": "Matrimoni di fascia alta, eventi aziendali, inaugurazioni.",
+   "desire": "Un invito che l'ospite non butti dopo l'evento.",
+   "usp": "Il destinatario lo conserva: l'invito diventa il primo pezzo del ricordo.",
+   "diff": "Categoria quasi assente in Italia, e altissima nella percezione di valore.",
+   "platform": "P1",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    144,
+    108,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 700,
+   "vec_mm": 900,
+   "eng_cm2": 30,
+   "uv_cm2": 80,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 100,
+   "mkt": [
+    4,
+    14
+   ],
+   "person": [
+    "testo",
+    "nomi",
+    "data",
+    "luogo"
+   ],
+   "tags": [
+    "PREMIUM",
+    "B2B",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-WED-041 segnaposto",
+    "ING-EVENT-WED-045 welcome sign",
+    "ING-EVENT-WED-042 tableau"
+   ],
+   "bundle": [
+    "PACCHETTO CERIMONIA COMPLETO",
+    "COORDINATO: invito + segnaposto + menu"
+   ],
+   "ref": "https://www.etsy.com/market/wedding_place_cards",
+   "kw": [
+    "invito matrimonio legno",
+    "partecipazioni nozze legno",
+    "invito inciso premium",
+    "wooden wedding invitation"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 7,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 3 mm 144x108, angoli R12. Testo ENGRAVE-V: nomi h 10 mm, dettagli h 4,5 mm (limite minimo leggibile). Motivo traforato ad arco R12 su un angolo, ponticelli 2,5 mm. Fascia UV colore. VERIFICA POSTALE di peso e spessore per la spedizione. Nesting 8 pz/foglio.",
+   "prompt_img": "a wooden wedding invitation 144x108 mm in thin birch, engraved names and details in elegant typography, an arched fretwork motif cut through one corner, lying on a rigid envelope with a wax seal, soft daylight"
+  },
+  {
+   "id": "ING-EVENT-CERI-066",
+   "cat": "EVENT",
+   "coll": "CERIMONIA",
+   "name": "Segnatavolo Cerimonia",
+   "tipo": "set 12 segnatavolo battesimo e comunione",
+   "tipo_en": "ceremony table marker set",
+   "concept": "Dodici segnatavolo tematici coordinati al simbolo della cerimonia, su basi condivise.",
+   "target": "Famiglie, ristoranti che ospitano cerimonie, catering.",
+   "desire": "Un allestimento coordinato per la cerimonia, non i numeri anonimi del ristorante.",
+   "usp": "Set completo in un solo acquisto: risolve l'allestimento della sala.",
+   "diff": "Coordinato col quadretto e con le bomboniere della stessa cerimonia.",
+   "platform": "P2",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    132,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 880,
+   "vec_mm": 420,
+   "eng_cm2": 12,
+   "uv_cm2": 60,
+   "uv_white": true,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 36,
+   "mkt": [
+    5,
+    18
+   ],
+   "person": [
+    "numero",
+    "nome",
+    "simbolo",
+    "colore"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-EVENT-CERI-053 quadretto comunione",
+    "ING-EVENT-BOMB-048 scatolina",
+    "ING-EVENT-WED-057 menu"
+   ],
+   "bundle": [
+    "COMUNIONE COMPLETA",
+    "BATTESIMO COMPLETO"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_table_numbers",
+   "kw": [
+    "segnatavolo comunione",
+    "numeri tavolo battesimo",
+    "segnatavolo cerimonia legno",
+    "ceremony table markers"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 9,
+   "s_gift": 5,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 4 mm 96x132 su base P2 96x36 con asola 3,85 mm. Cifra CUT traforata h 48 mm su pannello UV. Simbolo della cerimonia ENGRAVE-V in testa, coordinato al quadretto. Set da 12 con basi condivise. Nesting 12 set/foglio.",
+   "prompt_img": "twelve small wooden table markers standing in slotted bases on a long banquet table, numerals cut through revealing soft blue panels, a small engraved dove above each, christening lunch setting"
+  },
+  {
+   "id": "ING-EVENT-WED-067",
+   "cat": "EVENT",
+   "coll": "MATRIMONIO",
+   "name": "Ventaglio",
+   "tipo": "programma cerimonia a ventaglio",
+   "tipo_en": "fan ceremony programme",
+   "concept": "Programma della cerimonia su lastra sagomata a ventaglio, che serve anche a farsi aria.",
+   "target": "Matrimoni estivi all'aperto, cerimonie in chiesa.",
+   "desire": "Sopravvivere a una cerimonia di luglio con qualcosa di utile in mano.",
+   "usp": "Doppia funzione reale: nei matrimoni estivi italiani è un argomento fortissimo.",
+   "diff": "I programmi di mercato sono carta; questo si conserva e si riusa.",
+   "platform": "P1",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    168,
+    204,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 900,
+   "vec_mm": 1100,
+   "eng_cm2": 36,
+   "uv_cm2": 120,
+   "uv_white": true,
+   "comp": {},
+   "pack": "sfuso_b2b",
+   "lotto": 120,
+   "mkt": [
+    3,
+    10
+   ],
+   "person": [
+    "programma",
+    "nomi",
+    "data",
+    "colore"
+   ],
+   "tags": [
+    "B2B",
+    "SEASONAL",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-WED-041 segnaposto",
+    "ING-EVENT-WED-065 invito",
+    "ING-EVENT-WED-057 menu"
+   ],
+   "bundle": [
+    "PACCHETTO CERIMONIA COMPLETO",
+    "COORDINATO"
+   ],
+   "ref": "https://www.etsy.com/market/wedding_place_cards",
+   "kw": [
+    "ventaglio matrimonio personalizzato",
+    "programma cerimonia legno",
+    "ventaglio nozze estate",
+    "wedding fan programme"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 6,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 3 mm 168x204, sagoma a ventaglio con impugnatura integrata 36x84. Programma ENGRAVE-V h 5 mm su una faccia, UV colore sull'altra. Spigoli SMUSSATI: si tiene in mano per un'ora. Peso sotto i 40 g. Nesting 6 pz/foglio.",
+   "prompt_img": "a fan-shaped wooden ceremony programme 168x204 mm with an integrated handle, engraved order of service on one face, held up against strong summer sunlight outside a church, guests blurred behind"
+  },
+  {
+   "id": "ING-EVENT-KEEP-068",
+   "cat": "EVENT",
+   "coll": "RICORRENZE",
+   "name": "Cornice Cerimonia",
+   "tipo": "cornice ricordo con tessera evento",
+   "tipo_en": "ceremony memory frame",
+   "concept": "Cornice a strati con una tessera incisa sotto la foto che riporta evento, data e luogo.",
+   "target": "Famiglie dopo la cerimonia, regalo post-evento.",
+   "desire": "Mettere la foto della cerimonia in qualcosa che ne racconti anche i dati.",
+   "usp": "Vende DOPO l'evento, quando tutti gli altri fornitori hanno finito.",
+   "diff": "Nessuno presidia il momento successivo alla cerimonia, che è quando arrivano le foto.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    192,
+    240,
+    18
+   ],
+   "layers": 2,
+   "cut_mm": 2000,
+   "vec_mm": 800,
+   "eng_cm2": 30,
+   "uv_cm2": 140,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    22,
+    70
+   ],
+   "person": [
+    "evento",
+    "data",
+    "luogo",
+    "nomi"
+   ],
+   "tags": [
+    "PERSONALIZZABILE",
+    "BUNDLE",
+    "FAST SELLER"
+   ],
+   "upsell": [
+    "ING-EVENT-KEEP-058 targa anniversario",
+    "ING-EVENT-CERI-053 quadretto comunione",
+    "ING-HOME-DEC-018 portafoto"
+   ],
+   "bundle": [
+    "RICORDO NOZZE",
+    "DOPO LA CERIMONIA: cornice + targa"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "cornice ricordo cerimonia",
+    "portafoto matrimonio personalizzato",
+    "cornice comunione legno",
+    "ceremony photo frame wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Cornice betulla 6 mm 192x240 con luce ad arco R12 per foto 13x18. Passepartout betulla 4 mm distanziato 3 mm. TESSERA INCISA 120x24 alloggiata in scanalatura sotto la foto, sostituibile: evento, data e luogo. Piedino a incastro a 15 gradi + aggancio a parete.",
+   "prompt_img": "a layered wooden photo frame 192x240 mm holding a ceremony photograph, arched inner opening, a small engraved tile seated in a groove below reading the event, date and place, standing on a sideboard"
+  },
+  {
+   "id": "ING-EVENT-BOMB-069",
+   "cat": "EVENT",
+   "coll": "BOMBONIERA",
+   "name": "Espositore Bomboniere",
+   "tipo": "espositore da tavolo per bomboniere",
+   "tipo_en": "favour display stand",
+   "concept": "Vassoio a griglia con sedi che tengono in ordine ottanta bomboniere sul tavolo di uscita.",
+   "target": "Famiglie, catering, location, negozi di bomboniere.",
+   "desire": "Consegnare le bomboniere senza il cesto di vimini in cui rovistano tutti.",
+   "usp": "Le sedi impediscono che si rovescino: risolve il momento più caotico della cerimonia.",
+   "diff": "Nessuno vende l'espositore insieme alle bomboniere, ed è l'upsell più naturale che esista.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    396,
+    300,
+    60
+   ],
+   "layers": 1,
+   "cut_mm": 4200,
+   "vec_mm": 900,
+   "eng_cm2": 40,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    35,
+    110
+   ],
+   "person": [
+    "nome",
+    "data",
+    "colore",
+    "numero sedi"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-EVENT-BOMB-048 scatolina",
+    "ING-EVENT-BOMB-049 segnalibro",
+    "ING-EVENT-WED-064 gradoni confettata"
+   ],
+   "bundle": [
+    "COMUNIONE COMPLETA",
+    "BOMBONIERE + ESPOSITORE"
+   ],
+   "ref": "https://www.etsy.com/market/restaurant_order_numbers",
+   "kw": [
+    "espositore bomboniere",
+    "vassoio bomboniere legno",
+    "porta bomboniere cerimonia",
+    "favour display stand wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 5,
+   "s_uniq": 10,
+   "prompt_prod": "Vassoio betulla 6 mm 396x300x60 con sponde a incastro 45 gradi. Griglia interna di divisori a incastro reciproco che crea 80 sedi da 36x36 mm (dimensionate sulle bomboniere del catalogo). Fondo UV colore. Smontabile per il trasporto. Gommini. Verifica di carico 5 kg.",
+   "prompt_img": "a wooden display tray 396x300 mm on a table at the end of a ceremony, an internal grid of dividers holding rows of small wooden favours upright, printed coloured base visible between them, guests' hands taking one"
+  },
+  {
+   "id": "ING-EVENT-WED-070",
+   "cat": "EVENT",
+   "coll": "MATRIMONIO",
+   "name": "Angolo Foto",
+   "tipo": "cartelli per angolo fotografico",
+   "tipo_en": "photo booth sign set",
+   "concept": "Set di sei cartelli con frasi incise su bastoncino, per l'angolo delle foto.",
+   "target": "Matrimoni, feste, eventi aziendali, fotografi.",
+   "desire": "Far divertire gli ospiti nell'angolo foto senza cartoncini che si piegano.",
+   "usp": "In legno reggono una serata intera di mani: il cartoncino no.",
+   "diff": "Frasi personalizzabili dal cliente, non set preconfezionati in inglese.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    204,
+    96,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 900,
+   "vec_mm": 700,
+   "eng_cm2": 24,
+   "uv_cm2": 110,
+   "uv_white": true,
+   "comp": {},
+   "pack": "sfuso_b2b",
+   "lotto": 60,
+   "mkt": [
+    6,
+    20
+   ],
+   "person": [
+    "frasi",
+    "nomi",
+    "data",
+    "colore"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-EVENT-WED-045 welcome sign",
+    "ING-EVENT-FEST-062 numero età",
+    "ING-EVENT-WED-063 indicazioni"
+   ],
+   "bundle": [
+    "PACCHETTO CERIMONIA COMPLETO",
+    "FESTA COMPLETA"
+   ],
+   "ref": "https://www.etsy.com/market/wedding_place_cards",
+   "kw": [
+    "cartelli photo booth legno",
+    "frasi angolo foto matrimonio",
+    "props fotografici personalizzati",
+    "photo booth signs wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 6,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 4 mm 204x96 con impugnatura integrata 24x96 (nessun bastoncino incollato: si stacca). Frase ENGRAVE-V h 16 mm su fondo UV colore. Spigoli smussati. Set da 6 con frasi scelte dal cliente in italiano. Nesting 8 pz/foglio.",
+   "prompt_img": "six wooden photo booth signs with integrated handles fanned out on a table, each engraved with a short Italian phrase on a brightly printed background, guests laughing and holding two of them up in the background"
+  }
+ ]
+}

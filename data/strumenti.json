@@ -1,0 +1,246 @@
+{
+  "_meta": {
+    "versione": "R1",
+    "rilevazione": "agosto 2026",
+    "scopo": "Gli strumenti per disegnare, ottimizzare, produrre, fotografare e vendere. Divisi per fase di lavoro, con il costo reale e cosa risolvono davvero.",
+    "avvertenza_prezzi": "I prezzi cambiano. Quelli riportati sono rilevati ad agosto 2026 e vanno verificati sul sito prima dell'acquisto. Dove non ho trovato un prezzo pubblico inequivocabile l'ho scritto invece di inventarlo.",
+    "come_scegliere": "La regola: parti da quello che e' gratuito e apri il portafoglio solo quando lo strumento gratuito ti sta costando tempo. Le uniche due eccezioni sono il software di controllo del laser e i font, dove pagare conviene subito."
+  },
+
+  "fasi": {
+    "DISEGNO": "Dove nasce la geometria del prodotto",
+    "GENERATORI": "Scorciatoie che producono la struttura al posto tuo",
+    "OTTIMIZZAZIONE": "Meno materiale sprecato, meno tempo macchina",
+    "PRODUZIONE": "Il software che parla con la macchina",
+    "GRAFICA": "Colore, font, pattern per la stampa UV",
+    "IMMAGINI": "Le foto di catalogo, senza set fotografico",
+    "MERCATO": "Capire cosa cercano le persone prima di produrre",
+    "VENDITA": "Dove finisce il prodotto"
+  },
+
+  "strumenti": [
+
+    {"id":"T01","fase":"DISEGNO","nome":"Inkscape","url":"https://inkscape.org/","costo":"gratuito, open source",
+     "cosa_fa":"Editor vettoriale completo: e' qui che si disegnano profili, trafori e incisioni in SVG.",
+     "perche_serve":"È lo strumento di base di tutto il catalogo. Gestisce livelli, colori per operazione (taglio, incisione, marcatura) e allineamento sulla griglia da 12 mm.",
+     "consiglio":"Imposta subito una griglia da 12 mm e il colore per operazione: rosso taglio, blu incisione vettoriale, nero raster. Se questa convenzione è la stessa su tutti i file, non sbagli mai un'esportazione.",
+     "livello":"indispensabile"},
+
+    {"id":"T02","fase":"DISEGNO","nome":"Affinity Designer","url":"https://affinity.serif.com/designer/","costo":"licenza perpetua a pagamento — verificare il prezzo corrente",
+     "cosa_fa":"Vettoriale e raster nello stesso file, con prestazioni migliori di Inkscape sui documenti pesanti.",
+     "perche_serve":"Sui multilayer a cinque strati e sui pattern ripetuti Inkscape rallenta. Qui no.",
+     "consiglio":"Ha senso solo quando i tuoi file iniziano a diventare lenti. Prima è una spesa senza ritorno.",
+     "livello":"utile"},
+
+    {"id":"T03","fase":"DISEGNO","nome":"Adobe Illustrator","url":"https://www.adobe.com/products/illustrator.html","costo":"abbonamento mensile",
+     "cosa_fa":"Standard industriale del vettoriale.",
+     "perche_serve":"Serve soprattutto per RICEVERE i file dei clienti B2B: i loghi aziendali arrivano quasi sempre in .ai.",
+     "consiglio":"Puoi evitarlo: Inkscape apre i .ai e i .pdf vettoriali. Valutalo solo se il B2B diventa la quota principale del fatturato.",
+     "livello":"opzionale"},
+
+    {"id":"T04","fase":"DISEGNO","nome":"FreeCAD","url":"https://www.freecad.org/","costo":"gratuito, open source",
+     "cosa_fa":"CAD parametrico 3D con generazione dei piani di taglio.",
+     "perche_serve":"Per le piattaforme a incastro (scatole, leggii, strutture) permette di modellare l'oggetto e ricavarne i pezzi piani, verificando che si monti davvero prima di tagliare.",
+     "consiglio":"Usalo per COLLAUDARE le otto piattaforme una volta sola. Poi i prodotti si disegnano in 2D sopra piattaforme già verificate.",
+     "livello":"utile"},
+
+    {"id":"T05","fase":"DISEGNO","nome":"Fusion 360","url":"https://www.autodesk.com/products/fusion-360/","costo":"a pagamento, con licenza gratuita per uso personale e hobbistico soggetta a condizioni",
+     "cosa_fa":"CAD/CAM parametrico professionale.",
+     "perche_serve":"Verifica di montaggio e simulazione di carico sui prodotti strutturali (mensole, portabottiglie, espositori).",
+     "consiglio":"ATTENZIONE: la licenza gratuita è per uso personale, non commerciale. Se produci per vendere serve quella a pagamento. Verifica le condizioni prima di usarlo in azienda.",
+     "livello":"opzionale"},
+
+    {"id":"T06","fase":"GENERATORI","nome":"Boxes.py","url":"https://boxes.hackerspace-bamberg.de/boxes.py","costo":"gratuito, open source (GPL v3+)",
+     "cosa_fa":"Generatore parametrico di scatole e strutture a incastro: inserisci le misure e lo spessore, ti restituisce il file di taglio.",
+     "perche_serve":"È lo strumento che fa risparmiare più tempo di tutti. Genera decine di tipologie di scatole con incastri già compensati, ed esporta SVG, DXF e gcode.",
+     "consiglio":"Usalo come PUNTO DI PARTENZA della piattaforma P3, non come prodotto finito: la struttura te la dà lui, la firma di Ingly Design — arco R12, filo inciso, bordo a vista — la aggiungi tu sopra. Ricorda che è GPL: verifica le condizioni se rilasci i file generati.",
+     "livello":"indispensabile"},
+
+    {"id":"T07","fase":"GENERATORI","nome":"MakerCase","url":"https://www.makercase.com/","costo":"gratuito",
+     "cosa_fa":"Generatore di scatole via browser, più semplice di Boxes.py.",
+     "perche_serve":"Per una scatola veloce senza installare nulla.",
+     "consiglio":"Meno opzioni di Boxes.py ma più immediato. Buono per i prototipi rapidi.",
+     "livello":"utile"},
+
+    {"id":"T08","fase":"GENERATORI","nome":"Festi",
+     "url":"https://festi.info/boxes.py/","costo":"gratuito",
+     "cosa_fa":"Istanza pubblica di Boxes.py con interfaccia leggermente diversa.",
+     "perche_serve":"Alternativa se l'istanza principale è lenta o non raggiungibile.",
+     "consiglio":"Stesso motore, stessi risultati. Tienila come riserva.",
+     "livello":"opzionale"},
+
+    {"id":"T09","fase":"OTTIMIZZAZIONE","nome":"Deepnest","url":"https://deepnest.io/","costo":"gratuito, open source",
+     "cosa_fa":"Nesting a forma reale: dispone i pezzi sul foglio per sprecare meno materiale, e UNISCE AUTOMATICAMENTE I TAGLI IN COMUNE così il laser non ripassa due volte sulla stessa linea.",
+     "perche_serve":"È lo strumento con il ritorno economico più alto di tutta la lista. Sui prodotti in lotto — 150 segnaposto, 100 bomboniere — il taglio comune abbatte il tempo macchina e riduce la deformazione termica del pezzo.",
+     "consiglio":"È esattamente il 'nesting a taglio comune' richiesto nei prompt di produzione dei prodotti in lotto. Impararlo bene vale più di qualsiasi acquisto software: agisce sulle due voci di costo che contano, materiale e tempo macchina.",
+     "livello":"indispensabile"},
+
+    {"id":"T10","fase":"OTTIMIZZAZIONE","nome":"SVGnest","url":"https://svgnest.com/","costo":"gratuito, open source",
+     "cosa_fa":"Nesting via browser, senza installazione.",
+     "perche_serve":"Per un nesting veloce su pochi pezzi.",
+     "consiglio":"È il predecessore di Deepnest e non fa il taglio comune. Per i lotti usa Deepnest.",
+     "livello":"opzionale"},
+
+    {"id":"T11","fase":"PRODUZIONE","nome":"LightBurn","url":"https://lightburnsoftware.com/","costo":"licenza perpetua: Core 99 $, Pro 199 $. Il rinnovo annuale degli aggiornamenti è passato da 30 a 40 $ a maggio 2026.",
+     "cosa_fa":"Software di controllo del laser: importa i file, imposta potenza e velocità, gestisce le operazioni e comanda la macchina.",
+     "perche_serve":"È il ponte fra il disegno e il pezzo fisico. Gestisce i livelli per operazione, l'ordine di taglio (interni prima del profilo) e le passate multiple.",
+     "consiglio":"La licenza è PERPETUA: pagata una volta il software continua a funzionare per sempre, il rinnovo serve solo per ricevere aggiornamenti. È l'unica spesa software che consiglierei senza esitazione fin dal primo giorno.",
+     "livello":"indispensabile"},
+
+    {"id":"T12","fase":"PRODUZIONE","nome":"LaserGRBL","url":"https://lasergrbl.com/","costo":"gratuito, open source",
+     "cosa_fa":"Controllo per laser a diodi su schede GRBL.",
+     "perche_serve":"Alternativa gratuita per macchine entry level.",
+     "consiglio":"Non regge il flusso di lavoro di un catalogo con livelli multipli e operazioni miste. Va bene per iniziare o come riserva, non per produrre.",
+     "livello":"opzionale"},
+
+    {"id":"T13","fase":"PRODUZIONE","nome":"RDWorks","url":"https://rdworkslab.com/","costo":"gratuito, fornito con le schede Ruida",
+     "cosa_fa":"Software nativo delle centraline Ruida, diffusissime sulle CO2 cinesi.",
+     "perche_serve":"Molte macchine lo includono e alcune funzioni della centralina passano solo da qui.",
+     "consiglio":"Interfaccia scomoda rispetto a LightBurn, che parla comunque con le stesse centraline. Tienilo installato per le impostazioni di macchina, lavora in LightBurn.",
+     "livello":"utile"},
+
+    {"id":"T14","fase":"GRAFICA","nome":"Google Fonts","url":"https://fonts.google.com/","costo":"gratuito, licenza aperta",
+     "cosa_fa":"Centinaia di famiglie tipografiche con licenza libera anche per uso commerciale.",
+     "perche_serve":"Un catalogo personalizzabile vive di caratteri: nomi, date, dediche. Qui trovi il necessario senza costi e senza rischi di licenza.",
+     "consiglio":"Scegli DUE famiglie e usa solo quelle su tutto il catalogo: un carattere con grazie per i nomi e uno lineare per i dati tecnici. La coerenza tipografica è metà dell'identità di un catalogo.",
+     "livello":"indispensabile"},
+
+    {"id":"T15","fase":"GRAFICA","nome":"Creative Fabrica — font e grafica","url":"https://www.creativefabrica.com/","costo":"abbonamento; le fonti pubbliche riportano cifre molto diverse. Verificare il prezzo corrente.",
+     "cosa_fa":"Libreria di font, pattern e grafica con licenza commerciale sul materiale scaricato durante l'abbonamento.",
+     "perche_serve":"Per i caratteri decorativi e i pattern da stampa UV che su Google Fonts non trovi.",
+     "consiglio":"È la spesa più sensata fra le fonti a pagamento, perché font e pattern NON intaccano l'identità: la firma di Ingly Design sta nella geometria costruttiva, non nel riempimento.",
+     "livello":"utile"},
+
+    {"id":"T16","fase":"GRAFICA","nome":"Coolors","url":"https://coolors.co/","costo":"gratuito con funzioni a pagamento",
+     "cosa_fa":"Generatore e libreria di palette cromatiche.",
+     "perche_serve":"Per costruire le palette delle linee — mediterranea, borghi, cerimonie — e tenerle coerenti su tutto il catalogo.",
+     "consiglio":"Fissa una palette per LINEA e non per prodotto. Se ogni prodotto ha i suoi colori, il catalogo non sembra un catalogo.",
+     "livello":"utile"},
+
+    {"id":"T17","fase":"GRAFICA","nome":"Adobe Color","url":"https://color.adobe.com/","costo":"gratuito",
+     "cosa_fa":"Ruota cromatica con estrazione della palette da una fotografia.",
+     "perche_serve":"Estrarre i colori reali da una foto di maiolica, di una costa o di un agrumeto è il modo più onesto di costruire una palette mediterranea.",
+     "consiglio":"Ha anche il controllo di contrasto per l'accessibilità: utile per verificare che un testo inciso si legga davvero sul suo fondo.",
+     "livello":"utile"},
+
+    {"id":"T18","fase":"GRAFICA","nome":"Photopea","url":"https://www.photopea.com/","costo":"gratuito nel browser",
+     "cosa_fa":"Editor raster tipo Photoshop, funziona nel browser e apre i file .psd.",
+     "perche_serve":"Preparare le immagini per la stampa UV: livelli, canali, conversione CMYK, maschere per il bianco di fondo.",
+     "consiglio":"Per la stampa UV su legno il bianco di fondo va preparato come canale separato. Qui si fa senza installare nulla.",
+     "livello":"utile"},
+
+    {"id":"T19","fase":"GRAFICA","nome":"GIMP","url":"https://www.gimp.org/","costo":"gratuito, open source",
+     "cosa_fa":"Editor raster completo da installare.",
+     "perche_serve":"Preparazione delle immagini per l'incisione raster: conversione in scala di grigi, dithering, controllo del contrasto.",
+     "consiglio":"L'incisione raster fotografica dipende quasi tutta dalla preparazione dell'immagine. Un file preparato bene incide bene su qualsiasi macchina.",
+     "livello":"utile"},
+
+    {"id":"T20","fase":"IMMAGINI","nome":"Blender","url":"https://www.blender.org/","costo":"gratuito, open source",
+     "cosa_fa":"Modellazione e rendering 3D fotorealistico.",
+     "perche_serve":"Produrre le immagini di catalogo PRIMA di aver fisicamente prodotto il pezzo. Su 300 prodotti significa poter pubblicare senza aver tagliato nulla.",
+     "consiglio":"Costruisci UNA scena di studio riutilizzabile — luce, sfondo, materiali betulla e acrilico — e poi cambia solo il modello. La coerenza fotografica del catalogo viene da lì, non dalla bravura sul singolo render.",
+     "livello":"indispensabile"},
+
+    {"id":"T21","fase":"IMMAGINI","nome":"Generatori di immagini AI","url":"https://www.blender.org/","costo":"variabile per servizio",
+     "cosa_fa":"Producono immagini di prodotto a partire da una descrizione testuale.",
+     "perche_serve":"Ogni prodotto del catalogo ha già il campo prompt_immagine scritto apposta per questo: descrive inquadratura, materiale, luce e contesto.",
+     "consiglio":"ATTENZIONE ONESTA: un'immagine generata NON è una fotografia del prodotto reale e non va usata come tale in una scheda di vendita — è pubblicità ingannevole e genera resi. Usala per il moodboard, per la presentazione al cliente B2B e per validare un concept prima di produrlo. La foto di vendita si fa sul pezzo vero.",
+     "livello":"utile"},
+
+    {"id":"T22","fase":"IMMAGINI","nome":"remove.bg e alternative","url":"https://www.remove.bg/","costo":"gratuito con limiti, a pagamento per volumi",
+     "cosa_fa":"Scontorna il soggetto dallo sfondo.",
+     "perche_serve":"I marketplace vogliono la prima immagine su fondo bianco pulito.",
+     "consiglio":"Su un bordo laser ambrato lo scontorno automatico sbaglia spesso. Meglio fotografare direttamente su fondo bianco che correggere dopo.",
+     "livello":"opzionale"},
+
+    {"id":"T23","fase":"MERCATO","nome":"Google Trends","url":"https://trends.google.com/","costo":"gratuito",
+     "cosa_fa":"Andamento nel tempo delle ricerche, per parola chiave e per area geografica.",
+     "perche_serve":"È il modo migliore di capire QUANDO produrre uno stagionale. La curva delle ricerche ti dice con quanto anticipo si muove la domanda.",
+     "consiglio":"Guarda 'bomboniere comunione' su base italiana: vedrai il picco reale e capirai perché la produzione va avviata a febbraio e non ad aprile.",
+     "livello":"indispensabile"},
+
+    {"id":"T24","fase":"MERCATO","nome":"eRank","url":"https://erank.com/","costo":"piano gratuito limitato, piani a pagamento",
+     "cosa_fa":"Analisi delle parole chiave e della concorrenza su Etsy.",
+     "perche_serve":"Dice quali termini cercano davvero le persone, che quasi mai coincidono con come chiami tu il prodotto.",
+     "consiglio":"Usalo per verificare i campi kw del catalogo prima di pubblicare. Un titolo che nessuno cerca è un prodotto invisibile, per quanto bello sia.",
+     "livello":"utile"},
+
+    {"id":"T25","fase":"MERCATO","nome":"Everbee","url":"https://everbee.io/","costo":"piano gratuito limitato, piani a pagamento",
+     "cosa_fa":"Stima volumi e ricavi delle inserzioni Etsy.",
+     "perche_serve":"Dà un ordine di grandezza di cosa si muove davvero in una nicchia.",
+     "consiglio":"Sono STIME, non dati ufficiali: nessun marketplace pubblica i volumi reali. Usale per confrontare nicchie fra loro, mai come numeri assoluti da mettere in un business plan.",
+     "livello":"utile"},
+
+    {"id":"T26","fase":"MERCATO","nome":"Etsy — pagine di categoria","url":"https://www.etsy.com/","costo":"gratuito",
+     "cosa_fa":"Il mercato stesso, osservato direttamente.",
+     "perche_serve":"Mezz'ora sulle pagine di categoria dice più di qualsiasi rapporto: prezzi correnti, foto che funzionano, cosa scrivono i concorrenti nei titoli.",
+     "consiglio":"Ordina per 'più recenti' e non per rilevanza: vedi cosa stanno provando adesso i concorrenti, non cosa vendeva due anni fa.",
+     "livello":"indispensabile"},
+
+    {"id":"T27","fase":"VENDITA","nome":"Etsy","url":"https://www.etsy.com/","costo":"commissione per inserzione e sulle vendite",
+     "cosa_fa":"Marketplace internazionale per prodotti artigianali e personalizzati.",
+     "perche_serve":"Porta traffico proprio: non devi costruirti il pubblico da zero.",
+     "consiglio":"Il file shopify_import.csv del catalogo si adatta facilmente. Ricorda che le commissioni vanno nel prezzo: il moltiplicatore 3x del listino serve proprio a reggerle senza andare sotto.",
+     "livello":"indispensabile"},
+
+    {"id":"T28","fase":"VENDITA","nome":"Shopify","url":"https://www.shopify.com/","costo":"abbonamento mensile più commissioni",
+     "cosa_fa":"Negozio online proprio.",
+     "perche_serve":"Nessuna commissione da marketplace sul margine e il cliente è tuo, non della piattaforma.",
+     "consiglio":"Il catalogo genera già shopify_import.csv pronto: i prodotti entrano in bozza e li rivedi prima di pubblicare. Ma il traffico devi portarlo tu.",
+     "livello":"utile"},
+
+    {"id":"T29","fase":"VENDITA","nome":"WooCommerce","url":"https://woocommerce.com/","costo":"gratuito, su hosting proprio",
+     "cosa_fa":"Negozio online su WordPress.",
+     "perche_serve":"Costi ricorrenti più bassi di Shopify se hai già un sito.",
+     "consiglio":"Il catalogo genera anche woocommerce_import.csv con i campi SEO Yoast già compilati.",
+     "livello":"utile"},
+
+    {"id":"T30","fase":"VENDITA","nome":"Faire","url":"https://www.faire.com/","costo":"commissione sulle vendite all'ingrosso",
+     "cosa_fa":"Marketplace all'ingrosso che mette in contatto produttori e negozi.",
+     "perche_serve":"È il canale naturale per la parte B2B del catalogo, che è quella con i margini migliori.",
+     "consiglio":"Qui servono i prezzi a scaglioni, che il catalogo calcola già (b2b_10, b2b_25, b2b_50, b2b_100). Il negozio compra all'ingrosso e rivende al doppio: se il tuo prezzo b2b non regge quel raddoppio, non ti compra.",
+     "livello":"utile"},
+
+    {"id":"T31","fase":"PRODUZIONE","nome":"Generatori di QR code","url":"https://www.qrcode-monkey.com/","costo":"gratuito",
+     "cosa_fa":"Genera codici QR in formato vettoriale.",
+     "perche_serve":"Serve per i porta QR, i wifi da camera e i menu digitali del catalogo B2B.",
+     "consiglio":"Esporta sempre in SVG, mai in PNG: un QR raster inciso perde definizione sui bordi e smette di leggersi. E genera con il livello di correzione errori alto, così regge una piccola imprecisione di incisione.",
+     "livello":"utile"},
+
+    {"id":"T32","fase":"DISEGNO","nome":"p5.js","url":"https://p5js.org/","costo":"gratuito, open source",
+     "cosa_fa":"Libreria per grafica generativa nel browser, con esportazione in SVG.",
+     "perche_serve":"È lo strumento giusto per costruire i pattern come REGOLE invece che come disegni: modulo, rotazione, riflessione sulla griglia da 12 mm.",
+     "consiglio":"È la differenza fra un pattern che hai disegnato e uno che puoi rigenerare all'infinito con parametri diversi. Un pattern generativo è anche più difendibile sul piano dell'originalità, perché nasce da una regola tua.",
+     "livello":"utile"},
+
+    {"id":"T33","fase":"OTTIMIZZAZIONE","nome":"Il motore di questo catalogo","url":"https://github.com/inglyum/cataloingly","costo":"gratuito",
+     "cosa_fa":"Calcola costi, prezzi, margini e priorità di lancio dai parametri fisici di ogni prodotto, e blocca gli errori di producibilità prima della produzione.",
+     "perche_serve":"È l'unico strumento della lista che conosce i TUOI costi. Cambia una tariffa in reference.json e ricalcola tutto il catalogo.",
+     "consiglio":"La prima cosa da fare è tarare le tariffe sui costi reali. Finché ci sono le mie ipotesi, i prezzi sono plausibili ma non sono i tuoi.",
+     "livello":"indispensabile"},
+
+    {"id":"T34","fase":"IMMAGINI","nome":"Fotocamera del telefono + luce di finestra","url":"https://www.blender.org/","costo":"quello che hai già",
+     "cosa_fa":"La foto di prodotto reale.",
+     "perche_serve":"Per un prodotto in legno, una finestra a nord e un cartoncino bianco come riflettore battono qualsiasi set costoso montato male.",
+     "consiglio":"Il bordo ambrato del laser è la firma del prodotto: fotografalo con luce RADENTE, non frontale, altrimenti sparisce. E fai sempre uno scatto della mano che tiene l'oggetto: dà la scala meglio di qualsiasi misura scritta.",
+     "livello":"indispensabile"}
+
+  ],
+
+  "percorso_consigliato": {
+    "titolo": "Da zero a produzione, spendendo il meno possibile",
+    "passi": [
+      "Inkscape (gratuito) per disegnare, con griglia 12 mm e colori per operazione fissati subito.",
+      "Boxes.py (gratuito) per generare la struttura delle otto piattaforme, una volta sola.",
+      "FreeCAD (gratuito) per verificare che gli incastri si montino davvero, prima di tagliare.",
+      "LightBurn (99 $) per comandare la macchina. È l'unica spesa da fare il primo giorno.",
+      "Deepnest (gratuito) per il nesting a taglio comune. È lo strumento che ripaga di più: agisce su materiale e tempo macchina insieme.",
+      "Google Fonts (gratuito) per due famiglie tipografiche, usate su tutto il catalogo.",
+      "Blender (gratuito) per una scena di studio riutilizzabile, e le immagini di catalogo escono senza aver tagliato niente.",
+      "Google Trends (gratuito) per decidere QUANDO produrre gli stagionali.",
+      "Il motore di questo catalogo, tarato sui costi reali, per sapere se ogni prodotto sta in piedi prima di lanciarlo.",
+      "Solo dopo, se il tempo perso lo giustifica: Creative Fabrica per font e pattern, Affinity Designer se i file diventano lenti, eRank per le parole chiave."
+    ],
+    "spesa_minima": "99 $ di LightBurn. Tutto il resto della catena di base è gratuito o open source."
+  }
+}

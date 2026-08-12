@@ -28,6 +28,7 @@ OUT = ROOT / "out"
 
 ENC = json.load(open(DATA / "enciclopedia.json", encoding="utf-8"))
 FONTI = json.load(open(DATA / "fonti.json", encoding="utf-8"))
+STRU = json.load(open(DATA / "strumenti.json", encoding="utf-8"))
 CATS = json.load(open(DATA / "categories.json", encoding="utf-8"))["categorie"]
 
 CSS_EXTRA = """
@@ -88,6 +89,15 @@ color:var(--mid);white-space:pre-wrap;word-break:break-word}
 text-transform:uppercase;color:var(--acc);margin-bottom:10px}
 .strat ol{margin:0;padding-left:20px;font-family:var(--serif);font-size:15.5px;line-height:1.6;color:var(--mid)}
 .strat li{margin-bottom:8px}
+.t{border:1px solid var(--rule2);background:var(--surface);padding:14px 16px}
+.t-h{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;margin-bottom:8px}
+.t-h h4{margin:0;font-size:16px;font-weight:800;letter-spacing:-.01em}
+.t p{margin:0 0 8px;font-family:var(--serif);font-size:14.5px;line-height:1.55;color:var(--mid)}
+.t p.cons{color:var(--ink);border-left:2px solid var(--accb);padding-left:10px}
+.t .costo{font-family:var(--mono);font-size:11px;color:var(--acc);margin-bottom:8px;display:block}
+.lv-indispensabile{color:var(--crit);background:var(--accw)}
+.lv-utile{color:var(--ok)}
+.lv-opzionale{color:var(--soft)}
 """
 
 FILTRI_JS = """
@@ -139,6 +149,7 @@ def costruisci():
     a(f'<div><dt>A pagamento</dt><dd>{len(pagamento)}</dd></div>')
     a(f'<div><dt>Uso commerciale</dt><dd>{len(commerciali)}</dd></div>')
     a(f'<div><dt>Rischio IP alto</dt><dd>{len(ip_alto)}</dd></div>')
+    a(f'<div><dt>Strumenti</dt><dd>{len(STRU["strumenti"])}</dd></div>')
     a('</dl></header>')
 
     a('<nav class="tools"><div class="tools-in">')
@@ -195,6 +206,45 @@ def costruisci():
             a(f'<div><dt>Link</dt><dd><a href="{esc(f["url"])}" target="_blank" rel="noopener">apri</a></dd></div>')
             a('</dl></article>')
         a('</div></section>')
+
+    # ---------------- strumenti ----------------
+    fasi = STRU["fasi"]
+    per_fase = {}
+    for t in STRU["strumenti"]:
+        per_fase.setdefault(t["fase"], []).append(t)
+
+    a(f'<section class="sec"><div class="sec-h">Strumenti per creare e produrre — '
+      f'{len(STRU["strumenti"])}</div>')
+    a(f'<p class="cat-an">{esc(STRU["_meta"]["come_scegliere"])}</p>')
+    a(f'<div class="warnbox" style="border-left-color:var(--accb)"><b>Sui prezzi</b>'
+      f'<p>{esc(STRU["_meta"]["avvertenza_prezzi"])}</p></div>')
+
+    for fase, titolo in fasi.items():
+        ts = per_fase.get(fase, [])
+        if not ts:
+            continue
+        a(f'<div class="sec-h" style="margin-top:26px">{esc(fase)} — {esc(titolo)}</div>')
+        a('<div class="fgrid">')
+        for t in ts:
+            a('<article class="t"><div class="t-h">')
+            a(f'<span style="font-family:var(--mono);font-size:10px;color:var(--soft)">{t["id"]}</span>')
+            a(f'<h4>{esc(t["nome"])}</h4>')
+            a(f'<span class="badge lv-{t["livello"]}">{esc(t["livello"])}</span></div>')
+            a(f'<span class="costo">{esc(t["costo"])}</span>')
+            a(f'<p>{esc(t["cosa_fa"])}</p>')
+            a(f'<p>{esc(t["perche_serve"])}</p>')
+            a(f'<p class="cons">{esc(t["consiglio"])}</p>')
+            a(f'<p style="font-family:var(--mono);font-size:11px;margin:0">'
+              f'<a href="{esc(t["url"])}" target="_blank" rel="noopener">apri</a></p>')
+            a('</article>')
+        a('</div>')
+
+    pc = STRU["percorso_consigliato"]
+    a(f'<div class="strat"><b>{esc(pc["titolo"])}</b><ol>')
+    for x in pc["passi"]:
+        a(f'<li>{esc(x)}</li>')
+    a(f'</ol><p style="font-family:var(--mono);font-size:12px;color:var(--acc);margin:12px 0 0">'
+      f'SPESA MINIMA: {esc(pc["spesa_minima"])}</p></div></section>')
 
     # ---------------- strategia ----------------
     st = FONTI["strategia_ingly"]
@@ -286,6 +336,8 @@ def main():
 
     with open(OUT / "enciclopedia.json", "w", encoding="utf-8") as fh:
         json.dump({"voci": ENC["voci"], "fonti": FONTI["fonti"],
+                   "strumenti": STRU["strumenti"],
+                   "percorso": STRU["percorso_consigliato"],
                    "strategia": FONTI["strategia_ingly"]}, fh, ensure_ascii=False, indent=2)
 
     righe = []
@@ -309,7 +361,13 @@ def main():
     for v in ENC["voci"]:
         per_cat.setdefault(v["cat"], []).append(v)
 
-    print(f"\n{len(ENC['voci'])} voci di enciclopedia · {len(FONTI['fonti'])} fonti\n")
+    with open(OUT / "strumenti.csv", "w", newline="", encoding="utf-8") as fh:
+        w = csv.DictWriter(fh, fieldnames=list(STRU["strumenti"][0].keys()), extrasaction="ignore")
+        w.writeheader()
+        w.writerows(STRU["strumenti"])
+
+    print(f"\n{len(ENC['voci'])} voci · {len(FONTI['fonti'])} fonti · "
+          f"{len(STRU['strumenti'])} strumenti\n")
     print(f"{'Categoria':<34}{'Voci':>6}{'IP alto':>9}{'Dom. alta':>11}")
     print("-" * 60)
     for cid, vs in sorted(per_cat.items()):

@@ -1,0 +1,2146 @@
+{
+ "_categoria": "SICILY — 10 Sicilia Souvenir",
+ "_nota": "Linea identitaria. Regole non negoziabili: fascia 12-40 € (sotto non si compete con l'import), silhouette dell'isola geograficamente corretta, street food trattato come geometria e non come illustrazione, vincolo valigia 20x20x3 cm e 300 g.",
+ "prodotti": [
+  {
+   "id": "ING-SICILY-SOUV-241",
+   "cat": "SICILY",
+   "coll": "SOUVENIR",
+   "name": "Trinacria",
+   "tipo": "magnete multilayer a tre strati",
+   "tipo_en": "three-layer souvenir magnet",
+   "concept": "Magnete a tre strati distanziati dove l'isola emerge dal mare stampato in gradiente.",
+   "target": "Turisti in Sicilia, negozi souvenir, aeroporti.",
+   "desire": "Portare a casa un ricordo che non sembri comprato in aeroporto.",
+   "usp": "Tre strati veri con ombra fra i piani: si riconosce a distanza da un magnete stampato.",
+   "diff": "L'import parte da 0,29 $: qui non si compete sul prezzo ma sullo spessore fisico.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    72,
+    60,
+    12
+   ],
+   "layers": 3,
+   "cut_mm": 620,
+   "vec_mm": 240,
+   "eng_cm2": 8,
+   "uv_cm2": 40,
+   "uv_white": true,
+   "comp": {
+    "lamina_magnetica": 1
+   },
+   "pack": "busta",
+   "lotto": 60,
+   "mkt": [
+    8,
+    18
+   ],
+   "person": [
+    "nome luogo",
+    "anno"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "TOURISM",
+    "FAST SELLER",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-SICILY-SOUV-244 segnalibro",
+    "ING-SICILY-SOUV-245 cartolina",
+    "ING-SICILY-TAV-247 coaster"
+   ],
+   "bundle": [
+    "SET SOUVENIR: magnete + segnalibro + cartolina",
+    "ESPOSITORE NEGOZIO 60 pz"
+   ],
+   "ref": "https://www.faire.com/category/Paper%20&%20Novelty/subcategory/Stickers,%20Pins,%20&%20Magnets/Magnets",
+   "kw": [
+    "magnete sicilia legno",
+    "souvenir sicilia design",
+    "calamita sicilia",
+    "sicily fridge magnet"
+   ],
+   "s_demand": 17,
+   "s_comp": 6,
+   "s_person": 7,
+   "s_gift": 7,
+   "s_uniq": 8,
+   "prompt_prod": "Tre strati betulla 4 mm distanziati 2 mm su ingombro 72x60. Strato 1 mare (pannello UV gradiente turchese-crema), strato 2 profilo costa, strato 3 rilievo interno. SILHOUETTE GEOGRAFICAMENTE CORRETTA: partire da dati cartografici reali, curare Capo Passero e Capo Lilibeo dove tutti sbagliano. Lamina magnetica sul retro. Nome del luogo ENGRAVE-V h 4 mm.",
+   "prompt_img": "macro three-quarter view of a small layered wooden fridge magnet 72x60 mm, three birch layers spaced 2 mm forming the island of Sicily rising from a printed turquoise gradient sea, visible shadow between layers, toasted laser edges, on a white fridge door"
+  },
+  {
+   "id": "ING-SICILY-CASA-242",
+   "cat": "SICILY",
+   "coll": "CASA",
+   "name": "Isola",
+   "tipo": "sagoma dell'isola da parete",
+   "tipo_en": "island silhouette wall piece",
+   "concept": "Il profilo della Sicilia in betulla spessa, con le province incise a filo e un pannello colorato dietro.",
+   "target": "Siciliani fuori sede, diaspora, arredo, regalo affettivo.",
+   "desire": "Avere l'isola alla parete, fatta bene.",
+   "usp": "Proporzioni geografiche corrette: chi è siciliano lo nota in un secondo.",
+   "diff": "Le sagome sbagliate sono diffusissime e svalutano tutto il resto del catalogo.",
+   "platform": "P5",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.8
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    204,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 2200,
+   "vec_mm": 1400,
+   "eng_cm2": 40,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 15,
+   "mkt": [
+    25,
+    80
+   ],
+   "person": [
+    "nome città",
+    "coordinate",
+    "data",
+    "frase"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "SOUVENIR"
+   ],
+   "upsell": [
+    "ING-SICILY-CITTA-252 mappa città",
+    "ING-SICILY-CASA-259 quadro costa",
+    "ING-SICILY-SOUV-251 targa coordinate"
+   ],
+   "bundle": [
+    "PARETE SICILIANA",
+    "REGALO DIASPORA: isola + targa coordinate"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_wall_decor",
+   "kw": [
+    "sagoma sicilia legno",
+    "sicilia da parete",
+    "quadro sicilia design",
+    "sicily wood wall art"
+   ],
+   "s_demand": 15,
+   "s_comp": 9,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 8,
+   "prompt_prod": "Fondo betulla 8 mm 300x204 con UV PRINT gradiente mare. Sagoma betulla 4 mm sovrapposta distanziata 4 mm, profilo dell'isola da dati cartografici reali. Confini provinciali ENGRAVE-V tratto 0,3 mm. Un punto Ø4 CUT traforato sulla città scelta dal cliente, che lascia passare il colore del fondo. Aggancio a 2 punti.",
+   "prompt_img": "a wall piece 300x204 mm, the silhouette of Sicily cut from 8 mm birch and raised 4 mm above a printed turquoise gradient panel, faint engraved province borders, one small hole punched through at a city letting the colour show, on a lime-washed wall"
+  },
+  {
+   "id": "ING-SICILY-SOUV-243",
+   "cat": "SICILY",
+   "coll": "SOUVENIR",
+   "name": "Capo",
+   "tipo": "portachiavi premium legno e metallo",
+   "tipo_en": "premium wood and steel keyring",
+   "concept": "Portachiavi in betulla con placchetta d'acciaio marcata al fiber con luogo e coordinate.",
+   "target": "Turisti che rifiutano il souvenir da 3 €, negozi di fascia media.",
+   "desire": "Un ricordo tascabile che duri più di una stagione.",
+   "usp": "Il metallo marcato resta leggibile per anni, il legno inciso no.",
+   "diff": "Entra dai 12 € in su, dove l'import asiatico da 0,29 $ non arriva.",
+   "platform": "P6",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    48,
+    72,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 300,
+   "vec_mm": 200,
+   "eng_cm2": 6,
+   "mopa_cm2": 6,
+   "comp": {
+    "anello_pck": 1,
+    "targhetta_inox": 1
+   },
+   "pack": "busta",
+   "lotto": 80,
+   "mkt": [
+    10,
+    25
+   ],
+   "person": [
+    "luogo",
+    "coordinate",
+    "nome",
+    "data"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "TOURISM",
+    "PREMIUM",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-SICILY-SOUV-241 magnete",
+    "ING-SICILY-SOUV-251 targa coordinate",
+    "ING-SICILY-SOUV-268 apribottiglie"
+   ],
+   "bundle": [
+    "SET SOUVENIR",
+    "ESPOSITORE NEGOZIO 80 pz"
+   ],
+   "ref": "https://www.faire.com/discover/souvenir-keychains",
+   "kw": [
+    "portachiavi sicilia legno",
+    "portachiavi souvenir premium",
+    "portachiavi coordinate",
+    "sicily keyring wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 7,
+   "s_person": 10,
+   "s_gift": 7,
+   "s_uniq": 7,
+   "prompt_prod": "Lastra betulla 6 mm 48x72, testa ad arco R12, foro Ø5 per anello. Sede 20x40 per placchetta inox, marcata MOPA con nome del luogo e coordinate. ENGRAVE-V filo a 4 mm dal bordo. Nesting 140 pz/foglio: riempitivo dei fogli degli altri prodotti della linea.",
+   "prompt_img": "macro of a wooden keyring 48x72 mm with an inset brushed steel plate fiber-marked with a place name and GPS coordinates, arched top, split ring, held between two fingers, warm daylight"
+  },
+  {
+   "id": "ING-SICILY-SOUV-244",
+   "cat": "SICILY",
+   "coll": "SOUVENIR",
+   "name": "Zàgara",
+   "tipo": "segnalibro con sezione di agrume",
+   "tipo_en": "citrus section bookmark",
+   "concept": "Segnalibro sottile con la sezione dell'agrume traforata e la gancetto ad arco che scavalca la pagina.",
+   "target": "Turisti, lettori, regalo piccolo, musei e librerie.",
+   "desire": "Un ricordo che entra ovunque in valigia e si usa davvero.",
+   "usp": "Peso e ingombro quasi nulli: il formato ideale per il turismo.",
+   "diff": "Il traforo radiale è pattern generativo, non un limone disegnato.",
+   "platform": "P1",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    36,
+    144,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 420,
+   "vec_mm": 180,
+   "eng_cm2": 4,
+   "uv_cm2": 18,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 100,
+   "mkt": [
+    5,
+    14
+   ],
+   "person": [
+    "nome",
+    "luogo",
+    "frase"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "TOURISM",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SICILY-SOUV-245 cartolina",
+    "ING-SICILY-SOUV-241 magnete",
+    "ING-SICILY-TAV-247 coaster"
+   ],
+   "bundle": [
+    "SET SOUVENIR",
+    "SET LETTURA: segnalibro + cartolina"
+   ],
+   "ref": "https://www.faire.com/discover/italian-keychain",
+   "kw": [
+    "segnalibro legno sicilia",
+    "segnalibro agrumi",
+    "segnalibro souvenir",
+    "wooden bookmark citrus"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 8,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Lastra betulla 3 mm 36x144. Testa con gancetto ad arco R12 che scavalca la pagina. Sezione di agrume CUT traforata: 8 spicchi radiali, ponticelli minimi 2,5 mm, membrane ENGRAVE-V. Fascia UV gialla in coda. Spigoli smussati: sta fra le pagine di un libro.",
+   "prompt_img": "a slim wooden bookmark 36x144 mm in 3 mm birch, a radial citrus-section pattern cut straight through the upper half, arched hook at the top, yellow printed band at the tail, tucked into an open book"
+  },
+  {
+   "id": "ING-SICILY-SOUV-245",
+   "cat": "SICILY",
+   "coll": "SOUVENIR",
+   "name": "Postale",
+   "tipo": "cartolina in legno spedibile",
+   "tipo_en": "mailable wooden postcard",
+   "concept": "Cartolina A6 in betulla sottile, fronte stampato e retro liscio per scrivere e affrancare.",
+   "target": "Turisti, hotel, musei, negozi di paese.",
+   "desire": "Mandare un pezzo di legno da qui, non una cartolina di carta come tutti.",
+   "usp": "Si spedisce davvero: è insieme souvenir e gesto verso qualcun altro.",
+   "diff": "Categoria quasi vuota — pochissimi la producono, e chi la produce non la certifica come spedibile.",
+   "platform": "P8",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    144,
+    108,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 520,
+   "vec_mm": 300,
+   "eng_cm2": 6,
+   "uv_cm2": 150,
+   "uv_white": true,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 80,
+   "mkt": [
+    6,
+    18
+   ],
+   "person": [
+    "soggetto",
+    "luogo",
+    "messaggio"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "TOURISM",
+    "BUNDLE",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-SICILY-SOUV-244 segnalibro",
+    "ING-SICILY-SOUV-241 magnete",
+    "ING-SICILY-SOUV-246 ornamento"
+   ],
+   "bundle": [
+    "SET SOUVENIR",
+    "KIT B&B OSPITE"
+   ],
+   "ref": "https://www.wholesalecentral.com/category/Souvenirs",
+   "kw": [
+    "cartolina legno",
+    "cartolina sicilia souvenir",
+    "wooden postcard",
+    "cartolina spedibile legno"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 3 mm 144x108 (A6), angoli R12. Fronte UV WHITE + CMYK a piena superficie. Retro LISCIO NON TRATTATO perché la penna scriva: riquadro affrancatura 24x28 e righe ENGRAVE-V tratto 0,2 mm. VERIFICA POSTALE OBBLIGATORIA di peso e spessore massimi ammessi, riportata sul cartellino.",
+   "prompt_img": "a wooden postcard 144x108 mm in thin birch, front fully UV-printed with a stylised Sicilian coastline, lying next to its blank reverse side showing engraved address lines and a stamp box, a pen resting beside it on a café table"
+  },
+  {
+   "id": "ING-SICILY-SOUV-246",
+   "cat": "SICILY",
+   "coll": "SOUVENIR",
+   "name": "Ricordo",
+   "tipo": "ornamento da viaggio datato",
+   "tipo_en": "dated travel ornament",
+   "concept": "Addobbo piatto con luogo e anno incisi, da riappendere ogni dicembre.",
+   "target": "Famiglie in viaggio, turisti, mercatini di Natale.",
+   "desire": "Ricordare questo viaggio ogni anno senza tenere un oggetto in più in casa.",
+   "usp": "Unisce il picco turistico estivo e quello natalizio con un solo prodotto.",
+   "diff": "È la risposta migliore del catalogo al problema della stagionalità.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    84,
+    96,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 560,
+   "vec_mm": 260,
+   "eng_cm2": 10,
+   "uv_cm2": 45,
+   "uv_white": true,
+   "comp": {
+    "cordino": 1
+   },
+   "pack": "busta",
+   "lotto": 80,
+   "mkt": [
+    10,
+    26
+   ],
+   "person": [
+    "luogo",
+    "anno",
+    "nomi"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "SEASONAL",
+    "TOURISM",
+    "FAST SELLER"
+   ],
+   "upsell": [
+    "ING-SICILY-SOUV-241 magnete",
+    "ING-SICILY-SOUV-245 cartolina",
+    "ING-SICILY-SOUV-244 segnalibro"
+   ],
+   "bundle": [
+    "SET SOUVENIR",
+    "NATALE SICILIANO: 6 ornamenti"
+   ],
+   "ref": "https://www.screenprinting.com/blogs/news/profitable-laser-engraved-christmas-ornaments-to-make-and-sell",
+   "kw": [
+    "ornamento viaggio personalizzato",
+    "addobbo natale sicilia",
+    "souvenir natalizio legno",
+    "travel ornament dated"
+   ],
+   "s_demand": 14,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 4 mm 84x96, profilo ad arco R12 con foro Ø4 per cordino. Soggetto CUT traforato (cupola, fico d'India, onda, sole) su pannello UV. ANNO ENGRAVE-V h 10 mm ben leggibile: è il motivo per cui si ricompra l'anno dopo. Produzione da avviare a settembre per la stagione natalizia.",
+   "prompt_img": "a flat wooden Christmas ornament 84x96 mm hanging from a cotton cord on a fir branch, arched profile, a dome shape cut through revealing a printed blue panel, the year engraved below in clear lettering, warm indoor lights bokeh behind"
+  },
+  {
+   "id": "ING-SICILY-TAV-247",
+   "cat": "SICILY",
+   "coll": "TAVOLA",
+   "name": "Maiolica",
+   "tipo": "set 4 sottobicchieri a pattern maiolica",
+   "tipo_en": "maiolica pattern coaster set",
+   "concept": "Quattro sottobicchieri con quattro rotazioni dello stesso modulo maiolica stampato in UV.",
+   "target": "Turisti, casa, regalo, hotel e B&B.",
+   "desire": "L'effetto della ceramica siciliana senza il peso e la fragilità.",
+   "usp": "Stesso impatto visivo della maiolica a un terzo del prezzo e senza rischio in valigia.",
+   "diff": "Il pattern è ricostruito come regola generativa su griglia 12 mm, non ricalcato da una piastrella.",
+   "platform": "P1",
+   "mat": [
+    "betulla6",
+    "sughero2"
+   ],
+   "quota_mat": {
+    "sughero2": 0.9
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    96,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 1500,
+   "vec_mm": 1200,
+   "eng_cm2": 0,
+   "uv_cm2": 290,
+   "uv_white": true,
+   "comp": {},
+   "pack": "scatola_s",
+   "lotto": 40,
+   "mkt": [
+    18,
+    45
+   ],
+   "person": [
+    "colore",
+    "nome",
+    "logo"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "FAST SELLER",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SICILY-TAV-248 vassoio",
+    "ING-SICILY-LUCE-255 lanterna",
+    "ING-SICILY-CASA-261 specchio"
+   ],
+   "bundle": [
+    "TAVOLA SICILIANA: coaster + vassoio",
+    "KIT B&B CAMERA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "sottobicchieri maiolica siciliana",
+    "coaster ceramica siciliana legno",
+    "sottobicchieri sicilia",
+    "sicilian tile coasters"
+   ],
+   "s_demand": 16,
+   "s_comp": 8,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Quattro quadrati betulla 6 mm 96x96 con angoli R12, sughero 2 mm sotto. UV WHITE + CMYK: un modulo maiolica costruito su griglia 12 mm, quattro varianti per rotazione di 90 gradi — affiancati compongono un disegno continuo. Palette blu cobalto, giallo limone, verde ramina, bianco. ENGRAVE-V filo a 4 mm.",
+   "prompt_img": "four square birch coasters 96 mm printed with cobalt, lemon and green maiolica-style geometric modules, arranged two by two so the pattern reads continuously across them, cork backing visible on one tilted piece, on a dark stone table with a glass of wine"
+  },
+  {
+   "id": "ING-SICILY-TAV-248",
+   "cat": "SICILY",
+   "coll": "TAVOLA",
+   "name": "Cortile",
+   "tipo": "vassoio a pattern maiolica",
+   "tipo_en": "maiolica pattern serving tray",
+   "concept": "Vassoio con il fondo stampato a maiolica continua e vernice lucida selettiva sui soli moduli.",
+   "target": "Casa, B&B, regalo importante, turisti alto spendenti.",
+   "desire": "Portare in tavola qualcosa che parli di Sicilia senza essere folkloristico.",
+   "usp": "Il gloss selettivo dà rilievo tattile al pattern: si sente sotto le dita.",
+   "diff": "È la superficie più ampia della linea, quindi dove la stampa UV rende di più.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    204,
+    24
+   ],
+   "layers": 1,
+   "cut_mm": 1900,
+   "vec_mm": 900,
+   "eng_cm2": 0,
+   "uv_cm2": 620,
+   "uv_white": true,
+   "uv_gloss_cm2": 320,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 20,
+   "mkt": [
+    35,
+    95
+   ],
+   "person": [
+    "colore",
+    "nome",
+    "logo",
+    "frase"
+   ],
+   "tags": [
+    "PREMIUM",
+    "SOUVENIR",
+    "B2B",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-SICILY-TAV-247 coaster",
+    "ING-SICILY-TAV-249 coaster street food",
+    "ING-B2B-HOSP-117 vassoio benvenuto"
+   ],
+   "bundle": [
+    "TAVOLA SICILIANA",
+    "KIT B&B CAMERA"
+   ],
+   "ref": "https://www.outfy.com/blog/top-selling-etsy-home-decor-trends/",
+   "kw": [
+    "vassoio maiolica siciliana",
+    "vassoio legno sicilia",
+    "vassoio decorato mediterraneo",
+    "sicilian tray wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 9,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Fondo betulla 6 mm 300x204: UV WHITE + CMYK pattern maiolica continuo + UV GLOSS sui soli moduli decorativi, non sul fondo. Quattro sponde h 24 mm a incastro 45 gradi, maniglie ad arco R12 traforate 90x28 sulle corte. Gommini nei 4 angoli.",
+   "prompt_img": "three-quarter view of a wooden serving tray 300x204 mm with arched cut-out handles, base fully printed with a continuous cobalt and lemon maiolica pattern with raised selective gloss catching the light, holding espresso cups and almond biscuits, on a linen cloth"
+  },
+  {
+   "id": "ING-SICILY-TAV-249",
+   "cat": "SICILY",
+   "coll": "TAVOLA",
+   "name": "Strada",
+   "tipo": "set 4 sottobicchieri street food",
+   "tipo_en": "street food coaster set",
+   "concept": "Arancina, cannolo, cassata e granita ridotti a geometria pura, uno per sottobicchiere.",
+   "target": "Turisti, food lover, ristoranti siciliani, regalo divertente.",
+   "desire": "Il ricordo del cibo, che è il primo ricordo di un viaggio in Sicilia.",
+   "usp": "Trattati come forme e non come illustrazioni da bancarella: entrano in una casa contemporanea.",
+   "diff": "Il cono con texture radiale e la spirale del cannolo sono geometria, non disegnini.",
+   "platform": "P1",
+   "mat": [
+    "betulla6",
+    "sughero2"
+   ],
+   "quota_mat": {
+    "sughero2": 0.9
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    96,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 1500,
+   "vec_mm": 1000,
+   "eng_cm2": 20,
+   "uv_cm2": 290,
+   "uv_white": true,
+   "comp": {},
+   "pack": "scatola_s",
+   "lotto": 40,
+   "mkt": [
+    18,
+    45
+   ],
+   "person": [
+    "soggetti",
+    "colore",
+    "nome locale"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "FAST SELLER",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SICILY-TAV-247 coaster maiolica",
+    "ING-SICILY-SOUV-250 magnete street food",
+    "ING-SICILY-TAV-248 vassoio"
+   ],
+   "bundle": [
+    "TAVOLA SICILIANA",
+    "SET STREET FOOD: coaster + magneti"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "sottobicchieri street food siciliano",
+    "coaster arancina cannolo",
+    "sottobicchieri sicilia cibo",
+    "sicilian food coasters"
+   ],
+   "s_demand": 14,
+   "s_comp": 11,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Quattro dischi betulla 6 mm Ø96 + sughero. Ogni soggetto ridotto a FORMA PURA: arancina = cono con texture radiale ENGRAVE-R; cannolo = cilindro con spirale e due terminazioni circolari; cassata = corona di segmenti alternati; granita = cupola con striature verticali. Nessun contorno illustrativo, solo geometria. UV a colori pieni.",
+   "prompt_img": "four round birch coasters 96 mm, each printed with a Sicilian street food reduced to pure geometry — a radial-textured cone, a spiral cylinder, a crown of alternating segments, a striped dome — flat bold colours, arranged in a row on a marble counter"
+  },
+  {
+   "id": "ING-SICILY-SOUV-250",
+   "cat": "SICILY",
+   "coll": "SOUVENIR",
+   "name": "Bancarella",
+   "tipo": "magnete street food singolo",
+   "tipo_en": "street food magnet",
+   "concept": "Magnete singolo con un soggetto street food geometrico, venduto sfuso da espositore.",
+   "target": "Turisti, negozi, bar, pasticcerie.",
+   "desire": "Un ricordo da 8 € da comprare d'impulso e regalare.",
+   "usp": "Da espositore si vende in multipli: chi ne prende uno ne prende tre.",
+   "diff": "Serie collezionabile: sei soggetti che invitano a completare.",
+   "platform": "P1",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    60,
+    60,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 300,
+   "vec_mm": 180,
+   "eng_cm2": 8,
+   "uv_cm2": 36,
+   "uv_white": true,
+   "comp": {
+    "lamina_magnetica": 1
+   },
+   "pack": "busta",
+   "lotto": 100,
+   "mkt": [
+    6,
+    14
+   ],
+   "person": [
+    "soggetto",
+    "nome locale"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "TOURISM",
+    "FAST SELLER",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SICILY-TAV-249 coaster street food",
+    "ING-SICILY-SOUV-241 magnete isola",
+    "ING-SICILY-SOUV-244 segnalibro"
+   ],
+   "bundle": [
+    "SET STREET FOOD",
+    "ESPOSITORE NEGOZIO 100 pz"
+   ],
+   "ref": "https://www.wholesalecentral.com/category/Souvenirs",
+   "kw": [
+    "magnete arancina",
+    "calamita cannolo",
+    "magneti street food sicilia",
+    "sicilian food magnet"
+   ],
+   "s_demand": 15,
+   "s_comp": 9,
+   "s_person": 6,
+   "s_gift": 7,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 6 mm 60x60, angoli R12. Sei SKU sulla stessa matrice: arancina, cannolo, cassata, granita, pane e panelle, gelato in brioche. Geometria pura, UV a colori pieni con bianco di fondo. Lamina magnetica. Espositore da banco venduto separatamente. Nesting 90 pz/foglio.",
+   "prompt_img": "six small square wooden magnets 60 mm in a row on a shop display card, each printed with a Sicilian street food reduced to flat geometric shapes in bold colour, birch edges visible, bright retail lighting"
+  },
+  {
+   "id": "ING-SICILY-SOUV-251",
+   "cat": "SICILY",
+   "coll": "SOUVENIR",
+   "name": "Punto",
+   "tipo": "targa con coordinate del luogo",
+   "tipo_en": "place coordinates plaque",
+   "concept": "Targa da appoggio con nome del luogo e coordinate marcate su acciaio.",
+   "target": "Viaggiatori, coppie, case vacanza, regalo ricordo.",
+   "desire": "Ricordare un posto esatto, non una città generica.",
+   "usp": "Cambia solo il testo variabile: è il modo più economico di rendere unico un souvenir.",
+   "diff": "Le coordinate al fiber restano leggibili a 2 mm, cosa che nessuna incisione su legno permette.",
+   "platform": "P6",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    168,
+    72,
+    48
+   ],
+   "layers": 1,
+   "cut_mm": 760,
+   "vec_mm": 420,
+   "eng_cm2": 16,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_inox": 1,
+    "gommini": 1
+   },
+   "pack": "busta",
+   "lotto": 30,
+   "mkt": [
+    18,
+    55
+   ],
+   "person": [
+    "luogo",
+    "coordinate",
+    "data",
+    "nomi"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "TOURISM"
+   ],
+   "upsell": [
+    "ING-SICILY-CASA-242 sagoma isola",
+    "ING-SICILY-SOUV-243 portachiavi",
+    "ING-SICILY-CITTA-252 mappa città"
+   ],
+   "bundle": [
+    "REGALO DIASPORA",
+    "RICORDO DI VIAGGIO: targa + ornamento"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_home_sign",
+   "kw": [
+    "targa coordinate gps",
+    "targa luogo personalizzata",
+    "souvenir coordinate",
+    "gps coordinates plaque wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 8,
+   "prompt_prod": "Prisma betulla 8 mm 168x72x48 a tre lastre incastrate 45 gradi. Nome del luogo ENGRAVE-V h 12 mm sul fronte. Sede 20x40 per placchetta inox MOPA con le coordinate in formato decimale a 4 cifre. Fascia inferiore con onda ENGRAVE-R. Gommini.",
+   "prompt_img": "a small wooden desk plaque 168x72 mm with an engraved place name and an inset brushed steel plate finely marked with GPS coordinates, birch with clean laser edges, on a shelf beside a framed photo"
+  },
+  {
+   "id": "ING-SICILY-CITTA-252",
+   "cat": "SICILY",
+   "coll": "CITTA",
+   "name": "Pianta",
+   "tipo": "mappa città multilayer",
+   "tipo_en": "layered city map",
+   "concept": "Pianta della città a tre strati: acqua, isolati, assi principali, con il nome traforato in testa.",
+   "target": "Turisti, residenti, hotel, regalo di città.",
+   "desire": "Portare a casa la propria città, non un generico souvenir regionale.",
+   "usp": "Chi visita Taormina vuole Taormina: la specificità è il prodotto.",
+   "diff": "Ogni città ha una sua palette e un suo elemento dominante, non solo il nome cambiato sotto la stessa sagoma.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    240,
+    300,
+    16
+   ],
+   "layers": 3,
+   "cut_mm": 4200,
+   "vec_mm": 900,
+   "eng_cm2": 50,
+   "uv_cm2": 420,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 12,
+   "mkt": [
+    25,
+    90
+   ],
+   "person": [
+    "città",
+    "nome",
+    "data",
+    "punto speciale"
+   ],
+   "tags": [
+    "PREMIUM",
+    "SOUVENIR",
+    "PERSONALIZZABILE",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-SICILY-CITTA-253 skyline",
+    "ING-SICILY-SOUV-251 targa coordinate",
+    "ING-SICILY-CASA-242 sagoma isola"
+   ],
+   "bundle": [
+    "PARETE SICILIANA",
+    "LINEA CITTÀ: mappa + skyline + magnete"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_wall_decor",
+   "kw": [
+    "mappa città legno",
+    "mappa palermo laser",
+    "mappa catania decorativa",
+    "city map wood laser"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Tre strati betulla 4 mm 240x300 distanziati 4 mm. Strato 1 acqua (pannello UV), strato 2 isolati, strato 3 assi principali. SEMPLIFICA A UN SOLO LIVELLO GERARCHICO di strade: un reticolo fitto diventa ingestibile e i ponticelli si rompono. Ponticelli minimi 2,5 mm, provino obbligatorio. DATI CARTOGRAFICI con licenza compatibile (OpenStreetMap richiede attribuzione), mai screenshot di mappe proprietarie.",
+   "prompt_img": "a layered wooden city map 240x300 mm, three birch layers spaced 4 mm showing water, blocks and main axes of a coastal Sicilian city, deep blue printed water panel at the base, city name cut through the header, on a plaster wall"
+  },
+  {
+   "id": "ING-SICILY-CITTA-253",
+   "cat": "SICILY",
+   "coll": "CITTA",
+   "name": "Profilo",
+   "tipo": "skyline della città a strati",
+   "tipo_en": "layered city skyline",
+   "concept": "Il profilo dei monumenti della città su tre piani di profondità, con cielo stampato in gradiente.",
+   "target": "Turisti, uffici, hotel, regalo aziendale locale.",
+   "desire": "Riconoscere la propria città in un colpo d'occhio.",
+   "usp": "Lo skyline è immediatamente leggibile anche da lontano, la mappa no.",
+   "diff": "Costruito dai profili reali dei monumenti, non da sagome generiche di città.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    144,
+    16
+   ],
+   "layers": 3,
+   "cut_mm": 2800,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "uv_cm2": 250,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 15,
+   "mkt": [
+    22,
+    75
+   ],
+   "person": [
+    "città",
+    "nome",
+    "frase"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "PREMIUM",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SICILY-CITTA-252 mappa",
+    "ING-SICILY-CITTA-254 tessere borghi",
+    "ING-SICILY-SOUV-241 magnete"
+   ],
+   "bundle": [
+    "LINEA CITTÀ",
+    "PARETE SICILIANA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_wall_decor",
+   "kw": [
+    "skyline città legno",
+    "profilo monumenti sicilia",
+    "skyline palermo laser",
+    "city skyline wood art"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Tre strati betulla 4 mm 300x144 distanziati 4 mm: monumenti in primo piano, edifici medi, sfondo. Profili ricavati dai prospetti REALI dei monumenti, non da sagome generiche. Cielo pannello UV gradiente. Nome città ENGRAVE-V in basso a destra h 8 mm. Aggancio a 2 punti.",
+   "prompt_img": "a layered wooden city skyline 300x144 mm, three birch layers building depth from foreground monuments to background buildings, warm gradient printed sky behind, city name engraved small in the lower right, on a shelf against a white wall"
+  },
+  {
+   "id": "ING-SICILY-CITTA-254",
+   "cat": "SICILY",
+   "coll": "CITTA",
+   "name": "Borghi",
+   "tipo": "set 4 tessere dei borghi minori",
+   "tipo_en": "small towns tile set",
+   "concept": "Quattro tessere quadrate dedicate a Erice, Marzamemi, Scopello e Castelbuono, con supporto.",
+   "target": "Turisti dei borghi, negozi locali, pro loco.",
+   "desire": "Un ricordo del posto piccolo dove nessuno vende niente.",
+   "usp": "I turisti ci vanno e non trovano nulla da comprare: offerta praticamente assente.",
+   "diff": "Serie da completare, con un elemento geometrico caratteristico per ogni borgo.",
+   "platform": "P1",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    96,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 1400,
+   "vec_mm": 900,
+   "eng_cm2": 24,
+   "uv_cm2": 290,
+   "uv_white": true,
+   "comp": {},
+   "pack": "scatola_s",
+   "lotto": 40,
+   "mkt": [
+    18,
+    50
+   ],
+   "person": [
+    "borghi",
+    "colore",
+    "nome"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "LIMITED EDITION",
+    "BUNDLE",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-SICILY-CITTA-252 mappa",
+    "ING-SICILY-SOUV-250 magnete street food",
+    "ING-SICILY-CITTA-253 skyline"
+   ],
+   "bundle": [
+    "LINEA CITTÀ",
+    "COLLEZIONE BORGHI: 4 tessere + supporto"
+   ],
+   "ref": "https://www.wholesalecentral.com/category/Souvenirs",
+   "kw": [
+    "souvenir borghi siciliani",
+    "tessere borghi sicilia",
+    "souvenir erice marzamemi",
+    "sicilian villages tiles"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 8,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Quattro quadrati betulla 6 mm 96x96, angoli R12. Ogni borgo ha TRE ELEMENTI GEOMETRICI propri e una palette propria: Erice = torre e nebbia, grigi e blu; Marzamemi = tonnara e barca, turchese e sabbia; Scopello = faraglioni, verde e cobalto; Castelbuono = castello e manna, ocra e ruggine. Supporto verticale a croce. Serie estendibile a nuovi borghi.",
+   "prompt_img": "four square birch tiles 96 mm standing in a slotted holder, each printed with a different Sicilian village reduced to three geometric elements in its own colour palette, names engraved beneath, on a wooden shop shelf"
+  },
+  {
+   "id": "ING-SICILY-LUCE-255",
+   "cat": "SICILY",
+   "coll": "LUCE",
+   "name": "Chiostro",
+   "tipo": "lanterna traforata a pattern maiolica",
+   "tipo_en": "maiolica fretwork lantern",
+   "concept": "Lanterna a quattro pareti traforate col modulo maiolica: accesa proietta il pattern sul tavolo.",
+   "target": "Casa, terrazza, B&B, ristoranti, regalo.",
+   "desire": "Atmosfera mediterranea la sera senza fiamma libera.",
+   "usp": "Il pattern proiettato sulla parete è il vero prodotto, non la lanterna.",
+   "diff": "Si smonta piatta per riporla e per spedirla in busta.",
+   "platform": "P3",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2",
+   "dim": [
+    108,
+    108,
+    156
+   ],
+   "layers": 1,
+   "cut_mm": 3200,
+   "vec_mm": 500,
+   "eng_cm2": 0,
+   "comp": {
+    "led_tealight": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    22,
+    60
+   ],
+   "person": [
+    "pattern",
+    "nome",
+    "frase"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "FAST SELLER",
+    "BUNDLE",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-SICILY-TAV-247 coaster",
+    "ING-SICILY-LUCE-256 portacandela pietra",
+    "ING-SICILY-TAV-248 vassoio"
+   ],
+   "bundle": [
+    "TAVOLA SICILIANA",
+    "SERA IN TERRAZZA: lanterna + coaster"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "lanterna maiolica siciliana",
+    "portacandela traforato sicilia",
+    "lanterna legno mediterranea",
+    "sicilian lantern wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 7,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Quattro pareti betulla 4 mm 108x156 con il modulo maiolica CUT traforato, ponticelli minimi 2,5 mm. Incastri a dente 45 gradi senza colla. Base 108x108 con sede Ø40 per tealight LED. Nessun coperchio: sfogo del calore. Cartellino con avvertenza SOLO TEALIGHT LED. Flat pack con istruzioni a 4 passi.",
+   "prompt_img": "a lit wooden lantern 108x108x156 mm on a terrace table at dusk, four fretwork walls cut with a geometric maiolica module, warm LED glow throwing the pattern across the tabletop and wall behind, Mediterranean evening"
+  },
+  {
+   "id": "ING-SICILY-PIETRA-256",
+   "cat": "SICILY",
+   "coll": "PIETRA",
+   "name": "Lava",
+   "tipo": "portacandela in pietra lavica incisa",
+   "tipo_en": "engraved lava stone candle holder",
+   "concept": "Disco di pietra lavica dell'Etna con incisione geometrica e sede per la candela.",
+   "target": "Turisti alto spendenti, arredo, regalo importante.",
+   "desire": "Portare via un pezzo del vulcano, non un'immagine del vulcano.",
+   "usp": "Il materiale stesso è il souvenir: viene da lì e non si può imitare.",
+   "diff": "Nessuno lavora la pietra lavica con un disegno contemporaneo invece delle solite scritte turistiche.",
+   "platform": "P1",
+   "mat": [
+    "ardesia"
+   ],
+   "tech": "CO2",
+   "dim": [
+    120,
+    120,
+    24
+   ],
+   "layers": 1,
+   "cut_mm": 0,
+   "vec_mm": 0,
+   "eng_cm2": 80,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "scatola_s",
+   "lotto": 15,
+   "mkt": [
+    35,
+    110
+   ],
+   "person": [
+    "nome",
+    "data",
+    "coordinate"
+   ],
+   "tags": [
+    "PREMIUM",
+    "LIMITED EDITION",
+    "SOUVENIR"
+   ],
+   "upsell": [
+    "ING-SICILY-PIETRA-257 sottopentola pietra",
+    "ING-SICILY-LUCE-255 lanterna",
+    "ING-SICILY-PIETRA-258 targa pietra"
+   ],
+   "bundle": [
+    "LINEA PIETRA LAVICA",
+    "REGALO ETNA: portacandela + targa"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "pietra lavica etna incisa",
+    "portacandela pietra lavica",
+    "souvenir etna pietra",
+    "lava stone candle holder"
+   ],
+   "s_demand": 11,
+   "s_comp": 13,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "VINCOLO TECNICO: la pietra lavica NON si taglia al laser CO2, si incide soltanto. Acquistare dischi Ø120 già a formato con sede Ø40 già eseguita. Si lavora SOLO la superficie: curve di livello del cono ENGRAVE-R concentriche, contrasto altissimo bianco su nero. Gommini sotto. Peso da dichiarare in scheda: incide sulla spedizione.",
+   "prompt_img": "a black lava stone disc 120 mm with concentric contour rings engraved in high-contrast white, a lit candle seated in the central recess, rough volcanic texture on the sides, on a dark table with raking light"
+  },
+  {
+   "id": "ING-SICILY-PIETRA-257",
+   "cat": "SICILY",
+   "coll": "PIETRA",
+   "name": "Colata",
+   "tipo": "sottopentola in pietra lavica",
+   "tipo_en": "lava stone trivet",
+   "concept": "Piastra di pietra lavica incisa che resiste al calore per definizione.",
+   "target": "Casa, cucina, ristoranti, regalo utile premium.",
+   "desire": "Un sottopentola che non si rovini mai.",
+   "usp": "La pietra vulcanica è il materiale giusto per il calore: coerenza fra racconto e funzione.",
+   "diff": "Il legno qui non andrebbe bene, e non lo usiamo.",
+   "platform": "P1",
+   "mat": [
+    "ardesia"
+   ],
+   "tech": "CO2",
+   "dim": [
+    168,
+    168,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 0,
+   "vec_mm": 0,
+   "eng_cm2": 140,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "busta",
+   "lotto": 15,
+   "mkt": [
+    30,
+    90
+   ],
+   "person": [
+    "nome",
+    "logo",
+    "pattern"
+   ],
+   "tags": [
+    "PREMIUM",
+    "SOUVENIR",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-SICILY-PIETRA-256 portacandela",
+    "ING-SICILY-TAV-248 vassoio",
+    "ING-SICILY-PIETRA-258 targa"
+   ],
+   "bundle": [
+    "LINEA PIETRA LAVICA",
+    "CUCINA SICILIANA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "sottopentola pietra lavica",
+    "sottopentola etna",
+    "trivet lava stone",
+    "sottopentola pietra sicilia"
+   ],
+   "s_demand": 11,
+   "s_comp": 13,
+   "s_person": 7,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Piastra pietra lavica 168x168x12 acquistata a formato. ENGRAVE-R pattern maiolica a contrasto alto sulla faccia superiore. Gommini in silicone resistente al calore sotto, non gomma comune. Verificare in QC che l'incisione non sfarini sotto shock termico: provino a 200 gradi prima del lancio.",
+   "prompt_img": "a square black lava stone trivet 168 mm engraved with a high-contrast white geometric maiolica pattern, a copper pot resting on it, dark kitchen worktop, side light raking across the rough stone texture"
+  },
+  {
+   "id": "ING-SICILY-PIETRA-258",
+   "cat": "SICILY",
+   "coll": "PIETRA",
+   "name": "Sciara",
+   "tipo": "targa in pietra lavica numerata",
+   "tipo_en": "numbered lava stone plaque",
+   "concept": "Targa in pietra lavica con incisione e numerazione progressiva, in tiratura dichiarata.",
+   "target": "Collezionisti, regalo di fascia alta, aziende del territorio.",
+   "desire": "Un oggetto che esiste in pochi esemplari e viene da un posto preciso.",
+   "usp": "Materiale identitario più scarsità dichiarata: due leve di prezzo insieme.",
+   "diff": "La numerazione è incisa nella pietra, non scritta a matita su un cartellino.",
+   "platform": "P1",
+   "mat": [
+    "ardesia"
+   ],
+   "tech": "CO2",
+   "dim": [
+    144,
+    204,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 0,
+   "vec_mm": 0,
+   "eng_cm2": 170,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 10,
+   "mkt": [
+    50,
+    180
+   ],
+   "person": [
+    "testo",
+    "numero",
+    "anno",
+    "dedica"
+   ],
+   "tags": [
+    "PREMIUM",
+    "LIMITED EDITION",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-SICILY-PIETRA-256 portacandela",
+    "ING-SICILY-PIETRA-257 sottopentola",
+    "ING-SICILY-CASA-242 sagoma isola"
+   ],
+   "bundle": [
+    "LINEA PIETRA LAVICA",
+    "EDIZIONE ETNA numerata 50 pz"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "targa pietra lavica",
+    "pietra lavica incisa personalizzata",
+    "targa etna numerata",
+    "engraved lava stone plaque"
+   ],
+   "s_demand": 10,
+   "s_comp": 14,
+   "s_person": 10,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Lastra pietra lavica 144x204x12 a formato. ENGRAVE-R soggetto + testo. Numerazione progressiva XX/50 incisa in basso a destra h 5 mm. TIRATURA DICHIARATA E RISPETTATA: se la scarsità è finta si brucia la fiducia una volta sola. Certificato di autenticità cartaceo con numero, data e materiale.",
+   "prompt_img": "a black lava stone plaque 144x204 mm engraved in high-contrast white with a geometric volcano motif and a small edition number in the lower corner, leaning against a pale plaster wall, dramatic side light on the rough texture"
+  },
+  {
+   "id": "ING-SICILY-CASA-259",
+   "cat": "SICILY",
+   "coll": "CASA",
+   "name": "Costa",
+   "tipo": "quadro multilayer della costa siciliana",
+   "tipo_en": "layered Sicilian coast art",
+   "concept": "Cinque strati che ricostruiscono per quote una costa a strapiombo con faraglioni e mare stampato.",
+   "target": "Arredo, regalo importante, hotel, diaspora.",
+   "desire": "Un pezzo di Sicilia alla parete che non sia una fotografia.",
+   "usp": "La profondità fisica funziona in foto e dal vivo, e giustifica la fascia premium.",
+   "diff": "Il multilayer di mercato è tutto montagna nordica: la costa mediterranea non esiste.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    396,
+    28
+   ],
+   "layers": 5,
+   "cut_mm": 5200,
+   "vec_mm": 400,
+   "eng_cm2": 60,
+   "uv_cm2": 900,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "scatola_g",
+   "lotto": 10,
+   "mkt": [
+    55,
+    190
+   ],
+   "person": [
+    "luogo",
+    "coordinate",
+    "data"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "SOUVENIR"
+   ],
+   "upsell": [
+    "ING-SICILY-CASA-242 sagoma isola",
+    "ING-SICILY-CITTA-253 skyline",
+    "ING-SICILY-LUCE-255 lanterna"
+   ],
+   "bundle": [
+    "PARETE SICILIANA",
+    "REGALO CASA PREMIUM"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_wall_decor",
+   "kw": [
+    "quadro costa siciliana",
+    "multilayer mare sicilia",
+    "quadro faraglioni legno",
+    "sicilian coast layered art"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 7,
+   "s_gift": 10,
+   "s_uniq": 10,
+   "prompt_prod": "Cinque strati betulla 4 mm 300x396 distanziati 4 mm su perni Ø3 asimmetrici. Quote: mare, battigia, faraglioni, promontorio, cielo. Fondo pannello UV gradiente turchese-crema con sole basso. Telaio a fascia perimetrale. ENGRAVE-V coordinate in basso a destra. Aggancio a 2 punti.",
+   "prompt_img": "layered wooden wall art 300x396 mm, five birch layers spaced 4 mm building a Sicilian coastline in depth — sea, shore, sea stacks, headland — deep shadows between layers, gradient turquoise sky printed behind, on a pale plaster wall with afternoon light"
+  },
+  {
+   "id": "ING-SICILY-CASA-260",
+   "cat": "SICILY",
+   "coll": "CASA",
+   "name": "Ficodindia",
+   "tipo": "pannello multilayer fico d'India",
+   "tipo_en": "prickly pear layered panel",
+   "concept": "Le pale del fico d'India su quattro strati sfalsati, con i frutti stampati a colori pieni.",
+   "target": "Arredo mediterraneo, regalo, B&B, anche fuori dalla Sicilia.",
+   "desire": "Un motivo mediterraneo forte senza cadere nel folklore.",
+   "usp": "Il fico d'India è geometricamente perfetto per il multilayer: pale piatte sovrapposte.",
+   "diff": "Soggetto identitario ma esportabile: funziona come decor mediterraneo ovunque.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    204,
+    300,
+    20
+   ],
+   "layers": 4,
+   "cut_mm": 3400,
+   "vec_mm": 500,
+   "eng_cm2": 50,
+   "uv_cm2": 420,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 12,
+   "mkt": [
+    35,
+    120
+   ],
+   "person": [
+    "colore",
+    "nome",
+    "frase"
+   ],
+   "tags": [
+    "PREMIUM",
+    "SOUVENIR",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SICILY-CASA-259 quadro costa",
+    "ING-SICILY-TAV-247 coaster",
+    "ING-SICILY-CASA-261 specchio"
+   ],
+   "bundle": [
+    "PARETE SICILIANA",
+    "MEDITERRANEO: fico d'India + coaster"
+   ],
+   "ref": "https://www.outfy.com/blog/top-selling-etsy-home-decor-trends/",
+   "kw": [
+    "fico d'india decorazione legno",
+    "quadro fico india",
+    "decor mediterraneo legno",
+    "prickly pear wall art"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 7,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Quattro strati betulla 4 mm 204x300 distanziati 4 mm: le pale si sovrappongono naturalmente e il multilayer le rende senza forzature. Texture delle areole ENGRAVE-R a griglia regolare. Frutti UV a colori pieni (fucsia, arancio, giallo) sullo strato più alto. Fondo pannello UV verde salvia.",
+   "prompt_img": "layered wooden wall panel 204x300 mm showing prickly pear pads overlapping across four spaced birch layers, engraved dotted areole texture, bright magenta and orange printed fruits on the top layer, sage green printed background, on a white wall"
+  },
+  {
+   "id": "ING-SICILY-CASA-261",
+   "cat": "SICILY",
+   "coll": "CASA",
+   "name": "Cortile Specchio",
+   "tipo": "specchio con cornice a pattern maiolica",
+   "tipo_en": "maiolica framed mirror",
+   "concept": "Specchio tondo con corona traforata a modulo maiolica che proietta la propria ombra sulla parete.",
+   "target": "Ingresso, bagno, camera, B&B.",
+   "desire": "Uno specchio che sia anche decorazione quando non ci si guarda dentro.",
+   "usp": "La cornice traforata proietta il disegno sul muro: la decorazione è anche l'ombra.",
+   "diff": "Specchio acrilico sostituibile senza colla, tenuto da linguette rotanti.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "acrilico3"
+   ],
+   "quota_mat": {
+    "acrilico3": 0.6
+   },
+   "tech": "CO2",
+   "dim": [
+    264,
+    264,
+    12
+   ],
+   "layers": 2,
+   "cut_mm": 3600,
+   "vec_mm": 800,
+   "eng_cm2": 0,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    35,
+    110
+   ],
+   "person": [
+    "pattern",
+    "colore"
+   ],
+   "tags": [
+    "PREMIUM",
+    "SOUVENIR",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-SICILY-CASA-260 fico d'India",
+    "ING-SICILY-LUCE-255 lanterna",
+    "ING-SICILY-TAV-247 coaster"
+   ],
+   "bundle": [
+    "PARETE SICILIANA",
+    "KIT B&B CAMERA"
+   ],
+   "ref": "https://www.etsy.com/market/lasercut_wall_decor",
+   "kw": [
+    "specchio maiolica siciliana",
+    "specchio traforato legno",
+    "specchio decorato mediterraneo",
+    "sicilian framed mirror"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 5,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Cornice betulla 6 mm Ø264 con corona traforata a modulo maiolica fra Ø200 e Ø264, ponticelli minimi 2,5 mm. Specchio acrilico 3 mm Ø204 in battuta sul retro, tenuto da quattro linguette rotanti: sostituibile senza colla. Distanziale 6 mm dalla parete perché il traforo proietti l'ombra.",
+   "prompt_img": "a round mirror 264 mm with a birch fretwork frame cut in a geometric maiolica module, mounted off the wall so the pattern casts a soft shadow behind it, reflecting a sunlit window, pale plaster wall"
+  },
+  {
+   "id": "ING-SICILY-CASA-262",
+   "cat": "SICILY",
+   "coll": "CASA",
+   "name": "Sole",
+   "tipo": "orologio Trinacria geometrica",
+   "tipo_en": "geometric Trinacria wall clock",
+   "concept": "La Trinacria ridotta a tre raggi geometrici che diventano gli indici principali del quadrante.",
+   "target": "Arredo, regalo, uffici, locali siciliani.",
+   "desire": "Il simbolo dell'isola senza la testa di Medusa da bancarella.",
+   "usp": "Il simbolo e la funzione coincidono: i tre raggi sono gli indici.",
+   "diff": "Reinterpretazione geometrica invece della riproduzione folkloristica.",
+   "platform": "P5",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    300,
+    24
+   ],
+   "layers": 3,
+   "cut_mm": 3800,
+   "vec_mm": 800,
+   "eng_cm2": 40,
+   "uv_cm2": 200,
+   "uv_white": true,
+   "comp": {
+    "movimento_std": 1,
+    "sfere_std": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    45,
+    150
+   ],
+   "person": [
+    "nome",
+    "data",
+    "logo",
+    "colore"
+   ],
+   "tags": [
+    "PREMIUM",
+    "SOUVENIR",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-SICILY-CASA-259 quadro costa",
+    "ING-SICILY-TAV-247 coaster",
+    "ING-SICILY-CASA-261 specchio"
+   ],
+   "bundle": [
+    "PARETE SICILIANA",
+    "REGALO CASA PREMIUM"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "orologio trinacria",
+    "orologio sicilia legno",
+    "orologio design siciliano",
+    "sicily wall clock wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 8,
+   "s_gift": 10,
+   "s_uniq": 10,
+   "prompt_prod": "Tre strati betulla 6 mm Ø300 distanziati 4 mm. La Trinacria ridotta a tre raggi a 120 gradi costruiti con archi R12: cadono su 12, 4 e 8 e fanno da indici principali. Foro alberino Ø8 AL CENTRO GEOMETRICO ESATTO su tutti gli strati. Pacco 24 mm: alberino 20 mm obbligatorio, sfere 110 mm, aria 3 mm sopra lo strato alto.",
+   "prompt_img": "hero shot of a 300 mm wall clock, three stacked birch layers spaced 4 mm, a Trinacria abstracted into three curved rays at 120 degrees serving as the main hour markers, deep amber printed centre, slim black hands, on a lime-washed wall"
+  },
+  {
+   "id": "ING-SICILY-SOUV-263",
+   "cat": "SICILY",
+   "coll": "SOUVENIR",
+   "name": "Moro",
+   "tipo": "testa di moro piana a strati",
+   "tipo_en": "flat layered moor's head",
+   "concept": "La testa di moro reinterpretata come pannello a strati: leggera, piatta, non fragile.",
+   "target": "Turisti in aereo, arredo, regalo.",
+   "desire": "Il simbolo siciliano più forte, in una forma che entra in valigia.",
+   "usp": "Risolve il problema vero del prodotto tradizionale: fragilità, peso e ingombro.",
+   "diff": "Lavora sulla corona e sul profilo, che sono gli elementi che rendono il simbolo leggibile.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    156,
+    204,
+    16
+   ],
+   "layers": 3,
+   "cut_mm": 2600,
+   "vec_mm": 700,
+   "eng_cm2": 40,
+   "uv_cm2": 280,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    25,
+    80
+   ],
+   "person": [
+    "colore",
+    "nome"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "PREMIUM",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SICILY-CASA-260 fico d'India",
+    "ING-SICILY-SOUV-264 carretto",
+    "ING-SICILY-TAV-247 coaster"
+   ],
+   "bundle": [
+    "SIMBOLI DI SICILIA: moro + carretto + trinacria",
+    "PARETE SICILIANA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "testa di moro legno",
+    "testa di moro moderna",
+    "decorazione testa di moro",
+    "moors head wood art"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 6,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Tre strati betulla 4 mm 156x204 distanziati 4 mm. Strato 1 corona (traforo ad archi R12), strato 2 volto ridotto a piani geometrici, strato 3 fondo UV. NESSUN TRATTO REALISTICO del viso: solo piani e ombre. Fiori e frutta della versione tradizionale sostituiti da moduli geometrici. Aggancio o piedino a scelta.",
+   "prompt_img": "a flat layered wooden wall piece 156x204 mm reinterpreting a Sicilian moor's head, three birch layers spaced 4 mm, the crown cut as repeating arches, the face reduced to flat geometric planes, deep blue and ochre printed panel behind, on a white wall"
+  },
+  {
+   "id": "ING-SICILY-SOUV-264",
+   "cat": "SICILY",
+   "coll": "SOUVENIR",
+   "name": "Carretto",
+   "tipo": "pannello geometrico a bande di carretto",
+   "tipo_en": "Sicilian cart geometric panel",
+   "concept": "Le bande dipinte e la ruota raggiata del carretto ridotte a composizione geometrica astratta.",
+   "target": "Arredo, turisti, locali siciliani, regalo.",
+   "desire": "Il carretto senza la miniatura polverosa da soprammobile.",
+   "usp": "Reinterpreta il linguaggio decorativo invece di replicare l'oggetto.",
+   "diff": "La ruota raggiata è geometria pura e si presta al traforo meglio di qualsiasi altro simbolo.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    204,
+    204,
+    16
+   ],
+   "layers": 3,
+   "cut_mm": 3000,
+   "vec_mm": 800,
+   "eng_cm2": 40,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    25,
+    80
+   ],
+   "person": [
+    "colore",
+    "nome"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "PREMIUM",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SICILY-SOUV-263 testa di moro",
+    "ING-SICILY-CASA-262 orologio trinacria",
+    "ING-SICILY-TAV-247 coaster"
+   ],
+   "bundle": [
+    "SIMBOLI DI SICILIA",
+    "PARETE SICILIANA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "carretto siciliano decorazione",
+    "ruota carretto legno",
+    "decor siciliano geometrico",
+    "sicilian cart wheel art"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 6,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Tre strati betulla 4 mm 204x204. Strato 1 ruota raggiata CUT traforata (16 raggi, mozzo Ø36, ponticelli 2,5 mm), strato 2 bande diagonali del carretto, strato 3 fondo UV nei colori tradizionali (giallo, rosso, verde, blu) ricomposti in fasce geometriche. Nessuna figura narrativa dipinta.",
+   "prompt_img": "a layered wooden panel 204x204 mm, a sixteen-spoke cart wheel cut through the top birch layer, diagonal painted bands of yellow, red and green on the layer beneath, deep shadow between layers, on a plaster wall"
+  },
+  {
+   "id": "ING-SICILY-KIDS-265",
+   "cat": "SICILY",
+   "coll": "GIOCO",
+   "name": "Province",
+   "tipo": "puzzle delle province siciliane",
+   "tipo_en": "Sicilian provinces puzzle",
+   "concept": "Puzzle in betulla spessa dove ogni tessera è una provincia, dentro un vassoio sagomato.",
+   "target": "Bambini 5-10, scuole, famiglie, turisti, negozi di musei.",
+   "desire": "Imparare la geografia dell'isola giocando.",
+   "usp": "Educativo e souvenir insieme: due mercati con un solo prodotto.",
+   "diff": "Sagome provinciali reali, non pezzi generici con i nomi sopra.",
+   "platform": "P7",
+   "mat": [
+    "betulla12"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    288,
+    204,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 2600,
+   "vec_mm": 900,
+   "eng_cm2": 40,
+   "uv_cm2": 380,
+   "uv_white": true,
+   "comp": {},
+   "pack": "scatola_m",
+   "lotto": 20,
+   "mkt": [
+    28,
+    70
+   ],
+   "person": [
+    "nome bambino",
+    "colori"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SICILY-KIDS-266 memory siciliano",
+    "ING-SICILY-CITTA-252 mappa",
+    "ING-SICILY-SOUV-241 magnete"
+   ],
+   "bundle": [
+    "GIOCO SICILIA: puzzle + memory",
+    "REGALO BAMBINO SICILIA"
+   ],
+   "ref": "https://www.etsy.com/market/kid_puzzle_laser_cut",
+   "kw": [
+    "puzzle sicilia province",
+    "puzzle geografico legno",
+    "gioco educativo sicilia",
+    "sicily provinces wooden puzzle"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 12 mm 288x204 per presa sicura. Nove tessere = nove province, sagome REALI dai confini amministrativi. Kerf compensato con gioco 0,15 mm per estrazione facile. Vassoio dallo stesso foglio. Nome provincia e capoluogo ENGRAVE-V su ogni tessera. UV a colori pieni, un colore per provincia. CARTEGGIATURA OBBLIGATORIA di tutti i bordi, vernice a base acqua atossica, spigoli R12.",
+   "prompt_img": "a wooden jigsaw of Sicily 288x204 mm in 12 mm birch, nine province-shaped pieces in different flat colours seated in a cut tray, province names engraved on each, a child's hand lifting one piece out, bright daylight on a table"
+  },
+  {
+   "id": "ING-SICILY-KIDS-266",
+   "cat": "SICILY",
+   "coll": "GIOCO",
+   "name": "Accoppia",
+   "tipo": "memory siciliano a tessere",
+   "tipo_en": "Sicilian memory game",
+   "concept": "Ventiquattro tessere a coppie con monumenti, street food, piante e mestieri dell'isola.",
+   "target": "Bambini 3-8, famiglie, turisti, B&B con famiglie.",
+   "desire": "Un gioco che insegni qualcosa del posto in cui si è stati.",
+   "usp": "Produzione tutta risolta in stampa: margine alto e assemblaggio quasi nullo.",
+   "diff": "Il memory di mercato ha soggetti generici; questo ha un contenuto territoriale.",
+   "platform": "P7",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    288,
+    204,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 1900,
+   "vec_mm": 700,
+   "eng_cm2": 0,
+   "uv_cm2": 440,
+   "uv_white": true,
+   "comp": {},
+   "pack": "scatola_m",
+   "lotto": 25,
+   "mkt": [
+    20,
+    50
+   ],
+   "person": [
+    "soggetti",
+    "nome bambino"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SICILY-KIDS-265 puzzle province",
+    "ING-SICILY-SOUV-250 magnete street food",
+    "ING-SICILY-CITTA-254 tessere borghi"
+   ],
+   "bundle": [
+    "GIOCO SICILIA",
+    "REGALO BAMBINO SICILIA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_puzzle",
+   "kw": [
+    "memory siciliano legno",
+    "gioco memoria sicilia",
+    "memory bambini legno",
+    "sicilian memory game wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 7,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "24 tessere betulla 6 mm 60x60, angoli R12, tagliate tutte dallo stesso foglio. 12 soggetti a coppie: monumenti, street food, piante, mestieri, ridotti a geometria piana. UV a colori pieni con bianco di fondo. Retro tutto uguale con pattern maiolica. Carteggiatura bordi, vernice atossica. Vassoio con sedi nello stesso foglio.",
+   "prompt_img": "twenty-four square wooden memory tiles 60 mm laid out in a grid on a table, each printed with a flat geometric Sicilian motif in bold colour, a few turned face-down showing a uniform maiolica back pattern, child's hands reaching in"
+  },
+  {
+   "id": "ING-SICILY-SOUV-267",
+   "cat": "SICILY",
+   "coll": "SOUVENIR",
+   "name": "Tonnara",
+   "tipo": "miniatura di monumento smontabile",
+   "tipo_en": "flat-pack monument miniature",
+   "concept": "Monumento a incastro che si spedisce piatto e si monta a casa in cinque pezzi.",
+   "target": "Turisti, musei, bookshop, regalo.",
+   "desire": "Portare via il monumento senza portarsi via il peso.",
+   "usp": "Il costo logistico crolla e il montaggio diventa parte dell'esperienza.",
+   "diff": "Le miniature di mercato sono resina pesante: questa sta in una busta.",
+   "platform": "P3",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2",
+   "dim": [
+    144,
+    120,
+    96
+   ],
+   "layers": 1,
+   "cut_mm": 2400,
+   "vec_mm": 600,
+   "eng_cm2": 20,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 40,
+   "mkt": [
+    12,
+    40
+   ],
+   "person": [
+    "monumento",
+    "nome",
+    "anno"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "TOURISM",
+    "FAST SELLER",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-SICILY-CITTA-253 skyline",
+    "ING-SICILY-SOUV-245 cartolina",
+    "ING-SICILY-CITTA-252 mappa"
+   ],
+   "bundle": [
+    "SET SOUVENIR",
+    "LINEA CITTÀ"
+   ],
+   "ref": "https://www.wholesalecentral.com/category/Souvenirs",
+   "kw": [
+    "miniatura monumento legno",
+    "souvenir monumento smontabile",
+    "modellino legno sicilia",
+    "flat pack monument model"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 7,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 3 mm, massimo 5 pezzi a incastro, montaggio senza colla e senza attrezzi. Ingombro montato 144x120x96, ingombro piatto 200x150x3: entra in busta. Prova a secco obbligatoria di tutti gli incastri prima del confezionamento. Istruzioni incise sul telaio di sfrido, che diventa il foglietto di montaggio.",
+   "prompt_img": "a flat-pack wooden monument miniature assembled on a desk, 144x120x96 mm in thin birch with visible slot joints, its flat unassembled sheet lying beside it with engraved assembly instructions, warm daylight"
+  },
+  {
+   "id": "ING-SICILY-SOUV-268",
+   "cat": "SICILY",
+   "coll": "SOUVENIR",
+   "name": "Sbarazzino",
+   "tipo": "apribottiglie legno e metallo",
+   "tipo_en": "wood and steel bottle opener",
+   "concept": "Apribottiglie con corpo in betulla e placchetta d'acciaio marcata col nome del luogo.",
+   "target": "Turisti, bar, birrifici artigianali, regalo maschile.",
+   "desire": "Un souvenir che resti in uso invece di finire in un cassetto.",
+   "usp": "La funzione reale è l'antidoto migliore al souvenir che si butta.",
+   "diff": "Legno e metallo veri contro l'apribottiglie stampato in serie.",
+   "platform": "P6",
+   "mat": [
+    "betulla12"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    48,
+    144,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 420,
+   "vec_mm": 260,
+   "eng_cm2": 8,
+   "mopa_cm2": 6,
+   "comp": {
+    "targhetta_inox": 1
+   },
+   "pack": "busta",
+   "lotto": 50,
+   "mkt": [
+    10,
+    28
+   ],
+   "person": [
+    "luogo",
+    "nome",
+    "logo"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "TOURISM",
+    "B2B",
+    "FAST SELLER"
+   ],
+   "upsell": [
+    "ING-SICILY-SOUV-243 portachiavi",
+    "ING-SICILY-TAV-247 coaster",
+    "ING-SICILY-SOUV-241 magnete"
+   ],
+   "bundle": [
+    "SET SOUVENIR",
+    "REGALO LUI SICILIA: apribottiglie + coaster"
+   ],
+   "ref": "https://www.faire.com/discover/souvenir-keychains",
+   "kw": [
+    "apribottiglie legno personalizzato",
+    "apribottiglie souvenir sicilia",
+    "apribottiglie inciso",
+    "wooden bottle opener souvenir"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Corpo betulla 12 mm 48x144 con impugnatura ad arco R12 e foro Ø8 appendino. Inserto apribottiglie in acciaio incassato e fissato con due rivetti, NON incollato: è un pezzo sottoposto a sforzo. Placchetta inox 20x40 MOPA col nome del luogo. Verifica funzionale su 20 tappi prima del lancio.",
+   "prompt_img": "a wooden bottle opener 48x144 mm in 12 mm birch with an arched grip, a riveted steel opener insert at the head and a small fiber-marked steel plate on the body, opening a beer bottle, bar counter background"
+  },
+  {
+   "id": "ING-SICILY-CASA-269",
+   "cat": "SICILY",
+   "coll": "CASA",
+   "name": "Vucciria Chiavi",
+   "tipo": "portachiavi da parete siciliano",
+   "tipo_en": "Sicilian wall key holder",
+   "concept": "Portachiavi da ingresso con l'isola traforata sopra i ganci e pannello colorato dietro.",
+   "target": "Case in Sicilia, case vacanza, siciliani fuori sede, B&B.",
+   "desire": "Un ingresso che dica subito dove sei.",
+   "usp": "Prodotto funzionale che porta l'identità della linea in un oggetto d'uso quotidiano.",
+   "diff": "Non è decorazione applicata: la sagoma dell'isola è la finestra del prodotto.",
+   "platform": "P5",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.6
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    288,
+    120,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 1900,
+   "vec_mm": 800,
+   "eng_cm2": 30,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {
+    "gancio": 4
+   },
+   "pack": "scatola_m",
+   "lotto": 20,
+   "mkt": [
+    30,
+    80
+   ],
+   "person": [
+    "nome famiglia",
+    "città",
+    "coordinate"
+   ],
+   "tags": [
+    "SOUVENIR",
+    "PERSONALIZZABILE",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SICILY-CASA-242 sagoma isola",
+    "ING-SICILY-TAV-247 coaster",
+    "ING-SICILY-CASA-261 specchio"
+   ],
+   "bundle": [
+    "INGRESSO SICILIANO",
+    "KIT B&B CAMERA"
+   ],
+   "ref": "https://www.etsy.com/market/lasercut_wall_decor",
+   "kw": [
+    "portachiavi parete sicilia",
+    "portachiavi casa siciliana",
+    "key holder sicilia legno",
+    "sicilian key rack"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Fondo betulla 8 mm 288x120 con UV PRINT gradiente mare. Strato frontale betulla 4 mm distanziato 4 mm con SAGOMA DELL'ISOLA CUT traforata in proporzioni corrette. Quattro ganci sul passo 48 mm nella fascia bassa. Cognome ENGRAVE-V. Asole a goccia sul retro, interasse 240 mm.",
+   "prompt_img": "a wall key holder 288x120 mm, the silhouette of Sicily cut through the front birch layer revealing a printed turquoise sea panel behind, four brass hooks in a row below, family name engraved, keys hanging, on a plaster entrance wall"
+  },
+  {
+   "id": "ING-SICILY-SOUV-270",
+   "cat": "SICILY",
+   "coll": "SOUVENIR",
+   "name": "Cofanetto",
+   "tipo": "box regalo per prodotti tipici",
+   "tipo_en": "local produce gift box",
+   "concept": "Scatola con coperchio scorrevole inciso e interno a scomparti, da riempire con prodotti del territorio.",
+   "target": "Aziende agricole, negozi gourmet, hotel, regalo aziendale locale.",
+   "desire": "Regalare la Sicilia in una confezione che non si butta.",
+   "usp": "La scatola resta e viene riusata: il marchio continua a essere visto per anni.",
+   "diff": "Il contenitore è il regalo, non l'imballo.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    204,
+    96
+   ],
+   "layers": 1,
+   "cut_mm": 3000,
+   "vec_mm": 1000,
+   "eng_cm2": 80,
+   "uv_cm2": 200,
+   "uv_white": true,
+   "comp": {},
+   "pack": "sfuso_b2b",
+   "lotto": 40,
+   "mkt": [
+    25,
+    90
+   ],
+   "person": [
+    "logo",
+    "nome azienda",
+    "dedica",
+    "scomparti"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "SOUVENIR",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-SICILY-TAV-247 coaster",
+    "ING-SICILY-SOUV-268 apribottiglie",
+    "ING-B2B-GIFT-128 box aziendale"
+   ],
+   "bundle": [
+    "REGALO AZIENDALE SICILIA",
+    "GOURMET: cofanetto + coaster"
+   ],
+   "ref": "https://www.giftcampaign.it/blog/tendenze-gadget-italia/",
+   "kw": [
+    "cofanetto prodotti tipici siciliani",
+    "box regalo legno sicilia",
+    "scatola regalo gourmet",
+    "sicilian produce gift box"
+   ],
+   "s_demand": 14,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Scatola betulla 6 mm 300x204x96, incastri 45 gradi. Coperchio SCORREVOLE in guide fresate sui fianchi, non a cerniera. Pattern maiolica ENGRAVE-R sul coperchio + area logo 100x30. Interno a 4 scomparti sagomati, dimensionati su vasetti da 212 ml e bottiglie da 250 ml. Ordine minimo 20 pezzi.",
+   "prompt_img": "a wooden gift box 300x204x96 mm with an engraved maiolica-patterned sliding lid half open, four shaped compartments inside holding jars of marmalade and a bottle of oil, birch, on a rustic table"
+  }
+ ]
+}
