@@ -71,7 +71,7 @@
    "s_gift": 7,
    "s_uniq": 8,
    "prompt_prod": "Tre strati betulla 4 mm distanziati 2 mm su ingombro 72x60. Strato 1 mare (pannello UV gradiente turchese-crema), strato 2 profilo costa, strato 3 rilievo interno. SILHOUETTE GEOGRAFICAMENTE CORRETTA: partire da dati cartografici reali, curare Capo Passero e Capo Lilibeo dove tutti sbagliano. Lamina magnetica sul retro. Nome del luogo ENGRAVE-V h 4 mm.",
-   "prompt_img": "macro three-quarter view of a small layered wooden fridge magnet 72x60 mm, three birch layers spaced 2 mm forming the island of Sicily rising from a printed turquoise gradient sea, visible shadow between layers, toasted laser edges, on a white fridge door"
+   "prompt_img_scena": "macro three-quarter view of a small layered wooden fridge magnet 72x60 mm, three birch layers spaced 2 mm forming the island of Sicily rising from a printed turquoise gradient sea, visible shadow between layers, toasted laser edges, on a white fridge door"
   },
   {
    "id": "ING-SICILY-CASA-242",
@@ -147,7 +147,7 @@
    "s_gift": 9,
    "s_uniq": 8,
    "prompt_prod": "Fondo betulla 8 mm 300x204 con UV PRINT gradiente mare. Sagoma betulla 4 mm sovrapposta distanziata 4 mm, profilo dell'isola da dati cartografici reali. Confini provinciali ENGRAVE-V tratto 0,3 mm. Un punto Ø4 CUT traforato sulla città scelta dal cliente, che lascia passare il colore del fondo. Aggancio a 2 punti.",
-   "prompt_img": "a wall piece 300x204 mm, the silhouette of Sicily cut from 8 mm birch and raised 4 mm above a printed turquoise gradient panel, faint engraved province borders, one small hole punched through at a city letting the colour show, on a lime-washed wall"
+   "prompt_img_scena": "a wall piece 300x204 mm, the silhouette of Sicily cut from 8 mm birch and raised 4 mm above a printed turquoise gradient panel, faint engraved province borders, one small hole punched through at a city letting the colour show, on a lime-washed wall"
   },
   {
    "id": "ING-SICILY-SOUV-243",
@@ -220,7 +220,7 @@
    "s_gift": 7,
    "s_uniq": 7,
    "prompt_prod": "Lastra betulla 6 mm 48x72, testa ad arco R12, foro Ø5 per anello. Sede 20x40 per placchetta inox, marcata MOPA con nome del luogo e coordinate. ENGRAVE-V filo a 4 mm dal bordo. Nesting 140 pz/foglio: riempitivo dei fogli degli altri prodotti della linea.",
-   "prompt_img": "macro of a wooden keyring 48x72 mm with an inset brushed steel plate fiber-marked with a place name and GPS coordinates, arched top, split ring, held between two fingers, warm daylight"
+   "prompt_img_scena": "macro of a wooden keyring 48x72 mm with an inset brushed steel plate fiber-marked with a place name and GPS coordinates, arched top, split ring, held between two fingers, warm daylight"
   },
   {
    "id": "ING-SICILY-SOUV-244",
@@ -289,7 +289,7 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Lastra betulla 3 mm 36x144. Testa con gancetto ad arco R12 che scavalca la pagina. Sezione di agrume CUT traforata: 8 spicchi radiali, ponticelli minimi 2,5 mm, membrane ENGRAVE-V. Fascia UV gialla in coda. Spigoli smussati: sta fra le pagine di un libro.",
-   "prompt_img": "a slim wooden bookmark 36x144 mm in 3 mm birch, a radial citrus-section pattern cut straight through the upper half, arched hook at the top, yellow printed band at the tail, tucked into an open book"
+   "prompt_img_scena": "a slim wooden bookmark 36x144 mm in 3 mm birch, a radial citrus-section pattern cut straight through the upper half, arched hook at the top, yellow printed band at the tail, tucked into an open book"
   },
   {
    "id": "ING-SICILY-SOUV-245",
@@ -359,7 +359,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Betulla 3 mm 144x108 (A6), angoli R12. Fronte UV WHITE + CMYK a piena superficie. Retro LISCIO NON TRATTATO perché la penna scriva: riquadro affrancatura 24x28 e righe ENGRAVE-V tratto 0,2 mm. VERIFICA POSTALE OBBLIGATORIA di peso e spessore massimi ammessi, riportata sul cartellino.",
-   "prompt_img": "a wooden postcard 144x108 mm in thin birch, front fully UV-printed with a stylised Sicilian coastline, lying next to its blank reverse side showing engraved address lines and a stamp box, a pen resting beside it on a café table"
+   "prompt_img_scena": "a wooden postcard 144x108 mm in thin birch, front fully UV-printed with a stylised Sicilian coastline, lying next to its blank reverse side showing engraved address lines and a stamp box, a pen resting beside it on a café table"
   },
   {
    "id": "ING-SICILY-SOUV-246",
@@ -431,7 +431,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Betulla 4 mm 84x96, profilo ad arco R12 con foro Ø4 per cordino. Soggetto CUT traforato (cupola, fico d'India, onda, sole) su pannello UV. ANNO ENGRAVE-V h 10 mm ben leggibile: è il motivo per cui si ricompra l'anno dopo. Produzione da avviare a settembre per la stagione natalizia.",
-   "prompt_img": "a flat wooden Christmas ornament 84x96 mm hanging from a cotton cord on a fir branch, arched profile, a dome shape cut through revealing a printed blue panel, the year engraved below in clear lettering, warm indoor lights bokeh behind"
+   "prompt_img_scena": "a flat wooden Christmas ornament 84x96 mm hanging from a cotton cord on a fir branch, arched profile, a dome shape cut through revealing a printed blue panel, the year engraved below in clear lettering, warm indoor lights bokeh behind"
   },
   {
    "id": "ING-SICILY-TAV-247",
@@ -505,7 +505,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Quattro quadrati betulla 6 mm 96x96 con angoli R12, sughero 2 mm sotto. UV WHITE + CMYK: un modulo maiolica costruito su griglia 12 mm, quattro varianti per rotazione di 90 gradi — affiancati compongono un disegno continuo. Palette blu cobalto, giallo limone, verde ramina, bianco. ENGRAVE-V filo a 4 mm.",
-   "prompt_img": "four square birch coasters 96 mm printed with cobalt, lemon and green maiolica-style geometric modules, arranged two by two so the pattern reads continuously across them, cork backing visible on one tilted piece, on a dark stone table with a glass of wine"
+   "prompt_img_scena": "four square birch coasters 96 mm printed with cobalt, lemon and green maiolica-style geometric modules, arranged two by two so the pattern reads continuously across them, cork backing visible on one tilted piece, on a dark stone table with a glass of wine"
   },
   {
    "id": "ING-SICILY-TAV-248",
@@ -579,7 +579,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Fondo betulla 6 mm 300x204: UV WHITE + CMYK pattern maiolica continuo + UV GLOSS sui soli moduli decorativi, non sul fondo. Quattro sponde h 24 mm a incastro 45 gradi, maniglie ad arco R12 traforate 90x28 sulle corte. Gommini nei 4 angoli.",
-   "prompt_img": "three-quarter view of a wooden serving tray 300x204 mm with arched cut-out handles, base fully printed with a continuous cobalt and lemon maiolica pattern with raised selective gloss catching the light, holding espresso cups and almond biscuits, on a linen cloth"
+   "prompt_img_scena": "three-quarter view of a wooden serving tray 300x204 mm with arched cut-out handles, base fully printed with a continuous cobalt and lemon maiolica pattern with raised selective gloss catching the light, holding espresso cups and almond biscuits, on a linen cloth"
   },
   {
    "id": "ING-SICILY-TAV-249",
@@ -653,7 +653,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Quattro dischi betulla 6 mm Ø96 + sughero. Ogni soggetto ridotto a FORMA PURA: arancina = cono con texture radiale ENGRAVE-R; cannolo = cilindro con spirale e due terminazioni circolari; cassata = corona di segmenti alternati; granita = cupola con striature verticali. Nessun contorno illustrativo, solo geometria. UV a colori pieni.",
-   "prompt_img": "four round birch coasters 96 mm, each printed with a Sicilian street food reduced to pure geometry — a radial-textured cone, a spiral cylinder, a crown of alternating segments, a striped dome — flat bold colours, arranged in a row on a marble counter"
+   "prompt_img_scena": "four round birch coasters 96 mm, each printed with a Sicilian street food reduced to pure geometry — a radial-textured cone, a spiral cylinder, a crown of alternating segments, a striped dome — flat bold colours, arranged in a row on a marble counter"
   },
   {
    "id": "ING-SICILY-SOUV-250",
@@ -725,7 +725,7 @@
    "s_gift": 7,
    "s_uniq": 9,
    "prompt_prod": "Betulla 6 mm 60x60, angoli R12. Sei SKU sulla stessa matrice: arancina, cannolo, cassata, granita, pane e panelle, gelato in brioche. Geometria pura, UV a colori pieni con bianco di fondo. Lamina magnetica. Espositore da banco venduto separatamente. Nesting 90 pz/foglio.",
-   "prompt_img": "six small square wooden magnets 60 mm in a row on a shop display card, each printed with a Sicilian street food reduced to flat geometric shapes in bold colour, birch edges visible, bright retail lighting"
+   "prompt_img_scena": "six small square wooden magnets 60 mm in a row on a shop display card, each printed with a Sicilian street food reduced to flat geometric shapes in bold colour, birch edges visible, bright retail lighting"
   },
   {
    "id": "ING-SICILY-SOUV-251",
@@ -798,7 +798,7 @@
    "s_gift": 9,
    "s_uniq": 8,
    "prompt_prod": "Prisma betulla 8 mm 168x72x48 a tre lastre incastrate 45 gradi. Nome del luogo ENGRAVE-V h 12 mm sul fronte. Sede 20x40 per placchetta inox MOPA con le coordinate in formato decimale a 4 cifre. Fascia inferiore con onda ENGRAVE-R. Gommini.",
-   "prompt_img": "a small wooden desk plaque 168x72 mm with an engraved place name and an inset brushed steel plate finely marked with GPS coordinates, birch with clean laser edges, on a shelf beside a framed photo"
+   "prompt_img_scena": "a small wooden desk plaque 168x72 mm with an engraved place name and an inset brushed steel plate finely marked with GPS coordinates, birch with clean laser edges, on a shelf beside a framed photo"
   },
   {
    "id": "ING-SICILY-CITTA-252",
@@ -871,7 +871,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Tre strati betulla 4 mm 240x300 distanziati 4 mm. Strato 1 acqua (pannello UV), strato 2 isolati, strato 3 assi principali. SEMPLIFICA A UN SOLO LIVELLO GERARCHICO di strade: un reticolo fitto diventa ingestibile e i ponticelli si rompono. Ponticelli minimi 2,5 mm, provino obbligatorio. DATI CARTOGRAFICI con licenza compatibile (OpenStreetMap richiede attribuzione), mai screenshot di mappe proprietarie.",
-   "prompt_img": "a layered wooden city map 240x300 mm, three birch layers spaced 4 mm showing water, blocks and main axes of a coastal Sicilian city, deep blue printed water panel at the base, city name cut through the header, on a plaster wall"
+   "prompt_img_scena": "a layered wooden city map 240x300 mm, three birch layers spaced 4 mm showing water, blocks and main axes of a coastal Sicilian city, deep blue printed water panel at the base, city name cut through the header, on a plaster wall"
   },
   {
    "id": "ING-SICILY-CITTA-253",
@@ -943,7 +943,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Tre strati betulla 4 mm 300x144 distanziati 4 mm: monumenti in primo piano, edifici medi, sfondo. Profili ricavati dai prospetti REALI dei monumenti, non da sagome generiche. Cielo pannello UV gradiente. Nome città ENGRAVE-V in basso a destra h 8 mm. Aggancio a 2 punti.",
-   "prompt_img": "a layered wooden city skyline 300x144 mm, three birch layers building depth from foreground monuments to background buildings, warm gradient printed sky behind, city name engraved small in the lower right, on a shelf against a white wall"
+   "prompt_img_scena": "a layered wooden city skyline 300x144 mm, three birch layers building depth from foreground monuments to background buildings, warm gradient printed sky behind, city name engraved small in the lower right, on a shelf against a white wall"
   },
   {
    "id": "ING-SICILY-CITTA-254",
@@ -1013,7 +1013,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Quattro quadrati betulla 6 mm 96x96, angoli R12. Ogni borgo ha TRE ELEMENTI GEOMETRICI propri e una palette propria: Erice = torre e nebbia, grigi e blu; Marzamemi = tonnara e barca, turchese e sabbia; Scopello = faraglioni, verde e cobalto; Castelbuono = castello e manna, ocra e ruggine. Supporto verticale a croce. Serie estendibile a nuovi borghi.",
-   "prompt_img": "four square birch tiles 96 mm standing in a slotted holder, each printed with a different Sicilian village reduced to three geometric elements in its own colour palette, names engraved beneath, on a wooden shop shelf"
+   "prompt_img_scena": "four square birch tiles 96 mm standing in a slotted holder, each printed with a different Sicilian village reduced to three geometric elements in its own colour palette, names engraved beneath, on a wooden shop shelf"
   },
   {
    "id": "ING-SICILY-LUCE-255",
@@ -1083,7 +1083,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Quattro pareti betulla 4 mm 108x156 con il modulo maiolica CUT traforato, ponticelli minimi 2,5 mm. Incastri a dente 45 gradi senza colla. Base 108x108 con sede Ø40 per tealight LED. Nessun coperchio: sfogo del calore. Cartellino con avvertenza SOLO TEALIGHT LED. Flat pack con istruzioni a 4 passi.",
-   "prompt_img": "a lit wooden lantern 108x108x156 mm on a terrace table at dusk, four fretwork walls cut with a geometric maiolica module, warm LED glow throwing the pattern across the tabletop and wall behind, Mediterranean evening"
+   "prompt_img_scena": "a lit wooden lantern 108x108x156 mm on a terrace table at dusk, four fretwork walls cut with a geometric maiolica module, warm LED glow throwing the pattern across the tabletop and wall behind, Mediterranean evening"
   },
   {
    "id": "ING-SICILY-PIETRA-256",
@@ -1152,7 +1152,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "VINCOLO TECNICO: la pietra lavica NON si taglia al laser CO2, si incide soltanto. Acquistare dischi Ø120 già a formato con sede Ø40 già eseguita. Si lavora SOLO la superficie: curve di livello del cono ENGRAVE-R concentriche, contrasto altissimo bianco su nero. Gommini sotto. Peso da dichiarare in scheda: incide sulla spedizione.",
-   "prompt_img": "a black lava stone disc 120 mm with concentric contour rings engraved in high-contrast white, a lit candle seated in the central recess, rough volcanic texture on the sides, on a dark table with raking light"
+   "prompt_img_scena": "a black lava stone disc 120 mm with concentric contour rings engraved in high-contrast white, a lit candle seated in the central recess, rough volcanic texture on the sides, on a dark table with raking light"
   },
   {
    "id": "ING-SICILY-PIETRA-257",
@@ -1221,7 +1221,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Piastra pietra lavica 168x168x12 acquistata a formato. ENGRAVE-R pattern maiolica a contrasto alto sulla faccia superiore. Gommini in silicone resistente al calore sotto, non gomma comune. Verificare in QC che l'incisione non sfarini sotto shock termico: provino a 200 gradi prima del lancio.",
-   "prompt_img": "a square black lava stone trivet 168 mm engraved with a high-contrast white geometric maiolica pattern, a copper pot resting on it, dark kitchen worktop, side light raking across the rough stone texture"
+   "prompt_img_scena": "a square black lava stone trivet 168 mm engraved with a high-contrast white geometric maiolica pattern, a copper pot resting on it, dark kitchen worktop, side light raking across the rough stone texture"
   },
   {
    "id": "ING-SICILY-PIETRA-258",
@@ -1291,7 +1291,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Lastra pietra lavica 144x204x12 a formato. ENGRAVE-R soggetto + testo. Numerazione progressiva XX/50 incisa in basso a destra h 5 mm. TIRATURA DICHIARATA E RISPETTATA: se la scarsità è finta si brucia la fiducia una volta sola. Certificato di autenticità cartaceo con numero, data e materiale.",
-   "prompt_img": "a black lava stone plaque 144x204 mm engraved in high-contrast white with a geometric volcano motif and a small edition number in the lower corner, leaning against a pale plaster wall, dramatic side light on the rough texture"
+   "prompt_img_scena": "a black lava stone plaque 144x204 mm engraved in high-contrast white with a geometric volcano motif and a small edition number in the lower corner, leaning against a pale plaster wall, dramatic side light on the rough texture"
   },
   {
    "id": "ING-SICILY-CASA-259",
@@ -1362,7 +1362,7 @@
    "s_gift": 10,
    "s_uniq": 10,
    "prompt_prod": "Cinque strati betulla 4 mm 300x396 distanziati 4 mm su perni Ø3 asimmetrici. Quote: mare, battigia, faraglioni, promontorio, cielo. Fondo pannello UV gradiente turchese-crema con sole basso. Telaio a fascia perimetrale. ENGRAVE-V coordinate in basso a destra. Aggancio a 2 punti.",
-   "prompt_img": "layered wooden wall art 300x396 mm, five birch layers spaced 4 mm building a Sicilian coastline in depth — sea, shore, sea stacks, headland — deep shadows between layers, gradient turquoise sky printed behind, on a pale plaster wall with afternoon light"
+   "prompt_img_scena": "layered wooden wall art 300x396 mm, five birch layers spaced 4 mm building a Sicilian coastline in depth — sea, shore, sea stacks, headland — deep shadows between layers, gradient turquoise sky printed behind, on a pale plaster wall with afternoon light"
   },
   {
    "id": "ING-SICILY-CASA-260",
@@ -1433,7 +1433,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Quattro strati betulla 4 mm 204x300 distanziati 4 mm: le pale si sovrappongono naturalmente e il multilayer le rende senza forzature. Texture delle areole ENGRAVE-R a griglia regolare. Frutti UV a colori pieni (fucsia, arancio, giallo) sullo strato più alto. Fondo pannello UV verde salvia.",
-   "prompt_img": "layered wooden wall panel 204x300 mm showing prickly pear pads overlapping across four spaced birch layers, engraved dotted areole texture, bright magenta and orange printed fruits on the top layer, sage green printed background, on a white wall"
+   "prompt_img_scena": "layered wooden wall panel 204x300 mm showing prickly pear pads overlapping across four spaced birch layers, engraved dotted areole texture, bright magenta and orange printed fruits on the top layer, sage green printed background, on a white wall"
   },
   {
    "id": "ING-SICILY-CASA-261",
@@ -1505,7 +1505,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Cornice betulla 6 mm Ø264 con corona traforata a modulo maiolica fra Ø200 e Ø264, ponticelli minimi 2,5 mm. Specchio acrilico 3 mm Ø204 in battuta sul retro, tenuto da quattro linguette rotanti: sostituibile senza colla. Distanziale 6 mm dalla parete perché il traforo proietti l'ombra.",
-   "prompt_img": "a round mirror 264 mm with a birch fretwork frame cut in a geometric maiolica module, mounted off the wall so the pattern casts a soft shadow behind it, reflecting a sunlit window, pale plaster wall"
+   "prompt_img_scena": "a round mirror 264 mm with a birch fretwork frame cut in a geometric maiolica module, mounted off the wall so the pattern casts a soft shadow behind it, reflecting a sunlit window, pale plaster wall"
   },
   {
    "id": "ING-SICILY-CASA-262",
@@ -1578,7 +1578,7 @@
    "s_gift": 10,
    "s_uniq": 10,
    "prompt_prod": "Tre strati betulla 6 mm Ø300 distanziati 4 mm. La Trinacria ridotta a tre raggi a 120 gradi costruiti con archi R12: cadono su 12, 4 e 8 e fanno da indici principali. Foro alberino Ø8 AL CENTRO GEOMETRICO ESATTO su tutti gli strati. Pacco 24 mm: alberino 20 mm obbligatorio, sfere 110 mm, aria 3 mm sopra lo strato alto.",
-   "prompt_img": "hero shot of a 300 mm wall clock, three stacked birch layers spaced 4 mm, a Trinacria abstracted into three curved rays at 120 degrees serving as the main hour markers, deep amber printed centre, slim black hands, on a lime-washed wall"
+   "prompt_img_scena": "hero shot of a 300 mm wall clock, three stacked birch layers spaced 4 mm, a Trinacria abstracted into three curved rays at 120 degrees serving as the main hour markers, deep amber printed centre, slim black hands, on a lime-washed wall"
   },
   {
    "id": "ING-SICILY-SOUV-263",
@@ -1648,7 +1648,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Tre strati betulla 4 mm 156x204 distanziati 4 mm. Strato 1 corona (traforo ad archi R12), strato 2 volto ridotto a piani geometrici, strato 3 fondo UV. NESSUN TRATTO REALISTICO del viso: solo piani e ombre. Fiori e frutta della versione tradizionale sostituiti da moduli geometrici. Aggancio o piedino a scelta.",
-   "prompt_img": "a flat layered wooden wall piece 156x204 mm reinterpreting a Sicilian moor's head, three birch layers spaced 4 mm, the crown cut as repeating arches, the face reduced to flat geometric planes, deep blue and ochre printed panel behind, on a white wall"
+   "prompt_img_scena": "a flat layered wooden wall piece 156x204 mm reinterpreting a Sicilian moor's head, three birch layers spaced 4 mm, the crown cut as repeating arches, the face reduced to flat geometric planes, deep blue and ochre printed panel behind, on a white wall"
   },
   {
    "id": "ING-SICILY-SOUV-264",
@@ -1718,7 +1718,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Tre strati betulla 4 mm 204x204. Strato 1 ruota raggiata CUT traforata (16 raggi, mozzo Ø36, ponticelli 2,5 mm), strato 2 bande diagonali del carretto, strato 3 fondo UV nei colori tradizionali (giallo, rosso, verde, blu) ricomposti in fasce geometriche. Nessuna figura narrativa dipinta.",
-   "prompt_img": "a layered wooden panel 204x204 mm, a sixteen-spoke cart wheel cut through the top birch layer, diagonal painted bands of yellow, red and green on the layer beneath, deep shadow between layers, on a plaster wall"
+   "prompt_img_scena": "a layered wooden panel 204x204 mm, a sixteen-spoke cart wheel cut through the top birch layer, diagonal painted bands of yellow, red and green on the layer beneath, deep shadow between layers, on a plaster wall"
   },
   {
    "id": "ING-SICILY-KIDS-265",
@@ -1786,7 +1786,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Betulla 12 mm 288x204 per presa sicura. Nove tessere = nove province, sagome REALI dai confini amministrativi. Kerf compensato con gioco 0,15 mm per estrazione facile. Vassoio dallo stesso foglio. Nome provincia e capoluogo ENGRAVE-V su ogni tessera. UV a colori pieni, un colore per provincia. CARTEGGIATURA OBBLIGATORIA di tutti i bordi, vernice a base acqua atossica, spigoli R12.",
-   "prompt_img": "a wooden jigsaw of Sicily 288x204 mm in 12 mm birch, nine province-shaped pieces in different flat colours seated in a cut tray, province names engraved on each, a child's hand lifting one piece out, bright daylight on a table"
+   "prompt_img_scena": "a wooden jigsaw of Sicily 288x204 mm in 12 mm birch, nine province-shaped pieces in different flat colours seated in a cut tray, province names engraved on each, a child's hand lifting one piece out, bright daylight on a table"
   },
   {
    "id": "ING-SICILY-KIDS-266",
@@ -1854,7 +1854,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "24 tessere betulla 6 mm 60x60, angoli R12, tagliate tutte dallo stesso foglio. 12 soggetti a coppie: monumenti, street food, piante, mestieri, ridotti a geometria piana. UV a colori pieni con bianco di fondo. Retro tutto uguale con pattern maiolica. Carteggiatura bordi, vernice atossica. Vassoio con sedi nello stesso foglio.",
-   "prompt_img": "twenty-four square wooden memory tiles 60 mm laid out in a grid on a table, each printed with a flat geometric Sicilian motif in bold colour, a few turned face-down showing a uniform maiolica back pattern, child's hands reaching in"
+   "prompt_img_scena": "twenty-four square wooden memory tiles 60 mm laid out in a grid on a table, each printed with a flat geometric Sicilian motif in bold colour, a few turned face-down showing a uniform maiolica back pattern, child's hands reaching in"
   },
   {
    "id": "ING-SICILY-SOUV-267",
@@ -1922,7 +1922,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Betulla 3 mm, massimo 5 pezzi a incastro, montaggio senza colla e senza attrezzi. Ingombro montato 144x120x96, ingombro piatto 200x150x3: entra in busta. Prova a secco obbligatoria di tutti gli incastri prima del confezionamento. Istruzioni incise sul telaio di sfrido, che diventa il foglietto di montaggio.",
-   "prompt_img": "a flat-pack wooden monument miniature assembled on a desk, 144x120x96 mm in thin birch with visible slot joints, its flat unassembled sheet lying beside it with engraved assembly instructions, warm daylight"
+   "prompt_img_scena": "a flat-pack wooden monument miniature assembled on a desk, 144x120x96 mm in thin birch with visible slot joints, its flat unassembled sheet lying beside it with engraved assembly instructions, warm daylight"
   },
   {
    "id": "ING-SICILY-SOUV-268",
@@ -1993,7 +1993,7 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Corpo betulla 12 mm 48x144 con impugnatura ad arco R12 e foro Ø8 appendino. Inserto apribottiglie in acciaio incassato e fissato con due rivetti, NON incollato: è un pezzo sottoposto a sforzo. Placchetta inox 20x40 MOPA col nome del luogo. Verifica funzionale su 20 tappi prima del lancio.",
-   "prompt_img": "a wooden bottle opener 48x144 mm in 12 mm birch with an arched grip, a riveted steel opener insert at the head and a small fiber-marked steel plate on the body, opening a beer bottle, bar counter background"
+   "prompt_img_scena": "a wooden bottle opener 48x144 mm in 12 mm birch with an arched grip, a riveted steel opener insert at the head and a small fiber-marked steel plate on the body, opening a beer bottle, bar counter background"
   },
   {
    "id": "ING-SICILY-CASA-269",
@@ -2069,7 +2069,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Fondo betulla 8 mm 288x120 con UV PRINT gradiente mare. Strato frontale betulla 4 mm distanziato 4 mm con SAGOMA DELL'ISOLA CUT traforata in proporzioni corrette. Quattro ganci sul passo 48 mm nella fascia bassa. Cognome ENGRAVE-V. Asole a goccia sul retro, interasse 240 mm.",
-   "prompt_img": "a wall key holder 288x120 mm, the silhouette of Sicily cut through the front birch layer revealing a printed turquoise sea panel behind, four brass hooks in a row below, family name engraved, keys hanging, on a plaster entrance wall"
+   "prompt_img_scena": "a wall key holder 288x120 mm, the silhouette of Sicily cut through the front birch layer revealing a printed turquoise sea panel behind, four brass hooks in a row below, family name engraved, keys hanging, on a plaster entrance wall"
   },
   {
    "id": "ING-SICILY-SOUV-270",
@@ -2140,7 +2140,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Scatola betulla 6 mm 300x204x96, incastri 45 gradi. Coperchio SCORREVOLE in guide fresate sui fianchi, non a cerniera. Pattern maiolica ENGRAVE-R sul coperchio + area logo 100x30. Interno a 4 scomparti sagomati, dimensionati su vasetti da 212 ml e bottiglie da 250 ml. Ordine minimo 20 pezzi.",
-   "prompt_img": "a wooden gift box 300x204x96 mm with an engraved maiolica-patterned sliding lid half open, four shaped compartments inside holding jars of marmalade and a bottle of oil, birch, on a rustic table"
+   "prompt_img_scena": "a wooden gift box 300x204x96 mm with an engraved maiolica-patterned sliding lid half open, four shaped compartments inside holding jars of marmalade and a bottle of oil, birch, on a rustic table"
   }
  ]
 }

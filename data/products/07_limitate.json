@@ -73,7 +73,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Betulla 6 mm 96x96, angoli R12, formato invariante su tutta la serie. Soggetto UV a colori pieni, uno per luogo. Placchetta inox 20x40 MOPA con NUMERO PROGRESSIVO XX/500 e anno. DICHIARARE LA TIRATURA e rispettarla: tenere un registro dei numeri emessi, altrimenti il meccanismo non regge.",
-   "prompt_img": "a wooden collectible tile 96x96 mm held in a hand, a flat graphic place motif printed on it and a small fiber-marked steel plate with an edition number, five more tiles arranged behind"
+   "prompt_img_scena": "a wooden collectible tile 96x96 mm held in a hand, a flat graphic place motif printed on it and a small fiber-marked steel plate with an edition number, five more tiles arranged behind"
   },
   {
    "id": "ING-LIMIT-SER-226",
@@ -149,7 +149,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Fondo betulla 8 mm 420x300 con UV PRINT. Frontale betulla 4 mm distanziato 6 mm con 12 finestre 96x96 su griglia 12 mm, ciascuna con il nome del luogo ENGRAVE-V sotto. Le tessere si inseriscono da dietro e restano rimovibili. Aggancio a 2 punti.",
-   "prompt_img": "a wooden display frame 420x300 mm on a wall with twelve square openings, seven filled with printed collectible tiles and five still empty showing the engraved place names beneath"
+   "prompt_img_scena": "a wooden display frame 420x300 mm on a wall with twelve square openings, seven filled with printed collectible tiles and five still empty showing the engraved place names beneath"
   },
   {
    "id": "ING-LIMIT-SER-227",
@@ -227,7 +227,7 @@
    "s_gift": 10,
    "s_uniq": 10,
    "prompt_prod": "Scatola betulla 6 mm 360x300x72 con coperchio scorrevole ENGRAVE-R. Interno in feltro con 12 sedi 96x96 e una tasca per il certificato. Placchetta inox MOPA col numero della collezione. L'interno sagomato costa pochi centesimi e cambia completamente il momento dell'apertura.",
-   "prompt_img": "an open wooden collector case 360x300x72 mm with a sliding engraved lid, twelve printed tiles seated in shaped felt recesses, a certificate tucked in a side pocket"
+   "prompt_img_scena": "an open wooden collector case 360x300x72 mm with a sliding engraved lid, twelve printed tiles seated in shaped felt recesses, a certificate tucked in a side pocket"
   },
   {
    "id": "ING-LIMIT-ANN-228",
@@ -301,7 +301,7 @@
    "s_gift": 10,
    "s_uniq": 10,
    "prompt_prod": "Betulla 4 mm 96x108. Soggetto dell'anno CUT traforato su pannello UV, diverso ogni anno e MAI RIPETUTO. Placchetta inox MOPA con anno e numero XX/300. Registro dei numeri emessi obbligatorio. Comunicare l'apertura della tiratura alla lista clienti con 7 giorni di anticipo.",
-   "prompt_img": "a numbered annual wooden ornament 96x108 mm hanging on a tree, a year motif cut through over a printed panel, a small steel plate with the year and edition number, three previous years' ornaments hanging nearby"
+   "prompt_img_scena": "a numbered annual wooden ornament 96x108 mm hanging on a tree, a year motif cut through over a printed panel, a small steel plate with the year and edition number, three previous years' ornaments hanging nearby"
   },
   {
    "id": "ING-LIMIT-ANN-229",
@@ -374,7 +374,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Betulla 8 mm Ø72 con corona ENGRAVE-R. Disco inox Ø40 MOPA al centro con anno, tema e numero XX/200. Scatola piccola con interno sagomato: la medaglia va presentata, non consegnata in busta. Registro dei numeri emessi.",
-   "prompt_img": "a wooden commemorative medal 72 mm in an open presentation box, engraved wreath border around an inset steel disc marked with a year and edition number, dark background, directional light"
+   "prompt_img_scena": "a wooden commemorative medal 72 mm in an open presentation box, engraved wreath border around an inset steel disc marked with a year and edition number, dark background, directional light"
   },
   {
    "id": "ING-LIMIT-ART-230",
@@ -448,7 +448,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Quattro strati betulla 4 mm 300x400 distanziati 5 mm su perni asimmetrici. Placchetta inox MOPA in basso a destra con numero XX/50, anno e firma dell'autore. TIRATURA MASSIMA 50: sopra quel numero il prodotto smette di essere un'edizione e diventa un articolo di catalogo, e va detto.",
-   "prompt_img": "a layered wooden art panel 300x400 mm on a gallery wall, four spaced birch layers building an abstract landscape, a small steel plate at the lower right marked with an edition number and signature"
+   "prompt_img_scena": "a layered wooden art panel 300x400 mm on a gallery wall, four spaced birch layers building an abstract landscape, a small steel plate at the lower right marked with an edition number and signature"
   },
   {
    "id": "ING-LIMIT-DOC-231",
@@ -519,7 +519,7 @@
    "s_gift": 5,
    "s_uniq": 10,
    "prompt_prod": "Custodia betulla 4 mm 168x120 a libro con dorso flessibile. Interno con sede per il cartoncino stampato. Placchetta inox MOPA col numero. IL CERTIFICATO DEVE RIPORTARE numero, data di produzione, materiale, dimensioni e firma: se è generico non aggiunge nulla e si vede.",
-   "prompt_img": "an open wooden certificate holder 168x120 mm with a printed numbered certificate inside, a small fiber-marked steel plate on the cover, lying beside the artwork it belongs to"
+   "prompt_img_scena": "an open wooden certificate holder 168x120 mm with a printed numbered certificate inside, a small fiber-marked steel plate on the cover, lying beside the artwork it belongs to"
   },
   {
    "id": "ING-LIMIT-ART-232",
@@ -593,7 +593,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Tre strati betulla 4 mm 240x300. Il DISEGNO è dell'artista, la traduzione in strati e la producibilità sono di Ingly Design. ACCORDO SCRITTO OBBLIGATORIO prima di iniziare: chi detiene i diritti, per quanto tempo, su quali canali, con quale ripartizione. Senza contratto non si produce. Placchetta MOPA con nome artista e numero.",
-   "prompt_img": "a layered wooden art panel 240x300 mm in a gallery, an artist's illustration translated into three cut birch layers with printed colour behind, a steel plate with the artist's name and edition number"
+   "prompt_img_scena": "a layered wooden art panel 240x300 mm in a gallery, an artist's illustration translated into three cut birch layers with printed colour behind, a steel plate with the artist's name and edition number"
   },
   {
    "id": "ING-LIMIT-EVE-233",
@@ -667,7 +667,7 @@
    "s_gift": 7,
    "s_uniq": 10,
    "prompt_prod": "Betulla 6 mm 96x144. Soggetto dell'evento UV, data e luogo ENGRAVE-V. Placchetta inox MOPA col numero progressivo, marcata SUL POSTO durante l'evento: la marcatura dal vivo è essa stessa un richiamo per lo stand. Portare il fiber in fiera e numerare davanti al cliente.",
-   "prompt_img": "a small wooden event edition piece 96x144 mm being fiber-marked with a progressive number at a trade fair stand, a queue of visitors watching, printed event graphic on the front"
+   "prompt_img_scena": "a small wooden event edition piece 96x144 mm being fiber-marked with a progressive number at a trade fair stand, a queue of visitors watching, printed event graphic on the front"
   },
   {
    "id": "ING-LIMIT-EVE-234",
@@ -746,7 +746,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Fondo betulla 8 mm 204x264 con UV PRINT. Frontale betulla 4 mm con anno e stemma CUT traforati: richiedere lo stemma in VETTORIALE e l'autorizzazione scritta dell'ente all'uso. Placca ottone MOPA con numero e dedica. L'ottone dà il registro istituzionale che la ricorrenza richiede.",
-   "prompt_img": "a layered wooden commemorative plaque 204x264 mm, a town crest and a year cut through the front layer over a deep printed panel, a brass plate below with an engraved dedication and edition number"
+   "prompt_img_scena": "a layered wooden commemorative plaque 204x264 mm, a town crest and a year cut through the front layer over a deep printed panel, a brass plate below with an engraved dedication and edition number"
   },
   {
    "id": "ING-LIMIT-MAT-235",
@@ -816,7 +816,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "VINCOLO: la pietra lavica NON si taglia al laser CO2, si incide soltanto. Lastre 144x204x12 acquistate a formato, quindi il perimetro è dato e si lavora solo la superficie. ENGRAVE-R ad altissimo contrasto. Numerazione XX/50 incisa in basso a destra h 5 mm. Certificato cartaceo con numero, data e provenienza del materiale.",
-   "prompt_img": "a black lava stone plaque 144x204 mm engraved in high-contrast white with a geometric motif and a small edition number, leaning against a pale wall, dramatic raking light on the rough texture"
+   "prompt_img_scena": "a black lava stone plaque 144x204 mm engraved in high-contrast white with a geometric motif and a small edition number, leaning against a pale wall, dramatic raking light on the rough texture"
   },
   {
    "id": "ING-LIMIT-DROP-236",
@@ -890,7 +890,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Stesso file della prima tiratura, nessun costo di sviluppo. Placchetta MOPA marcata II/XX per distinguere la SECONDA tiratura dalla prima: dichiararlo è ciò che tiene in piedi la credibilità di tutte le edizioni future. Comunicazione alla lista con 7 giorni di anticipo, finestra di 72 ore, poi si chiude davvero.",
-   "prompt_img": "a layered wooden art panel 240x300 mm being packed for shipping, a steel plate marked as a second edition, a laptop beside it showing a countdown timer"
+   "prompt_img_scena": "a layered wooden art panel 240x300 mm being packed for shipping, a steel plate marked as a second edition, a laptop beside it showing a countdown timer"
   },
   {
    "id": "ING-LIMIT-SER-237",
@@ -964,7 +964,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Tre strati betulla 4 mm 204x204, formato e telaio INVARIANTI su tutti e dodici: cambia solo il soggetto. Un solo aggancio a parete serve tutta la serie, così si sostituisce il pannello ogni mese. Placchetta MOPA con mese e numero. Sviluppo ammortizzato su dodici prodotti.",
-   "prompt_img": "a square layered wooden panel 204x204 mm on a wall showing an almond blossom in spaced birch layers, three other months' panels stacked on a shelf below waiting to be swapped in"
+   "prompt_img_scena": "a square layered wooden panel 204x204 mm on a wall showing an almond blossom in spaced birch layers, three other months' panels stacked on a shelf below waiting to be swapped in"
   },
   {
    "id": "ING-LIMIT-SER-238",
@@ -1039,7 +1039,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Due strati betulla 4 mm 204x264. Strato frontale con la costellazione: STELLE COME FORI VERI di diametro variabile (Ø2 a Ø5 secondo la magnitudine reale) e linee ENGRAVE-V. Fondo UV blu notte. Nome e data di nascita ENGRAVE-V. Placchetta MOPA col numero. Formato invariante sui dodici segni.",
-   "prompt_img": "a layered wooden panel 204x264 mm on a dark wall, a constellation cut as real holes of different sizes through the front birch layer over a deep night-blue panel, faint engraved connecting lines, a lamp behind making the star holes glow"
+   "prompt_img_scena": "a layered wooden panel 204x264 mm on a dark wall, a constellation cut as real holes of different sizes through the front birch layer over a deep night-blue panel, faint engraved connecting lines, a lamp behind making the star holes glow"
   },
   {
    "id": "ING-LIMIT-B2B-239",
@@ -1111,7 +1111,7 @@
    "s_gift": 7,
    "s_uniq": 10,
    "prompt_prod": "Betulla 6 mm 144x96, logo ENGRAVE-R. Placchetta inox 20x40 MOPA con NOME e NUMERO PROGRESSIVO. Il numero va grande e in evidenza: è quello che conta per chi lo riceve. Registro dei numeri assegnati tenuto dal cliente. Lotto minimo 50.",
-   "prompt_img": "a small wooden plaque 144x96 mm with an engraved company logo and a steel plate marked FOUNDING MEMBER 007 with a name, held in a hand at an office opening event"
+   "prompt_img_scena": "a small wooden plaque 144x96 mm with an engraved company logo and a steel plate marked FOUNDING MEMBER 007 with a name, held in a hand at an office opening event"
   },
   {
    "id": "ING-LIMIT-SER-240",
@@ -1185,7 +1185,7 @@
    "s_gift": 10,
    "s_uniq": 10,
    "prompt_prod": "Betulla 4 mm 300x240, circa 200 pezzi a incastro IRREGOLARE, con 8-10 sagome figurative nascoste fra i pezzi (whimsy pieces): è la firma del puzzle di legno premium. UV a piena superficie prima del taglio. ATTENZIONE AL TEMPO: 9 metri di taglio sono circa 12 minuti di macchina, vanno nel prezzo. Placchetta MOPA col numero nella scatola.",
-   "prompt_img": "a wooden jigsaw puzzle 300x240 mm partly assembled on a table, irregular birch pieces with a few figurative whimsy shapes visible among them, full-colour printed artwork, a numbered steel plate in the open box"
+   "prompt_img_scena": "a wooden jigsaw puzzle 300x240 mm partly assembled on a table, irregular birch pieces with a few figurative whimsy shapes visible among them, full-colour printed artwork, a numbered steel plate in the open box"
   }
  ]
 }

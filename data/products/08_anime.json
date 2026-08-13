@@ -71,7 +71,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Tre strati betulla 4 mm 204x204. PROPORZIONI DEL GENERE, SOGGETTO ORIGINALE: testa 60 percento dell'altezza, occhi grandi e distanti, arti corti, bocca minima, palette pastello satura. NESSUN riferimento a opere esistenti, nessuna citazione di posa o costume riconoscibile. Se somiglia a un personaggio noto, va ridisegnato.",
-   "prompt_img": "a layered wooden wall piece 204x204 mm of an original round cloud-like creature with large friendly eyes, three spaced birch layers, saturated pastel printed colours, on a teenager's bedroom wall"
+   "prompt_img_scena": "a layered wooden wall piece 204x204 mm of an original round cloud-like creature with large friendly eyes, three spaced birch layers, saturated pastel printed colours, on a teenager's bedroom wall"
   },
   {
    "id": "ING-ANIME-KAW-172",
@@ -142,7 +142,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Acrilico 3 mm 48x60, bordi lucidi a vista, foro Ø5. UV WHITE + CMYK fronte e retro (stampa doppia faccia: si vede da entrambi i lati appeso allo zaino). Sei creature ORIGINALI della stessa famiglia grafica. Nesting 90 pz/foglio.",
-   "prompt_img": "six small acrylic keyrings 48x60 mm with original kawaii creature characters printed in bright colours, polished edges, clipped to a canvas backpack zip"
+   "prompt_img_scena": "six small acrylic keyrings 48x60 mm with original kawaii creature characters printed in bright colours, polished edges, clipped to a canvas backpack zip"
   },
   {
    "id": "ING-ANIME-KAW-173",
@@ -210,7 +210,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Betulla 3 mm 48x144. La creatura sporge dalla testa del segnalibro e le braccia formano il gancetto che scavalca la pagina: la funzione nasce dal disegno. Soggetto ORIGINALE. UV a colori pieni. Spigoli smussati. Nesting 40 pz/foglio.",
-   "prompt_img": "a wooden bookmark 48x144 mm tucked into an open manga, an original kawaii creature peeking over the top edge with its arms hooked over the page, bright printed colours"
+   "prompt_img_scena": "a wooden bookmark 48x144 mm tucked into an open manga, an original kawaii creature peeking over the top edge with its arms hooked over the page, bright printed colours"
   },
   {
    "id": "ING-ANIME-CYB-174",
@@ -285,7 +285,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Acrilico trasparente 5 mm 240x300, ENGRAVE-R SUL RETRO (l'incisione sul retro dà più profondità e non si graffia). Base betulla 12 mm con canale LED e passaggio cavo. SOGGETTO ORIGINALE: skyline immaginario, tipografia inventata, geometrie al neon — nessuna citazione riconoscibile. Pellicola rimossa dopo l'incisione.",
-   "prompt_img": "a clear acrylic edge-lit panel 240x300 mm on a wooden base in a dark room, engraved neon-style city geometry glowing cyan and magenta from the base LEDs, the unlit acrylic almost invisible"
+   "prompt_img_scena": "a clear acrylic edge-lit panel 240x300 mm on a wooden base in a dark room, engraved neon-style city geometry glowing cyan and magenta from the base LEDs, the unlit acrylic almost invisible"
   },
   {
    "id": "ING-ANIME-CYB-175",
@@ -356,7 +356,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Cinque strati betulla 4 mm 420x240 distanziati 4 mm. Grattacieli, ponti, antenne, insegne verticali: TUTTO INVENTATO. Le insegne portano parole immaginarie o alfabeti inventati, MAI marchi o scritte riconoscibili. Fondo UV gradiente viola-magenta. Aggancio a 2 punti.",
-   "prompt_img": "a layered wooden panel 420x240 mm of an imaginary night city, five spaced birch layers of towers and bridges with invented vertical signs, magenta and violet gradient printed sky behind, on a dark wall"
+   "prompt_img_scena": "a layered wooden panel 420x240 mm of an imaginary night city, five spaced birch layers of towers and bridges with invented vertical signs, magenta and violet gradient printed sky behind, on a dark wall"
   },
   {
    "id": "ING-ANIME-CYB-176",
@@ -431,7 +431,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Acrilico 5 mm 360x144 con nome ENGRAVE-R sul retro in carattere di genere DISEGNATO DA ZERO o con licenza commerciale verificata: un font piratato è la stessa violazione di un personaggio copiato. Base betulla 12 mm con canale LED RGB. Verifica che il nome resti leggibile da 3 m.",
-   "prompt_img": "an edge-lit acrylic name sign 360x144 mm glowing cyan on a wooden base behind a gaming desk, the engraved letters bright against the dark room, keyboard and monitor blurred in front"
+   "prompt_img_scena": "an edge-lit acrylic name sign 360x144 mm glowing cyan on a wooden base behind a gaming desk, the engraved letters bright against the dark room, keyboard and monitor blurred in front"
   },
   {
    "id": "ING-ANIME-GAM-177",
@@ -502,7 +502,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Betulla 12 mm, montante verticale 300 mm su base 144x144 zavorrabile. BRACCIO LARGO MINIMO 30 mm con raggio ampio: un archetto sottile lascia un solco nell'imbottitura in poche settimane. Verifica di stabilità con cuffie da 400 g appese: se si ribalta è un reso garantito. Gommini.",
-   "prompt_img": "a wooden headset stand 144x144x300 mm on a desk holding a pair of over-ear headphones on a wide curved arm, engraved geometric pattern on the upright, monitor glow behind"
+   "prompt_img_scena": "a wooden headset stand 144x144x300 mm on a desk holding a pair of over-ear headphones on a wide curved arm, engraved geometric pattern on the upright, monitor glow behind"
   },
   {
    "id": "ING-ANIME-GAM-178",
@@ -573,7 +573,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Betulla 8 mm 240x144x144, due sedi sagomate inclinate 20 gradi. VERIFICARE LE MISURE sui controller reali delle console più diffuse: la sagoma generica non tiene e il prodotto viene reso. Feltro nelle sedi per non graffiare. Gommini.",
-   "prompt_img": "a wooden controller stand 240x144x144 mm on a media unit holding two game controllers in shaped inclined cradles, engraved geometric pattern on the front, TV glow behind"
+   "prompt_img_scena": "a wooden controller stand 240x144x144 mm on a media unit holding two game controllers in shaped inclined cradles, engraved geometric pattern on the front, TV glow behind"
   },
   {
    "id": "ING-ANIME-GAM-179",
@@ -644,7 +644,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Betulla 6 mm 300x120x120 con tre vani, poggia-telefono inclinato 15 gradi e PASSACAVI a pettine sul retro (denti 12 mm, luce 8 mm) che trattiene i cavi USB. Pattern geometrico ENGRAVE-R sulle pareti. Interno UV colore. Gommini.",
-   "prompt_img": "a wooden desk organiser 300x120x120 mm on a gaming desk, compartments holding cables and a phone in an inclined slot, a comb-cut cable manager along the back edge, RGB glow from the setup"
+   "prompt_img_scena": "a wooden desk organiser 300x120x120 mm on a gaming desk, compartments holding cables and a phone in an inclined slot, a comb-cut cable manager along the back edge, RGB glow from the setup"
   },
   {
    "id": "ING-ANIME-GAM-180",
@@ -717,7 +717,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Betulla 6 mm 120x168x300, TRE RAMPE INTERNE inclinate 35 gradi e alternate: sotto i 30 gradi il dado non rimbalza abbastanza e il lancio non è casuale. Vassoio di uscita con feltro per attutire. Pareti con traforo di genere ORIGINALE. Prova statistica su 200 lanci prima del lancio commerciale.",
-   "prompt_img": "a wooden dice tower 120x168x300 mm on a game table, dice tumbling out onto the felt-lined tray at the base, fretwork pattern on the tower walls, character sheets and miniatures around"
+   "prompt_img_scena": "a wooden dice tower 120x168x300 mm on a game table, dice tumbling out onto the felt-lined tray at the base, fretwork pattern on the tower walls, character sheets and miniatures around"
   },
   {
    "id": "ING-ANIME-GAM-181",
@@ -790,7 +790,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Betulla 6 mm 240x168x48, quattro sponde a incastro SENZA COLLA: si smonta piatto e sta nella borsa. Fondo in feltro 3 mm che attutisce e non fa rimbalzare fuori. Pattern ORIGINALE ENGRAVE-R sulle sponde. Nome del giocatore ENGRAVE-V.",
-   "prompt_img": "a wooden dice tray 240x168 mm with felt base on a gaming table, a handful of polyhedral dice just landed inside, engraved pattern on the raised sides, character sheet beside it"
+   "prompt_img_scena": "a wooden dice tray 240x168 mm with felt base on a gaming table, a handful of polyhedral dice just landed inside, engraved pattern on the raised sides, character sheet beside it"
   },
   {
    "id": "ING-ANIME-GAM-182",
@@ -863,7 +863,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Betulla 6 mm 108x84x96. MISURA INTERNA su carte IMBUSTATE (66x91 mm con bustina): 70x95 mm di luce interna. Coperchio scorrevole in guide fresate. Feltro sul fondo. Simbolo ORIGINALE ENGRAVE-R sul coperchio, mai loghi o simboli di giochi esistenti.",
-   "prompt_img": "a wooden deck box 108x84x96 mm with a sliding lid half open showing sleeved trading cards inside, an original engraved emblem on the lid, on a game shop counter"
+   "prompt_img_scena": "a wooden deck box 108x84x96 mm with a sliding lid half open showing sleeved trading cards inside, an original engraved emblem on the lid, on a game shop counter"
   },
   {
    "id": "ING-ANIME-FAN-183",
@@ -935,7 +935,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Quattro strati betulla 4 mm 420x300: mare, coste, rilievi, foreste. CONTINENTE INVENTATO — non la mappa di un'opera esistente, che sarebbe una violazione. Toponimi in un alfabeto disegnato da Ingly Design. Rosa dei venti e scala ENGRAVE-V. Personalizzabile col mondo della campagna del cliente: quello è suo, non di terzi.",
-   "prompt_img": "a layered wooden fantasy map 420x300 mm on a wall, four spaced birch layers forming coastlines, mountains and forests over a deep blue printed sea, engraved place names in an invented script, a compass rose in the corner"
+   "prompt_img_scena": "a layered wooden fantasy map 420x300 mm on a wall, four spaced birch layers forming coastlines, mountains and forests over a deep blue printed sea, engraved place names in an invented script, a compass rose in the corner"
   },
   {
    "id": "ING-ANIME-FAN-184",
@@ -1013,7 +1013,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "CONFIGURATORE A ELEMENTI: 8 forme di scudo, 12 figure araldiche (aquila, leone, torre, spada, sole, ancora…), 6 partizioni di campo, motto libero. Fondo betulla 6 mm con UV nel colore scelto, figura betulla 4 mm CUT distanziata 4 mm. Placchetta MOPA col motto. L'ARALDICA CLASSICA È DI PUBBLICO DOMINIO: comporre liberamente, ma MAI riprodurre stemmi di casate di opere protette.",
-   "prompt_img": "a layered wooden heraldic crest 240x300 mm on a wall, a cut eagle figure raised above a deep red printed field, a steel plate below marked with an invented family motto"
+   "prompt_img_scena": "a layered wooden heraldic crest 240x300 mm on a wall, a cut eagle figure raised above a deep red printed field, a steel plate below marked with an invented family motto"
   },
   {
    "id": "ING-ANIME-MEC-185",
@@ -1084,7 +1084,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Quattro strati betulla 4 mm 240x360: piastre, giunti, pistoni, cablaggi, tutti ASTRATTI. Nessuna silhouette di robot riconoscibile da un'opera esistente: si lavora sulla LOGICA COSTRUTTIVA del genere, non sulle sue icone. Marcature tecniche e numeri di unità inventati ENGRAVE-V. Fondo UV grafite e arancio.",
-   "prompt_img": "a layered wooden panel 240x360 mm of abstract mechanical structure — plates, joints and pistons in four spaced birch layers — graphite and orange printed background, small invented technical markings engraved, on a dark wall"
+   "prompt_img_scena": "a layered wooden panel 240x360 mm of abstract mechanical structure — plates, joints and pistons in four spaced birch layers — graphite and orange printed background, small invented technical markings engraved, on a dark wall"
   },
   {
    "id": "ING-ANIME-KAW-186",
@@ -1155,7 +1155,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Acrilico 3 mm 48x48, bordi lucidi. UV WHITE + CMYK. Sei creature ORIGINALI della stessa famiglia. Base spilla incollata con biadesivo strutturale e PROVA DI TENUTA: una spilla che si stacca dallo zaino è persa e genera recensioni negative. Nesting 120 pz/foglio.",
-   "prompt_img": "six small acrylic pin badges 48 mm with original kawaii characters printed in bright colours, pinned in a row on a denim jacket lapel"
+   "prompt_img_scena": "six small acrylic pin badges 48 mm with original kawaii characters printed in bright colours, pinned in a row on a denim jacket lapel"
   },
   {
    "id": "ING-ANIME-KAW-187",
@@ -1230,7 +1230,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Sagoma betulla 4 mm 180x180 della creatura ORIGINALE, con diffusore acrilico satinato 3 mm dietro distanziato 8 mm: la luce esce dal contorno e disegna un alone. Modulo LED USB 5V, MAI rete diretta. Base a incastro con passaggio cavo e fermo antistrappo. Gommini.",
-   "prompt_img": "a wooden night light 180x180 mm on a bedside table in a dark room, the silhouette of an original round creature glowing with a soft halo of light around its outline"
+   "prompt_img_scena": "a wooden night light 180x180 mm on a bedside table in a dark room, the silhouette of an original round creature glowing with a soft halo of light around its outline"
   },
   {
    "id": "ING-ANIME-GAM-188",
@@ -1301,7 +1301,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Betulla 8 mm 360x120x240 con sei nicchie 108x108. Denti e asole sul passo 12 mm sui bordi superiore e inferiore: i moduli si impilano e si agganciano. Fondo di ogni nicchia UV colore. Verifica di carico 6 kg. Fissaggio a 4 punti con tasselli inclusi.",
-   "prompt_img": "a modular wooden display shelf 360x120x240 mm on a wall, six square niches with coloured printed backs holding collectible figures, a second module stacked below it"
+   "prompt_img_scena": "a modular wooden display shelf 360x120x240 mm on a wall, six square niches with coloured printed backs holding collectible figures, a second module stacked below it"
   },
   {
    "id": "ING-ANIME-KAW-189",
@@ -1376,7 +1376,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Fondo betulla 6 mm 300x144 con UV: linee di velocità radiali, che sono un linguaggio grafico del genere e non una proprietà. Nome betulla 4 mm CUT distanziato 4 mm. CARATTERE disegnato da Ingly Design o con licenza commerciale verificata e archiviata. Aggancio a 2 punti.",
-   "prompt_img": "a layered wooden name plate 300x144 mm on a bedroom wall, a name cut from birch raised above a printed background of radial speed lines in magenta and yellow"
+   "prompt_img_scena": "a layered wooden name plate 300x144 mm on a bedroom wall, a name cut from birch raised above a printed background of radial speed lines in magenta and yellow"
   },
   {
    "id": "ING-ANIME-FAN-190",
@@ -1447,7 +1447,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Betulla 4 mm 240x320x24, cartella a libro con DORSO FLESSIBILE da SCORE parallele passo 2 mm. Interno con sedi per fogli A4 e tasca per i dadi. Stemma e nome della campagna ENGRAVE-R sulla copertina — inventati dal cliente, mai ripresi da opere protette. Chiusura a nastro. Verifica del dorso su 200 aperture.",
-   "prompt_img": "a wooden folio 240x320 mm with a flexible living-hinge spine open on a gaming table, character sheets and dice inside, an engraved invented crest on the cover, candlelight"
+   "prompt_img_scena": "a wooden folio 240x320 mm with a flexible living-hinge spine open on a gaming table, character sheets and dice inside, an engraved invented crest on the cover, candlelight"
   }
  ]
 }

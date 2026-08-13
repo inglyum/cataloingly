@@ -69,7 +69,7 @@
    "s_gift": 4,
    "s_uniq": 5,
    "prompt_prod": "Betulla 3 mm 96x48, testa ad arco R12. Nome ENGRAVE-V h 8 mm. Asola ad arco 40x6 sul bordo inferiore per infilare il tovagliolo. NESTING A TAGLIO COMUNE obbligatorio: i pezzi condividono il bordo lungo, la lunghezza di taglio scende del 40 percento. 120 pz/foglio. MAI venduto sciolto: solo dentro un pacchetto cerimonia.",
-   "prompt_img": "a row of small wooden place cards 96x48 mm on a set wedding table, each with an engraved guest name and an arched slot holding a folded linen napkin, birch with toasted laser edges, soft candlelight"
+   "prompt_img_scena": "a row of small wooden place cards 96x48 mm on a set wedding table, each with an engraved guest name and an arched slot holding a folded linen napkin, birch with toasted laser edges, soft candlelight"
   },
   {
    "id": "ING-EVENT-WED-042",
@@ -146,7 +146,7 @@
    "s_gift": 6,
    "s_uniq": 10,
    "prompt_prod": "Telaio MDF laccato nero 10 mm 420x600, testa ad arco R12. Sei guide a scanalatura 4,2 mm ricavate sui montanti, passo verticale 84 mm. Tessere betulla 4 mm 384x72 scorrevoli, una per tavolo, con nomi ENGRAVE-V h 6 mm. Area intestazione 200x60 con nomi degli sposi e data. Aggancio a 2 punti, peso oltre 3 kg.",
-   "prompt_img": "a wall-mounted wedding seating chart 420x600 mm, matte black lacquered frame with an arched top, six interchangeable birch tiles sliding in grooved rails engraved with table names and guests, gold couple names at the header, on a stone wall with greenery"
+   "prompt_img_scena": "a wall-mounted wedding seating chart 420x600 mm, matte black lacquered frame with an arched top, six interchangeable birch tiles sliding in grooved rails engraved with table names and guests, gold couple names at the header, on a stone wall with greenery"
   },
   {
    "id": "ING-EVENT-WED-043",
@@ -216,7 +216,7 @@
    "s_gift": 3,
    "s_uniq": 10,
    "prompt_prod": "Betulla 4 mm 384x72, spessore calibrato sulla guida da 4,2 mm del telaio: gioco 0,2 mm perché scorra senza ballare. Nome tavolo ENGRAVE-V h 10 mm a sinistra, elenco ospiti h 6 mm a destra su due colonne. Fascia UV colore sul bordo sinistro per il codice tavolo. Nesting 6 tessere/foglio.",
-   "prompt_img": "three long wooden tiles 384x72 mm lying on a workbench, each engraved with a table name and a two-column guest list, a coloured printed band on the left edge, one being slid into a black grooved frame"
+   "prompt_img_scena": "three long wooden tiles 384x72 mm lying on a workbench, each engraved with a table name and a two-column guest list, a coloured printed band on the left edge, one being slid into a black grooved frame"
   },
   {
    "id": "ING-EVENT-WED-044",
@@ -293,7 +293,7 @@
    "s_gift": 4,
    "s_uniq": 6,
    "prompt_prod": "Lastra betulla 6 mm 96x144, cifra CUT traforata h 72 mm leggibile in piedi a 2 m. Pannello betulla 3 mm UV nel colore del tema incollato a filo sul retro. Base P2 96x48 con asola 5,85 mm. Data degli sposi ENGRAVE-V h 4 mm sotto la cifra. Gommini.",
-   "prompt_img": "a double-sided wedding table number in a slotted birch base, the numeral 5 cut straight through revealing a dusty rose panel behind, small engraved date beneath, on a set table with candles and eucalyptus"
+   "prompt_img_scena": "a double-sided wedding table number in a slotted birch base, the numeral 5 cut straight through revealing a dusty rose panel behind, small engraved date beneath, on a set table with candles and eucalyptus"
   },
   {
    "id": "ING-EVENT-WED-045",
@@ -370,7 +370,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Fondo betulla 8 mm 300x420 con UV PRINT nel colore del tema e motivo floreale geometrico. Strato frontale betulla 4 mm distanziato 4 mm con apertura ad arco R12. TESSERA RIMOVIBILE betulla 4 mm 240x96 con nomi e data, alloggiata in due guide a scanalatura: si sfila senza attrezzi. Aggancio a 2 punti.",
-   "prompt_img": "a wedding welcome sign 300x420 mm on an easel at a venue entrance, birch front layer with an arched aperture, a removable engraved tile with the couple's names and date seated in grooves, printed floral geometric panel behind, warm outdoor light"
+   "prompt_img_scena": "a wedding welcome sign 300x420 mm on an easel at a venue entrance, birch front layer with an arched aperture, a removable engraved tile with the couple's names and date seated in grooves, printed floral geometric panel behind, warm outdoor light"
   },
   {
    "id": "ING-EVENT-WED-046",
@@ -442,7 +442,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Scatola betulla 8 mm 300x204x204, incastri 45 gradi + colla (non si smonta). Fessura superiore 140x8 mm. Coperchio incernierato con serratura a chiave. Fronte con apertura ad arco R12 e pannello UV. Nomi e data ENGRAVE-V. VERIFICA DI CARICO: deve reggere piena senza cedere sugli incastri del fondo.",
-   "prompt_img": "a wooden wedding card box 300x204x204 mm with a slot in the lid, small brass lock, arched printed panel on the front with engraved names and date, envelopes visible in the slot, on a decorated welcome table"
+   "prompt_img_scena": "a wooden wedding card box 300x204x204 mm with a slot in the lid, small brass lock, arched printed panel on the front with engraved names and date, envelopes visible in the slot, on a decorated welcome table"
   },
   {
    "id": "ING-EVENT-WED-047",
@@ -515,7 +515,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Cornice betulla 8 mm 396x300. Cento tessere betulla 4 mm sagomate a incastro che compongono un motivo (cuore geometrico, albero, iniziali intrecciate). CARTEGGIATURA OBBLIGATORIA della faccia da firmare: se il pennarello sbava sulla venatura il prodotto è fallito. Provino con tre pennarelli diversi prima del lancio.",
-   "prompt_img": "a wooden guest book frame 396x300 mm on a table, a hundred interlocking birch tiles composing a geometric tree, some already signed in black pen, a guest placing a signed tile into the pattern, warm reception light"
+   "prompt_img_scena": "a wooden guest book frame 396x300 mm on a table, a hundred interlocking birch tiles composing a geometric tree, some already signed in black pen, a guest placing a signed tile into the pattern, warm reception light"
   },
   {
    "id": "ING-EVENT-BOMB-048",
@@ -587,7 +587,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Betulla 3 mm, sviluppo piano 200x150, montata 72x72x60. Incastri a dente 45 gradi SENZA COLLA, montaggio in 4 mosse. Coperchio con traforo ad arco R12 e passaggio nastro. Nome e data ENGRAVE-V sul fronte. Nesting 8 sviluppi/foglio. Istruzioni di montaggio incise sul telaio di sfrido.",
-   "prompt_img": "a small wooden favour box 72x72x60 mm tied with a satin ribbon, arched cut-out on the lid, engraved name and date on the front, sugared almonds visible inside, with the flat unassembled sheet lying beside it"
+   "prompt_img_scena": "a small wooden favour box 72x72x60 mm tied with a satin ribbon, arched cut-out on the lid, engraved name and date on the front, sugared almonds visible inside, with the flat unassembled sheet lying beside it"
   },
   {
    "id": "ING-EVENT-BOMB-049",
@@ -659,7 +659,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Betulla 3 mm 36x144, testa ad arco R12 con foro Ø4 per nastro. Simbolo della cerimonia CUT traforato (croce geometrica, calice, colomba ridotti a forma pura, mai illustrativi). Nome e data ENGRAVE-V h 5 mm. Fascia UV colore in coda. Nesting 40 pz/foglio. Produzione da febbraio per la finestra aprile-giugno.",
-   "prompt_img": "a slim wooden bookmark 36x144 mm with a geometric cross cut through the head, engraved name and date below, a thin satin ribbon through the top hole, resting on an open missal, soft church light"
+   "prompt_img_scena": "a slim wooden bookmark 36x144 mm with a geometric cross cut through the head, engraved name and date below, a thin satin ribbon through the top hole, resting on an open missal, soft church light"
   },
   {
    "id": "ING-EVENT-BOMB-050",
@@ -736,7 +736,7 @@
    "s_gift": 9,
    "s_uniq": 8,
    "prompt_prod": "Fondo betulla 3 mm 60x72 con UV colore pieno. Fronte betulla 4 mm con simbolo CUT traforato, incollato a filo. Nome e data ENGRAVE-V h 4 mm sul bordo inferiore. Lamina magnetica sul retro. Nesting 60 set/foglio.",
-   "prompt_img": "a small two-layer wooden magnet 60x72 mm on a fridge door, a geometric dove cut through the front layer revealing a soft blue panel behind, engraved name and date along the bottom edge"
+   "prompt_img_scena": "a small two-layer wooden magnet 60x72 mm on a fridge door, a geometric dove cut through the front layer revealing a soft blue panel behind, engraved name and date along the bottom edge"
   },
   {
    "id": "ING-EVENT-BOMB-051",
@@ -813,7 +813,7 @@
    "s_gift": 9,
    "s_uniq": 8,
    "prompt_prod": "Betulla 4 mm Ø96 + sughero 2 mm sotto. UV WHITE + CMYK pattern coordinato al tema. Nomi e data ENGRAVE-V lungo un arco sul bordo, non al centro: il bicchiere copre il centro. Nesting 30 pz/foglio.",
-   "prompt_img": "a single round wooden coaster 96 mm printed with a soft geometric floral pattern, names and a date engraved along the curved edge, cork backing, tied with a thin ribbon, beside a champagne flute"
+   "prompt_img_scena": "a single round wooden coaster 96 mm printed with a soft geometric floral pattern, names and a date engraved along the curved edge, cork backing, tied with a thin ribbon, beside a champagne flute"
   },
   {
    "id": "ING-EVENT-BOMB-052",
@@ -885,7 +885,7 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Betulla 6 mm 48x72, testa ad arco R12, foro Ø5 per anello. Simbolo CUT traforato. Nome e data ENGRAVE-V h 4 mm. Fascia UV colore. Spigoli smussati: sta in tasca. Nesting 90 pz/foglio, riempitivo dei fogli degli altri prodotti cerimonia.",
-   "prompt_img": "a small wooden keyring 48x72 mm with a geometric symbol cut through, engraved name and date, split ring attached, lying on a table with sugared almonds and a small organza bag"
+   "prompt_img_scena": "a small wooden keyring 48x72 mm with a geometric symbol cut through, engraved name and date, split ring attached, lying on a table with sugared almonds and a small organza bag"
   },
   {
    "id": "ING-EVENT-CERI-053",
@@ -962,7 +962,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Fondo betulla 6 mm 156x204 con UV PRINT avorio e oro. Strato frontale betulla 4 mm distanziato 3 mm con calice CUT traforato costruito su archi R12, mai figurativo. Nome h 10 mm, data e parrocchia h 5 mm ENGRAVE-V. Testa ad arco R12. Aggancio a fessura sul retro. PRODUZIONE DA FEBBRAIO.",
-   "prompt_img": "a layered wooden keepsake plaque 156x204 mm, a geometric chalice cut through the front birch layer revealing an ivory and gold printed panel, engraved child's name and date below, arched top, on a wall beside a family photo"
+   "prompt_img_scena": "a layered wooden keepsake plaque 156x204 mm, a geometric chalice cut through the front birch layer revealing an ivory and gold printed panel, engraved child's name and date below, arched top, on a wall beside a family photo"
   },
   {
    "id": "ING-EVENT-CERI-054",
@@ -1039,7 +1039,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Stessa matrice del quadretto comunione, soggetto e palette diversi: colomba ridotta a tre archi R12 sovrapposti, sette raggi ENGRAVE-V a raggiera. Palette grafite e rame invece di avorio e oro: registro più adulto. Nome h 10 mm.",
-   "prompt_img": "a layered wooden keepsake 156x204 mm, a dove abstracted into three overlapping arcs cut through the front layer, seven engraved rays radiating behind, graphite and copper printed panel, engraved name and date, on a dark wall"
+   "prompt_img_scena": "a layered wooden keepsake 156x204 mm, a dove abstracted into three overlapping arcs cut through the front layer, seven engraved rays radiating behind, graphite and copper printed panel, engraved name and date, on a dark wall"
   },
   {
    "id": "ING-EVENT-CERI-055",
@@ -1115,7 +1115,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Stessa matrice dei quadretti cerimonia. Soggetto: tre onde concentriche su archi R12 (l'acqua del battesimo) CUT traforate. Palette azzurro polvere e crema. Nome h 10 mm, data, peso e lunghezza ENGRAVE-V h 5 mm su tre righe. Nomi dei padrini in coda.",
-   "prompt_img": "a layered wooden christening keepsake 156x204 mm, three concentric wave arcs cut through the front birch layer revealing a soft powder-blue panel, engraved baby name, date and birth data below, on a nursery wall"
+   "prompt_img_scena": "a layered wooden christening keepsake 156x204 mm, three concentric wave arcs cut through the front birch layer revealing a soft powder-blue panel, engraved baby name, date and birth data below, on a nursery wall"
   },
   {
    "id": "ING-EVENT-WED-056",
@@ -1189,7 +1189,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Scatola betulla 6 mm 96x96x48. Inserto in feltro 3 mm con DUE FESSURE 12x2 mm che trattengono gli anelli per il gambo: non rotolano. Coperchio con traforo ad arco R12 e nastro. Nomi e data ENGRAVE-V all'interno del coperchio, visibili all'apertura.",
-   "prompt_img": "an open wooden ring box 96x96x48 mm on a stone ledge, two wedding bands held upright in felt slots, arched fretwork lid open showing engraved names inside, satin ribbon, soft outdoor ceremony light"
+   "prompt_img_scena": "an open wooden ring box 96x96x48 mm on a stone ledge, two wedding bands held upright in felt slots, arched fretwork lid open showing engraved names inside, satin ribbon, soft outdoor ceremony light"
   },
   {
    "id": "ING-EVENT-WED-057",
@@ -1261,7 +1261,7 @@
    "s_gift": 4,
    "s_uniq": 8,
    "prompt_prod": "Betulla 4 mm 120x204 su base P2 96x48 con asola 3,85 mm. Menu ENGRAVE-V: portate h 6 mm, sezioni h 8 mm, interlinea 12 mm. Testa ad arco R12 con nomi e data. Fascia UV colore in coda. Un pezzo per tavolo o uno per coperto come SKU distinti.",
-   "prompt_img": "a wooden ceremony menu 120x204 mm standing in a slotted base on a set table, engraved courses in clean typography, arched top with couple names, coloured band at the foot, candles and glassware around"
+   "prompt_img_scena": "a wooden ceremony menu 120x204 mm standing in a slotted base on a set table, engraved courses in clean typography, arched top with couple names, coloured band at the foot, candles and glassware around"
   },
   {
    "id": "ING-EVENT-KEEP-058",
@@ -1339,7 +1339,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Fondo betulla 8 mm 204x204 con UV PRINT. Strato frontale betulla 4 mm distanziato 4 mm con ANNO CUT traforato h 60 mm. Placchetta ottone 20x40 MOPA con coordinate del luogo e dedica. Palette argento per i 25 anni, oro per i 50: due SKU sulla stessa matrice.",
-   "prompt_img": "a layered wooden anniversary plaque 204x204 mm, the year 1975 cut through the front birch layer revealing a warm gold printed panel, a polished brass plate below fiber-marked with coordinates and a dedication, on a living room wall"
+   "prompt_img_scena": "a layered wooden anniversary plaque 204x204 mm, the year 1975 cut through the front birch layer revealing a warm gold printed panel, a polished brass plate below fiber-marked with coordinates and a dedication, on a living room wall"
   },
   {
    "id": "ING-EVENT-KEEP-059",
@@ -1418,7 +1418,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Fondo betulla 8 mm 204x264 con UV PRINT bordeaux o blu ateneo. Strato frontale betulla 4 mm con corona d'alloro CUT traforata costruita su archi R12, ponticelli 2,5 mm sulle foglie. Placchetta ottone MOPA con nome, corso, voto e data. Testa ad arco R12.",
-   "prompt_img": "a layered wooden graduation plaque 204x264 mm, a geometric laurel wreath cut through the front layer over a deep burgundy printed panel, a polished brass plate fiber-marked with name, degree and grade, on a study wall"
+   "prompt_img_scena": "a layered wooden graduation plaque 204x264 mm, a geometric laurel wreath cut through the front layer over a deep burgundy printed panel, a polished brass plate fiber-marked with name, degree and grade, on a study wall"
   },
   {
    "id": "ING-EVENT-FEST-060",
@@ -1487,7 +1487,7 @@
    "s_gift": 7,
    "s_uniq": 8,
    "prompt_prod": "Betulla 3 mm, numero h 84 mm con stelo integrato 120 mm (totale 204). Traforo decorativo dentro la cifra su archi R12. UV colore pieno su una faccia, l'altra lasciata a legno. Spigoli smussati. Nome ENGRAVE-V sullo stelo, che resta nascosto nella torta. Set 0-9 come SKU.",
-   "prompt_img": "a wooden number cake topper standing in a frosted birthday cake, the numeral 5 in painted birch with a small arched cut-out pattern inside, child's party table with balloons blurred behind"
+   "prompt_img_scena": "a wooden number cake topper standing in a frosted birthday cake, the numeral 5 in painted birch with a small arched cut-out pattern inside, child's party table with balloons blurred behind"
   },
   {
    "id": "ING-EVENT-FEST-061",
@@ -1559,7 +1559,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Tutto betulla 3 mm dallo stesso foglio 300x204: 1 topper numero, 8 segnaposto 72x36, lettere del nome per ghirlanda con foro Ø4 e cordino. UV a colori pieni nel tema scelto. Carteggiatura bordi: lo maneggiano bambini. Vernice a base acqua atossica. Un foglio = un kit, sfrido sotto il 15 percento.",
-   "prompt_img": "a children's birthday party set laid out on a table — a wooden number cake topper, eight small name place cards and a garland of letters spelling a child's name — all in brightly printed birch, balloons and paper cups around"
+   "prompt_img_scena": "a children's birthday party set laid out on a table — a wooden number cake topper, eight small name place cards and a garland of letters spelling a child's name — all in brightly printed birch, balloons and paper cups around"
   },
   {
    "id": "ING-EVENT-FEST-062",
@@ -1635,7 +1635,7 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Fondo betulla 6 mm 204x300 con UV PRINT. Cifra betulla 4 mm distanziata 4 mm sovrapposta, con traforo interno su archi R12. Piedino a incastro con battuta a 15 gradi, stesso angolo della piattaforma P4. Nome e data ENGRAVE-V alla base. Gommini.",
-   "prompt_img": "a large layered wooden number 204x300 mm standing on a party table, the digits raised 4 mm above a printed gradient panel with small arched cut-outs inside, engraved name and date at the base, fairy lights blurred behind"
+   "prompt_img_scena": "a large layered wooden number 204x300 mm standing on a party table, the digits raised 4 mm above a printed gradient panel with small arched cut-outs inside, engraved name and date at the base, fairy lights blurred behind"
   },
   {
    "id": "ING-EVENT-WED-063",
@@ -1704,7 +1704,7 @@
    "s_gift": 4,
    "s_uniq": 8,
    "prompt_prod": "Betulla 8 mm 300x72 con estremità a freccia, SKU speculari sinistra e destra. Testo ENGRAVE-V h 14 mm. Fascia UV colore in coda. Due fori Ø5 interasse 240 mm per montaggio impilato su palo. Trattamento idrorepellente: sta all'aperto tutto il giorno. Set standard da 5 frecce.",
-   "prompt_img": "five wooden direction arrows 300x72 mm stacked on a wooden post in a garden, engraved words pointing to ceremony, aperitif and reception, coloured bands on each, olive trees and warm afternoon light"
+   "prompt_img_scena": "five wooden direction arrows 300x72 mm stacked on a wooden post in a garden, engraved words pointing to ceremony, aperitif and reception, coloured bands on each, olive trees and warm afternoon light"
   },
   {
    "id": "ING-EVENT-WED-064",
@@ -1773,7 +1773,7 @@
    "s_gift": 4,
    "s_uniq": 9,
    "prompt_prod": "Tre gradoni betulla 8 mm a incastro senza colla: 300x180x48, 240x180x96, 180x180x144. Fianchi con traforo ad arco R12. Impilabili e affiancabili sul passo 12 mm. Verifica di carico 4 kg per piano. Flat pack, montaggio senza attrezzi.",
-   "prompt_img": "three stepped wooden risers of different heights on a wedding sweet table, 8 mm birch with arched fretwork sides, glass jars of sugared almonds and small cakes displayed on each level, soft reception lighting"
+   "prompt_img_scena": "three stepped wooden risers of different heights on a wedding sweet table, 8 mm birch with arched fretwork sides, glass jars of sugared almonds and small cakes displayed on each level, soft reception lighting"
   },
   {
    "id": "ING-EVENT-WED-065",
@@ -1843,7 +1843,7 @@
    "s_gift": 7,
    "s_uniq": 10,
    "prompt_prod": "Betulla 3 mm 144x108, angoli R12. Testo ENGRAVE-V: nomi h 10 mm, dettagli h 4,5 mm (limite minimo leggibile). Motivo traforato ad arco R12 su un angolo, ponticelli 2,5 mm. Fascia UV colore. VERIFICA POSTALE di peso e spessore per la spedizione. Nesting 8 pz/foglio.",
-   "prompt_img": "a wooden wedding invitation 144x108 mm in thin birch, engraved names and details in elegant typography, an arched fretwork motif cut through one corner, lying on a rigid envelope with a wax seal, soft daylight"
+   "prompt_img_scena": "a wooden wedding invitation 144x108 mm in thin birch, engraved names and details in elegant typography, an arched fretwork motif cut through one corner, lying on a rigid envelope with a wax seal, soft daylight"
   },
   {
    "id": "ING-EVENT-CERI-066",
@@ -1916,7 +1916,7 @@
    "s_gift": 5,
    "s_uniq": 8,
    "prompt_prod": "Betulla 4 mm 96x132 su base P2 96x36 con asola 3,85 mm. Cifra CUT traforata h 48 mm su pannello UV. Simbolo della cerimonia ENGRAVE-V in testa, coordinato al quadretto. Set da 12 con basi condivise. Nesting 12 set/foglio.",
-   "prompt_img": "twelve small wooden table markers standing in slotted bases on a long banquet table, numerals cut through revealing soft blue panels, a small engraved dove above each, christening lunch setting"
+   "prompt_img_scena": "twelve small wooden table markers standing in slotted bases on a long banquet table, numerals cut through revealing soft blue panels, a small engraved dove above each, christening lunch setting"
   },
   {
    "id": "ING-EVENT-WED-067",
@@ -1987,7 +1987,7 @@
    "s_gift": 6,
    "s_uniq": 9,
    "prompt_prod": "Betulla 3 mm 168x204, sagoma a ventaglio con impugnatura integrata 36x84. Programma ENGRAVE-V h 5 mm su una faccia, UV colore sull'altra. Spigoli SMUSSATI: si tiene in mano per un'ora. Peso sotto i 40 g. Nesting 6 pz/foglio.",
-   "prompt_img": "a fan-shaped wooden ceremony programme 168x204 mm with an integrated handle, engraved order of service on one face, held up against strong summer sunlight outside a church, guests blurred behind"
+   "prompt_img_scena": "a fan-shaped wooden ceremony programme 168x204 mm with an integrated handle, engraved order of service on one face, held up against strong summer sunlight outside a church, guests blurred behind"
   },
   {
    "id": "ING-EVENT-KEEP-068",
@@ -2060,7 +2060,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Cornice betulla 6 mm 192x240 con luce ad arco R12 per foto 13x18. Passepartout betulla 4 mm distanziato 3 mm. TESSERA INCISA 120x24 alloggiata in scanalatura sotto la foto, sostituibile: evento, data e luogo. Piedino a incastro a 15 gradi + aggancio a parete.",
-   "prompt_img": "a layered wooden photo frame 192x240 mm holding a ceremony photograph, arched inner opening, a small engraved tile seated in a groove below reading the event, date and place, standing on a sideboard"
+   "prompt_img_scena": "a layered wooden photo frame 192x240 mm holding a ceremony photograph, arched inner opening, a small engraved tile seated in a groove below reading the event, date and place, standing on a sideboard"
   },
   {
    "id": "ING-EVENT-BOMB-069",
@@ -2133,7 +2133,7 @@
    "s_gift": 5,
    "s_uniq": 10,
    "prompt_prod": "Vassoio betulla 6 mm 396x300x60 con sponde a incastro 45 gradi. Griglia interna di divisori a incastro reciproco che crea 80 sedi da 36x36 mm (dimensionate sulle bomboniere del catalogo). Fondo UV colore. Smontabile per il trasporto. Gommini. Verifica di carico 5 kg.",
-   "prompt_img": "a wooden display tray 396x300 mm on a table at the end of a ceremony, an internal grid of dividers holding rows of small wooden favours upright, printed coloured base visible between them, guests' hands taking one"
+   "prompt_img_scena": "a wooden display tray 396x300 mm on a table at the end of a ceremony, an internal grid of dividers holding rows of small wooden favours upright, printed coloured base visible between them, guests' hands taking one"
   },
   {
    "id": "ING-EVENT-WED-070",
@@ -2204,7 +2204,7 @@
    "s_gift": 6,
    "s_uniq": 8,
    "prompt_prod": "Betulla 4 mm 204x96 con impugnatura integrata 24x96 (nessun bastoncino incollato: si stacca). Frase ENGRAVE-V h 16 mm su fondo UV colore. Spigoli smussati. Set da 6 con frasi scelte dal cliente in italiano. Nesting 8 pz/foglio.",
-   "prompt_img": "six wooden photo booth signs with integrated handles fanned out on a table, each engraved with a short Italian phrase on a brightly printed background, guests laughing and holding two of them up in the background"
+   "prompt_img_scena": "six wooden photo booth signs with integrated handles fanned out on a table, each engraved with a short Italian phrase on a brightly printed background, guests laughing and holding two of them up in the background"
   }
  ]
 }

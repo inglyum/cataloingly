@@ -72,7 +72,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Betulla 4 mm 84x96 con foro Ø4 e cordino. ANNO ENGRAVE-V h 14 mm ben leggibile: è il motivo per cui si ricompra l'anno dopo, quindi va in evidenza. Soggetto mediterraneo CUT traforato (cupola, fico d'india, onda, sole, limone, campana) su pannello UV. PRODUZIONE DA SETTEMBRE. Nesting 40 pz/foglio.",
-   "prompt_img": "a flat wooden Christmas ornament 84x96 mm hanging on a fir branch, the year engraved large below a cut-out dome shape revealing a deep blue printed panel, cotton cord, warm bokeh lights behind"
+   "prompt_img_scena": "a flat wooden Christmas ornament 84x96 mm hanging on a fir branch, the year engraved large below a cut-out dome shape revealing a deep blue printed panel, cotton cord, warm bokeh lights behind"
   },
   {
    "id": "ING-SEASON-NAT-192",
@@ -144,7 +144,7 @@
    "s_gift": 10,
    "s_uniq": 10,
    "prompt_prod": "Sei ornamenti betulla 4 mm, ingombro 84x96 ciascuno, tagliati da un foglio 240x168 con lo sfrido che diventa il vassoio della scatola. Palette natalizia mediterranea: cobalto, ocra, verde ulivo, corallo — MAI rosso e verde standard. Cordino su ogni pezzo. Produzione da settembre.",
-   "prompt_img": "six flat wooden Christmas ornaments 84x96 mm laid out in a box, each printed with a Mediterranean motif — citrus, dome, boat, sun, prickly pear, fish — in cobalt, ochre and coral, cotton cords attached"
+   "prompt_img_scena": "six flat wooden Christmas ornaments 84x96 mm laid out in a box, each printed with a Mediterranean motif — citrus, dome, boat, sun, prickly pear, fish — in cobalt, ochre and coral, cotton cords attached"
   },
   {
    "id": "ING-SEASON-NAT-193",
@@ -220,7 +220,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Fondo betulla 3 mm 96x120 con UV PRINT. Frontale betulla 4 mm distanziato 2 mm con stella o culla CUT traforata. Nome h 8 mm, anno h 10 mm, data di nascita h 4 mm ENGRAVE-V. Spigoli smussati: lo maneggia una famiglia con un neonato. Cordino in raso.",
-   "prompt_img": "a small two-layer wooden ornament 96x120 mm hanging on a Christmas tree, a star cut through the front layer over a soft printed panel, baby's name and year engraved below, satin ribbon, warm lights"
+   "prompt_img_scena": "a small two-layer wooden ornament 96x120 mm hanging on a Christmas tree, a star cut through the front layer over a soft printed panel, baby's name and year engraved below, satin ribbon, warm lights"
   },
   {
    "id": "ING-SEASON-NAT-194",
@@ -294,7 +294,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Telaio betulla 6 mm 420x300x72 con griglia di 24 alloggiamenti 60x60. 24 cassettini betulla 3 mm con presa ad arco R12 e numero ENGRAVE-V. ATTENZIONE AL TEMPO: 24 cassetti sono 24 scatole, e l'assemblaggio va calcolato sul serio prima di fissare il prezzo. Cognome ENGRAVE-R sulla traversa alta. PRODUZIONE DA LUGLIO.",
-   "prompt_img": "a wooden advent calendar 420x300 mm with a grid of twenty-four small numbered drawers, two pulled open, family surname engraved across the top rail, warm printed panel behind the numbers, on a sideboard with candles"
+   "prompt_img_scena": "a wooden advent calendar 420x300 mm with a grid of twenty-four small numbered drawers, two pulled open, family surname engraved across the top rail, warm printed panel behind the numbers, on a sideboard with candles"
   },
   {
    "id": "ING-SEASON-NAT-195",
@@ -363,7 +363,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Tre strati betulla 4 mm 192x240 distanziati 4 mm, stella costruita con archi R12 sovrapposti. Cono di innesto a incastro sul retro, diametro interno 24 mm per la punta standard dell'albero. Peso sotto i 200 g: sopra, la punta si piega. Anno ENGRAVE-V sul retro.",
-   "prompt_img": "a layered wooden star tree topper 192x240 mm on top of a Christmas tree, three spaced birch layers building depth, warm ochre and gold printed panels between them, fairy lights glowing around it"
+   "prompt_img_scena": "a layered wooden star tree topper 192x240 mm on top of a Christmas tree, three spaced birch layers building depth, warm ochre and gold printed panels between them, fairy lights glowing around it"
   },
   {
    "id": "ING-SEASON-NAT-196",
@@ -434,7 +434,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Dodici moduli betulla 4 mm a incastro reciproco che compongono una corona Ø360. Ogni modulo è un soggetto mediterraneo diverso, UV a colori pieni. Smontaggio senza attrezzi, si ripone piatta in busta. Moduli aggiuntivi come SKU separato per ampliare la corona negli anni.",
-   "prompt_img": "a modular wooden Christmas wreath 360 mm on a blue front door, twelve interlocking printed segments with Mediterranean motifs in ochre and cobalt, satin ribbon at the top, winter sunlight"
+   "prompt_img_scena": "a modular wooden Christmas wreath 360 mm on a blue front door, twelve interlocking printed segments with Mediterranean motifs in ochre and cobalt, satin ribbon at the top, winter sunlight"
   },
   {
    "id": "ING-SEASON-NAT-197",
@@ -504,7 +504,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Due lastre betulla 6 mm 300x300 a incastro a croce con traforo mediterraneo, più anello esterno di squadratura. Tre sedi Ø40 per tealight LED. Cartellino con avvertenza SOLO TEALIGHT LED. Tre pezzi totali, spediti piatti.",
-   "prompt_img": "a flat-pack wooden Christmas centrepiece 300 mm across on a laid table, cross-slotted fretwork panels holding three LED tealights, the cut pattern throwing light shapes onto the white tablecloth"
+   "prompt_img_scena": "a flat-pack wooden Christmas centrepiece 300 mm across on a laid table, cross-slotted fretwork panels holding three LED tealights, the cut pattern throwing light shapes onto the white tablecloth"
   },
   {
    "id": "ING-SEASON-NAT-198",
@@ -576,7 +576,7 @@
    "s_gift": 7,
    "s_uniq": 9,
    "prompt_prod": "Betulla 3 mm 96x84 su base P2 ridotta. Nome ENGRAVE-V h 8 mm, anno h 4 mm, soggetto mediterraneo CUT traforato. Foro Ø4 con cordino GIÀ MONTATO: si sfila dalla base e si appende all'albero. La doppia funzione va scritta sul cartellino, altrimenti nessuno se ne accorge.",
-   "prompt_img": "a small wooden Christmas place card standing in a slotted base on a festive table, guest name engraved with a cut-out star above, a cotton cord already attached at the top, candles and pine sprigs around"
+   "prompt_img_scena": "a small wooden Christmas place card standing in a slotted base on a festive table, guest name engraved with a cut-out star above, a cotton cord already attached at the top, candles and pine sprigs around"
   },
   {
    "id": "ING-SEASON-NAT-199",
@@ -646,7 +646,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Betulla 6 mm, due sagome a croce incastrate più cinque ripiani circolari di diametro decrescente (240, 192, 144, 96, 48) a incastro. Ogni ripiano ha 6 fori Ø4 per appendere ornamenti in miniatura. Smontaggio completo, si ripone piatto. Ingombro piatto 300x300x18.",
-   "prompt_img": "a flat-pack wooden table Christmas tree 300x300x420 mm, cross-slotted structure with five circular shelves of decreasing size, tiny printed ornaments hanging from holes in each shelf, on an office desk"
+   "prompt_img_scena": "a flat-pack wooden table Christmas tree 300x300x420 mm, cross-slotted structure with five circular shelves of decreasing size, tiny printed ornaments hanging from holes in each shelf, on an office desk"
   },
   {
    "id": "ING-SEASON-NAT-200",
@@ -717,7 +717,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Betulla 3 mm 168x240, traforo denso con ponticelli minimi 2,5 mm. UV su un solo lato: il retro resta a legno naturale e si vede dalla strada. Foro Ø4 con cordino, ventosa inclusa. Trattamento idrorepellente: la condensa sul vetro bagna il legno.",
-   "prompt_img": "a fretwork wooden Christmas decoration 168x240 mm hanging in a window, intricate cut pattern silhouetted against grey winter daylight, printed colour visible on the room side, condensation on the glass"
+   "prompt_img_scena": "a fretwork wooden Christmas decoration 168x240 mm hanging in a window, intricate cut pattern silhouetted against grey winter daylight, printed colour visible on the room side, condensation on the glass"
   },
   {
    "id": "ING-SEASON-NAT-201",
@@ -788,7 +788,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Betulla 8 mm Ø300 con traforo a corona. Quattro sedi Ø40 a 90 gradi per tealight LED, con numeri 1-4 ENGRAVE-V accanto. Fascia UV con motivo mediterraneo. Cartellino con avvertenza SOLO TEALIGHT LED. Gommini sotto.",
-   "prompt_img": "a wooden advent wreath 300 mm on a table, four LED tealights seated in circular recesses with engraved numbers beside each, fretwork ring pattern, two candles lit, dim evening room"
+   "prompt_img_scena": "a wooden advent wreath 300 mm on a table, four LED tealights seated in circular recesses with engraved numbers beside each, fretwork ring pattern, two candles lit, dim evening room"
   },
   {
    "id": "ING-SEASON-NAT-202",
@@ -860,7 +860,7 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Betulla 3 mm 72x48, testa ad arco R12 con foro Ø4. Area UV WHITE opaca riscrivibile a pennarello cancellabile per il nome, soggetto stampato a lato. Set da 12 con cordini. Nesting 40 pz/foglio: riempitivo ideale dei fogli natalizi.",
-   "prompt_img": "twelve small wooden gift tags 72x48 mm scattered on wrapping paper, each with a printed Mediterranean motif and a handwritten name on a matte panel, cotton cords, scissors and ribbon nearby"
+   "prompt_img_scena": "twelve small wooden gift tags 72x48 mm scattered on wrapping paper, each with a printed Mediterranean motif and a handwritten name on a matte panel, cotton cords, scissors and ribbon nearby"
   },
   {
    "id": "ING-SEASON-VAL-203",
@@ -934,7 +934,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Due strati betulla distanziati 4 mm: due archi R12 speculari che si sovrappongono e formano un cuore SOLO nell'insieme, mai disegnato esplicitamente. Nomi e data ENGRAVE-V alla base. Piedino a incastro a 15 gradi. PRODUZIONE DA DICEMBRE per la finestra di febbraio.",
-   "prompt_img": "a layered wooden object 168x168 mm on a shelf, two mirrored arcs in spaced birch layers that read as a heart only when seen together, deep coral printed panel behind, two names engraved at the base"
+   "prompt_img_scena": "a layered wooden object 168x168 mm on a shelf, two mirrored arcs in spaced birch layers that read as a heart only when seen together, deep coral printed panel behind, two names engraved at the base"
   },
   {
    "id": "ING-SEASON-VAL-204",
@@ -1007,7 +1007,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Cornice betulla 6 mm 300x180 con due luci ad arco R12 per foto 10x15. Passepartout betulla 4 mm distanziato 3 mm. TESSERA CENTRALE 60x120 in scanalatura, sostituibile: nomi e data si aggiornano senza rifare la cornice. Piedino a 15 gradi.",
-   "prompt_img": "a layered wooden double photo frame 300x180 mm on a dresser, two arched apertures holding photographs with a slim engraved tile between them bearing two names and a date"
+   "prompt_img_scena": "a layered wooden double photo frame 300x180 mm on a dresser, two arched apertures holding photographs with a slim engraved tile between them bearing two names and a date"
   },
   {
    "id": "ING-SEASON-VAL-205",
@@ -1086,7 +1086,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Fondo betulla 8 mm 204x144 con UV PRINT. Frontale betulla 4 mm distanziato 4 mm con nome del luogo CUT traforato. Placchetta inox 20x40 MOPA con le coordinate in formato decimale a 4 cifre e la data. ENGRAVE-V filo perimetrale.",
-   "prompt_img": "a layered wooden plaque 204x144 mm, a place name cut through the front birch layer over a deep coral panel, a small steel plate below finely marked with GPS coordinates and a date, on a bedroom wall"
+   "prompt_img_scena": "a layered wooden plaque 204x144 mm, a place name cut through the front birch layer over a deep coral panel, a small steel plate below finely marked with GPS coordinates and a date, on a bedroom wall"
   },
   {
    "id": "ING-SEASON-PAS-206",
@@ -1158,7 +1158,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Sei uova betulla 4 mm 80x110 da un foglio 240x168. UV WHITE + CMYK, sei varianti dello stesso modulo maiolica per rotazione. Foro Ø4 con cordino. Nesting a incastro fra gli ovali: sfrido sotto il 20 percento. PRODUZIONE DA GENNAIO.",
-   "prompt_img": "six flat wooden Easter eggs 80x110 mm hanging from a branch in a vase, each printed with a different rotation of a cobalt and lemon maiolica pattern, cotton cords, bright spring light"
+   "prompt_img_scena": "six flat wooden Easter eggs 80x110 mm hanging from a branch in a vase, each printed with a different rotation of a cobalt and lemon maiolica pattern, cotton cords, bright spring light"
   },
   {
    "id": "ING-SEASON-PAS-207",
@@ -1229,7 +1229,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Dodici moduli betulla 4 mm a incastro reciproco, corona Ø336. STESSA GEOMETRIA DI INCASTRO della ghirlanda natalizia: cambiano solo i soggetti e la palette (verde ulivo, giallo, bianco, azzurro). Lo sviluppo di questo prodotto è un'ora di disegno, non un progetto nuovo.",
-   "prompt_img": "a modular wooden Easter wreath 336 mm on a pale door, twelve interlocking printed segments with eggs, swallows and olive branches in green and yellow, ribbon at the top, spring daylight"
+   "prompt_img_scena": "a modular wooden Easter wreath 336 mm on a pale door, twelve interlocking printed segments with eggs, swallows and olive branches in green and yellow, ribbon at the top, spring daylight"
   },
   {
    "id": "ING-SEASON-PAS-208",
@@ -1299,7 +1299,7 @@
    "s_gift": 6,
    "s_uniq": 9,
    "prompt_prod": "Betulla 4 mm 96x96 su base P2. Silhouette geometrica (coniglio o rondine ridotti ad archi R12) con nome ENGRAVE-V h 8 mm. Foro Ø38 nella base che regge un ovetto di cioccolato. UV colore. Nesting 24 pz/foglio.",
-   "prompt_img": "a wooden Easter place card 96x96 mm standing on a laid table, a geometric rabbit silhouette with an engraved guest name, a chocolate egg seated in a hole in the base, spring table setting"
+   "prompt_img_scena": "a wooden Easter place card 96x96 mm standing on a laid table, a geometric rabbit silhouette with an engraved guest name, a chocolate egg seated in a hole in the base, spring table setting"
   },
   {
    "id": "ING-SEASON-HAL-209",
@@ -1370,7 +1370,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "RIUSA LA PIATTAFORMA LANTERNA: base, incastri e packaging identici, cambiano solo le quattro pareti 120x168 con il volto CUT traforato, ponticelli 2,5 mm su occhi e bocca. UV arancio e nero sulle pareti. Tealight LED. Cartellino con avvertenza SOLO LED. Sviluppo: un'ora di disegno.",
-   "prompt_img": "a wooden Halloween lantern 120x120x168 mm glowing on a porch step at dusk, a carved-style face cut through the walls throwing an orange grin onto the wall behind, dry leaves around"
+   "prompt_img_scena": "a wooden Halloween lantern 120x120x168 mm glowing on a porch step at dusk, a carved-style face cut through the walls throwing an orange grin onto the wall behind, dry leaves around"
   },
   {
    "id": "ING-SEASON-HAL-210",
@@ -1437,7 +1437,7 @@
    "s_gift": 7,
    "s_uniq": 9,
    "prompt_prod": "MDF laccato nero 6 mm, dodici moduli a incastro reciproco, corona Ø336. STESSA GEOMETRIA DI INCASTRO delle ghirlande natalizia e pasquale. Il bordo bruciato dal taglio si integra col nero laccato e non va nascosto. Nessuna stampa: il nero opaco è la finitura.",
-   "prompt_img": "a modular black wreath 336 mm on a dark door, twelve interlocking matte black MDF segments cut with bats, crows and crescent moons, orange ribbon at the top, October evening light"
+   "prompt_img_scena": "a modular black wreath 336 mm on a dark door, twelve interlocking matte black MDF segments cut with bats, crows and crescent moons, orange ribbon at the top, October evening light"
   },
   {
    "id": "ING-SEASON-HAL-211",
@@ -1503,7 +1503,7 @@
    "s_gift": 6,
    "s_uniq": 9,
    "prompt_prod": "MDF laccato nero 6 mm, sei sagome da un foglio 240x180. Profili puliti e riconoscibili in CONTROLUCE: nessun dettaglio interno sotto i 4 mm, che sparirebbe. Ventose incluse. Nesting a incastro fra le sagome.",
-   "prompt_img": "black cut-out silhouettes of a cat, a bat and a witch's hat stuck to a window at night, seen from outside as sharp shapes against the warm lit room behind"
+   "prompt_img_scena": "black cut-out silhouettes of a cat, a bat and a witch's hat stuck to a window at night, seen from outside as sharp shapes against the warm lit room behind"
   },
   {
    "id": "ING-SEASON-MAM-212",
@@ -1579,7 +1579,7 @@
    "s_gift": 10,
    "s_uniq": 10,
    "prompt_prod": "Pannello betulla 6 mm 264x300 con albero ENGRAVE-R e otto sedi a scanalatura sui rami. Tessere betulla 4 mm 60x36 con nome e data di nascita ENGRAVE-V, inserite a scorrimento. Tessere aggiuntive come SKU separato. PRODUZIONE DA MARZO per la finestra di maggio.",
-   "prompt_img": "a wooden wall panel 264x300 mm with an engraved tree, small name tiles slotted onto the branches each with a name and birth year, warm printed background, hanging in a family living room"
+   "prompt_img_scena": "a wooden wall panel 264x300 mm with an engraved tree, small name tiles slotted onto the branches each with a name and birth year, warm printed background, hanging in a family living room"
   },
   {
    "id": "ING-SEASON-MAM-213",
@@ -1648,7 +1648,7 @@
    "s_gift": 6,
    "s_uniq": 10,
    "prompt_prod": "Betulla 4 mm 60x36 con clip calibrata sulla scanalatura da 4,2 mm del quadro: gioco 0,2 mm. Nome e anno ENGRAVE-V. Fascia UV colore coordinata. Nesting 60 pz/foglio: riempitivo dei fogli della categoria.",
-   "prompt_img": "three small wooden name tiles 60x36 mm in a hand, each engraved with a name and a birth year, one being slotted onto the branch of an engraved family tree panel"
+   "prompt_img_scena": "three small wooden name tiles 60x36 mm in a hand, each engraved with a name and a birth year, one being slotted onto the branch of an engraved family tree panel"
   },
   {
    "id": "ING-SEASON-MAM-214",
@@ -1722,7 +1722,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Scatola betulla 6 mm 240x180x72 con coperchio incernierato. Specchio acrilico 1 mm incollato nell'interno del coperchio. Interno in feltro 3 mm con cinque scomparti sagomati (anelli, catenine, orecchini). DEDICA ENGRAVE-V incisa dentro il coperchio, attorno allo specchio: si legge a ogni apertura.",
-   "prompt_img": "an open wooden jewellery box 240x180x72 mm, felt compartments holding rings and a necklace, a mirror set into the inside of the lid with an engraved dedication around it, on a dressing table"
+   "prompt_img_scena": "an open wooden jewellery box 240x180x72 mm, felt compartments holding rings and a necklace, a mirror set into the inside of the lid with an engraved dedication around it, on a dressing table"
   },
   {
    "id": "ING-SEASON-PAP-215",
@@ -1800,7 +1800,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Vassoio betulla 6 mm 204x156x24, fondo UV a piena superficie, quattro sponde a incastro 45 gradi. Placchetta inox 20x40 MOPA con la dedica, incassata nel fondo. Feltro sotto e gommini. PRODUZIONE DA GENNAIO per la finestra del 19 marzo — data fissa italiana, non giugno.",
-   "prompt_img": "a wooden valet tray 204x156 mm on a bedside table holding a watch and keys, base printed with a dark geometric pattern, a small steel plate fiber-marked with a dedication set into the base"
+   "prompt_img_scena": "a wooden valet tray 204x156 mm on a bedside table holding a watch and keys, base printed with a dark geometric pattern, a small steel plate fiber-marked with a dedication set into the base"
   },
   {
    "id": "ING-SEASON-PAP-216",
@@ -1878,7 +1878,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Fondo betulla 8 mm 264x168 con UV PRINT scuro (grafite, verde bottiglia). Frontale betulla 4 mm distanziato 4 mm con testo CUT traforato h 24 mm. Placca ottone 20x40 MOPA con nome e anno. ENGRAVE-V filo perimetrale. Palette volutamente sobria.",
-   "prompt_img": "a layered wooden plaque 264x168 mm on a workshop wall, a short phrase cut through the front birch layer over a dark graphite panel, a polished brass plate below with an engraved name and year, tools blurred behind"
+   "prompt_img_scena": "a layered wooden plaque 264x168 mm on a workshop wall, a short phrase cut through the front birch layer over a dark graphite panel, a polished brass plate below with an engraved name and year, tools blurred behind"
   },
   {
    "id": "ING-SEASON-EST-217",
@@ -1950,7 +1950,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Tre strati betulla 4 mm 360x168 distanziati 4 mm, onde sfalsate costruite su archi R12. Fondo UV gradiente turchese-crema. Nome del luogo ENGRAVE-V in basso a destra. Trattamento idrorepellente: sta in una casa al mare, con salsedine e umidità.",
-   "prompt_img": "a layered wooden wall panel 360x168 mm of overlapping wave shapes in spaced birch, gradient turquoise printed background, hanging on a whitewashed seaside wall, strong summer light"
+   "prompt_img_scena": "a layered wooden wall panel 360x168 mm of overlapping wave shapes in spaced birch, gradient turquoise printed background, hanging on a whitewashed seaside wall, strong summer light"
   },
   {
    "id": "ING-SEASON-EST-218",
@@ -2017,7 +2017,7 @@
    "s_gift": 6,
    "s_uniq": 10,
    "prompt_prod": "Acrilico colato 5 mm 240x168x60, tre scomparti, bordi lucidi a vista. Fondo con griglia di fori Ø4 che fa cadere la sabbia invece di trattenerla. Incastri 45 gradi + adesivo per acrilico. NESSUN LEGNO: sabbia, sale e sole lo distruggerebbero in una stagione.",
-   "prompt_img": "a clear acrylic beach organiser 240x168x60 mm on a towel under an umbrella, three compartments holding sunglasses, keys and a phone, sand falling through the perforated base, bright seaside light"
+   "prompt_img_scena": "a clear acrylic beach organiser 240x168x60 mm on a towel under an umbrella, three compartments holding sunglasses, keys and a phone, sand falling through the perforated base, bright seaside light"
   },
   {
    "id": "ING-SEASON-EST-219",
@@ -2087,7 +2087,7 @@
    "s_gift": 7,
    "s_uniq": 9,
    "prompt_prod": "Betulla 3 mm 180x216 con impugnatura integrata 36x84 e traforo denso, ponticelli 2,5 mm. Spigoli SMUSSATI: si tiene in mano a lungo. Peso sotto i 40 g. UV su una faccia. Nesting 6 pz/foglio.",
-   "prompt_img": "a fretwork wooden hand fan 180x216 mm with an integrated handle, dense Mediterranean cut pattern, held up against bright summer sunlight, out-of-focus piazza behind"
+   "prompt_img_scena": "a fretwork wooden hand fan 180x216 mm with an integrated handle, dense Mediterranean cut pattern, held up against bright summer sunlight, out-of-focus piazza behind"
   },
   {
    "id": "ING-SEASON-CAP-220",
@@ -2164,7 +2164,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Pannello betulla 6 mm 300x240 con tre file di scanalature. Tessere betulla 4 mm: 31 giorni, 12 mesi, cifre per l'anno. Tessere ENGRAVE-V su ENTRAMBI i lati per raddoppiare le combinazioni e dimezzare il numero di pezzi. Vaschetta porta-tessere inutilizzate alla base.",
-   "prompt_img": "a wooden perpetual wall calendar 300x240 mm, engraved day, month and year tiles sitting in grooved rails, a small tray of spare tiles at the bottom, hanging in a kitchen"
+   "prompt_img_scena": "a wooden perpetual wall calendar 300x240 mm, engraved day, month and year tiles sitting in grooved rails, a small tray of spare tiles at the bottom, hanging in a kitchen"
   },
   {
    "id": "ING-SEASON-CAP-221",
@@ -2240,7 +2240,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Pannello betulla 6 mm 264x180 con due finestre e cifre su dischi girevoli betulla 4 mm su perno a frizione, 0-9 su ciascuno. Fascia superiore con TESSERA EVENTO sostituibile in scanalatura: Capodanno, compleanno, viaggio, nascita. Piedino a 15 gradi + aggancio a parete.",
-   "prompt_img": "a wooden countdown board 264x180 mm on a shelf showing two rotating number discs reading 07, a replaceable engraved tile above naming the event, warm printed panel, family kitchen background"
+   "prompt_img_scena": "a wooden countdown board 264x180 mm on a shelf showing two rotating number discs reading 07, a replaceable engraved tile above naming the event, warm printed panel, family kitchen background"
   },
   {
    "id": "ING-SEASON-SCU-222",
@@ -2310,7 +2310,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Betulla 6 mm 300x240 con cornice UV a colori pieni. Campi ENGRAVE-V fissi (classe, età, cosa voglio fare da grande, il mio amico) e aree UV WHITE opache riscrivibili a pennarello cancellabile. Spigoli R12, carteggiatura, vernice atossica: lo tiene in mano un bambino. PRODUZIONE DA GIUGNO.",
-   "prompt_img": "a child holding a wooden first-day-of-school board 300x240 mm, engraved field labels with handwritten answers on matte white panels, bright printed border, front door background, morning light"
+   "prompt_img_scena": "a child holding a wooden first-day-of-school board 300x240 mm, engraved field labels with handwritten answers on matte white panels, bright printed border, front door background, morning light"
   },
   {
    "id": "ING-SEASON-AUT-223",
@@ -2382,7 +2382,7 @@
    "s_gift": 7,
    "s_uniq": 10,
    "prompt_prod": "Tre strati betulla 4 mm 240x300 distanziati 4 mm: foglie di vite, grappolo, tralcio. Palette autunno mediterraneo — ruggine, ocra, verde oliva, viola scuro. Nome della cantina e annata ENGRAVE-V alla base. Aggancio a fessura.",
-   "prompt_img": "a layered wooden autumn panel 240x300 mm showing vine leaves and a grape cluster in three spaced birch layers, rust and olive printed background, hanging on a stone wall in a wine cellar"
+   "prompt_img_scena": "a layered wooden autumn panel 240x300 mm showing vine leaves and a grape cluster in three spaced birch layers, rust and olive printed background, hanging on a stone wall in a wine cellar"
   },
   {
    "id": "ING-SEASON-NAT-224",
@@ -2454,7 +2454,7 @@
    "s_gift": 4,
    "s_uniq": 10,
    "prompt_prod": "Kit da un foglio 400x300 in betulla 4 mm: 12 pendenti, 4 sagome grandi, 8 cartellini prezzo natalizi, tutti col logo del negozio. UV nella palette del brand. Cordini e ventose inclusi. ORDINE MINIMO 1 kit, ma il valore sta nel riordino annuale. PRODUZIONE DA SETTEMBRE, e va comunicato ai clienti B2B in agosto.",
-   "prompt_img": "a shop window decorated with a coordinated set of hanging wooden ornaments and cut silhouettes, small printed price cards among the products, shop logo repeated on the pieces, seen from the street at dusk"
+   "prompt_img_scena": "a shop window decorated with a coordinated set of hanging wooden ornaments and cut silhouettes, small printed price cards among the products, shop logo repeated on the pieces, seen from the street at dusk"
   }
  ]
 }

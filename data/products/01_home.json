@@ -71,11 +71,11 @@
    "s_gift": 9,
    "s_uniq": 7,
    "prompt_prod": "Pannello di fondo betulla 8 mm 324x144. Strato frontale betulla 6 mm 324x96 distanziato 4 mm, con apertura ad arco ribassato R12 larga 240 mm. 5 ganci allineati sul passo 48 mm nella fascia bassa. Mensola 324x72 a incastro a 45 gradi sotto il frontale. Pannello UV blu mediterraneo dietro l'arco. ENGRAVE-V filo a 4 mm dal bordo, interrotto sull'area nome. Fissaggio a 2 punti con asole a goccia sul retro.",
-   "prompt_img": "three-quarter view of a wall-mounted key holder 324x144 mm in Baltic birch, arched cut-out revealing a deep blue panel, five brass hooks in a row, small shelf below holding sunglasses and letters, engraved line 4 mm from edge, on a lime-washed hallway wall, soft daylight",
    "mkt": [
     35,
     90
-   ]
+   ],
+   "prompt_img_scena": "three-quarter view of a wall-mounted key holder 324x144 mm in Baltic birch, arched cut-out revealing a deep blue panel, five brass hooks in a row, small shelf below holding sunglasses and letters, engraved line 4 mm from edge, on a lime-washed hallway wall, soft daylight"
   },
   {
    "id": "ING-HOME-ING-002",
@@ -147,11 +147,11 @@
    "s_gift": 9,
    "s_uniq": 8,
    "prompt_prod": "Fondo betulla 6 mm 204x156 con UV PRINT a piena superficie (bianco di fondo + CMYK pattern Maiolica Modulare) e UV GLOSS selettivo sui soli moduli del pattern. Quattro sponde h 24 mm a incastro 45 gradi, angoli R12. Feltro 3 mm incollato sotto. Gommini nei 4 angoli.",
-   "prompt_img": "top-down three-quarter view of a shallow wooden valet tray 204x156 mm, base fully UV-printed with a geometric maiolica pattern in cobalt blue and lemon with raised gloss varnish catching the light, low birch sides, holding keys, a watch and coins, on a dark hallway console",
    "mkt": [
     22,
     60
-   ]
+   ],
+   "prompt_img_scena": "top-down three-quarter view of a shallow wooden valet tray 204x156 mm, base fully UV-printed with a geometric maiolica pattern in cobalt blue and lemon with raised gloss varnish catching the light, low birch sides, holding keys, a watch and coins, on a dark hallway console"
   },
   {
    "id": "ING-HOME-DEC-003",
@@ -225,11 +225,11 @@
    "s_gift": 9,
    "s_uniq": 7,
    "prompt_prod": "Fondo betulla 6 mm 108x264 con testa ad arco R12. Strato frontale betulla 4 mm distanziato 3 mm con cognome CUT traforato (altezza carattere min 12 mm, ponticelli 2,5 mm sulle lettere chiuse). Pannello UV blu dietro il traforo. Sede tagliata per placchetta inox 20x40 in basso, marcata MOPA con le coordinate. ENGRAVE-V filo perimetrale.",
-   "prompt_img": "front view of a layered house name plate 108x264 mm in birch, arched top, family name cut straight through the front layer revealing a deep blue panel behind, small brushed steel plate at the bottom with fine engraved coordinates, mounted beside a blue front door in Mediterranean sunlight",
    "mkt": [
     30,
     120
-   ]
+   ],
+   "prompt_img_scena": "front view of a layered house name plate 108x264 mm in birch, arched top, family name cut straight through the front layer revealing a deep blue panel behind, small brushed steel plate at the bottom with fine engraved coordinates, mounted beside a blue front door in Mediterranean sunlight"
   },
   {
    "id": "ING-HOME-DEC-004",
@@ -295,11 +295,11 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Cinque strati betulla 4 mm 300x400, distanziati 4 mm con perni Ø3 asimmetrici. Ogni strato una quota del paesaggio, profili tagliati CUT con ponticelli min 2,5 mm. Strato 5 (fondo) pannello UV con gradiente turchese-crema. Telaio a fascia betulla 4 mm perimetrale. ENGRAVE-V filo sul telaio. Aggancio a 2 punti.",
-   "prompt_img": "three-quarter view of layered wooden wall art 300x400 mm, five birch layers spaced 4 mm building a Mediterranean landscape in depth — sea, coastline, hills, mountain — deep shadows between the layers, gradient turquoise-to-cream printed sky behind, on a pale plaster wall with raking afternoon light",
    "mkt": [
     45,
     180
-   ]
+   ],
+   "prompt_img_scena": "three-quarter view of layered wooden wall art 300x400 mm, five birch layers spaced 4 mm building a Mediterranean landscape in depth — sea, coastline, hills, mountain — deep shadows between the layers, gradient turquoise-to-cream printed sky behind, on a pale plaster wall with raking afternoon light"
   },
   {
    "id": "ING-HOME-DEC-005",
@@ -367,11 +367,11 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Quattro strati betulla 6 mm Ø300, distanziati 4 mm, ogni strato una curva di livello. Foro alberino Ø8 al CENTRO GEOMETRICO ESATTO su tutti gli strati. Spessore pacco 24 mm: alberino 20 mm obbligatorio. Sfere 110 mm, aria minima 3 mm sopra lo strato piu' alto. 12 indici ENGRAVE-V. Pannello UV rosso magma nel cratere. Perni Ø3 asimmetrici.",
-   "prompt_img": "hero shot, three-quarter view of a 300 mm wall clock built from four stacked birch layers spaced 4 mm, each a contour line of a volcano cone, soft shadows between layers, slim matte black hands emerging from the crater, deep magma-red panel visible at the centre, toasted amber cut edges, against a lime-washed wall",
    "mkt": [
     40,
     150
-   ]
+   ],
+   "prompt_img_scena": "hero shot, three-quarter view of a 300 mm wall clock built from four stacked birch layers spaced 4 mm, each a contour line of a volcano cone, soft shadows between layers, slim matte black hands emerging from the crater, deep magma-red panel visible at the centre, toasted amber cut edges, against a lime-washed wall"
   },
   {
    "id": "ING-HOME-LUX-006",
@@ -440,11 +440,11 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Quattro pareti betulla 4 mm 156x264 con traforo ad archi R12 ripetuti, incastri a 45 gradi. Diffusore acrilico satinato 3 mm interno, distanziato 8 mm dalle pareti (dissipazione). Base betulla 4 mm con passaggio cavo 12 mm e sede modulo LED USB 5V. Cappello superiore aperto per il calore. Gommini sotto.",
-   "prompt_img": "a lit table lamp 156x156x264 mm, birch fretwork walls of repeating arches over a frosted acrylic diffuser, warm glow throwing an arched pattern across the wall behind, USB cable running discreetly off the base, on a bedside table at night",
    "mkt": [
     55,
     200
-   ]
+   ],
+   "prompt_img_scena": "a lit table lamp 156x156x264 mm, birch fretwork walls of repeating arches over a frosted acrylic diffuser, warm glow throwing an arched pattern across the wall behind, USB cable running discreetly off the base, on a bedside table at night"
   },
   {
    "id": "ING-HOME-LUX-007",
@@ -511,11 +511,11 @@
    "s_gift": 6,
    "s_uniq": 9,
    "prompt_prod": "Pannello frontale betulla 4 mm 204x120 con traforo a semicerchi R12. Fianchi 72 mm di profondita' a incastro. Diffusore acrilico satinato interno. Modulo LED ricaricabile con interruttore sul fianco inferiore. Retro con 2 asole a goccia + area per biadesivo strutturale 40x40.",
-   "prompt_img": "a wall sconce 204x120 mm in birch with semicircular fretwork, mounted on a plaster corridor wall, warm light washing upward across the wall surface, no visible cable, evening interior",
    "mkt": [
     45,
     120
-   ]
+   ],
+   "prompt_img_scena": "a wall sconce 204x120 mm in birch with semicircular fretwork, mounted on a plaster corridor wall, warm light washing upward across the wall surface, no visible cable, evening interior"
   },
   {
    "id": "ING-HOME-LUX-008",
@@ -580,11 +580,11 @@
    "s_gift": 9,
    "s_uniq": 7,
    "prompt_prod": "Quattro pareti betulla 4 mm 108x156 con traforo ad archi R12, incastri a dente 45 gradi senza colla. Base 108x108 con sede circolare Ø40 per tealight LED. Nessun coperchio: sfogo del calore. Cartellino con avvertenza 'solo tealight LED'. Spedizione flat pack con istruzioni di montaggio a 4 passi.",
-   "prompt_img": "a wooden candle lantern 108x108x156 mm, four fretwork walls with arched cut-outs, warm LED tealight glowing inside throwing arch-shaped light patterns across a terrace table at dusk, Mediterranean evening",
    "mkt": [
     22,
     60
-   ]
+   ],
+   "prompt_img_scena": "a wooden candle lantern 108x108x156 mm, four fretwork walls with arched cut-outs, warm LED tealight glowing inside throwing arch-shaped light patterns across a terrace table at dusk, Mediterranean evening"
   },
   {
    "id": "ING-HOME-ORG-009",
@@ -655,11 +655,11 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Tre moduli betulla 6 mm: portapenne 96x96x108, vaschetta 192x96x48, cassetto 192x96x72. Incastri 45 gradi. Sul fianco di ogni modulo dente sporgente 12x6 e asola corrispondente, passo 12 mm, per agganciarsi. Pareti ENGRAVE-R sezione agrume a quote diverse. Interno UV blu. Feltro 3 mm sul fondo.",
-   "prompt_img": "top-down three-quarter view of a modular wooden desk organiser set — pen cup, shallow tray, drawer — 6 mm birch with 45 degree joints clipping together along a visible grid, walls engraved with a radial citrus pattern, deep blue printed interiors, on a pale oak desk in morning light",
    "mkt": [
     25,
     80
-   ]
+   ],
+   "prompt_img_scena": "top-down three-quarter view of a modular wooden desk organiser set — pen cup, shallow tray, drawer — 6 mm birch with 45 degree joints clipping together along a visible grid, walls engraved with a radial citrus pattern, deep blue printed interiors, on a pale oak desk in morning light"
   },
   {
    "id": "ING-HOME-ORG-010",
@@ -725,11 +725,11 @@
    "s_gift": 7,
    "s_uniq": 6,
    "prompt_prod": "Quattro pareti betulla 6 mm 96x108 + fondo 96x96, incastri 45 gradi. Denti e asole di aggancio sul passo 12 mm su due fianchi. ENGRAVE-R sezione agrume su una parete. Interno UV a colore pieno. Gommini sotto.",
-   "prompt_img": "a wooden pen cup 96x96x108 mm in birch with 45 degree joints, one wall engraved with a radial citrus section, bright printed interior visible from above, holding pencils and a pair of scissors, on a desk",
    "mkt": [
     12,
     32
-   ]
+   ],
+   "prompt_img_scena": "a wooden pen cup 96x96x108 mm in birch with 45 degree joints, one wall engraved with a radial citrus section, bright printed interior visible from above, holding pencils and a pair of scissors, on a desk"
   },
   {
    "id": "ING-HOME-TAV-011",
@@ -799,11 +799,11 @@
    "s_gift": 9,
    "s_uniq": 7,
    "prompt_prod": "Fondo betulla 6 mm 300x204: UV WHITE + UV PRINT pattern sezione agrume a piena superficie + UV GLOSS sulle sole nervature. Quattro sponde h 24 mm a incastro 45 gradi; le due sponde corte hanno maniglia ad arco R12 traforata 90x28. Gommini nei 4 angoli.",
-   "prompt_img": "three-quarter view of a rectangular wooden serving tray 300x204 mm with arched cut-out handles, base fully UV-printed with a geometric citrus-section pattern in lemon and olive with selective raised gloss, holding two espresso cups and a pastry, on a linen tablecloth in morning light",
    "mkt": [
     22,
     60
-   ]
+   ],
+   "prompt_img_scena": "three-quarter view of a rectangular wooden serving tray 300x204 mm with arched cut-out handles, base fully UV-printed with a geometric citrus-section pattern in lemon and olive with selective raised gloss, holding two espresso cups and a pastry, on a linen tablecloth in morning light"
   },
   {
    "id": "ING-HOME-TAV-012",
@@ -875,11 +875,11 @@
    "s_gift": 9,
    "s_uniq": 7,
    "prompt_prod": "Quattro dischi betulla 6 mm Ø96 + sughero 2 mm incollato sotto. UV WHITE + CMYK, quattro varianti dello stesso pattern (rotazione moduli). ENGRAVE-V filo a 4 mm dal bordo. Supporto verticale: due lastre 96x108 a croce incastrate, scanalature 6,2 mm. Nesting: 4 dischi + supporto in un rettangolo 220x220.",
-   "prompt_img": "set of four round birch coasters 96 mm in a vertical slotted holder, each printed with a different variation of a geometric Mediterranean pattern in blue, lemon and terracotta, cork backing visible on one tilted coaster, glass of wine beside them on an oak table",
    "mkt": [
     18,
     45
-   ]
+   ],
+   "prompt_img_scena": "set of four round birch coasters 96 mm in a vertical slotted holder, each printed with a different variation of a geometric Mediterranean pattern in blue, lemon and terracotta, cork backing visible on one tilted coaster, glass of wine beside them on an oak table"
   },
   {
    "id": "ING-HOME-TAV-013",
@@ -941,11 +941,11 @@
    "s_gift": 7,
    "s_uniq": 8,
    "prompt_prod": "Esagono regolare betulla 8 mm, lato 84 mm (ingombro 168x146), tassellabile a nido d'ape. ENGRAVE-R curve di livello concentriche, profondita' 0,6 mm per creare presa e resistenza al calore. ENGRAVE-V filo a 4 mm. Nessun componente. Nesting a nido d'ape: scarto sotto il 12 percento.",
-   "prompt_img": "two hexagonal birch trivets 168 mm across tiled side by side under a cast iron pot, engraved concentric contour rings on their surfaces, 8 mm thick edges visible, on a dark kitchen worktop",
    "mkt": [
     14,
     38
-   ]
+   ],
+   "prompt_img_scena": "two hexagonal birch trivets 168 mm across tiled side by side under a cast iron pot, engraved concentric contour rings on their surfaces, 8 mm thick edges visible, on a dark kitchen worktop"
   },
   {
    "id": "ING-HOME-TAV-014",
@@ -1015,11 +1015,11 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Due fianchi betulla 6 mm 132x72 + fondo 132x120, incastri 45 gradi. Fianchi ENGRAVE-R a griglia di vasche rettangolari a tre profondita' diverse (0,3 / 0,6 / 1,0 mm). Archetto betulla 3 mm 120x60 curvato a molla, inserito in due asole sul fondo. Smontabile per il lavaggio.",
-   "prompt_img": "three-quarter view of a wooden napkin holder 132x132x72 mm, 6 mm birch with 45 degree joints, side walls engraved at varying depths forming a grid of shallow rectangular basins like aerial salt pans catching raking light, holding cream linen napkins, on a travertine counter",
    "mkt": [
     18,
     48
-   ]
+   ],
+   "prompt_img_scena": "three-quarter view of a wooden napkin holder 132x132x72 mm, 6 mm birch with 45 degree joints, side walls engraved at varying depths forming a grid of shallow rectangular basins like aerial salt pans catching raking light, holding cream linen napkins, on a travertine counter"
   },
   {
    "id": "ING-HOME-TAV-015",
@@ -1084,11 +1084,11 @@
    "s_gift": 6,
    "s_uniq": 8,
    "prompt_prod": "Quattro pareti betulla 6 mm, ingombro 156x96x84. Piano superiore con due sedi Ø62 per ampolle standard e una sede Ø48 per macinino. Fronte con apertura ad arco R12. Fondo NON incollato: appoggiato su quattro dentini interni, si sfila per il lavaggio. Gommini sotto.",
-   "prompt_img": "a wooden condiment caddy 156x96x84 mm holding an oil cruet and a vinegar cruet in round seats, arched cut-out on the front face, birch with visible laser-cut edges, on a set restaurant table",
    "mkt": [
     20,
     50
-   ]
+   ],
+   "prompt_img_scena": "a wooden condiment caddy 156x96x84 mm holding an oil cruet and a vinegar cruet in round seats, arched cut-out on the front face, birch with visible laser-cut edges, on a set restaurant table"
   },
   {
    "id": "ING-HOME-TAV-016",
@@ -1151,11 +1151,11 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Due fianchi betulla 8 mm sagomati a culla 348x120 con traforo Griglia Barocca, uniti da tre traverse a incastro 45 gradi. VERIFICA DI CARICO: prova a 1,5 kg prima del lancio, spessore 8 mm non riducibile. Base concava per la bottiglia, piana se rovesciato per il pane.",
-   "prompt_img": "a wooden bottle cradle 348x120 mm in 8 mm birch, side walls with repeating baroque-grid fretwork cut through, holding a dark wine bottle lying on its side, on a rustic trattoria table with bread in the background",
    "mkt": [
     28,
     75
-   ]
+   ],
+   "prompt_img_scena": "a wooden bottle cradle 348x120 mm in 8 mm birch, side walls with repeating baroque-grid fretwork cut through, holding a dark wine bottle lying on its side, on a rustic trattoria table with bread in the background"
   },
   {
    "id": "ING-HOME-TAV-017",
@@ -1218,11 +1218,11 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Due lastre betulla 6 mm Ø264 con traforo radiale sezione agrume, ciascuna con asola centrale 6,2x132 (meta' altezza) per incastro a croce. Anello esterno Ø264/Ø200 che le tiene in squadra. Tre pezzi totali, spediti piatti in busta. Sede centrale Ø60 per candela o vaso.",
-   "prompt_img": "a flat-pack wooden centrepiece 264 mm across made of two cross-slotted birch plates and an outer ring, radial citrus-section fretwork, holding a pillar candle, on a white linen tablecloth, with the flat unassembled pieces lying beside it",
    "mkt": [
     20,
     55
-   ]
+   ],
+   "prompt_img_scena": "a flat-pack wooden centrepiece 264 mm across made of two cross-slotted birch plates and an outer ring, radial citrus-section fretwork, holding a pillar candle, on a white linen tablecloth, with the flat unassembled pieces lying beside it"
   },
   {
    "id": "ING-HOME-DEC-018",
@@ -1290,11 +1290,11 @@
    "s_gift": 9,
    "s_uniq": 6,
    "prompt_prod": "Cornice betulla 6 mm 156x204 con luce ad arco R12 (apertura 100x140). Passepartout betulla 4 mm distanziato 3 mm. Retro con sede fotografica 10x15 e linguette di ritegno. Piedino betulla 6 mm a incastro con battuta a 15 gradi, angolo identico alla piattaforma leggio. ENGRAVE-V filo perimetrale.",
-   "prompt_img": "a layered wooden photo frame 156x204 mm standing on a shelf, arched inner opening, two birch layers spaced 3 mm casting a shadow line, engraved border, holding a black and white photograph, warm interior light",
    "mkt": [
     20,
     65
-   ]
+   ],
+   "prompt_img_scena": "a layered wooden photo frame 156x204 mm standing on a shelf, arched inner opening, two birch layers spaced 3 mm casting a shadow line, engraved border, holding a black and white photograph, warm interior light"
   },
   {
    "id": "ING-HOME-DEC-019",
@@ -1357,11 +1357,11 @@
    "s_gift": 6,
    "s_uniq": 8,
    "prompt_prod": "Piano betulla 12 mm 324x120. Due mensole laterali 120x144 sagomate a voluta barocca ridotta a spirali R12 costanti, incastrate nel piano con dente passante 12 mm. VERIFICA DI CARICO 3 kg. Retro con due asole a goccia allineate su interasse 240 mm.",
-   "prompt_img": "a wooden wall shelf 324x120 mm in 12 mm birch with two scrolled bracket sides cut as constant-radius spirals, no visible hardware, holding a small plant and two books, mounted on a pale plaster wall",
    "mkt": [
     28,
     80
-   ]
+   ],
+   "prompt_img_scena": "a wooden wall shelf 324x120 mm in 12 mm birch with two scrolled bracket sides cut as constant-radius spirals, no visible hardware, holding a small plant and two books, mounted on a pale plaster wall"
   },
   {
    "id": "ING-HOME-ING-020",
@@ -1426,11 +1426,11 @@
    "s_gift": 7,
    "s_uniq": 7,
    "prompt_prod": "Barra betulla 12 mm 324x72 con profilo superiore a sei archi R12 ripetuti sul passo 48 mm. Sei fori Ø10 per pomelli tornati, allineati sul passo 48. ENGRAVE-V filo lungo il bordo inferiore. Retro con due asole a goccia interasse 288 mm.",
-   "prompt_img": "a wall coat rack 324x72 mm in 12 mm birch, top profile a repeating arch silhouette, six round wooden knobs in a row, engraved line along the lower edge, mounted on a white wall with a linen jacket and a straw hat hanging",
    "mkt": [
     25,
     70
-   ]
+   ],
+   "prompt_img_scena": "a wall coat rack 324x72 mm in 12 mm birch, top profile a repeating arch silhouette, six round wooden knobs in a row, engraved line along the lower edge, mounted on a white wall with a linen jacket and a straw hat hanging"
   },
   {
    "id": "ING-HOME-ORG-021",
@@ -1494,11 +1494,11 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Scatola betulla 6 mm 192x84 con tre scomparti da 60 mm di larghezza e altezze 132/108/84 mm, divisori a incastro. Fronte di ogni scomparto con apertura ad arco R12 per estrazione facile. ENGRAVE-R pattern su un fianco. Interno UV colore. Gommini sotto.",
-   "prompt_img": "a wooden remote control caddy 192x84x132 mm with three stepped compartments of different heights, arched cut-outs on each front, birch, holding three remotes, on a fabric sofa arm",
    "mkt": [
     16,
     45
-   ]
+   ],
+   "prompt_img_scena": "a wooden remote control caddy 192x84x132 mm with three stepped compartments of different heights, arched cut-outs on each front, birch, holding three remotes, on a fabric sofa arm"
   },
   {
    "id": "ING-HOME-ORG-022",
@@ -1566,11 +1566,11 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Base betulla 6 mm 108x84 + montante verticale sagomato a forcella, incastrato a 90 gradi con dente passante. La forcella ha due bracci R12 distanti 62 mm che reggono le aste dell'occhiale: le lenti restano sospese sopra la base. Feltro 3 mm sulla base. Gommini sotto.",
-   "prompt_img": "a small wooden eyeglass stand 108x84x96 mm, a forked upright holding a pair of glasses open with the lenses suspended clear of the base, birch with felt base, on a bedside table beside a book",
    "mkt": [
     12,
     35
-   ]
+   ],
+   "prompt_img_scena": "a small wooden eyeglass stand 108x84x96 mm, a forked upright holding a pair of glasses open with the lenses suspended clear of the base, birch with felt base, on a bedside table beside a book"
   },
   {
    "id": "ING-HOME-ORG-023",
@@ -1637,11 +1637,11 @@
    "s_gift": 9,
    "s_uniq": 7,
    "prompt_prod": "Base P2 betulla 6 mm 156x48 con due scanalature parallele 6,2 mm. Tessere: 12 mesi (48x36) + 2 blocchi cifre 0-9 (36x36). Testa ad arco R12 con area logo 60x20 ENGRAVE-V. Tessere ENGRAVE-V su entrambi i lati per raddoppiare le combinazioni. Gommini sotto la base.",
-   "prompt_img": "a perpetual desk calendar 156x108 mm, grooved birch base holding engraved month and number tiles, arched top plate with a blank logo area, on a wooden desk beside a coffee cup and a fountain pen",
    "mkt": [
     18,
     50
-   ]
+   ],
+   "prompt_img_scena": "a perpetual desk calendar 156x108 mm, grooved birch base holding engraved month and number tiles, arched top plate with a blank logo area, on a wooden desk beside a coffee cup and a fountain pen"
   },
   {
    "id": "ING-HOME-DEC-024",
@@ -1704,11 +1704,11 @@
    "s_gift": 8,
    "s_uniq": 7,
    "prompt_prod": "Quattro pareti betulla 8 mm 144x144 a doghe verticali larghe 12 mm con luce 6 mm, unite da traverse superiore e inferiore. Incastri 45 gradi. Fondo con quattro appoggi rialzati 12 mm: il vaso interno non poggia sul legno. Vaso plastica Ø130 fornito. Trattamento con olio idrorepellente su tutte le facce.",
-   "prompt_img": "a wooden planter cover 144 mm cube in 8 mm birch with vertical slatted walls, a green trailing plant growing out of it, hidden plastic inner pot, on a windowsill with strong side light",
    "mkt": [
     22,
     60
-   ]
+   ],
+   "prompt_img_scena": "a wooden planter cover 144 mm cube in 8 mm birch with vertical slatted walls, a green trailing plant growing out of it, hidden plastic inner pot, on a windowsill with strong side light"
   },
   {
    "id": "ING-HOME-CUC-025",
@@ -1768,11 +1768,11 @@
    "s_gift": 5,
    "s_uniq": 8,
    "prompt_prod": "Acrilico colato 5 mm, NON legno (contatto continuo con acqua). Due scomparti 168x96x84, fondo forato con griglia di Ø6 sul passo 12 mm, rialzato 12 mm su quattro piedini. Incastri a 45 gradi + colla per acrilico. Bordi lucidi lasciati a vista come finitura.",
-   "prompt_img": "a clear acrylic sink caddy 168x96x84 mm with two compartments and a perforated raised base, polished cut edges catching the light, holding a sponge and a dish soap bottle, beside a stainless steel kitchen sink",
    "mkt": [
     12,
     32
-   ]
+   ],
+   "prompt_img_scena": "a clear acrylic sink caddy 168x96x84 mm with two compartments and a perforated raised base, polished cut edges catching the light, holding a sponge and a dish soap bottle, beside a stainless steel kitchen sink"
   },
   {
    "id": "ING-HOME-CUC-026",
@@ -1838,11 +1838,11 @@
    "s_gift": 9,
    "s_uniq": 8,
    "prompt_prod": "Due fianchi betulla 6 mm 180x240 con quattro scanalature inclinate a 8 gradi. Quattro ripiani 120x160 a incastro, larghezza canale calibrata sul diametro capsula (verificare il formato: Nespresso 37 mm, Dolce Gusto 50 mm — due varianti SKU). Fermo frontale h 12 mm. Retro aperto per il caricamento.",
-   "prompt_img": "a wooden coffee capsule dispenser 132x180x240 mm with four inclined shelves in birch, capsules rolling forward to the front lip, arched side profile, beside an espresso machine on a kitchen counter",
    "mkt": [
     18,
     50
-   ]
+   ],
+   "prompt_img_scena": "a wooden coffee capsule dispenser 132x180x240 mm with four inclined shelves in birch, capsules rolling forward to the front lip, arched side profile, beside an espresso machine on a kitchen counter"
   },
   {
    "id": "ING-HOME-CUC-027",
@@ -1907,11 +1907,11 @@
    "s_gift": 9,
    "s_uniq": 8,
    "prompt_prod": "Fronte betulla 8 mm 240x180 inclinato 15 gradi (stesso angolo di tutta la piattaforma P4). Sponda inferiore tagliata a pettine: denti 12 mm, luce 12 mm, profondita' 24 mm. Puntone posteriore sfilabile a incastro. Passaggio cavo 12 mm per la ricarica del tablet. Gommini.",
-   "prompt_img": "a wooden cookbook and tablet stand 240x180 mm inclined 15 degrees, 8 mm birch with a comb-cut retaining lip, holding an open cookbook, on a flour-dusted kitchen worktop",
    "mkt": [
     22,
     60
-   ]
+   ],
+   "prompt_img_scena": "a wooden cookbook and tablet stand 240x180 mm inclined 15 degrees, 8 mm birch with a comb-cut retaining lip, holding an open cookbook, on a flour-dusted kitchen worktop"
   },
   {
    "id": "ING-HOME-BAG-028",
@@ -1974,11 +1974,11 @@
    "s_gift": 5,
    "s_uniq": 9,
    "prompt_prod": "Acrilico colato 5 mm. Piano 300x108 con foro Ø72 per bicchiere e Ø48 per spazzolini. Due fianchi 108x120 a incastro + traversa tonda porta-asciugamano Ø12 sotto il piano. Bordi lucidi a vista. Fissaggio a parete con due asole. NESSUN LEGNO in questo prodotto.",
-   "prompt_img": "a clear acrylic bathroom shelf 300x108 mm mounted above a basin, polished cut edges, a glass sitting in the circular cut-out, a rolled towel hanging from the rail below, bright tiled bathroom",
    "mkt": [
     20,
     55
-   ]
+   ],
+   "prompt_img_scena": "a clear acrylic bathroom shelf 300x108 mm mounted above a basin, polished cut edges, a glass sitting in the circular cut-out, a rolled towel hanging from the rail below, bright tiled bathroom"
   },
   {
    "id": "ING-HOME-BAG-029",
@@ -2041,11 +2041,11 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Quattro pareti betulla 4 mm 96x132 con traforo ad archi R12, incastri 45 gradi, aperto sopra e sotto. Diametro interno libero 88 mm: accoglie le bottiglie di diffusore standard fino a Ø80. Nessun fondo, si cala sopra la bottiglia esistente. Piedini alti 6 mm per far uscire il vapore.",
-   "prompt_img": "a wooden fretwork sleeve 96x96x132 mm hiding a reed diffuser bottle, only the rattan sticks emerging from the top, arched cut-outs in the birch walls, on a bathroom shelf beside folded towels",
    "mkt": [
     15,
     40
-   ]
+   ],
+   "prompt_img_scena": "a wooden fretwork sleeve 96x96x132 mm hiding a reed diffuser bottle, only the rattan sticks emerging from the top, arched cut-outs in the birch walls, on a bathroom shelf beside folded towels"
   },
   {
    "id": "ING-HOME-DEC-030",
@@ -2113,11 +2113,11 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Cornice betulla 6 mm Ø264 con corona traforata di archi R12 fra Ø200 e Ø264. Specchio acrilico 3 mm Ø204 alloggiato in battuta sul retro, tenuto da quattro linguette rotanti (nessuna colla: sostituibile). Distanziale 6 mm dalla parete perche' il traforo proietti l'ombra. Aggancio centrale.",
-   "prompt_img": "a round wall mirror 264 mm across with a birch fretwork frame of repeating arches, mounted slightly off the wall so the cut pattern throws a soft shadow behind it, reflecting a lit window, on a pale plaster wall",
    "mkt": [
     30,
     90
-   ]
+   ],
+   "prompt_img_scena": "a round wall mirror 264 mm across with a birch fretwork frame of repeating arches, mounted slightly off the wall so the cut pattern throws a soft shadow behind it, reflecting a lit window, on a pale plaster wall"
   }
  ]
 }

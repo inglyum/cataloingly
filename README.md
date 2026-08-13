@@ -61,6 +61,52 @@ python3 scripts/build_enciclopedia.py # enciclopedia prodotti e fonti
 
 ---
 
+## La finitura: il 70% della percezione di qualità
+
+Un oggetto laser sembra grezzo per tre motivi, sempre gli stessi: **il bordo bruciato
+lasciato sporco di fuliggine**, **la superficie non carteggiata** che assorbe la luce a
+chiazze, e **l'assenza di un livello di lucentezza controllato**. Nessuno dei tre riguarda
+il disegno: riguardano tutti la lavorazione *dopo* il taglio.
+
+`data/finiture.json` definisce il sistema: una palette di **12 vernici acriliche all'acqua**
+atossiche con codice, tono e note d'uso; un **protocollo in 10 passi** dalla carteggiatura
+progressiva alle due mani incrociate; **tre trattamenti del bordo** (ambra a vista — la firma
+Ingly — sigillato, verniciato a filo); e tre **livelli di lucentezza**, con un limite: mai
+sopra 40 gloss su legno, perché da lì in su l'occhio legge plastica.
+
+### Tre livelli, perché il premium integrale non regge su tutto
+
+| Livello | Cosa | Quando |
+| --- | --- | --- |
+| **NATURALE** | Carteggiatura, pulizia bordo, sigillante trasparente. Il colore lo fa la UV. | Lotti e prezzi d'impulso: bomboniere, segnaposto, tessere |
+| **PREMIUM** | Ciclo completo con due mani incrociate di acrilico all'acqua | Prezzo atteso sopra i 22 € |
+| **LUXURY** | Premium + terza mano, cera dura lucidata a mano, controllo pezzo per pezzo | Edizioni limitate e pezzi sopra i 70 € |
+
+La ragione è aritmetica, non estetica: su una bomboniera da 2,50 € quindici minuti di
+lavorazione a mano costano più del prezzo di vendita.
+
+**La finitura è nel modello di costo.** Vale in media 15 minuti e 4,49 € a pezzo, e sui
+pannelli grandi arriva al 40% del costo totale. Specificare una finitura premium senza
+contarla significa vendere in perdita esattamente sui prodotti che si vogliono posizionare
+in alto.
+
+---
+
+## Il brief fotografico
+
+Il campo `prompt_immagine` non è più una frase scritta a mano: è un **brief costruito dal
+motore**, in inglese, che combina la scena del prodotto con ottica, luce, superficie,
+palette e un negative prompt. Un prompt che descrive solo il soggetto produce immagini
+piatte — l'aspetto premium sta nella superficie, nella luce e nell'ottica, e vanno dette.
+
+Ogni brief specifica: inquadratura e ottica (85 mm f/4 hero, 100 mm macro, flat-lay f/8),
+schema luci (radente per far leggere le incisioni, notturna per i prodotti illuminati),
+grana e sigillatura della superficie, livello di gloss in unità, trattamento del bordo,
+colori con codice esadecimale, set e styling, più l'elenco di ciò che l'immagine non deve
+avere.
+
+---
+
 ## Il modello di costo
 
 Il costo di ogni prodotto è ricostruito dai suoi ingredienti fisici, non stimato:
@@ -155,6 +201,8 @@ data/
   enciclopedia.json   63 voci dei prodotti più venduti al mondo, ciascuna
                       con il prompt di design per una versione originale
   fonti.json          24 fonti di file laser, ordinate per licenza
+  finiture.json       palette vernici all'acqua, protocollo in 10 passi,
+                      trattamenti del bordo, livelli di finitura, regole fotografiche
   strumenti.json      34 strumenti per disegnare, ottimizzare, produrre,
                       fotografare e vendere, divisi per fase di lavoro
   products/           un file per categoria, 288 prodotti in totale

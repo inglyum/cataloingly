@@ -59,7 +59,7 @@ def controlla(p):
     # --- identita' e campi obbligatori -----------------------------------
     for campo in ("id", "cat", "name", "tipo", "concept", "target", "desire",
                   "usp", "diff", "platform", "mat", "tech", "dim",
-                  "prompt_prod", "prompt_img", "ref", "kw"):
+                  "prompt_prod", "prompt_img_scena", "ref", "kw"):
         if not p.get(campo):
             err.append(f"campo obbligatorio mancante: {campo}")
 
@@ -156,7 +156,7 @@ def controlla(p):
 
     # --- proprieta' intellettuale ----------------------------------------
     testo = " ".join(str(p.get(k, "")) for k in
-                     ("name", "concept", "usp", "diff", "prompt_prod", "prompt_img", "kw"))
+                     ("name", "concept", "usp", "diff", "prompt_prod", "prompt_img_scena", "kw"))
 
     # Termini inequivocabili: si cercano come PAROLA INTERA, senza distinzione di maiuscole.
     vietati_parola = ["pokemon", "disney", "marvel", "ghibli", "totoro", "naruto",
@@ -202,8 +202,8 @@ def controlla(p):
     # --- prompt -----------------------------------------------------------
     if len(str(p.get("prompt_prod", ""))) < 80:
         warn.append("prompt di produzione troppo scarno per essere eseguibile")
-    if len(str(p.get("prompt_img", ""))) < 80:
-        warn.append("prompt immagine troppo scarno")
+    if len(str(p.get("prompt_img_scena", ""))) < 80:
+        warn.append("descrizione di scena troppo scarna per generare un brief fotografico")
 
     return err, warn
 

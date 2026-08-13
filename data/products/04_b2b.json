@@ -76,7 +76,7 @@
    "s_gift": 4,
    "s_uniq": 6,
    "prompt_prod": "Lastra betulla 6 mm 72x108, cifra CUT traforata h 48 mm (leggibile in piedi a 1,5 m). Pannello betulla 3 mm UV nel colore brand incollato a filo sul retro, visibile attraverso la cifra. Base P2 96x48 con asola 5,85 mm (spessore reale 6 mm meno 0,15). Area logo 40x14 ENGRAVE-V in testa. Gommini sotto la base. Lotto standard 40 pezzi, nesting 28 set per foglio.",
-   "prompt_img": "three-quarter view of a double-sided restaurant table number in a slotted base, 6 mm Baltic birch with toasted amber cut edges, the numeral 7 cut straight through revealing a deep blue panel behind, small engraved logo area at the top, on a dark walnut table with a linen napkin blurred behind"
+   "prompt_img_scena": "three-quarter view of a double-sided restaurant table number in a slotted base, 6 mm Baltic birch with toasted amber cut edges, the numeral 7 cut straight through revealing a deep blue panel behind, small engraved logo area at the top, on a dark walnut table with a linen napkin blurred behind"
   },
   {
    "id": "ING-B2B-REST-092",
@@ -148,7 +148,7 @@
    "s_gift": 4,
    "s_uniq": 7,
    "prompt_prod": "Lastra betulla 6 mm 80x120 su base P2. Area QR 44x44 mm ENGRAVE-R su fondo COMPLETAMENTE LISCIO, nessun pattern, nessuna venatura marcata: contrasto minimo 60 percento. Cornice ad arco R12 attorno all'area codice. Area logo 44x12 sopra, URL leggibile ENGRAVE-V sotto (min 4 mm). Test di scansione obbligatorio in QC su 3 telefoni diversi.",
-   "prompt_img": "a tabletop QR code stand 80x120 mm on a slotted birch base, arched frame around a clean pale panel bearing a crisp black QR code, small logo area above, on a café bar counter with a coffee cup beside it"
+   "prompt_img_scena": "a tabletop QR code stand 80x120 mm on a slotted birch base, arched frame around a clean pale panel bearing a crisp black QR code, small logo area above, on a café bar counter with a coffee cup beside it"
   },
   {
    "id": "ING-B2B-REST-093",
@@ -219,7 +219,7 @@
    "s_gift": 4,
    "s_uniq": 7,
    "prompt_prod": "Fronte betulla 6 mm 216x300 (A4) o 156x216 (A5), inclinazione 15 gradi. Sponda inferiore a pettine: denti 12 mm, luce 12 mm, profondita' 20 mm. Puntone posteriore sfilabile a incastro, nessuna colla. Apertura ad arco R12 in testa con pannello UV a colore brand. Area logo 60x20 ENGRAVE-V. Spedizione flat pack.",
-   "prompt_img": "three-quarter view of an A4 wooden menu easel inclined 15 degrees, 6 mm birch with toasted amber edges, comb-cut retaining lip along the bottom, arched aperture at the top showing a mustard panel, holding a cream paper menu, on a marble bistro table"
+   "prompt_img_scena": "three-quarter view of an A4 wooden menu easel inclined 15 degrees, 6 mm birch with toasted amber edges, comb-cut retaining lip along the bottom, arched aperture at the top showing a mustard panel, holding a cream paper menu, on a marble bistro table"
   },
   {
    "id": "ING-B2B-REST-094",
@@ -288,7 +288,7 @@
    "s_gift": 5,
    "s_uniq": 8,
    "prompt_prod": "Lastra betulla 6 mm 132x228 con angoli R12 e spigoli SMUSSATI (passa di mano in mano). Fessura porta-scontrino 100x3 mm sul fronte. Sede tagliata 20x40 per placchetta inox, marcata MOPA col nome del locale. Molletta metallica o elastico in canale inciso sul retro. Finitura a vernice acrilica opaca lavabile.",
-   "prompt_img": "a restaurant bill presenter 132x228 mm in birch with an inset brushed stainless steel plate marked by fiber laser, a receipt tucked into the front slot, held in a waiter's hand, warm low restaurant light"
+   "prompt_img_scena": "a restaurant bill presenter 132x228 mm in birch with an inset brushed stainless steel plate marked by fiber laser, a receipt tucked into the front slot, held in a waiter's hand, warm low restaurant light"
   },
   {
    "id": "ING-B2B-REST-095",
@@ -362,7 +362,7 @@
    "s_gift": 3,
    "s_uniq": 7,
    "prompt_prod": "Lastra betulla 6 mm 108x108 (o 108x264 per la direzionale). Pittogramma CUT traforato, tratti minimi 3 mm. Pannello betulla 3 mm UV a colore brand dietro. ENGRAVE-V filo perimetrale. Retro con area 60x60 per biadesivo strutturale. Nessun testo sotto 8 mm.",
-   "prompt_img": "a square restroom sign plate 108x108 mm in birch, pictogram cut straight through revealing a deep blue layer behind, engraved border line, mounted on a lime-washed plaster wall in a restaurant corridor"
+   "prompt_img_scena": "a square restroom sign plate 108x108 mm in birch, pictogram cut straight through revealing a deep blue layer behind, engraved border line, mounted on a lime-washed plaster wall in a restaurant corridor"
   },
   {
    "id": "ING-B2B-REST-096",
@@ -439,7 +439,7 @@
    "s_gift": 3,
    "s_uniq": 9,
    "prompt_prod": "Telaio MDF laccato nero 10 mm 432x612 con testa ad arco R12. Quattro guide a scanalatura 6,2 mm ricavate su montanti laterali. Quattro pannelli betulla 6 mm 396x132 scorrevoli, UV PRINT con i piatti. Area logo 120x40 in testa ENGRAVE-V oro. Aggancio a 2 punti (peso oltre 2 kg). Pannelli venduti anche separatamente come ricambio.",
-   "prompt_img": "a wall-mounted restaurant menu board 432x612 mm, matte black lacquered frame with an arched top, four interchangeable birch panels sliding in grooved rails printed with dish names, gold engraved logo area at the top, on a dark plaster wall"
+   "prompt_img_scena": "a wall-mounted restaurant menu board 432x612 mm, matte black lacquered frame with an arched top, four interchangeable birch panels sliding in grooved rails printed with dish names, gold engraved logo area at the top, on a dark plaster wall"
   },
   {
    "id": "ING-B2B-REST-097",
@@ -508,7 +508,7 @@
    "s_gift": 3,
    "s_uniq": 5,
    "prompt_prod": "Lastra betulla 6 mm 144x48 con estremita' ad arco R12. ENGRAVE-V RISERVATO su una faccia, RESERVED sull'altra, altezza carattere 10 mm. Base P2 ridotta 96x36 con asola 5,85. Area logo 24x10. Nesting molto denso: e' un riempitivo ideale dei fogli degli altri prodotti.",
-   "prompt_img": "a small double-sided reserved table sign 144x48 mm standing on a tiny wooden foot, birch with arched ends, engraved lettering, on a set restaurant table with wine glasses"
+   "prompt_img_scena": "a small double-sided reserved table sign 144x48 mm standing on a tiny wooden foot, birch with arched ends, engraved lettering, on a set restaurant table with wine glasses"
   },
   {
    "id": "ING-B2B-REST-098",
@@ -578,7 +578,7 @@
    "s_gift": 3,
    "s_uniq": 8,
    "prompt_prod": "Scatola betulla 6 mm 120x72x72 con divisorio centrale. Scomparto A 72x60 (bustine zucchero standard in verticale), scomparto B 36x60 (stuzzicadenti). Fronti con apertura ad arco R12 per l'estrazione. Area logo 48x14 ENGRAVE-V sul fronte. Vernice lavabile. Gommini.",
-   "prompt_img": "a small wooden counter caddy 120x72x72 mm with two compartments, arched cut-outs on the fronts, holding sugar sachets and toothpicks, engraved logo area, on a café bar counter beside an espresso machine"
+   "prompt_img_scena": "a small wooden counter caddy 120x72x72 mm with two compartments, arched cut-outs on the fronts, holding sugar sachets and toothpicks, engraved logo area, on a café bar counter beside an espresso machine"
   },
   {
    "id": "ING-B2B-REST-105",
@@ -647,7 +647,7 @@
    "s_gift": 3,
    "s_uniq": 8,
    "prompt_prod": "Scatola betulla 6 mm 108x96x144, chiusa, con fessura superiore 60x6 mm. Fronte con finestra ad arco R12 aperta (nessun vetro) che mostra le monete. Fondo estraibile con dente di ritegno. Frase incisa ENGRAVE-V sotto la finestra. Gommini antiscivolo.",
-   "prompt_img": "a wooden tip jar 108x96x144 mm on a bar counter, arched open window on the front showing coins and notes inside, slot on top, engraved message below the window, warm café lighting"
+   "prompt_img_scena": "a wooden tip jar 108x96x144 mm on a bar counter, arched open window on the front showing coins and notes inside, slot on top, engraved message below the window, warm café lighting"
   },
   {
    "id": "ING-B2B-RET-099",
@@ -718,7 +718,7 @@
    "s_gift": 3,
    "s_uniq": 9,
    "prompt_prod": "Due fianchi betulla 8 mm 216x264 sagomati a scala, con traforo Griglia Barocca. Tre ripiani 160x140 a incastro 45 gradi, inclinati 5 gradi con fermo frontale 8 mm. Area logo 100x24 sulla traversa alta. Smontabile per il trasporto e il magazzino. Verifica carico 3 kg per ripiano.",
-   "prompt_img": "a three-tier wooden countertop display stand 168x216x264 mm in 8 mm birch, arched fretwork side panels, holding wrapped pastries and jars, engraved shop logo on the top rail, on a bakery counter"
+   "prompt_img_scena": "a three-tier wooden countertop display stand 168x216x264 mm in 8 mm birch, arched fretwork side panels, holding wrapped pastries and jars, engraved shop logo on the top rail, on a bakery counter"
   },
   {
    "id": "ING-B2B-RET-100",
@@ -787,7 +787,7 @@
    "s_gift": 3,
    "s_uniq": 7,
    "prompt_prod": "Tasca betulla 6 mm per A5 (156 mm di larghezza interna), fronte alto solo 48 mm, retro 120 mm, inclinazione 15 gradi. Fianchi con profilo ad arco R12. Area logo 60x16 sul fronte. Variante DL 108 mm come SKU separato. Flat pack.",
-   "prompt_img": "a wooden leaflet holder 156x108x120 mm with a low front so the brochure artwork stays visible, arched side profiles, birch, holding A5 flyers, on a shop counter"
+   "prompt_img_scena": "a wooden leaflet holder 156x108x120 mm with a low front so the brochure artwork stays visible, arched side profiles, birch, holding A5 flyers, on a shop counter"
   },
   {
    "id": "ING-B2B-RET-101",
@@ -865,7 +865,7 @@
    "s_gift": 3,
    "s_uniq": 9,
    "prompt_prod": "Fondo betulla 8 mm 300x300 con UV PRINT nel colore brand. Strato frontale betulla 4 mm distanziato 4 mm con logo CUT traforato (richiedere file VETTORIALE al cliente, tratto minimo 3 mm). Placchetta inox 20x40 MOPA con payoff o anno di fondazione. ENGRAVE-V filo perimetrale. Aggancio a 2 punti con distanziali 12 mm per l'ombra.",
-   "prompt_img": "a business logo sign 300x300 mm mounted on an exterior plaster wall, birch front layer with the logo cut through revealing a coloured panel behind, small steel plate below, mounted on spacers casting a shadow, daylight"
+   "prompt_img_scena": "a business logo sign 300x300 mm mounted on an exterior plaster wall, birch front layer with the logo cut through revealing a coloured panel behind, small steel plate below, mounted on spacers casting a shadow, daylight"
   },
   {
    "id": "ING-B2B-RET-102",
@@ -934,7 +934,7 @@
    "s_gift": 2,
    "s_uniq": 7,
    "prompt_prod": "Cartellini betulla 4 mm 72x48 con testa ad arco R12. Area scrivibile 56x24 con UV WHITE opaco riscrivibile a pennarello cancellabile. Area logo 24x8 ENGRAVE-V. Due varianti: con foro Ø4 per pinza e con dente per base P2. Set da 12 + supporto verticale a incastro. Nesting: 60 pezzi/foglio, riempitivo ideale.",
-   "prompt_img": "a set of twelve small wooden price tags 72x48 mm with arched tops and matte writable panels, some clipped to jars and some standing in a slotted holder, engraved shop logo on each, on a delicatessen counter"
+   "prompt_img_scena": "a set of twelve small wooden price tags 72x48 mm with arched tops and matte writable panels, some clipped to jars and some standing in a slotted holder, engraved shop logo on each, on a delicatessen counter"
   },
   {
    "id": "ING-B2B-OFF-103",
@@ -1003,7 +1003,7 @@
    "s_gift": 5,
    "s_uniq": 7,
    "prompt_prod": "Base betulla 6 mm 96x72 con canale inclinato 15 gradi profondo 20 mm per biglietti 85x55. Fronte basso 24 mm perche' il biglietto resti visibile. Fianchi ad arco R12. Area logo 40x12 ENGRAVE-V sul fronte. Gommini.",
-   "prompt_img": "a small wooden business card holder 96x72x60 mm on a reception desk, cards fanned forward in an inclined channel, arched side profiles, engraved logo on the low front, soft office light"
+   "prompt_img_scena": "a small wooden business card holder 96x72x60 mm on a reception desk, cards fanned forward in an inclined channel, arched side profiles, engraved logo on the low front, soft office light"
   },
   {
    "id": "ING-B2B-OFF-104",
@@ -1077,7 +1077,7 @@
    "s_gift": 6,
    "s_uniq": 7,
    "prompt_prod": "Prisma betulla 8 mm 204x60x48, tre lastre a incastro 45 gradi (fronte, retro, base). Nome ENGRAVE-V h 12 mm su entrambe le facce. Sede 20x40 per placchetta inox MOPA col ruolo, tenuta da due linguette: SOSTITUIBILE senza attrezzi. Area logo 30x10. Gommini.",
-   "prompt_img": "a wooden desk name plate 204x60x48 mm on an office desk, engraved name on the front face, small brushed steel plate below marked with a job title, birch with clean laser edges, blurred office behind"
+   "prompt_img_scena": "a wooden desk name plate 204x60x48 mm on an office desk, engraved name on the front face, small brushed steel plate below marked with a job title, birch with clean laser edges, blurred office behind"
   },
   {
    "id": "ING-B2B-OFF-106",
@@ -1147,7 +1147,7 @@
    "s_gift": 2,
    "s_uniq": 9,
    "prompt_prod": "Acrilico colato 5 mm 240x180, bordi lucidi a vista. Placchetta inox 200x140 MOPA con nome, professione e albo, applicata a filo sul fronte con biadesivo strutturale 0,2 mm. Quattro distanziali cromati agli angoli, fori Ø6 (+0,3 su acrilico). NESSUN LEGNO: sta all'esterno.",
-   "prompt_img": "a professional door plate 240x180 mm in clear acrylic with polished edges, an inset brushed steel panel fiber-marked with a name and profession, mounted on four chrome standoffs beside a dark office door"
+   "prompt_img_scena": "a professional door plate 240x180 mm in clear acrylic with polished edges, an inset brushed steel panel fiber-marked with a name and profession, mounted on four chrome standoffs beside a dark office door"
   },
   {
    "id": "ING-B2B-AWD-107",
@@ -1223,7 +1223,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Base betulla 8 mm 132x60 con asola. Colonna verticale a due strati: betulla 8 mm 132x264 traforata ad archi R12 + acrilico 5 mm satinato distanziato 4 mm dietro. Placchetta ottone 20x40 MOPA con dedica, incassata sulla base. Perni Ø3 asimmetrici. Verifica stabilita': baricentro entro il perimetro della base.",
-   "prompt_img": "a corporate award trophy 132x264 mm standing on a desk, birch column with arched fretwork over a frosted acrylic layer, polished brass plate on the base fiber-marked with a dedication, warm directional light, dark background"
+   "prompt_img_scena": "a corporate award trophy 132x264 mm standing on a desk, birch column with arched fretwork over a frosted acrylic layer, polished brass plate on the base fiber-marked with a dedication, warm directional light, dark background"
   },
   {
    "id": "ING-B2B-AWD-109",
@@ -1299,7 +1299,7 @@
    "s_gift": 7,
    "s_uniq": 8,
    "prompt_prod": "Disco betulla 6 mm Ø204 di fondo. Corona betulla 4 mm Ø204/Ø132 traforata ad archi R12, distanziata 3 mm. Disco inox Ø120 MOPA con dedica, incassato al centro. ENGRAVE-V filo perimetrale. Aggancio a fessura sul retro.",
-   "prompt_img": "a circular recognition plaque 204 mm across, birch outer ring with arched fretwork over a solid base, a brushed steel disc fiber-marked with a dedication at the centre, hanging on an office wall"
+   "prompt_img_scena": "a circular recognition plaque 204 mm across, birch outer ring with arched fretwork over a solid base, a brushed steel disc fiber-marked with a dedication at the centre, hanging on an office wall"
   },
   {
    "id": "ING-B2B-HOSP-111",
@@ -1376,7 +1376,7 @@
    "s_gift": 4,
    "s_uniq": 8,
    "prompt_prod": "Fondo betulla 8 mm 300x400 con UV PRINT nel colore della struttura. Strato frontale betulla 4 mm distanziato 4 mm, nome della struttura CUT traforato (h min 20 mm, ponticelli 2,5 mm). Testa ad arco R12. ENGRAVE-V filo perimetrale. Aggancio a 2 punti.",
-   "prompt_img": "a welcome sign 300x400 mm hanging in a bed and breakfast entrance, birch front layer with the property name cut through revealing a warm terracotta panel behind, arched top, engraved border, sunlit stone wall"
+   "prompt_img_scena": "a welcome sign 300x400 mm hanging in a bed and breakfast entrance, birch front layer with the property name cut through revealing a warm terracotta panel behind, arched top, engraved border, sunlit stone wall"
   },
   {
    "id": "ING-B2B-HOSP-112",
@@ -1451,7 +1451,7 @@
    "s_gift": 3,
    "s_uniq": 7,
    "prompt_prod": "Lastra betulla 6 mm 100x150 (o acrilico 5 mm per strutture al mare). Cifra CUT traforata h 60 mm. Pannello betulla 3 mm UV a colore brand dietro. Testa ad arco R12. Retro con area 60x100 per biadesivo strutturale. ENGRAVE-V filo perimetrale.",
-   "prompt_img": "a hotel room number plate 100x150 mm mounted on a panelled door, birch with the numeral cut straight through revealing a deep teal panel behind, arched top, engraved border line, warm corridor light"
+   "prompt_img_scena": "a hotel room number plate 100x150 mm mounted on a panelled door, birch with the numeral cut straight through revealing a deep teal panel behind, arched top, engraved border line, warm corridor light"
   },
   {
    "id": "ING-B2B-HOSP-113",
@@ -1520,7 +1520,7 @@
    "s_gift": 3,
    "s_uniq": 8,
    "prompt_prod": "Lastra betulla 6 mm 150x80 con estremita' ad arco R12. Nome ENGRAVE-V h 14 mm. Icona geometrica ENGRAVE-R 24x24 a sinistra, costruita con archi R12 (limone, onda, cupola, sole, fico d'india, ulivo: sei icone di serie). Fascia UV colore sotto il nome. Biadesivo strutturale sul retro.",
-   "prompt_img": "a named room plate 150x80 mm on a guest room door, birch with an engraved room name and a small geometric lemon icon beside it, a band of colour below, arched ends, sunlit corridor"
+   "prompt_img_scena": "a named room plate 150x80 mm on a guest room door, birch with an engraved room name and a small geometric lemon icon beside it, a band of colour below, arched ends, sunlit corridor"
   },
   {
    "id": "ING-B2B-HOSP-114",
@@ -1590,7 +1590,7 @@
    "s_gift": 3,
    "s_uniq": 7,
    "prompt_prod": "Lastra betulla 4 mm 80x200 con foro a goccia superiore (Ø32 con imbocco 16 mm) per maniglie standard. Faccia A UV rossa NON DISTURBARE, faccia B UV verde RIFARE LA CAMERA, bilingue IT/EN. Testa ad arco R12. Area logo 40x12 su entrambe le facce. Spigoli smussati: si maneggia di continuo.",
-   "prompt_img": "a wooden do not disturb hanger 80x200 mm hanging from a hotel room door handle, teardrop hole at the top, printed red message on the visible face, arched top, engraved logo, warm corridor light"
+   "prompt_img_scena": "a wooden do not disturb hanger 80x200 mm hanging from a hotel room door handle, teardrop hole at the top, printed red message on the visible face, arched top, engraved logo, warm corridor light"
   },
   {
    "id": "ING-B2B-HOSP-115",
@@ -1662,7 +1662,7 @@
    "s_gift": 3,
    "s_uniq": 8,
    "prompt_prod": "Lastra betulla 6 mm 80x100 su base P2 96x36. Area QR 40x40 ENGRAVE-R su fondo liscio, nessun pattern. Sotto, SSID e password ENGRAVE-V h 5 mm. Testa ad arco R12 con area logo. Test di scansione in QC. Gommini sotto la base.",
-   "prompt_img": "a small wifi QR stand 80x100 mm on a bedside table in a guest room, birch plate with a crisp QR code above and engraved network name and password below, arched top, soft morning light"
+   "prompt_img_scena": "a small wifi QR stand 80x100 mm on a bedside table in a guest room, birch plate with a crisp QR code above and engraved network name and password below, arched top, soft morning light"
   },
   {
    "id": "ING-B2B-HOSP-116",
@@ -1731,7 +1731,7 @@
    "s_gift": 2,
    "s_uniq": 8,
    "prompt_prod": "Lastra betulla 8 mm 204x60 con estremita' a freccia (una delle due, speculare per SKU sinistra/destra). Testo ENGRAVE-V h 12 mm. Fascia UV colore in coda. Due fori Ø5 su interasse 168 mm per montaggio impilato su un palo o una parete. Nesting a coppie speculari: scarto minimo.",
-   "prompt_img": "three stacked wooden directional signs 204x60 mm on a post, arrow-shaped ends pointing different ways, engraved destination names, coloured band on each, in an agriturismo courtyard with olive trees"
+   "prompt_img_scena": "three stacked wooden directional signs 204x60 mm on a post, arrow-shaped ends pointing different ways, engraved destination names, coloured band on each, in an agriturismo courtyard with olive trees"
   },
   {
    "id": "ING-B2B-HOSP-117",
@@ -1805,7 +1805,7 @@
    "s_gift": 5,
    "s_uniq": 10,
    "prompt_prod": "Fondo betulla 6 mm 300x204: UV WHITE + UV PRINT mappa stilizzata dei dintorni con punti d'interesse numerati + UV GLOSS sui soli percorsi. Quattro sponde h 24 mm a incastro 45 gradi, maniglie ad arco R12 sulle corte. Legenda ENGRAVE-V sul bordo interno. Gommini.",
-   "prompt_img": "a wooden welcome tray 300x204 mm with arched handles, base UV-printed with a stylised local map showing numbered points of interest and glossy walking routes, holding a coffee pot and pastries, on a bed and breakfast table"
+   "prompt_img_scena": "a wooden welcome tray 300x204 mm with arched handles, base UV-printed with a stylised local map showing numbered points of interest and glossy walking routes, holding a coffee pot and pastries, on a bed and breakfast table"
   },
   {
    "id": "ING-B2B-HOSP-118",
@@ -1876,7 +1876,7 @@
    "s_gift": 2,
    "s_uniq": 8,
    "prompt_prod": "Pannello betulla 8 mm 300x156, testa ad arco R12. Ganci su griglia 48x48 mm: 6 (2x3), 12 (4x3) o 18 (6x3) come SKU distinti sulla stessa matrice. Numero ENGRAVE-V h 8 mm sotto ogni gancio. Fascia UV colore in testa con nome struttura. Aggancio a 2 punti.",
-   "prompt_img": "a wall-mounted key rack 300x156 mm in birch behind a small reception desk, twelve hooks in a grid with engraved room numbers beneath each, coloured band with the property name at the top, some keys hanging"
+   "prompt_img_scena": "a wall-mounted key rack 300x156 mm in birch behind a small reception desk, twelve hooks in a grid with engraved room numbers beneath each, coloured band with the property name at the top, some keys hanging"
   },
   {
    "id": "ING-B2B-GIFT-119",
@@ -1955,7 +1955,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Scatola betulla 6 mm 300x204x90 con interno sagomato in feltro. Contenuto: desk sign P6 204x60 con placchetta MOPA, porta biglietti P4, portapenne P3 96x96, portachiavi P1 40x60. Tutti col nome della persona e il logo aziendale. Coperchio con finestra ad arco R12. Ordine minimo 5 kit.",
-   "prompt_img": "an open wooden onboarding gift box 300x204 mm with a shaped felt interior holding a personalised desk name plate, a business card holder, a pen cup and a keyring, all in birch with a company logo, on an office desk"
+   "prompt_img_scena": "an open wooden onboarding gift box 300x204 mm with a shaped felt interior holding a personalised desk name plate, a business card holder, a pen cup and a keyring, all in birch with a company logo, on an office desk"
   },
   {
    "id": "ING-B2B-GIFT-120",
@@ -2027,7 +2027,7 @@
    "s_gift": 7,
    "s_uniq": 6,
    "prompt_prod": "Lastra betulla 6 mm 40x60 con testa ad arco R12 e foro Ø5 per anello. Sede 20x40 per placchetta inox MOPA col logo. ENGRAVE-V filo perimetrale. Lotto minimo 100 pezzi, nesting 180 pezzi/foglio: e' il riempitivo dei fogli di tutti gli altri prodotti B2B.",
-   "prompt_img": "a wooden keyring 40x60 mm with an inset brushed steel plate fiber-marked with a company logo, arched top, split ring attached, several of them arranged in a row on a dark surface"
+   "prompt_img_scena": "a wooden keyring 40x60 mm with an inset brushed steel plate fiber-marked with a company logo, arched top, split ring attached, several of them arranged in a row on a dark surface"
   },
   {
    "id": "ING-B2B-AWD-121",
@@ -2104,7 +2104,7 @@
    "s_gift": 7,
    "s_uniq": 9,
    "prompt_prod": "Fondo betulla 8 mm 240x300, testa ad arco R12. Strato frontale betulla 4 mm distanziato 4 mm con anno CUT traforato h 60 mm. Placca ottone 20x40 MOPA con la dedica, incassata in basso. ENGRAVE-V filo perimetrale. Aggancio a 2 punti. Numerazione progressiva se edizione celebrativa.",
-   "prompt_img": "a company anniversary plaque 240x300 mm on an office wall, birch front layer with the founding year cut through revealing a dark panel, a polished brass plate below with an engraved dedication, arched top, directional light"
+   "prompt_img_scena": "a company anniversary plaque 240x300 mm on an office wall, birch front layer with the founding year cut through revealing a dark panel, a polished brass plate below with an engraved dedication, arched top, directional light"
   },
   {
    "id": "ING-B2B-RET-122",
@@ -2175,7 +2175,7 @@
    "s_gift": 6,
    "s_uniq": 9,
    "prompt_prod": "Espositore betulla 6 mm 120x156x84, inclinazione 15 gradi. Tasca frontale per card 85x54 con apertura ad arco R12 per l'estrazione. Retro con scomparto per le buste. Area logo 60x18 in testa, fascia UV colore. Gommini.",
-   "prompt_img": "a wooden gift card holder 120x156 mm on a shop counter beside a till, inclined front pocket holding gift cards with an arched cut-out, coloured band and engraved shop logo at the top, warm retail lighting"
+   "prompt_img_scena": "a wooden gift card holder 120x156 mm on a shop counter beside a till, inclined front pocket holding gift cards with an arched cut-out, coloured band and engraved shop logo at the top, warm retail lighting"
   },
   {
    "id": "ING-B2B-REST-123",
@@ -2244,7 +2244,7 @@
    "s_gift": 2,
    "s_uniq": 8,
    "prompt_prod": "Acrilico colato 5 mm 96x144, bordi lucidi a vista. Cifra CUT traforata h 60 mm. Secondo strato acrilico colorato 3 mm incollato dietro con adesivo per acrilico. Base P2 in acrilico 5 mm, asola 4,85. NESSUN LEGNO: esposizione a sole e pioggia. Fori +0,3 mm su acrilico.",
-   "prompt_img": "an outdoor terrace table number 96x144 mm in cast acrylic with polished cut edges, the numeral cut through revealing a turquoise layer behind, standing on a slotted base on an outdoor café table in bright Mediterranean sunlight"
+   "prompt_img_scena": "an outdoor terrace table number 96x144 mm in cast acrylic with polished cut edges, the numeral cut through revealing a turquoise layer behind, standing on a slotted base on an outdoor café table in bright Mediterranean sunlight"
   },
   {
    "id": "ING-B2B-REST-124",
@@ -2313,7 +2313,7 @@
    "s_gift": 2,
    "s_uniq": 9,
    "prompt_prod": "Lastra betulla 6 mm 96x60 su base P2 ridotta 72x30. Nome piatto ENGRAVE-V h 8 mm (bilingue IT/EN su due righe). Fascia inferiore con fino a 6 icone allergeni ENGRAVE-R 10x10 mm, dalla serie standard dei 14 allergeni. Superficie UV opaca riscrivibile in una variante SKU. Vernice lavabile: sta accanto al cibo.",
-   "prompt_img": "small wooden buffet labels 96x60 mm standing on slotted bases along a hotel breakfast buffet, engraved dish names in two languages with a row of small allergen icons beneath, birch, warm morning light"
+   "prompt_img_scena": "small wooden buffet labels 96x60 mm standing on slotted bases along a hotel breakfast buffet, engraved dish names in two languages with a row of small allergen icons beneath, birch, warm morning light"
   },
   {
    "id": "ING-B2B-RET-125",
@@ -2382,7 +2382,7 @@
    "s_gift": 2,
    "s_uniq": 9,
    "prompt_prod": "Tre gradoni betulla 8 mm a incastro senza colla: 240x144x48, 192x144x84, 144x144x120. Fianchi con profilo ad arco R12. Impilabili e affiancabili sul passo 12 mm. Piani con ENGRAVE-R antiscivolo leggero. Flat pack, montaggio senza attrezzi.",
-   "prompt_img": "three wooden display risers of stepped heights arranged in a shop window, 8 mm birch with arched side profiles, small products displayed on each level, daylight through the glass"
+   "prompt_img_scena": "three wooden display risers of stepped heights arranged in a shop window, 8 mm birch with arched side profiles, small products displayed on each level, daylight through the glass"
   },
   {
    "id": "ING-B2B-OFF-126",
@@ -2455,7 +2455,7 @@
    "s_gift": 2,
    "s_uniq": 9,
    "prompt_prod": "Lastra betulla 6 mm 180x108. Finestra 48x24 con cursore betulla 3 mm scorrevole in guida fresata: UV verde LIBERA da un lato, rosso OCCUPATA dall'altro. Nome sala ENGRAVE-V h 12 mm. Testa ad arco R12. Biadesivo strutturale sul retro.",
-   "prompt_img": "a meeting room door sign 180x108 mm in birch with an engraved room name and a sliding wooden indicator showing a green FREE panel, arched top, mounted on a glass office door"
+   "prompt_img_scena": "a meeting room door sign 180x108 mm in birch with an engraved room name and a sliding wooden indicator showing a green FREE panel, arched top, mounted on a glass office door"
   },
   {
    "id": "ING-B2B-REST-127",
@@ -2530,7 +2530,7 @@
    "s_gift": 2,
    "s_uniq": 8,
    "prompt_prod": "Due telai betulla 12 mm 480x720 uniti da cerniere, apertura a 30 gradi con catenella di ritegno. Pannelli acrilico 5 mm scrivibili, inseriti in guide a scanalatura, sostituibili. Trattamento idrorepellente su tutto il legno: sta all'aperto di giorno. Piedi allargati e zavorrabili per il vento. Verifica stabilita' a ribaltamento.",
-   "prompt_img": "a wooden A-frame pavement sign standing on a pavement outside a café, 480x720 mm panels in birch with a writable acrylic insert showing the day's menu, engraved logo at the top, morning street light"
+   "prompt_img_scena": "a wooden A-frame pavement sign standing on a pavement outside a café, 480x720 mm panels in birch with a writable acrylic insert showing the day's menu, engraved logo at the top, morning street light"
   },
   {
    "id": "ING-B2B-GIFT-128",
@@ -2605,7 +2605,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Scatola betulla 6 mm 300x204x108, incastri 45 gradi. Coperchio SCORREVOLE in guide fresate sui fianchi (non a cerniera: meno ferramenta, piu' pulito). Logo ENGRAVE-R sul coperchio + placchetta inox MOPA con l'anno. Interno diviso in 4 scomparti sagomati. PRODURRE ENTRO SETTEMBRE per la consegna di dicembre.",
-   "prompt_img": "a wooden corporate gift box 300x204x108 mm with a sliding engraved lid partly open, birch, a small steel plate with the year, four compartments inside holding local products, on a desk with warm December light"
+   "prompt_img_scena": "a wooden corporate gift box 300x204x108 mm with a sliding engraved lid partly open, birch, a small steel plate with the year, four compartments inside holding local products, on a desk with warm December light"
   },
   {
    "id": "ING-B2B-HOSP-129",
@@ -2678,7 +2678,7 @@
    "s_gift": 2,
    "s_uniq": 9,
    "prompt_prod": "Pannello betulla 6 mm 300x400, testa ad arco R12. Griglia di 8 riquadri sul passo 12 mm, ciascuno con icona ENGRAVE-R 24x24 e testo ENGRAVE-V h 5 mm bilingue. Fascia UV colore in testa col nome struttura. Aggancio a 2 punti. Layout fisso, contenuto variabile: nessuna riprogettazione per cliente.",
-   "prompt_img": "an information panel 300x400 mm on a holiday apartment wall, birch with a grid of eight engraved icons and short bilingual texts, coloured header band with the property name, arched top, daylight from a window"
+   "prompt_img_scena": "an information panel 300x400 mm on a holiday apartment wall, birch with a grid of eight engraved icons and short bilingual texts, coloured header band with the property name, arched top, daylight from a window"
   },
   {
    "id": "ING-B2B-REST-130",
@@ -2750,7 +2750,7 @@
    "s_gift": 3,
    "s_uniq": 9,
    "prompt_prod": "Lastra betulla 4 mm 60x108 con testa ad arco R12 e foro Ø5 per cordino. Faccia A: area UV WHITE opaca riscrivibile a pennarello. Faccia B: logo del locale ENGRAVE-V permanente. Nesting 80 pezzi/foglio: riempitivo ideale. Cordino cotone incluso.",
-   "prompt_img": "small wooden tags 60x108 mm hanging from beer taps and wine bottles behind a bar, arched tops, one face with a handwritten name on a matte panel, cotton cords, warm bar lighting"
+   "prompt_img_scena": "small wooden tags 60x108 mm hanging from beer taps and wine bottles behind a bar, arched tops, one face with a handwritten name on a matte panel, cotton cords, warm bar lighting"
   }
  ]
 }

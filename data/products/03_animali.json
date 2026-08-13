@@ -72,7 +72,7 @@
    "s_gift": 6,
    "s_uniq": 6,
    "prompt_prod": "Placchetta inox 36x48x1 acquistata a formato, NESSUN TAGLIO LASER sul metallo. Marcatura MOPA fronte e retro: nome h 6 mm sul fronte, telefono e microchip h 3 mm sul retro. Profondità di marcatura alta, non superficiale: deve reggere anni di sfregamento sul collare. Spigoli smussati e anello passante. Sgrassare con alcol prima di marcare.",
-   "prompt_img": "macro of a brushed stainless steel pet tag 36x48 mm hanging from a leather dog collar, deeply fiber-marked name on the front, rounded arched profile, shallow depth of field, warm daylight"
+   "prompt_img_scena": "macro of a brushed stainless steel pet tag 36x48 mm hanging from a leather dog collar, deeply fiber-marked name on the front, rounded arched profile, shallow depth of field, warm daylight"
   },
   {
    "id": "ING-PET-ID-072",
@@ -144,7 +144,7 @@
    "s_gift": 5,
    "s_uniq": 10,
    "prompt_prod": "Placchetta inox 36x36. QR 24x24 marcato MOPA sul fronte, su superficie COMPLETAMENTE LISCIA, contrasto minimo 60 percento, livello di correzione errori alto perché regga graffi e usura. Telefono h 3 mm sul retro. TEST DI SCANSIONE OBBLIGATORIO su 3 telefoni prima della spedizione, e ripetuto dopo 100 cicli di sfregamento.",
-   "prompt_img": "macro of a square steel pet tag 36x36 mm with a crisply fiber-marked QR code, hanging from a collar, a phone held just behind it scanning the code, soft indoor light"
+   "prompt_img_scena": "macro of a square steel pet tag 36x36 mm with a crisply fiber-marked QR code, hanging from a collar, a phone held just behind it scanning the code, soft indoor light"
   },
   {
    "id": "ING-PET-MEM-073",
@@ -219,7 +219,7 @@
    "s_gift": 7,
    "s_uniq": 9,
    "prompt_prod": "Fondo betulla 8 mm 156x204 con UV PRINT in tinta unita desaturata (grigio pietra, verde salvia, sabbia). Strato frontale betulla 4 mm distanziato 4 mm con silhouette CUT traforata, profilo essenziale a pochi tratti. Nome h 10 mm, due date h 5 mm ENGRAVE-V. NESSUNA frase preimpostata: se il cliente ne vuole una, è la sua. Packaging sobrio, nessun nastro colorato.",
-   "prompt_img": "a quiet layered wooden memorial plaque 156x204 mm, the simple silhouette of a dog cut through the front birch layer over a muted sage panel, engraved name and two dates below, generous empty space, on a plain shelf in soft light"
+   "prompt_img_scena": "a quiet layered wooden memorial plaque 156x204 mm, the simple silhouette of a dog cut through the front birch layer over a muted sage panel, engraved name and two dates below, generous empty space, on a plain shelf in soft light"
   },
   {
    "id": "ING-PET-MEM-074",
@@ -288,7 +288,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Acrilico trasparente 3 mm Ø120, bordi lucidi a vista. Silhouette e nome INCISI (non stampati): devono leggersi in controluce, e solo l'incisione diffonde la luce. Foro Ø4 con cordino. Pellicola protettiva rimossa solo dopo l'incisione, per evitare graffi.",
-   "prompt_img": "a clear acrylic disc 120 mm hanging in a sunlit window, an engraved cat silhouette and a name catching the light while the rest stays transparent, polished edges glowing, soft focus garden beyond the glass"
+   "prompt_img_scena": "a clear acrylic disc 120 mm hanging in a sunlit window, an engraved cat silhouette and a name catching the light while the rest stays transparent, polished edges glowing, soft focus garden beyond the glass"
   },
   {
    "id": "ING-PET-MEM-075",
@@ -361,7 +361,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Scatola betulla 6 mm 240x180x72, incastri 45 gradi. Coperchio SCORREVOLE in guide fresate, con silhouette e nome ENGRAVE-R. Interno in feltro 3 mm con quattro sedi sagomate: collare arrotolato Ø90, medaglietta 40x40, ciocca 60x40, foto 13x18. Palette desaturata, nessun colore acceso.",
-   "prompt_img": "an open wooden keepsake box 240x180x72 mm with a sliding engraved lid, felt-lined compartments holding a rolled leather collar, a steel tag and a photograph, muted tones, quiet domestic light"
+   "prompt_img_scena": "an open wooden keepsake box 240x180x72 mm with a sliding engraved lid, felt-lined compartments holding a rolled leather collar, a steel tag and a photograph, muted tones, quiet domestic light"
   },
   {
    "id": "ING-PET-DEC-076",
@@ -437,7 +437,7 @@
    "s_gift": 10,
    "s_uniq": 8,
    "prompt_prod": "Pannello betulla 6 mm 204x264: UV WHITE di fondo (la venatura altrimenti spegne i colori) + CMYK del ritratto elaborato dalla foto del cliente. Cornice betulla 4 mm distanziata 3 mm con luce ad arco R12. RICHIEDERE al cliente una foto minimo 1500 px sul lato corto: sotto, il risultato è scadente e va rifiutato l'ordine, non consegnato male.",
-   "prompt_img": "a UV-printed pet portrait on a birch panel 204x264 mm, a dog's face in full colour on a warm flat background, layered birch frame with an arched aperture, hanging on a pale wall beside a bookshelf"
+   "prompt_img_scena": "a UV-printed pet portrait on a birch panel 204x264 mm, a dog's face in full colour on a warm flat background, layered birch frame with an arched aperture, hanging on a pale wall beside a bookshelf"
   },
   {
    "id": "ING-PET-DEC-077",
@@ -508,7 +508,7 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Tre strati betulla 4 mm 204x204 distanziati 4 mm. Strato 1 profilo della razza CUT, strato 2 ombra sfalsata di 6 mm, strato 3 fondo UV. Serie iniziale di 12 razze più diffuse in Italia più il gatto europeo. Nome ENGRAVE-V h 8 mm alla base. Aggancio a fessura.",
-   "prompt_img": "a layered wooden wall piece 204x204 mm showing a dog breed profile cut through three spaced birch layers, offset shadow layer beneath, warm ochre printed background, engraved dog name at the base, on a hallway wall"
+   "prompt_img_scena": "a layered wooden wall piece 204x204 mm showing a dog breed profile cut through three spaced birch layers, offset shadow layer beneath, warm ochre printed background, engraved dog name at the base, on a hallway wall"
   },
   {
    "id": "ING-PET-ORG-078",
@@ -583,7 +583,7 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Fondo betulla 8 mm 288x144 con UV PRINT. Frontale betulla 4 mm distanziato 4 mm con silhouette CUT traforata. Quattro ganci sul passo 48 mm. Mensola 288x72 a incastro 45 gradi sotto. Nome del cane ENGRAVE-V. VERIFICA DI CARICO 5 kg: un guinzaglio strattonato tira davvero. Asole a goccia interasse 240 mm.",
-   "prompt_img": "a wall-mounted leash holder 288x144 mm in birch, a dog silhouette cut through the front layer showing a teal panel behind, four hooks with leads hanging, small shelf below holding a tag and poop bags, entrance hall"
+   "prompt_img_scena": "a wall-mounted leash holder 288x144 mm in birch, a dog silhouette cut through the front layer showing a teal panel behind, four hooks with leads hanging, small shelf below holding a tag and poop bags, entrance hall"
   },
   {
    "id": "ING-PET-ORG-079",
@@ -650,7 +650,7 @@
    "s_gift": 6,
    "s_uniq": 9,
    "prompt_prod": "Scatola betulla 6 mm 96x144x96, aperta sopra per il caricamento. Diametro interno libero 88 mm: accoglie i rotoli standard. Asola di uscita ad arco R12 sul fronte, 40x8 mm con bordi SMUSSATI, altrimenti il sacchetto si strappa. Retro con due asole a goccia.",
-   "prompt_img": "a small wall-mounted wooden dispenser 96x144x96 mm by a back door, a green poop bag emerging from an arched slot on the front, engraved dog name above, leash hanging beside it"
+   "prompt_img_scena": "a small wall-mounted wooden dispenser 96x144x96 mm by a back door, a green poop bag emerging from an arched slot on the front, engraved dog name above, leash hanging beside it"
   },
   {
    "id": "ING-PET-ORG-080",
@@ -718,7 +718,7 @@
    "s_gift": 6,
    "s_uniq": 9,
    "prompt_prod": "Betulla 4 mm 60x96x60, sviluppo a incastro con moschettone passante. Diametro interno 52 mm per rotoli compatti. Asola di uscita ad arco smussata. PESO SOTTO I 60 g: appeso al guinzaglio, se pesa dà fastidio e viene tolto. Trattamento idrorepellente: sta fuori con qualsiasi tempo.",
-   "prompt_img": "a small wooden bag holder 60x96 mm clipped to a dog leash, a bag emerging from the arched slot, engraved paw motif, held mid-walk with a park path blurred behind"
+   "prompt_img_scena": "a small wooden bag holder 60x96 mm clipped to a dog leash, a bag emerging from the arched slot, engraved paw motif, held mid-walk with a park path blurred behind"
   },
   {
    "id": "ING-PET-ALI-081",
@@ -787,7 +787,7 @@
    "s_gift": 7,
    "s_uniq": 9,
    "prompt_prod": "Betulla 12 mm, quattro pareti a incastro 45 gradi, ingombro 240x240x144. Foro circolare dimensionato sulla ciotola inox scelta (fornire tre altezze: 96, 144, 192 mm per taglia piccola, media, grande come SKU distinti). VERIFICA DI CARICO con acqua e cibo, e piedini antiscivolo: un cane di 30 kg che spinge deve trovarlo fermo. Olio idrorepellente su tutte le facce.",
-   "prompt_img": "a raised wooden dog bowl stand 240x240x144 mm in thick birch with a stainless bowl seated in the top, engraved dog name on the side, a labrador eating from it, kitchen floor background"
+   "prompt_img_scena": "a raised wooden dog bowl stand 240x240x144 mm in thick birch with a stainless bowl seated in the top, engraved dog name on the side, a labrador eating from it, kitchen floor background"
   },
   {
    "id": "ING-PET-ALI-082",
@@ -856,7 +856,7 @@
    "s_gift": 7,
    "s_uniq": 9,
    "prompt_prod": "Betulla 12 mm 420x240x144, incastri 45 gradi con traversa centrale portante. Due fori circolari sulle ciotole scelte, interasse 216 mm. Vano frontale 120x96 per la paletta dosatrice, apertura ad arco R12. Tre altezze come SKU. Verifica di carico e piedini antiscivolo.",
-   "prompt_img": "a double raised dog bowl stand 420x240x144 mm in thick birch, two stainless bowls seated in the top, a scoop tucked into an arched opening below, engraved name on the front rail, on a tiled kitchen floor"
+   "prompt_img_scena": "a double raised dog bowl stand 420x240x144 mm in thick birch, two stainless bowls seated in the top, a scoop tucked into an arched opening below, engraved name on the front rail, on a tiled kitchen floor"
   },
   {
    "id": "ING-PET-ALI-083",
@@ -925,7 +925,7 @@
    "s_gift": 7,
    "s_uniq": 9,
    "prompt_prod": "Betulla 8 mm 300x240x300, capienza calibrata su un sacco da 3 kg. Coperchio SCORREVOLE in guide fresate. Sede interna a clip per la paletta sul lato corto. Nome e silhouette ENGRAVE-R sul fronte, fascia UV colore. NOTA IGIENICA sul cartellino: il legno non è a contatto alimentare diretto, lasciare le crocchette nel loro sacchetto interno.",
-   "prompt_img": "a wooden kibble storage box 300x240x300 mm with a sliding lid partly open, a scoop clipped inside, engraved dog name and silhouette on the front, standing in a kitchen corner"
+   "prompt_img_scena": "a wooden kibble storage box 300x240x300 mm with a sliding lid partly open, a scoop clipped inside, engraved dog name and silhouette on the front, standing in a kitchen corner"
   },
   {
    "id": "ING-PET-ALI-084",
@@ -993,7 +993,7 @@
    "s_gift": 6,
    "s_uniq": 9,
    "prompt_prod": "Acrilico colato 5 mm 360x240, angoli R12, bordi lucidi a vista. Bordo rialzato ottenuto incollando una cornice 8 mm sul perimetro: trattiene l'acqua. Nome ENGRAVE inciso sul fondo, visibile attraverso. Gommini in silicone sotto. NESSUN LEGNO: contatto continuo con acqua.",
-   "prompt_img": "a clear acrylic pet feeding mat 360x240 mm with a raised rim and an engraved dog name visible through it, two bowls sitting on top, a few kibbles scattered, tiled floor"
+   "prompt_img_scena": "a clear acrylic pet feeding mat 360x240 mm with a raised rim and an engraved dog name visible through it, two bowls sitting on top, a few kibbles scattered, tiled floor"
   },
   {
    "id": "ING-PET-ORG-085",
@@ -1062,7 +1062,7 @@
    "s_gift": 7,
    "s_uniq": 8,
    "prompt_prod": "Betulla 8 mm 420x300x240, incastri 45 gradi, APERTO sopra e basso davanti (h 160 mm sul fronte) perché l'animale ci arrivi. Maniglie ad arco R12 traforate sui lati corti. Nome e silhouette ENGRAVE-R sul fronte. Spigoli interni carteggiati: ci mette il muso. Verifica di carico 8 kg.",
-   "prompt_img": "an open wooden toy box 420x300x240 mm with arched cut-out handles and a lower front, filled with dog toys, engraved name on the front, a dog pulling a rope toy out of it, living room floor"
+   "prompt_img_scena": "an open wooden toy box 420x300x240 mm with arched cut-out handles and a lower front, filled with dog toys, engraved name on the front, a dog pulling a rope toy out of it, living room floor"
   },
   {
    "id": "ING-PET-ORG-086",
@@ -1137,7 +1137,7 @@
    "s_gift": 6,
    "s_uniq": 10,
    "prompt_prod": "Fondo betulla 8 mm 360x240 con UV PRINT. Barra portacollari betulla 4 mm distanziata 12 mm dal fondo. Sei ganci sul passo 48 mm con NOME INCISO sotto ciascuno. Vaschetta 360x72 a incastro in basso. Configurabile a 4, 6 o 8 posizioni come SKU. Verifica di carico 6 kg.",
-   "prompt_img": "a wall organiser 360x240 mm in birch holding collars on a rail and leads on hooks, each position with an engraved pet name beneath, a shallow tray at the bottom with tags, utility room wall"
+   "prompt_img_scena": "a wall organiser 360x240 mm in birch holding collars on a rail and leads on hooks, each position with an engraved pet name beneath, a shallow tray at the bottom with tags, utility room wall"
   },
   {
    "id": "ING-PET-GIO-087",
@@ -1212,7 +1212,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Base betulla 12 mm 300x300 con 9 pozzetti Ø48 profondi 8 mm. Piano betulla 6 mm sovrapposto con 9 cursori scorrevoli in guide, ciascuno con presa ad arco R12. SICUREZZA: nessun pezzo staccabile, gioco 0,3 mm perché scorra ma non esca, spigoli tutti raggiati R12. Vernice a base acqua ATOSSICA e lavabile: va in bocca. Gommini antiscivolo.",
-   "prompt_img": "a wooden dog enrichment puzzle 300x300 mm on a floor, nine sliding covers over treat wells, a dog's nose pushing one aside to reveal a treat, thick birch with rounded edges, bright home lighting"
+   "prompt_img_scena": "a wooden dog enrichment puzzle 300x300 mm on a floor, nine sliding covers over treat wells, a dog's nose pushing one aside to reveal a treat, thick birch with rounded edges, bright home lighting"
   },
   {
    "id": "ING-PET-ORG-088",
@@ -1284,7 +1284,7 @@
    "s_gift": 7,
    "s_uniq": 10,
    "prompt_prod": "Betulla 4 mm 168x240x24, custodia a libro con dorso flessibile ottenuto da SCORE parallele passo 2 mm (living hinge). Sede interna dimensionata sul libretto sanitario standard più tasca per il passaporto. Nome, razza e microchip ENGRAVE-V sul fronte. Chiusura a nastro.",
-   "prompt_img": "a wooden pet document folder 168x240 mm with a flexible living-hinge spine, open to show a health booklet inside, engraved pet name and microchip number on the cover, tied with a ribbon, on a vet's counter"
+   "prompt_img_scena": "a wooden pet document folder 168x240 mm with a flexible living-hinge spine, open to show a health booklet inside, engraved pet name and microchip number on the cover, tied with a ribbon, on a vet's counter"
   },
   {
    "id": "ING-PET-GIO-089",
@@ -1355,7 +1355,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Torre betulla 6 mm 168x168x300, quattro ripiani interni inclinati 10 gradi e sfalsati. Fori d'accesso Ø60 su fianchi alterni: il gatto infila la zampa e la crocchetta scende al livello sotto. Vaschetta di raccolta estraibile alla base. Spigoli R12, vernice atossica lavabile. Base zavorrabile: non deve ribaltarsi.",
-   "prompt_img": "a vertical wooden cat treat tower 168x168x300 mm, staggered internal shelves visible through round side openings, a cat's paw reaching into one hole, a kibble in the collection tray at the base, living room floor"
+   "prompt_img_scena": "a vertical wooden cat treat tower 168x168x300 mm, staggered internal shelves visible through round side openings, a cat's paw reaching into one hole, a kibble in the collection tray at the base, living room floor"
   },
   {
    "id": "ING-PET-DEC-090",
@@ -1424,7 +1424,7 @@
    "s_gift": 7,
    "s_uniq": 9,
    "prompt_prod": "Betulla 12 mm, piano 360x240 con due mensole laterali sagomate 144 mm a incastro passante. ENGRAVE-R antiscivolo sul piano: griglia di solchi 0,8 mm profondi, passo 12 mm. VERIFICA DI CARICO 8 kg con margine: un gatto ci salta sopra, non ci si appoggia. Fissaggio a 4 punti, tasselli inclusi con istruzioni sul tipo di muro.",
-   "prompt_img": "a wooden cat wall shelf 360x240 mm mounted at height, engraved grip grooves across the top surface, a cat sitting on it looking down, scrolled bracket sides, pale living room wall"
+   "prompt_img_scena": "a wooden cat wall shelf 360x240 mm mounted at height, engraved grip grooves across the top surface, a cat sitting on it looking down, scrolled bracket sides, pale living room wall"
   },
   {
    "id": "ING-PET-DEC-091",
@@ -1496,7 +1496,7 @@
    "s_gift": 7,
    "s_uniq": 10,
    "prompt_prod": "Telaio betulla 12 mm 240x600 con guide laterali. Pannello betulla 6 mm avvolto in corda sisal, INSERITO A SCORRIMENTO nel telaio e tenuto da due linguette: si sfila e si sostituisce senza attrezzi. Pannelli di ricambio come SKU separato. Fissaggio a 4 punti, verifica a trazione 15 kg: il gatto tira davvero.",
-   "prompt_img": "a wall-mounted cat scratching panel 240x600 mm, birch frame holding a sisal-wrapped insert, a cat stretching up against it with claws out, one spare panel leaning against the wall nearby"
+   "prompt_img_scena": "a wall-mounted cat scratching panel 240x600 mm, birch frame holding a sisal-wrapped insert, a cat stretching up against it with claws out, one spare panel leaning against the wall nearby"
   },
   {
    "id": "ING-PET-DEC-092",
@@ -1565,7 +1565,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Betulla 8 mm 420x360x360, incastri 45 gradi SENZA COLLA, montaggio in 6 mosse. Ingresso ad arco R12 Ø200. TETTO REMOVIBILE appoggiato su quattro dentini: si toglie per pulire. Fori di ventilazione Ø24 sui fianchi. Nome ENGRAVE-R sul fronte, fascia UV colore. Spigoli interni carteggiati.",
-   "prompt_img": "a flat-pack wooden cat house 420x360x360 mm with an arched entrance, a cat sitting inside looking out, removable roof slightly lifted to show the joint, engraved name on the front, in a sunlit corner of a room"
+   "prompt_img_scena": "a flat-pack wooden cat house 420x360x360 mm with an arched entrance, a cat sitting inside looking out, removable roof slightly lifted to show the joint, engraved name on the front, in a sunlit corner of a room"
   },
   {
    "id": "ING-PET-DEC-093",
@@ -1634,7 +1634,7 @@
    "s_gift": 8,
    "s_uniq": 7,
    "prompt_prod": "Betulla 6 mm 204x96, testa ad arco R12. Nome CUT traforato h 36 mm su pannello UV colore incollato a filo dietro. Silhouette ENGRAVE-R a lato. Biadesivo strutturale o due fori Ø4. Nesting 12 pz/foglio.",
-   "prompt_img": "a wooden name plate 204x96 mm above a dog bed, the name cut straight through revealing a warm ochre panel behind, a small engraved breed silhouette beside it, arched top, cosy corner of a room"
+   "prompt_img_scena": "a wooden name plate 204x96 mm above a dog bed, the name cut straight through revealing a warm ochre panel behind, a small engraved breed silhouette beside it, arched top, cosy corner of a room"
   },
   {
    "id": "ING-PET-DEC-094",
@@ -1700,7 +1700,7 @@
    "s_gift": 6,
    "s_uniq": 9,
    "prompt_prod": "Acrilico colato 5 mm 240x168, bordi lucidi. Silhouette della razza CUT traforata, testo ENGRAVE h 14 mm. Quattro fori Ø6 (+0,3 mm su acrilico) agli angoli per fascette o viti. NESSUN LEGNO: sta su un cancello, esposto a sole e pioggia tutto l'anno.",
-   "prompt_img": "a clear acrylic sign 240x168 mm zip-tied to a garden gate, a dog breed silhouette cut straight through, engraved warning text below, polished edges catching sunlight, green hedge behind"
+   "prompt_img_scena": "a clear acrylic sign 240x168 mm zip-tied to a garden gate, a dog breed silhouette cut straight through, engraved warning text below, polished edges catching sunlight, green hedge behind"
   },
   {
    "id": "ING-PET-ORG-095",
@@ -1775,7 +1775,7 @@
    "s_gift": 6,
    "s_uniq": 10,
    "prompt_prod": "Pannello betulla 6 mm 300x240 con griglia 12 mm, area magnetica in lamina. 12 tessere betulla 4 mm 48x48 con pittogrammi ENGRAVE-R. SICUREZZA: magneti Ø10 ANNEGATI in sede fresata profonda 2,2 mm e COPERTI da betulla 1,5 mm incollata a tutta superficie, mai accessibili — un magnete al neodimio ingerito è un'emergenza. Aggancio a fessura.",
-   "prompt_img": "a wooden reminder board 300x240 mm on a kitchen wall, a grid of engraved magnetic tiles showing pet care icons arranged under weekday columns, pet names printed along the top, a hand moving one tile"
+   "prompt_img_scena": "a wooden reminder board 300x240 mm on a kitchen wall, a grid of engraved magnetic tiles showing pet care icons arranged under weekday columns, pet names printed along the top, a hand moving one tile"
   },
   {
    "id": "ING-PET-B2B-096",
@@ -1854,7 +1854,7 @@
    "s_gift": 3,
    "s_uniq": 10,
    "prompt_prod": "Fondo betulla 8 mm 360x300 con UV PRINT nel colore brand. Frontale betulla 4 mm distanziato 4 mm con logo CUT traforato: richiedere il file VETTORIALE, tratto minimo 3 mm. Placchetta inox MOPA con orari o payoff. Aggancio su distanziali 12 mm per l'ombra. Set coordinato di 4 targhe di servizio come SKU aggiuntivo.",
-   "prompt_img": "a pet grooming salon sign 360x300 mm on an interior wall, birch front layer with the salon logo cut through revealing a soft teal panel, a small steel plate with opening hours below, mounted on spacers"
+   "prompt_img_scena": "a pet grooming salon sign 360x300 mm on an interior wall, birch front layer with the salon logo cut through revealing a soft teal panel, a small steel plate with opening hours below, mounted on spacers"
   },
   {
    "id": "ING-PET-B2B-097",
@@ -1926,7 +1926,7 @@
    "s_gift": 3,
    "s_uniq": 10,
    "prompt_prod": "Betulla 8 mm 300x204x264, tre ripiani inclinati 5 gradi con fermo frontale 8 mm. Fianchi traforati con silhouette di animali. Ogni ripiano ha una scanalatura frontale 4,2 mm per i cartellini prezzo sostituibili. Area logo 120x30 sulla traversa alta. Verifica di carico 3 kg per ripiano. Smontabile.",
-   "prompt_img": "a three-tier wooden counter display 300x204x264 mm in a pet shop, animal silhouettes cut into the side panels, bags of treats on the inclined shelves, small price cards slotted into the front edges, shop logo engraved at the top"
+   "prompt_img_scena": "a three-tier wooden counter display 300x204x264 mm in a pet shop, animal silhouettes cut into the side panels, bags of treats on the inclined shelves, small price cards slotted into the front edges, shop logo engraved at the top"
   },
   {
    "id": "ING-PET-B2B-098",
@@ -1998,7 +1998,7 @@
    "s_gift": 2,
    "s_uniq": 10,
    "prompt_prod": "Betulla 4 mm 144x96, angoli R12, foro Ø5 per cordino o gancio. Area riscrivibile UV WHITE opaca 120x60 con righe di campo ENGRAVE-V (nome, proprietario, terapia, dieta). Logo della struttura ENGRAVE-V in testa. Vernice lavabile: sta in un ambiente disinfettato ogni giorno. Nesting 24 pz/foglio.",
-   "prompt_img": "wooden ID tags 144x96 mm hanging on kennel doors in a veterinary ward, each with a matte writable panel filled in by hand with a pet name and treatment, clinic logo engraved at the top, clean clinical lighting"
+   "prompt_img_scena": "wooden ID tags 144x96 mm hanging on kennel doors in a veterinary ward, each with a matte writable panel filled in by hand with a pet name and treatment, clinic logo engraved at the top, clean clinical lighting"
   },
   {
    "id": "ING-PET-DEC-099",
@@ -2071,7 +2071,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Cornice betulla 6 mm 264x180 con due luci: foto 10x15 ad arco R12 a sinistra, sede circolare Ø72 profonda 6 mm per l'impronta a destra. Passepartout betulla 4 mm distanziato 3 mm. Nome e data ENGRAVE-V. Fornire nel kit la pasta modellabile ad asciugatura all'aria e le istruzioni per prendere l'impronta.",
-   "prompt_img": "a layered wooden frame 264x180 mm holding a photo of a dog on one side and a clay paw print set into a round recess on the other, engraved name and date between them, standing on a shelf"
+   "prompt_img_scena": "a layered wooden frame 264x180 mm holding a photo of a dog on one side and a clay paw print set into a round recess on the other, engraved name and date between them, standing on a shelf"
   },
   {
    "id": "ING-PET-ORG-100",
@@ -2142,7 +2142,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Betulla 6 mm 96x300, profilo ad arco R12 in testa con asola per la maniglia. Quattro fori Ø6 sul bordo inferiore per i campanelli, fissati con anelli metallici (non cuciti su nastro: si sfilano). Nome e silhouette ENGRAVE-R. ALTEZZA REGOLABILE tramite cordino, perché un cucciolo cresce.",
-   "prompt_img": "a wooden dog training bell panel 96x300 mm hanging from a door handle, four brass bells on rings along the bottom edge, engraved dog name and silhouette, a puppy nosing it, hallway light"
+   "prompt_img_scena": "a wooden dog training bell panel 96x300 mm hanging from a door handle, four brass bells on rings along the bottom edge, engraved dog name and silhouette, a puppy nosing it, hallway light"
   }
  ]
 }

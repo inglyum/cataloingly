@@ -1,0 +1,269 @@
+{
+  "_meta": {
+    "versione": "R1",
+    "scopo": "Il sistema di FINITURA PREMIUM: palette di vernici all'acqua, protocollo di finitura in 10 passi, trattamenti del bordo laser e regole fotografiche. E' cio' che separa un pezzo tagliato da un prodotto finito.",
+    "diagnosi": "Un oggetto laser sembra grezzo per tre motivi, sempre gli stessi: il bordo bruciato lasciato sporco di fuliggine, la superficie non carteggiata che assorbe la luce in modo irregolare, e l'assenza di una finitura che dia un livello di lucentezza controllato. Nessuno dei tre riguarda il disegno: riguardano tutti la lavorazione dopo il taglio.",
+    "regola": "Il 70% della percezione di qualita' di un pezzo in legno lavorato al laser si decide DOPO il taglio. Un buon disegno mal finito sembra un souvenir; un disegno semplice finito bene sembra design."
+  },
+  "palette": {
+    "_nota": "Vernici acriliche ALL'ACQUA, atossiche, a bassa emissione. Tutte disponibili in opaco (5 gloss) e satinato (20 gloss). I codici esadecimali sono riferimenti di tono per la grafica e per il prompt fotografico: il colore reale va confrontato a campione su betulla, perche' il fondo giallo del legno vira ogni tinta.",
+    "colori": {
+      "BLU-COB": {
+        "nome": "Blu Cobalto",
+        "hex": "#1B4B6B",
+        "uso": "Pannelli di fondo, finestre ad arco, linea mediterranea",
+        "note": "Il blu profondo dietro un traforo e' la firma visiva del catalogo"
+      },
+      "TUR-SAL": {
+        "nome": "Turchese Salino",
+        "hex": "#3E9B9B",
+        "uso": "Mare, linea costiera, souvenir, bambini",
+        "note": "Su betulla vira leggermente al verde: correggere in mescola"
+      },
+      "VER-ULI": {
+        "nome": "Verde Ulivo",
+        "hex": "#6B7A4A",
+        "uso": "Linea agrumi, autunno, cantina, pet",
+        "note": "Ottimo come colore di fondo neutro caldo"
+      },
+      "OCR-TUF": {
+        "nome": "Ocra Tufo",
+        "hex": "#C89A4A",
+        "uso": "Pietra, architettura, hospitality, cerimonie",
+        "note": "Il piu' vicino al tono naturale della betulla: usare per transizioni morbide"
+      },
+      "GIA-ZAG": {
+        "nome": "Giallo Zagara",
+        "hex": "#E8C24A",
+        "uso": "Agrumi, bambini, estate, accenti",
+        "note": "Serve sempre il bianco di fondo, altrimenti la venatura lo spegne"
+      },
+      "COR-TER": {
+        "nome": "Corallo Terracotta",
+        "hex": "#C8563C",
+        "uso": "Accenti caldi, San Valentino, bambini, street food",
+        "note": "Colore di richiamo: usarlo su non piu' del 20% della superficie"
+      },
+      "BIA-CAL": {
+        "nome": "Bianco Calce",
+        "hex": "#F2EDE4",
+        "uso": "Fondi chiari, linea nuziale, minimal, memorial",
+        "note": "Non e' bianco puro: ha una punta di caldo che evita l'effetto plastica"
+      },
+      "GRI-PIE": {
+        "nome": "Grigio Pietra",
+        "hex": "#8B8D86",
+        "uso": "Memorial, B2B, ufficio, registro sobrio",
+        "note": "Neutro che non compete con il legno"
+      },
+      "NER-LAV": {
+        "nome": "Nero Lava",
+        "hex": "#1C1F22",
+        "uso": "Premium, cyberpunk, Halloween, insegne",
+        "note": "Su MDF laccato e' gia' di serie; su betulla servono 3 mani"
+      },
+      "ROS-SCI": {
+        "nome": "Rosso Sciara",
+        "hex": "#8A2E24",
+        "uso": "Edizioni limitate, laurea, araldica, vino",
+        "note": "Registro istituzionale, mai brillante"
+      },
+      "SAB-DUN": {
+        "nome": "Sabbia Duna",
+        "hex": "#D9C9A8",
+        "uso": "Fondi neutri caldi, turismo, spiaggia",
+        "note": "Quasi invisibile su betulla: usare solo per uniformare"
+      },
+      "VER-SAL": {
+        "nome": "Verde Salvia",
+        "hex": "#A3B199",
+        "uso": "Memorial, nursery, botanico, wellness",
+        "note": "Desaturato: il colore piu' adatto ai prodotti di lutto"
+      }
+    },
+    "abbinamenti_per_categoria": {
+      "HOME": {
+        "fondo": "BLU-COB",
+        "accento": "GIA-ZAG",
+        "neutro": "BIA-CAL"
+      },
+      "EVENT": {
+        "fondo": "BIA-CAL",
+        "accento": "OCR-TUF",
+        "neutro": "SAB-DUN"
+      },
+      "PET": {
+        "fondo": "VER-SAL",
+        "accento": "OCR-TUF",
+        "neutro": "GRI-PIE"
+      },
+      "B2B": {
+        "fondo": "NER-LAV",
+        "accento": "OCR-TUF",
+        "neutro": "GRI-PIE"
+      },
+      "KIDS": {
+        "fondo": "TUR-SAL",
+        "accento": "COR-TER",
+        "neutro": "GIA-ZAG"
+      },
+      "SEASON": {
+        "fondo": "BLU-COB",
+        "accento": "COR-TER",
+        "neutro": "OCR-TUF"
+      },
+      "LIMITED": {
+        "fondo": "ROS-SCI",
+        "accento": "NER-LAV",
+        "neutro": "BIA-CAL"
+      },
+      "ANIME": {
+        "fondo": "NER-LAV",
+        "accento": "COR-TER",
+        "neutro": "TUR-SAL"
+      },
+      "TOUR": {
+        "fondo": "TUR-SAL",
+        "accento": "SAB-DUN",
+        "neutro": "BIA-CAL"
+      },
+      "SICILY": {
+        "fondo": "BLU-COB",
+        "accento": "GIA-ZAG",
+        "neutro": "BIA-CAL"
+      }
+    }
+  },
+  "protocollo": {
+    "_nota": "Dieci passi, sempre nello stesso ordine. Saltarne uno si vede.",
+    "passi": [
+      "1. CARTEGGIATURA PROGRESSIVA — grana 180, poi 240, poi 320, sempre nel verso della venatura. Sotto i 320 la superficie resta aperta e la vernice entra a macchie.",
+      "2. DEPOLVERATURA — aria compressa a bassa pressione e panno antistatico. Mai panno umido: rialza la fibra.",
+      "3. PULIZIA DEL BORDO — fuliggine rimossa con gomma abrasiva morbida e alcol isopropilico. E' il passo che piu' di tutti separa un pezzo grezzo da uno finito: un bordo sporco sporca anche le mani del cliente.",
+      "4. FONDO TURAPORI ALL'ACQUA — una mano diluita al 10%, a spruzzo o a pennello sintetico. Uniforma l'assorbimento e impedisce che il colore vada a chiazze sulla venatura.",
+      "5. CARTEGGIATURA DI SGRANATURA — grana 400 a mano leggerissima, solo per abbattere la fibra rialzata dal fondo. Non si toglie colore, si toglie ruvidita'.",
+      "6. PRIMA MANO DI COLORE — vernice acrilica all'acqua atossica, a spruzzo, passata in un verso. Attesa di 40 minuti.",
+      "7. SECONDA MANO INCROCIATA — stesso prodotto, passata a 90 gradi rispetto alla prima. Due mani incrociate danno una copertura uniforme che tre mani nello stesso verso non danno.",
+      "8. TRATTAMENTO DEL BORDO — secondo la scelta di finitura (vedi trattamenti_bordo). Il bordo va deciso in progetto, non improvvisato alla fine.",
+      "9. PROTETTIVO FINALE — cera dura all'acqua o vernice trasparente satinata a 20 gloss. Il livello di lucentezza va CONTROLLATO: sopra i 40 gloss un oggetto in legno sembra plastica.",
+      "10. CONTROLLO SOTTO LUCE RADENTE — si guarda il pezzo con la luce quasi parallela alla superficie. Solo cosi' si vedono colature, fibra rialzata, incisioni sporche e bordi non puliti. Se passa questo esame, e' finito."
+    ],
+    "tempi": {
+      "carteggiatura_min_dm2": 1.2,
+      "verniciatura_min_dm2": 0.8,
+      "attesa_totale_min": 90,
+      "_nota": "L'attesa non e' manodopera e non va contata nel costo del pezzo, ma va contata nella PIANIFICAZIONE: un lotto verniciato oggi si assembla domani."
+    }
+  },
+  "trattamenti_bordo": {
+    "AMBRA": {
+      "nome": "Bordo ambra a vista",
+      "descrizione": "Il bordo bruciato dal laser viene pulito dalla fuliggine e sigillato trasparente, restando visibile nel suo tono ambrato caldo.",
+      "quando": "E' la firma di Ingly Design. Da usare come impostazione predefinita su tutto il legno naturale.",
+      "come": "Gomma abrasiva morbida, alcol isopropilico, poi cera dura trasparente solo sul bordo con un pennellino."
+    },
+    "SIGILLATO": {
+      "nome": "Bordo carteggiato e sigillato",
+      "descrizione": "Il bordo viene carteggiato fino a schiarire e poi sigillato: il pezzo perde il segno del laser e sembra fresato.",
+      "quando": "Prodotti che vanno in mano di continuo (portachiavi, segnalibri, giochi) e linea B2B formale.",
+      "come": "Carta 240 su listello rigido, poi 400, poi fondo turapori sul solo bordo."
+    },
+    "A_FILO": {
+      "nome": "Bordo verniciato a filo",
+      "descrizione": "Il bordo viene verniciato dello stesso colore della faccia: il pezzo diventa monocromo e il legno scompare.",
+      "quando": "Linea premium nera, insegne B2B, edizioni limitate, cyberpunk.",
+      "come": "Due mani sul bordo prima delle mani sulla faccia, cosi' l'eventuale sbavatura viene coperta."
+    }
+  },
+  "lucentezza": {
+    "OPACO": {
+      "gloss": 5,
+      "uso": "Bambini, memorial, linea sobria, fondi",
+      "resa": "superficie vellutata che assorbe la luce, nessun riflesso"
+    },
+    "SATINATO": {
+      "gloss": 20,
+      "uso": "Impostazione predefinita di catalogo",
+      "resa": "riflesso morbido e allungato, la luce scivola senza specchiare"
+    },
+    "SEMILUCIDO": {
+      "gloss": 40,
+      "uso": "Solo superfici d'uso lavabili (vassoi, taglieri, bagno)",
+      "resa": "riflesso definito ma non speculare"
+    },
+    "_limite": "MAI sopra 40 gloss su legno: da li' in su l'occhio legge plastica, e il prodotto perde la fascia premium anche se e' fatto bene."
+  },
+  "fotografia": {
+    "_nota": "Il brief fotografico e' generato da build.py combinando queste parti con i dati di ogni prodotto. Serve perche' un prompt che descrive solo l'oggetto produce immagini piatte: l'aspetto premium sta nella luce, nella superficie e nell'ottica, non nel soggetto.",
+    "ottiche": {
+      "hero": "85mm equivalent lens, f/4, camera at subject height, slight perspective compression, subject filling 70% of the frame",
+      "dettaglio": "100mm macro lens, f/5.6, focus locked on the engraved edge, focus falling off gently behind, extreme close range",
+      "ambientata": "50mm lens, f/2.8, camera slightly above the subject, recognisable but softly defocused context",
+      "piano": "50mm lens, f/8, perfectly perpendicular flat-lay from directly above, no perspective distortion, even edge-to-edge sharpness"
+    },
+    "luci": {
+      "radente": "one large diffused softbox at 45 degrees from the left and set very low, almost parallel to the surface, so every engraved line casts a micro-shadow and reads as real depth; white bounce card on the right at 30% fill; no specular hotspots",
+      "morbida": "large softbox high and frontal, second bounce card below, long soft gradient shadows, no hard reflections anywhere",
+      "mediterranea": "natural north-facing window light, late morning, 5200K, shadows crisp but not harsh, one warm bounce coming back off a lime-washed wall",
+      "notturna": "only the light the product itself emits, plus a very low ambient fill, long exposure, no external artificial light, deep clean shadows"
+    },
+    "sfondi": {
+      "studio": "seamless 18% grey paper backdrop, no artificial drop shadow, clean separation",
+      "calce": "lime-washed white plaster wall with visible trowel texture, the subject's own natural shadow falling on it",
+      "pietra": "matte travertine or volcanic stone surface, neutral tone, fine natural pitting visible",
+      "legno": "brushed natural oak surface, grain visible but never competing with the subject",
+      "lino": "crumpled natural linen cloth, ivory tone, soft folds catching the light"
+    },
+    "negativo": "no plastic sheen, no glossy varnish look, no CGI or 3D render appearance, no oversaturated colours, no HDR, no artificial drop shadows, no fake wood grain texture, no visible text or watermark, no blurred or doubled edges, no burnt black soot smears on the cut edges, no cheap souvenir look, no clip-art illustration style",
+    "ottiche_it": {
+      "hero": "85 mm equivalente, f/4, camera all'altezza del soggetto, leggera compressione prospettica",
+      "dettaglio": "100 mm macro, f/5.6, fuoco sul bordo inciso, sfocato progressivo dietro",
+      "ambientata": "50 mm, f/2.8, camera leggermente sopra il soggetto, contesto riconoscibile ma sfocato",
+      "piano": "50 mm, f/8, ripresa dall'alto perfettamente perpendicolare, nessuna distorsione"
+    },
+    "luci_it": {
+      "radente": "una sorgente diffusa grande a 45 gradi da sinistra e molto bassa, quasi parallela alla superficie, cosi' le incisioni proiettano una micro-ombra e si leggono come profondita'; pannello bianco di rimbalzo a destra al 30 percento",
+      "morbida": "softbox grande frontale-alto, secondo pannello di rimbalzo in basso, ombre lunghe e sfumate, nessun riflesso speculare",
+      "mediterranea": "luce naturale di finestra a nord, tarda mattina, temperatura 5200K, ombre nette ma non dure, un riflesso caldo di rimbalzo da una parete a calce",
+      "notturna": "solo la luce emessa dal prodotto piu' un riempimento ambientale bassissimo, esposizione lunga, nessuna luce artificiale esterna"
+    },
+    "sfondi_it": {
+      "studio": "fondo continuo grigio carta 18 percento, nessuna ombra portata artificiale",
+      "calce": "parete intonacata a calce bianca con texture visibile, ombra naturale del soggetto",
+      "pietra": "piano di travertino o pietra lavica opaca, tono neutro",
+      "legno": "piano di rovere naturale spazzolato, venatura visibile ma non protagonista",
+      "lino": "tessuto di lino naturale sgualcito, tono avorio"
+    }
+  },
+  "livelli": {
+    "_nota": "La finitura premium integrale NON regge su tutti i prodotti, ed e' un fatto aritmetico non un'opinione: su una bomboniera da 2,50 EUR quindici minuti di lavorazione a mano costano piu' del prezzo di vendita. Il catalogo usa tre livelli, assegnati in base a quanto il prodotto puo' sostenere.",
+    "NATURALE": {
+      "nome": "Naturale sigillata",
+      "cosa": "Carteggiatura 180-240-320, pulizia del bordo, una mano di sigillante trasparente all'acqua. Nessun colore a pennello: il colore, dove serve, lo fa la stampa UV.",
+      "quando": "Prodotti in lotto e a prezzo d'impulso — bomboniere, segnaposto, tessere, magneti, segnalibri — e tutti i pezzi in cui la UV copre gia' la superficie.",
+      "sanding_facce": 2,
+      "quota_vernice": 0.0,
+      "sigillante_min_dm2": 0.3,
+      "extra_min": 0.0
+    },
+    "PREMIUM": {
+      "nome": "Premium verniciata",
+      "cosa": "Il ciclo completo in dieci passi: carteggiatura progressiva, fondo turapori, due mani incrociate di acrilico all'acqua, trattamento del bordo, protettivo satinato.",
+      "quando": "Impostazione predefinita per i prodotti sopra i 25 EUR di prezzo di mercato.",
+      "sanding_facce": 2,
+      "quota_vernice": 0.5,
+      "sigillante_min_dm2": 0.0,
+      "extra_min": 0.0
+    },
+    "LUXURY": {
+      "nome": "Luxury a cera",
+      "cosa": "Premium piu' una terza mano, cera dura all'acqua lucidata a mano e controllo finale sotto luce radente pezzo per pezzo.",
+      "quando": "Edizioni limitate, pezzi sopra gli 80 EUR, prodotti con inserto metallico marcato.",
+      "sanding_facce": 2,
+      "quota_vernice": 0.75,
+      "sigillante_min_dm2": 0.0,
+      "extra_min": 6.0
+    },
+    "regola_di_assegnazione": "LUXURY se e' un'edizione limitata o il tetto di mercato supera 80 EUR. PREMIUM se il tetto supera 25 EUR. NATURALE sotto, e sempre sui prodotti in lotto oltre i 60 pezzi. Il livello e' calcolato da build.py e si puo' forzare con il campo 'fin' sul prodotto."
+  }
+}

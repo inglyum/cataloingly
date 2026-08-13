@@ -72,6 +72,7 @@ def load_products():
 
 REF = load("reference")
 CATEGORIES = load("categories")
+FIN = load("finiture")
 PRODUCTS = load_products()
 
 MAT = REF["materiali"]
@@ -82,6 +83,13 @@ PLAT = REF["piattaforme"]
 MULT = REF["listino_moltiplicatori"]
 PESI = REF["score_pesi"]
 SOGLIE = REF["priorita_soglie"]
+
+PAL = FIN["palette"]["colori"]
+ABB = FIN["palette"]["abbinamenti_per_categoria"]
+BORDI = FIN["trattamenti_bordo"]
+GLOSS = FIN["lucentezza"]
+FOTO = FIN["fotografia"]
+LIVELLI = FIN["livelli"]
 
 
 # --------------------------------------------------------------------------
@@ -157,6 +165,49 @@ def costo_packaging(p):
     return pk["eur"] + PACK["cartellino"]["eur"]
 
 
+def livello_finitura(p):
+    """
+    Quale livello di finitura questo prodotto puo' SOSTENERE, non quale
+    vorremmo dargli. Un pezzo in lotto da 150 non regge la lavorazione a mano.
+    """
+    if p.get("fin") in LIVELLI:
+        return p["fin"]
+    if not any(k.startswith(("betulla", "mdf", "pioppo")) for k in p.get("mat", [])):
+        return "NATURALE"
+    # Il criterio e' il PREZZO ATTESO del prodotto, non il tetto della fascia di
+    # mercato: il tetto e' il pezzo piu' caro della categoria, non il nostro.
+    mkt = p.get("mkt")
+    atteso = (mkt[0] + (mkt[1] - mkt[0]) * 0.40) if mkt else 0
+    if p.get("lotto", 20) >= 60:
+        return "NATURALE"
+    if "LIMITED EDITION" in p.get("tags", []) or atteso >= 70:
+        return "LUXURY"
+    if atteso >= 22:
+        return "PREMIUM"
+    return "NATURALE"
+
+
+def tempo_finitura_min(p):
+    """
+    Minuti di finitura premium: carteggiatura progressiva + fondo + due mani di
+    vernice all'acqua. NON e' un dettaglio: su un pannello da 300x300 sono circa
+    18 minuti, che a 18 EUR/h valgono 5,40 EUR su un costo totale di 17.
+    Specificare una finitura premium e non contarla nel costo significa vendere
+    in perdita esattamente sui prodotti che si vogliono posizionare in alto.
+
+    Non si applica ad acrilico e pietra, che non si carteggiano ne' si verniciano.
+    """
+    if not any(k.startswith(("betulla", "mdf", "pioppo")) for k in p.get("mat", [])):
+        return 0.0
+    t = FIN["protocollo"]["tempi"]
+    lv = LIVELLI[livello_finitura(p)]
+    area_dm2 = area_mq(p["dim"]) * 100
+    return (area_dm2 * (t["carteggiatura_min_dm2"] * lv["sanding_facce"]
+                        + t["verniciatura_min_dm2"] * lv["quota_vernice"] * 2
+                        + lv["sigillante_min_dm2"])
+            + lv["extra_min"])
+
+
 def calcola_costo(p):
     """Ritorna il dizionario completo dei costi di un prodotto."""
     lotto = p.get("lotto", 20)
@@ -165,6 +216,7 @@ def calcola_costo(p):
     t_uv = tempo_uv_min(p)
     t_mopa = tempo_mopa_min(p)
     t_asm = p.get("assembly_min", PLAT[p["platform"]]["assemblaggio_min"])
+    t_fin = tempo_finitura_min(p)
     t_setup = MACH["setup_min_lotto"] / max(lotto, 1)
 
     c_mat = costo_materiale(p)
@@ -172,23 +224,26 @@ def calcola_costo(p):
     c_uv = t_uv / 60.0 * MACH["uv_eur_h"] + costo_inchiostro(p)
     c_mopa = t_mopa / 60.0 * MACH["mopa_eur_h"]
     c_lav = t_asm / 60.0 * MACH["manodopera_eur_h"]
+    c_fin = t_fin / 60.0 * MACH["manodopera_eur_h"]
     c_comp = costo_componenti(p)
     c_pack = costo_packaging(p)
 
-    totale = c_mat + c_co2 + c_uv + c_mopa + c_lav + c_comp + c_pack
-    t_totale = t_co2 + t_uv + t_mopa + t_asm + t_setup
+    totale = c_mat + c_co2 + c_uv + c_mopa + c_lav + c_fin + c_comp + c_pack
+    t_totale = t_co2 + t_uv + t_mopa + t_asm + t_fin + t_setup
 
     return {
         "t_co2_min": round(t_co2, 2),
         "t_uv_min": round(t_uv, 2),
         "t_mopa_min": round(t_mopa, 2),
         "t_assemblaggio_min": round(t_asm, 2),
+        "t_finitura_min": round(t_fin, 2),
         "t_totale_min": round(t_totale, 1),
         "c_materiale": round(c_mat, 2),
         "c_co2": round(c_co2, 2),
         "c_uv": round(c_uv, 2),
         "c_mopa": round(c_mopa, 2),
         "c_manodopera": round(c_lav, 2),
+        "c_finitura": round(c_fin, 2),
         "c_componenti": round(c_comp, 2),
         "c_packaging": round(c_pack, 2),
         "costo_totale": round(totale, 2),
@@ -432,6 +487,191 @@ def genera_seo(p, cat):
 # Assemblaggio del record finale
 # --------------------------------------------------------------------------
 
+
+
+# --------------------------------------------------------------------------
+# Finitura premium e brief fotografico
+# --------------------------------------------------------------------------
+
+def _colori(p):
+    """Palette del prodotto: dalla categoria, salvo override con il campo 'pal'."""
+    base = dict(ABB.get(p["cat"], ABB["HOME"]))
+    base.update(p.get("pal", {}))
+    return {k: PAL[v] for k, v in base.items() if v in PAL}, base
+
+
+def _bordo(p):
+    """Trattamento del bordo laser: dichiarato in progetto, non improvvisato."""
+    if p.get("bordo") in BORDI:
+        return p["bordo"]
+    mats = " ".join(p.get("mat", []))
+    testo = (p.get("tipo", "") + " " + p.get("concept", "")).lower()
+    # Superfici gia' finite e linea premium scura: bordo verniciato a filo
+    if "mdfnero" in mats or p["cat"] in ("ANIME",) or "insegna" in testo:
+        return "A_FILO"
+    # Oggetti che stanno in mano di continuo: bordo carteggiato e sigillato
+    if any(w in testo for w in ("portachiavi", "segnalibro", "medaglia", "puzzle",
+                                "tessere", "gioco", "spilla", "targhetta", "cartellin")):
+        return "SIGILLATO"
+    return "AMBRA"
+
+
+def _gloss(p):
+    """Livello di lucentezza: mai sopra 40 su legno."""
+    testo = (p.get("tipo", "") + " " + p.get("concept", "")).lower()
+    if p["cat"] == "KIDS" or "memorial" in testo or "commemorativ" in testo:
+        return "OPACO"
+    if any(w in testo for w in ("vassoio", "tagliere", "bagno", "lavello", "ciotola",
+                                "sottopentola", "porta conto")):
+        return "SEMILUCIDO"
+    return "SATINATO"
+
+
+def genera_finitura(p):
+    """Scheda di finitura premium: cosa si fa al pezzo DOPO il taglio."""
+    cols, codici = _colori(p)
+    bordo = _bordo(p)
+    gloss = _gloss(p)
+    liv = livello_finitura(p)
+    lv = LIVELLI[liv]
+    area_dm2 = max(area_mq(p["dim"]) * 100, 0.1)
+
+    righe = []
+    righe.append(f"FINITURA {liv} — {p['name']}")
+    righe.append(f"{lv['nome']}: {lv['cosa']}")
+    righe.append(f"Perche' questo livello: {lv['quando']}")
+    righe.append("")
+    righe.append("PALETTE (vernici acriliche all'acqua, atossiche)")
+    for ruolo, cod in codici.items():
+        if cod in PAL:
+            c = PAL[cod]
+            righe.append(f"  · {ruolo.upper():<8} {cod}  {c['nome']}  {c['hex']}  — {c['uso']}")
+            righe.append(f"    {c['note']}")
+    righe.append("")
+    righe.append(f"LUCENTEZZA  {gloss} — {GLOSS[gloss]['gloss']} gloss. {GLOSS[gloss]['resa']}")
+    righe.append(f"BORDO       {BORDI[bordo]['nome']}. {BORDI[bordo]['descrizione']}")
+    righe.append(f"            Come: {BORDI[bordo]['come']}")
+    righe.append("")
+    righe.append("CICLO DI FINITURA")
+    passi = FIN["protocollo"]["passi"]
+    if liv == "NATURALE":
+        passi = [x for x in passi if not x.startswith(("4.", "6.", "7."))]
+        righe.append("  (livello naturale: niente fondo turapori ne' mani di colore, "
+                     "il colore lo fa la stampa UV)")
+    for passo in passi:
+        righe.append(f"  {passo}")
+    righe.append("")
+    t = FIN["protocollo"]["tempi"]
+    min_cart = area_dm2 * t["carteggiatura_min_dm2"]
+    min_vern = area_dm2 * t["verniciatura_min_dm2"]
+    righe.append(f"TEMPI SU QUESTO PEZZO  superficie ~{area_dm2:.1f} dm² · "
+                 f"carteggiatura ~{min_cart:.1f} min · verniciatura ~{min_vern:.1f} min · "
+                 f"attesa {t['attesa_totale_min']} min (non e' manodopera, ma va pianificata)")
+    return "\n".join(righe)
+
+
+def _inquadratura(p):
+    testo = (p.get("tipo", "") + " " + p.get("concept", "")).lower()
+    comp = p.get("comp", {})
+    if "led_usb" in comp or "led_tealight" in comp:
+        return "ambientata", "notturna"
+    if max(p["dim"][0], p["dim"][1]) <= 96:
+        return "dettaglio", "radente"
+    if p["platform"] in ("P5",) and max(p["dim"][0], p["dim"][1]) >= 240:
+        return "hero", "radente"
+    if p["platform"] in ("P3", "P4"):
+        return "hero", "morbida"
+    if any(w in testo for w in ("coaster", "sottobicchier", "tessere", "puzzle", "memory")):
+        return "piano", "morbida"
+    return "hero", "mediterranea"
+
+
+def _sfondo(p):
+    per_cat = {"HOME": "calce", "EVENT": "lino", "PET": "legno", "B2B": "studio",
+               "KIDS": "studio", "SEASON": "lino", "LIMITED": "pietra",
+               "ANIME": "studio", "TOUR": "legno", "SICILY": "calce"}
+    return per_cat.get(p["cat"], "calce")
+
+
+def _spessore_visibile(p):
+    sp = []
+    for k in p.get("mat", []):
+        m = MAT.get(k)
+        if m and m["sp"]:
+            sp.append(m["sp"])
+    return max(sp) if sp else 6
+
+
+def genera_prompt_immagine(p):
+    """
+    Brief fotografico completo. Un prompt che descrive solo il soggetto produce
+    immagini piatte e grezze: l'aspetto premium sta nella SUPERFICIE, nella LUCE
+    e nell'OTTICA, che qui vengono specificate esplicitamente.
+    """
+    cols, codici = _colori(p)
+    bordo = _bordo(p)
+    gloss = _gloss(p)
+    inq, luce = _inquadratura(p)
+    sfondo = _sfondo(p)
+    sp = _spessore_visibile(p)
+    d = p["dim"]
+
+    bordo_en = {
+        "AMBRA": ("laser-cut edges left visible in their warm toasted-amber tone, "
+                  "meticulously cleaned of soot and sealed clear — warm caramel edge, "
+                  "never black, never smudged"),
+        "SIGILLATO": ("laser-cut edges sanded back pale and sealed, so the cut reads as "
+                      "machined rather than burnt — smooth to the touch, no char"),
+        "A_FILO": ("edges painted flush with the faces in the same colour, so the piece "
+                   "reads as one solid monolithic object with no visible ply layers"),
+    }[bordo]
+
+    gloss_en = {
+        "OPACO": ("finished in matte water-based acrylic at 5 gloss units — the surface is "
+                  "velvety and chalky, absorbing light, absolutely no shine"),
+        "SATINATO": ("finished in satin water-based acrylic at 20 gloss units — light slides "
+                     "across the surface in a soft elongated sheen, never a mirror highlight"),
+        "SEMILUCIDO": ("finished in semi-gloss water-based lacquer at 40 gloss units — a defined "
+                       "but non-specular reflection, still clearly wood and not plastic"),
+    }[gloss]
+
+    colori_en = ", ".join(
+        f"{c['nome']} ({c['hex']})" for c in cols.values()) or "natural birch"
+
+    parti = [
+        f"PROFESSIONAL PRODUCT PHOTOGRAPH of a premium laser-cut and hand-finished wooden object. "
+        f"Editorial craft-design quality, as shot for a high-end catalogue.",
+        "",
+        f"SHOT — {FOTO['ottiche'][inq]}.",
+        "",
+        f"SUBJECT — {p['prompt_img_scena']}",
+        f"Overall size {d[0]}×{d[1]}"
+        + (f"×{d[2]} mm" if len(d) > 2 and d[2] else " mm")
+        + f". Built from {sp} mm Baltic birch plywood: on the exposed edges the individual "
+          f"ply veneers are visible as fine parallel stripes, sharp and evenly spaced.",
+        "",
+        f"SURFACE AND FINISH — this is the part that must read as premium. The face is sanded "
+        f"to 320 grit with the fine birch grain still legible but never rough, sealed with a "
+        f"water-based grain filler, then {gloss_en}. The engraved lines are clean and crisp with "
+        f"a shallow V profile, a shade darker than the surrounding wood, with no soot halo around "
+        f"them. {bordo_en.capitalize()}.",
+        "",
+        f"COLOUR — {colori_en}. Water-based acrylic, applied in two crossed coats, perfectly even "
+        f"with no brush marks, no runs, no pooling in the engraved lines.",
+        "",
+        f"LIGHT — {FOTO['luci'][luce]}.",
+        "",
+        f"SET — {FOTO['sfondi'][sfondo]}. Minimal, considered styling; at most two supporting "
+        f"props, both real and worn, never new-looking. Nothing distracts from the object.",
+        "",
+        f"MOOD — quiet, warm, Mediterranean. The object looks made by hand but finished with "
+        f"machine precision. Photorealistic, natural colour, no post-production tricks.",
+        "",
+        f"NEGATIVE — {FOTO['negativo']}.",
+    ]
+    return "\n".join(parti)
+
+
 def elabora(p):
     cat = CATEGORIES["categorie"][p["cat"]]
     costi = calcola_costo(p)
@@ -471,7 +711,12 @@ def elabora(p):
         "bundle": " | ".join(p.get("bundle", [])),
         "link_riferimento": p.get("ref", ""),
         "prompt_produzione": p.get("prompt_prod", ""),
-        "prompt_immagine": p.get("prompt_img", ""),
+        "prompt_immagine": genera_prompt_immagine(p),
+        "scheda_finitura": genera_finitura(p),
+        "livello_finitura": livello_finitura(p),
+        "trattamento_bordo": BORDI[_bordo(p)]["nome"],
+        "lucentezza": f"{_gloss(p)} ({GLOSS[_gloss(p)]['gloss']} gloss)",
+        "palette": ", ".join(f"{c['nome']} {c['hex']}" for c in _colori(p)[0].values()),
         "lotto_riferimento": p.get("lotto", 20),
     }
     rec.update(costi)
@@ -843,6 +1088,7 @@ def scrivi_html(records, path):
                 ("Tecnologia", r["tecnologia"]), ("Piattaforma", r["piattaforma_nome"]),
                 ("Componenti", r["componenti"]), ("Packaging", r["packaging"]),
                 ("Tempo tot.", f'{r["t_totale_min"]} min'),
+                ("di cui finit.", f'{r["t_finitura_min"]} min · {r["c_finitura"]:.2f} €'),
                 ("Costo", f'{r["costo_totale"]:.2f} €'),
                 ("Entry", f'{r["prezzo_entry"]:.2f} €'),
                 ("Standard", f'<span class="prz">{r["prezzo_standard"]:.2f} €</span>'),
@@ -850,6 +1096,10 @@ def scrivi_html(records, path):
                 ("B2B 50pz", f'{r["prezzo_b2b_50"]:.2f} €'),
                 ("Margine", f'{r["margine_standard"]:.2f} € · {r["margine_pct_standard"]:.0f}%'),
                 ("Posizion.", r.get("posizionamento", "—")),
+                ("Finitura", r["livello_finitura"]),
+                ("Bordo", r["trattamento_bordo"]),
+                ("Lucentezza", r["lucentezza"]),
+                ("Palette", r["palette"]),
                 ("Person.", r["personalizzazione"]),
                 ("Tag", r["tag"]),
                 ("Upsell", r["upsell"]),
@@ -863,6 +1113,8 @@ def scrivi_html(records, path):
             if r.get("alert_competitivita"):
                 a(f'<div class="alert">{esc(r["alert_competitivita"])}</div>')
             a(f'<div class="pr"><b>Prompt di produzione — come si realizza</b><pre>{esc(r["prompt_produzione"])}</pre></div>')
+            a(f'<div class="pr"><b>Scheda di finitura premium — vernici all\'acqua, bordo, lucentezza</b>'
+              f'<pre>{esc(r["scheda_finitura"])}</pre></div>')
             a(f'<div class="pr"><b>Prompt immagine — foto di catalogo</b><pre>{esc(r["prompt_immagine"])}</pre></div>')
             a('</article>')
         a('</section>')
@@ -897,6 +1149,7 @@ def scrivi_html(records, path):
       '+"  \\n**Riferimento** "+r.link_riferimento'
       '+"  \\n**SEO** "+r.seo_title+"  \\n**Keywords** "+r.keywords'
       '+(r.alert_competitivita?"\\n\\n> ALERT: "+r.alert_competitivita:"")'
+      '+"\\n\\n### Scheda di finitura premium\\n\\n```\\n"+r.scheda_finitura+"\\n```"'
       '+"\\n\\n### Prompt di produzione\\n\\n"+r.prompt_produzione'
       '+"\\n\\n### Prompt immagine\\n\\n"+r.prompt_immagine+"\\n"'
       '}).join("\\n---\\n\\n")};</script>')

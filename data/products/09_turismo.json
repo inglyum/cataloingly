@@ -73,7 +73,7 @@
    "s_gift": 7,
    "s_uniq": 8,
    "prompt_prod": "Tre strati betulla 4 mm 72x72 distanziati 2 mm. Strato 1 cielo (pannello UV), strato 2 sfondo urbano, strato 3 monumento simbolo CUT. SOLO LO STRATO 3 CAMBIA per destinazione: gli altri due sono invarianti di catalogo. Nome della località ENGRAVE-V h 5 mm. Lamina magnetica. Nesting 24 set/foglio.",
-   "prompt_img": "a small layered wooden fridge magnet 72x72 mm, three birch layers spaced 2 mm forming a monument silhouette against a printed sky, place name engraved below, on a fridge door"
+   "prompt_img_scena": "a small layered wooden fridge magnet 72x72 mm, three birch layers spaced 2 mm forming a monument silhouette against a printed sky, place name engraved below, on a fridge door"
   },
   {
    "id": "ING-TOUR-SOUV-162",
@@ -146,7 +146,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Prisma betulla 8 mm 168x72x48 a tre lastre incastrate 45 gradi. Nome del luogo ENGRAVE-V h 12 mm. Placchetta inox 20x40 MOPA con coordinate decimali a 4 cifre e data. ENGRAVE-V filo perimetrale. Gommini. Peso sotto i 200 g per il vincolo valigia.",
-   "prompt_img": "a small wooden desk plaque 168x72 mm with an engraved place name and an inset steel plate finely marked with GPS coordinates and a date, on a shelf beside a passport and a camera"
+   "prompt_img_scena": "a small wooden desk plaque 168x72 mm with an engraved place name and an inset steel plate finely marked with GPS coordinates and a date, on a shelf beside a passport and a camera"
   },
   {
    "id": "ING-TOUR-SOUV-163",
@@ -219,7 +219,7 @@
    "s_gift": 7,
    "s_uniq": 7,
    "prompt_prod": "Betulla 6 mm 48x72, testa ad arco R12, foro Ø5. Sede 20x40 per placchetta inox MOPA. ENGRAVE-V filo a 4 mm dal bordo. Nesting 140 pz/foglio: è il riempitivo dei fogli di tutta la categoria turismo.",
-   "prompt_img": "a wooden keyring 48x72 mm with an inset brushed steel plate fiber-marked with a place name and coordinates, arched top, split ring, held in a hand with a map blurred behind"
+   "prompt_img_scena": "a wooden keyring 48x72 mm with an inset brushed steel plate fiber-marked with a place name and coordinates, arched top, split ring, held in a hand with a map blurred behind"
   },
   {
    "id": "ING-TOUR-SOUV-164",
@@ -288,7 +288,7 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Betulla 3 mm 36x144, gancetto ad arco R12 in testa. Silhouette del monumento CUT traforata nella metà alta, ponticelli minimi 2,5 mm. Nome del luogo ENGRAVE-V h 4 mm. Fascia UV in coda. Spigoli smussati. Nesting 40 pz/foglio.",
-   "prompt_img": "a slim wooden bookmark 36x144 mm with a monument silhouette cut straight through the upper half, engraved place name below, tucked into an open guidebook on a café table"
+   "prompt_img_scena": "a slim wooden bookmark 36x144 mm with a monument silhouette cut straight through the upper half, engraved place name below, tucked into an open guidebook on a café table"
   },
   {
    "id": "ING-TOUR-SOUV-165",
@@ -358,7 +358,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Betulla 3 mm 144x108 (A6), angoli R12. Fronte UV WHITE + CMYK a piena superficie. Retro LISCIO NON TRATTATO perché la penna scriva: riquadro affrancatura 24x28 e righe ENGRAVE-V tratto 0,2 mm. VERIFICA POSTALE OBBLIGATORIA di peso e spessore ammessi, riportata sul cartellino: se non si può spedire, il prodotto non ha senso.",
-   "prompt_img": "a wooden postcard 144x108 mm printed with a stylised cityscape, shown beside its blank reverse with engraved address lines and a stamp box, a pen and a coffee cup on a café table"
+   "prompt_img_scena": "a wooden postcard 144x108 mm printed with a stylised cityscape, shown beside its blank reverse with engraved address lines and a stamp box, a pen and a coffee cup on a café table"
   },
   {
    "id": "ING-TOUR-SOUV-166",
@@ -430,7 +430,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Betulla 4 mm 84x96, foro Ø4 e cordino. Monumento o simbolo del luogo CUT traforato su pannello UV. LUOGO E ANNO ENGRAVE-V ben leggibili: è il motivo per cui il prodotto vale. Formato piatto sotto i 100 mm e peso sotto i 30 g per il vincolo valigia.",
-   "prompt_img": "a flat wooden ornament 84x96 mm hanging on a Christmas tree, a monument silhouette cut through revealing a printed panel, place name and year engraved below, warm fairy lights behind"
+   "prompt_img_scena": "a flat wooden ornament 84x96 mm hanging on a Christmas tree, a monument silhouette cut through revealing a printed panel, place name and year engraved below, warm fairy lights behind"
   },
   {
    "id": "ING-TOUR-TAV-167",
@@ -504,7 +504,7 @@
    "s_gift": 9,
    "s_uniq": 8,
    "prompt_prod": "Quattro dischi betulla 6 mm Ø96 + sughero 2 mm. UV WHITE + CMYK, QUATTRO MONUMENTI DIVERSI della stessa città, stessa palette e stesso stile grafico. Nome del monumento ENGRAVE-V sul bordo. Supporto verticale a croce. Nesting: 4 dischi + supporto in 220x220.",
-   "prompt_img": "four round wooden coasters 96 mm in a slotted holder, each printed with a different city landmark in the same flat graphic style and palette, cork backing visible on one tilted piece"
+   "prompt_img_scena": "four round wooden coasters 96 mm in a slotted holder, each printed with a different city landmark in the same flat graphic style and palette, cork backing visible on one tilted piece"
   },
   {
    "id": "ING-TOUR-DEC-168",
@@ -577,7 +577,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Tre strati betulla 4 mm 240x300 distanziati 4 mm: acqua (pannello UV), isolati, assi principali. SEMPLIFICA A UN SOLO LIVELLO GERARCHICO di strade, ponticelli minimi 2,5 mm, provino obbligatorio. Un foro Ø4 sul punto scelto dal cliente. DATI CARTOGRAFICI con licenza compatibile — OpenStreetMap richiede attribuzione — mai screenshot di mappe proprietarie.",
-   "prompt_img": "a layered wooden city map 240x300 mm, three birch layers showing water, blocks and main streets, a small hole punched at one address letting the blue base show through, city name cut through the header"
+   "prompt_img_scena": "a layered wooden city map 240x300 mm, three birch layers showing water, blocks and main streets, a small hole punched at one address letting the blue base show through, city name cut through the header"
   },
   {
    "id": "ING-TOUR-SOUV-169",
@@ -645,7 +645,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Betulla 3 mm, MASSIMO 5 PEZZI a incastro, montaggio senza colla e senza attrezzi. Ingombro piatto 200x150x3: entra in busta e rispetta il vincolo valigia. Prova a secco obbligatoria di tutti gli incastri prima del confezionamento. Istruzioni incise sul telaio di sfrido, che diventa il foglietto.",
-   "prompt_img": "a flat-pack wooden monument model assembled on a desk, 144x120x96 mm in thin birch with visible slot joints, its flat uncut sheet lying beside it with engraved assembly steps"
+   "prompt_img_scena": "a flat-pack wooden monument model assembled on a desk, 144x120x96 mm in thin birch with visible slot joints, its flat uncut sheet lying beside it with engraved assembly steps"
   },
   {
    "id": "ING-TOUR-SOUV-170",
@@ -716,7 +716,7 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Corpo betulla 12 mm 48x144 con impugnatura ad arco R12 e foro Ø8. Inserto apribottiglie in acciaio incassato e FISSATO CON DUE RIVETTI, mai incollato. Placchetta inox 20x40 MOPA col nome del luogo. Verifica funzionale su 20 tappi prima del lancio.",
-   "prompt_img": "a wooden bottle opener 48x144 mm with a riveted steel head and a small fiber-marked plate on the body, opening a beer bottle on a bar counter"
+   "prompt_img_scena": "a wooden bottle opener 48x144 mm with a riveted steel head and a small fiber-marked plate on the body, opening a beer bottle on a bar counter"
   },
   {
    "id": "ING-TOUR-DEC-171",
@@ -793,7 +793,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Cornice betulla 6 mm 192x240 con luce ad arco R12 per foto 13x18. Passepartout betulla 4 mm distanziato 3 mm. TESSERA INOX 20x40 MOPA in scanalatura sotto la foto, SOSTITUIBILE: luogo, data e coordinate cambiano a ogni viaggio. Tessere aggiuntive come SKU. Piedino a 15 gradi.",
-   "prompt_img": "a layered wooden photo frame 192x240 mm holding a travel photograph, a small steel tile slotted below it marked with a place name, date and coordinates, standing on a bookshelf"
+   "prompt_img_scena": "a layered wooden photo frame 192x240 mm holding a travel photograph, a small steel tile slotted below it marked with a place name, date and coordinates, standing on a bookshelf"
   },
   {
    "id": "ING-TOUR-DEC-172",
@@ -865,7 +865,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Tre strati betulla 4 mm 420x300 distanziati 4 mm: oceano (pannello UV), continenti, rilievi. Fori Ø3 sulle capitali per le tesserine. PROBLEMA TECNICO REALE: le isole piccole vanno unite alla terraferma con ponticelli o omesse consapevolmente, non lasciate cadere dal taglio. Aggancio a 2 punti.",
-   "prompt_img": "a layered wooden world map 420x300 mm on a wall, continents raised above a deep blue printed ocean, several small engraved tiles pinned into holes at visited capitals"
+   "prompt_img_scena": "a layered wooden world map 420x300 mm on a wall, continents raised above a deep blue printed ocean, several small engraved tiles pinned into holes at visited capitals"
   },
   {
    "id": "ING-TOUR-DEC-173",
@@ -934,7 +934,7 @@
    "s_gift": 5,
    "s_uniq": 10,
    "prompt_prod": "Betulla 4 mm 36x24 con perno Ø2,8 sul retro calibrato sui fori Ø3 della mappa. Nome paese e anno ENGRAVE-V h 3,5 mm — al limite del leggibile, verificare sul provino. Fascia UV colore per continente. Nesting 120 pz/foglio: riempitivo perfetto.",
-   "prompt_img": "a handful of tiny wooden tiles 36x24 mm engraved with country names and years, one being pushed into a hole on a layered wooden world map"
+   "prompt_img_scena": "a handful of tiny wooden tiles 36x24 mm engraved with country names and years, one being pushed into a hole on a layered wooden world map"
   },
   {
    "id": "ING-TOUR-ORG-174",
@@ -1008,7 +1008,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Scatola betulla 6 mm 300x204x96, coperchio SCORREVOLE in guide fresate con mappa stilizzata ENGRAVE-R. Interno in feltro con quattro scomparti: biglietti 100x60, monete Ø60, cartoline 150x105, piccoli oggetti 80x80. Nome del viaggiatore ENGRAVE-V dentro il coperchio.",
-   "prompt_img": "an open wooden travel memory box 300x204x96 mm with a sliding engraved lid, felt compartments holding boarding passes, foreign coins and a postcard, on a desk beside a passport"
+   "prompt_img_scena": "an open wooden travel memory box 300x204x96 mm with a sliding engraved lid, felt compartments holding boarding passes, foreign coins and a postcard, on a desk beside a passport"
   },
   {
    "id": "ING-TOUR-VIA-175",
@@ -1080,7 +1080,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Betulla 6 mm 60x108, testa ad arco R12 con foro Ø8 per cordino robusto (non un cordino sottile: si rompe sul nastro bagagli). Placchetta inox 20x40 MOPA col nome. Retro con finestra e cartoncino sostituibile per il recapito, che NON va inciso in chiaro per privacy. Spigoli smussati.",
-   "prompt_img": "a wooden luggage tag 60x108 mm attached to a suitcase handle with a sturdy cord, a fiber-marked steel plate with a name, arched top, airport carousel blurred behind"
+   "prompt_img_scena": "a wooden luggage tag 60x108 mm attached to a suitcase handle with a sturdy cord, a fiber-marked steel plate with a name, arched top, airport carousel blurred behind"
   },
   {
    "id": "ING-TOUR-VIA-176",
@@ -1152,7 +1152,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Betulla 4 mm 144x204x24, custodia a libro con DORSO FLESSIBILE ottenuto da SCORE parallele passo 2 mm (living hinge): è il dettaglio che vende il prodotto. Sedi interne per passaporto, due carte d'imbarco e banconote. Nome ENGRAVE-V. Chiusura a nastro. Verifica del dorso su 200 aperture prima del lancio.",
-   "prompt_img": "a wooden passport holder 144x204 mm with a flexible living-hinge spine, open to show a passport and boarding passes inside, engraved name on the cover, on an airport café table"
+   "prompt_img_scena": "a wooden passport holder 144x204 mm with a flexible living-hinge spine, open to show a passport and boarding passes inside, engraved name on the cover, on an airport café table"
   },
   {
    "id": "ING-TOUR-ORG-177",
@@ -1227,7 +1227,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Cassa betulla 6 mm 240x300x24 con fessura superiore 160x6 mm. Fronte con finestra traforata chiusa da acrilico trasparente 3 mm: i biglietti si accumulano e restano visibili. Fondo removibile per svuotare. Frase o nome ENGRAVE-V sul telaio. Aggancio a 2 punti.",
-   "prompt_img": "a wooden wall box 240x300 mm with a clear front panel filled with a colourful pile of museum and concert ticket stubs, a slot along the top edge, engraved phrase on the frame"
+   "prompt_img_scena": "a wooden wall box 240x300 mm with a clear front panel filled with a colourful pile of museum and concert ticket stubs, a slot along the top edge, engraved phrase on the frame"
   },
   {
    "id": "ING-TOUR-DEC-178",
@@ -1304,7 +1304,7 @@
    "s_gift": 9,
    "s_uniq": 8,
    "prompt_prod": "Fondo betulla 8 mm 300x240 con UV PRINT. Sagoma betulla 4 mm distanziata 4 mm, profilo da DATI CARTOGRAFICI REALI con licenza compatibile. Confini interni ENGRAVE-V tratto 0,3 mm. Un foro Ø4 sulla città scelta dal cliente. Le proporzioni sbagliate sono il difetto più comune della categoria e si notano subito.",
-   "prompt_img": "a wall piece 300x240 mm, the silhouette of a region cut from birch and raised above a printed coloured panel, faint engraved internal borders, one small hole punched at a city"
+   "prompt_img_scena": "a wall piece 300x240 mm, the silhouette of a region cut from birch and raised above a printed coloured panel, faint engraved internal borders, one small hole punched at a city"
   },
   {
    "id": "ING-TOUR-SOUV-179",
@@ -1377,7 +1377,7 @@
    "s_gift": 7,
    "s_uniq": 9,
    "prompt_prod": "Betulla 4 mm 48x48, angoli R12. Simbolo del luogo UV a colori pieni con bianco di fondo. Base spilla metallica incollata con biadesivo strutturale, PROVA DI TENUTA obbligatoria: una spilla che si stacca dallo zaino è persa. Nesting 120 pz/foglio.",
-   "prompt_img": "several small wooden pin badges 48 mm attached to a canvas backpack, each printed with a different city symbol in flat bold colour, worn look, outdoor daylight"
+   "prompt_img_scena": "several small wooden pin badges 48 mm attached to a canvas backpack, each printed with a different city symbol in flat bold colour, worn look, outdoor daylight"
   },
   {
    "id": "ING-TOUR-DEC-180",
@@ -1453,7 +1453,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Pannello betulla 6 mm 240x168 con due finestre e dischi girevoli betulla 4 mm su perno a frizione, cifre 0-9 ENGRAVE-V. Etichette PAESI e CONTINENTI incise sopra le finestre. Piedino a 15 gradi + aggancio a parete. Il perno deve tenere la posizione: prova su 500 rotazioni.",
-   "prompt_img": "a wooden counter board 240x168 mm on a shelf showing two rotating number discs reading 27, engraved labels above the windows, a world map blurred on the wall behind"
+   "prompt_img_scena": "a wooden counter board 240x168 mm on a shelf showing two rotating number discs reading 27, engraved labels above the windows, a world map blurred on the wall behind"
   },
   {
    "id": "ING-TOUR-B2B-181",
@@ -1525,7 +1525,7 @@
    "s_gift": 3,
    "s_uniq": 10,
    "prompt_prod": "Betulla 8 mm, struttura a quattro facce 240x240x360 su cuscinetto girevole. Ogni faccia con ganci per portachiavi e spille, e mensole per magneti. Area logo 160x40 in testa. Verifica di stabilità: baricentro basso e base zavorrabile. Smontabile per la spedizione.",
-   "prompt_img": "a rotating wooden souvenir display 240x240x360 mm on a shop counter, four faces hung with wooden keyrings and pins, shop logo engraved at the top, tourists browsing behind"
+   "prompt_img_scena": "a rotating wooden souvenir display 240x240x360 mm on a shop counter, four faces hung with wooden keyrings and pins, shop logo engraved at the top, tourists browsing behind"
   },
   {
    "id": "ING-TOUR-B2B-182",
@@ -1595,7 +1595,7 @@
    "s_gift": 2,
    "s_uniq": 9,
    "prompt_prod": "Betulla 4 mm 72x48, testa ad arco R12. Area UV WHITE opaca riscrivibile 56x24, simbolo valuta ENGRAVE-V a lato. Due varianti: con foro Ø4 per pinza e con dente per base P2. Set da 24. Nesting 60 pz/foglio.",
-   "prompt_img": "small wooden price tags 72x48 mm clipped among souvenirs on a shop shelf, each with a handwritten price on a matte panel and an engraved euro symbol, shop logo repeated"
+   "prompt_img_scena": "small wooden price tags 72x48 mm clipped among souvenirs on a shop shelf, each with a handwritten price on a matte panel and an engraved euro symbol, shop logo repeated"
   },
   {
    "id": "ING-TOUR-B2B-183",
@@ -1672,7 +1672,7 @@
    "s_gift": 2,
    "s_uniq": 9,
    "prompt_prod": "Fondo betulla 8 mm 420x300 con UV PRINT. Frontale betulla 4 mm distanziato 4 mm con nome CUT traforato h 60 mm. Fascia inferiore con pittogrammi ENGRAVE-R delle merceologie. Trattamento idrorepellente e montaggio su distanziali 12 mm. Se l'insegna sta all'esterno, valutare acrilico e dichiararlo al cliente.",
-   "prompt_img": "a shop sign 420x300 mm above a souvenir shop door, the shop name cut through the front birch layer revealing a warm printed panel, a row of engraved category pictograms below, sunlit street"
+   "prompt_img_scena": "a shop sign 420x300 mm above a souvenir shop door, the shop name cut through the front birch layer revealing a warm printed panel, a row of engraved category pictograms below, sunlit street"
   },
   {
    "id": "ING-TOUR-B2B-184",
@@ -1745,7 +1745,7 @@
    "s_gift": 3,
    "s_uniq": 10,
    "prompt_prod": "Betulla 6 mm 400x300. UV WHITE + CMYK mappa stilizzata dei dintorni a piedi, punti d'interesse NUMERATI. Legenda ENGRAVE-V lungo il bordo inferiore con nome e distanza a piedi in minuti. Nome della struttura in testa. DATI CARTOGRAFICI con licenza compatibile.",
-   "prompt_img": "a wall panel 400x300 mm in a holiday apartment showing a stylised printed map of the surrounding streets with numbered points of interest, an engraved legend along the bottom listing places and walking times"
+   "prompt_img_scena": "a wall panel 400x300 mm in a holiday apartment showing a stylised printed map of the surrounding streets with numbered points of interest, an engraved legend along the bottom listing places and walking times"
   },
   {
    "id": "ING-TOUR-B2B-185",
@@ -1820,7 +1820,7 @@
    "s_gift": 6,
    "s_uniq": 10,
    "prompt_prod": "Da un foglio: vassoio 300x204x48, porta chiavi camera 96x144, QR wifi P2 80x100, cartolina in legno 144x108. Tutti col nome della struttura e la stessa palette. Il QR va su area LISCIA con test di scansione. Ordine minimo 3 kit, ma il valore sta nel riordino quando gli ospiti se li portano via.",
-   "prompt_img": "a coordinated wooden welcome set laid out on a holiday apartment table — a printed tray, a room key holder, a wifi QR stand and a wooden postcard — all bearing the same property name and colours"
+   "prompt_img_scena": "a coordinated wooden welcome set laid out on a holiday apartment table — a printed tray, a room key holder, a wifi QR stand and a wooden postcard — all bearing the same property name and colours"
   },
   {
    "id": "ING-TOUR-B2B-186",
@@ -1897,7 +1897,7 @@
    "s_gift": 3,
    "s_uniq": 10,
    "prompt_prod": "Pannello betulla 6 mm 300x240 con otto scanalature. Tessere betulla 4 mm 264x24 con nome del locale, tipo e distanza a piedi ENGRAVE-V. Pittogramma di categoria UV all'estremità. Tessere di ricambio come SKU: quando un locale chiude si cambia solo quella.",
-   "prompt_img": "a wooden recommendations panel 300x240 mm on a holiday apartment wall, eight slim engraved tiles slotted into rails listing restaurants and beaches with walking times, small printed category icons"
+   "prompt_img_scena": "a wooden recommendations panel 300x240 mm on a holiday apartment wall, eight slim engraved tiles slotted into rails listing restaurants and beaches with walking times, small printed category icons"
   },
   {
    "id": "ING-TOUR-B2B-187",
@@ -1967,7 +1967,7 @@
    "s_gift": 2,
    "s_uniq": 10,
    "prompt_prod": "Betulla 4 mm 264x24, spessore calibrato sulla scanalatura da 4,2 mm: gioco 0,2 mm. Nome del locale h 8 mm, tipo e distanza h 5 mm ENGRAVE-V. Pittogramma UV all'estremità sinistra. Nesting 12 pz/foglio, riempitivo dei fogli B2B.",
-   "prompt_img": "three slim wooden tiles 264x24 mm engraved with restaurant names and walking distances, one being slid into the rail of a recommendations panel"
+   "prompt_img_scena": "three slim wooden tiles 264x24 mm engraved with restaurant names and walking distances, one being slid into the rail of a recommendations panel"
   },
   {
    "id": "ING-TOUR-SOUV-188",
@@ -2040,7 +2040,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Betulla 6 mm Ø72 con foro Ø6 per cordino. Sede circolare Ø40 per disco inox MOPA con nome del percorso, distanza e anno. Numerazione progressiva se edizione dell'anno. ENGRAVE-V corona perimetrale. Nesting 60 pz/foglio. Lotto minimo 100 per l'organizzatore.",
-   "prompt_img": "a wooden trail medal 72 mm on a cotton cord around a walker's neck, an inset steel disc fiber-marked with the route name, distance and year, mountain path blurred behind"
+   "prompt_img_scena": "a wooden trail medal 72 mm on a cotton cord around a walker's neck, an inset steel disc fiber-marked with the route name, distance and year, mountain path blurred behind"
   },
   {
    "id": "ING-TOUR-SOUV-189",
@@ -2115,7 +2115,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Betulla 4 mm 144x108x24, sei scomparti con fondo in feltro perché le monete non tintinnino. Coperchio a libro con dorso flessibile da SCORE passo 2 mm. Etichette UV riscrivibili sopra ogni scomparto. Chiusura a nastro. Peso sotto i 120 g.",
-   "prompt_img": "an open wooden coin organiser 144x108 mm with six felt-lined compartments holding coins of different currencies, small writable labels above each, on a hotel desk beside a passport"
+   "prompt_img_scena": "an open wooden coin organiser 144x108 mm with six felt-lined compartments holding coins of different currencies, small writable labels above each, on a hotel desk beside a passport"
   },
   {
    "id": "ING-TOUR-B2B-190",
@@ -2188,7 +2188,7 @@
    "s_gift": 3,
    "s_uniq": 9,
    "prompt_prod": "Betulla 12 mm 48x120: lo spessore serve al PESO, che è la funzione del prodotto — un pendaglio leggero finisce in tasca. Numero camera CUT traforato h 36 mm. Placchetta inox 20x40 MOPA con coordinate e nome della struttura. Anello robusto. Spigoli smussati: passa di mano ogni giorno.",
-   "prompt_img": "a heavy wooden key fob 48x120 mm hanging from a room key on a reception desk, the room number cut straight through, a steel plate below marked with the property name and coordinates"
+   "prompt_img_scena": "a heavy wooden key fob 48x120 mm hanging from a room key on a reception desk, the room number cut straight through, a steel plate below marked with the property name and coordinates"
   }
  ]
 }

@@ -69,7 +69,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Betulla 12 mm, vassoio 300x144 e lettere tagliate dallo stesso foglio. Kerf compensato con gioco 0,15 mm perché la lettera esca facile ma non balli. Ogni lettera stampata UV a colori pieni con un soggetto mediterraneo (limone, onda, sole, fico d'india, barca). SICUREZZA: carteggiatura obbligatoria di tutti i bordi, spigoli raggiati R12, vernice a base acqua ATOSSICA, nessun pezzo sotto i 32 mm.",
-   "prompt_img": "a thick birch name puzzle 300x144 mm on a play mat, six chunky letters in bold Mediterranean colours seated in a cut tray, one letter lifted by a toddler's hand, lemon and wave motifs printed on the pieces, bright daylight"
+   "prompt_img_scena": "a thick birch name puzzle 300x144 mm on a play mat, six chunky letters in bold Mediterranean colours seated in a cut tray, one letter lifted by a toddler's hand, lemon and wave motifs printed on the pieces, bright daylight"
   },
   {
    "id": "ING-KIDS-DEC-132",
@@ -144,7 +144,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Asta betulla 8 mm 168x1200 con scanalatura verticale 4,2 mm su tutta la lunghezza. Tacche ENGRAVE-V ogni 10 mm, numeri ogni 100 mm, da 60 a 160 cm. Sei tessere betulla 4 mm 96x36 con clip che scorre nella guida, nome e data incisi. SICUREZZA: spigoli R12, carteggiatura, vernice atossica. Fissaggio a 2 punti in alto e in basso: non deve staccarsi se ci si appoggia.",
-   "prompt_img": "a tall wooden growth chart 168x1200 mm on a child's bedroom wall, engraved centimetre marks along a grooved rail, three small printed tiles clipped at different heights with names and dates, warm Mediterranean colour bands, child standing beside it"
+   "prompt_img_scena": "a tall wooden growth chart 168x1200 mm on a child's bedroom wall, engraved centimetre marks along a grooved rail, three small printed tiles clipped at different heights with names and dates, warm Mediterranean colour bands, child standing beside it"
   },
   {
    "id": "ING-KIDS-KEEP-133",
@@ -217,7 +217,7 @@
    "s_gift": 10,
    "s_uniq": 9,
    "prompt_prod": "Quattro strati betulla 4 mm 240x300 distanziati 4 mm su perni Ø3 asimmetrici. Strato 1 nome CUT traforato h 40 mm, strato 2 onde sfalsate, strato 3 sole nascente, strato 4 fondo UV gradiente. Data, peso, lunghezza e ora ENGRAVE-V h 5 mm su quattro righe. SICUREZZA: spigoli R12, carteggiatura, vernice atossica — sta in una cameretta.",
-   "prompt_img": "a layered wooden birth keepsake 240x300 mm, the baby's name cut through the top birch layer over stacked wave shapes and a rising sun, gradient turquoise printed background, engraved birth data below, on a nursery shelf"
+   "prompt_img_scena": "a layered wooden birth keepsake 240x300 mm, the baby's name cut through the top birch layer over stacked wave shapes and a rising sun, gradient turquoise printed background, engraved birth data below, on a nursery shelf"
   },
   {
    "id": "ING-KIDS-DEC-134",
@@ -292,7 +292,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Fondo betulla 6 mm 360x168 con UV PRINT a colori pieni (turchese, giallo limone, corallo — MAI pastelli spenti). Frontale betulla 4 mm distanziato 4 mm con nome CUT traforato h 60 mm, ponticelli 2,5 mm sulle lettere chiuse. Cornice di soggetti mediterranei ENGRAVE-R. Spigoli R12, carteggiatura, vernice atossica.",
-   "prompt_img": "a layered wooden nursery name sign 360x168 mm, a child's name cut straight through the front birch layer revealing a bright turquoise and lemon printed panel, engraved border of small suns and waves, on a white bedroom wall above a cot"
+   "prompt_img_scena": "a layered wooden nursery name sign 360x168 mm, a child's name cut straight through the front birch layer revealing a bright turquoise and lemon printed panel, engraved border of small suns and waves, on a white bedroom wall above a cot"
   },
   {
    "id": "ING-KIDS-EDU-135",
@@ -368,7 +368,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Pannello betulla 6 mm 360x240 con griglia 12 mm e area in lamina magnetica. 16 tessere betulla 4 mm 48x48 con pittogrammi ENGRAVE-R e UV a colori pieni. SICUREZZA ASSOLUTA: magneti Ø10 ANNEGATI in sede fresata profonda 2,2 mm e COPERTI da uno strato di betulla 1,5 mm incollato a tutta superficie, mai accessibili — un magnete al neodimio ingerito e' un'emergenza chirurgica. Spigoli R12, carteggiatura, vernice atossica.",
-   "prompt_img": "a wooden routine board 360x240 mm on a child's wall, a grid of printed magnetic tiles showing morning activities in bold colours, a child's hand moving one tile across, engraved name at the top"
+   "prompt_img_scena": "a wooden routine board 360x240 mm on a child's wall, a grid of printed magnetic tiles showing morning activities in bold colours, a child's hand moving one tile across, engraved name at the top"
   },
   {
    "id": "ING-KIDS-GIO-136",
@@ -437,7 +437,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "24 tessere betulla 6 mm 60x60, angoli R12, tagliate tutte dallo stesso foglio con vassoio. 12 soggetti a coppie ridotti a geometria piana e colore. Retro tutto uguale con pattern maiolica. SICUREZZA: carteggiatura di tutti i bordi, spigoli R12, vernice a base acqua atossica. Nessun pezzo sotto i 32 mm.",
-   "prompt_img": "twenty-four square wooden memory tiles 60 mm laid in a grid on a table, each printed with a flat geometric Mediterranean motif — fish, lemon, boat, dome — in bold colour, a few turned over showing a uniform tile pattern, child's hands playing"
+   "prompt_img_scena": "twenty-four square wooden memory tiles 60 mm laid in a grid on a table, each printed with a flat geometric Mediterranean motif — fish, lemon, boat, dome — in bold colour, a few turned over showing a uniform tile pattern, child's hands playing"
   },
   {
    "id": "ING-KIDS-EDU-137",
@@ -506,7 +506,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "21 tessere betulla 8 mm 48x48 più vassoio, dallo stesso foglio. Lettera ENGRAVE-R grande e soggetto UV a colori pieni sotto. SICUREZZA: spessore 8 mm per presa sicura, carteggiatura di tutti i bordi, spigoli R12, vernice a base acqua atossica, nessun pezzo sotto i 32 mm.",
-   "prompt_img": "twenty-one thick wooden alphabet tiles 48 mm in a cut tray, each with a large engraved letter and a small printed Mediterranean object below, bold flat colours, a child picking up the letter M with a sea motif"
+   "prompt_img_scena": "twenty-one thick wooden alphabet tiles 48 mm in a cut tray, each with a large engraved letter and a small printed Mediterranean object below, bold flat colours, a child picking up the letter M with a sea motif"
   },
   {
    "id": "ING-KIDS-EDU-138",
@@ -573,7 +573,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Betulla 8 mm, 20 tessere 48x72 a coppie con profilo di incastro DIVERSO per ogni coppia: solo la coppia giusta combacia, e il bambino si autocorregge. Cifra UV su una metà, quantità di soggetti sull'altra. SICUREZZA: carteggiatura, spigoli R12, vernice atossica, nessun pezzo sotto i 32 mm.",
-   "prompt_img": "wooden number matching tiles 48x72 mm on a table, each pair with a unique interlocking profile, printed numeral on one half and a matching count of lemons on the other, a child fitting two together"
+   "prompt_img_scena": "wooden number matching tiles 48x72 mm on a table, each pair with a unique interlocking profile, printed numeral on one half and a matching count of lemons on the other, a child fitting two together"
   },
   {
    "id": "ING-KIDS-DEC-139",
@@ -648,7 +648,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Tre strati betulla 4 mm 240x168 distanziati 6 mm: onde, barca, sole. Diffusore acrilico satinato 3 mm dietro, distanziato 8 mm per la dissipazione. SICUREZZA: SOLO modulo LED USB 5V o a batteria, MAI rete diretta, e va dichiarato in scheda prodotto. Nome ENGRAVE-V alla base. Spigoli R12, carteggiatura, vernice atossica. Cavo con fermo antistrappo.",
-   "prompt_img": "a lit layered wooden night light 240x168 mm on a bedside table in a dark child's room, three birch layers forming waves, a boat and a sun, warm glow diffusing through from behind, child's name engraved at the base"
+   "prompt_img_scena": "a lit layered wooden night light 240x168 mm on a bedside table in a dark child's room, three birch layers forming waves, a boat and a sun, warm glow diffusing through from behind, child's name engraved at the base"
   },
   {
    "id": "ING-KIDS-DEC-140",
@@ -718,7 +718,7 @@
    "s_gift": 6,
    "s_uniq": 10,
    "prompt_prod": "Betulla 4 mm 96x36 con clip integrata calibrata sulla scanalatura da 4,2 mm del metro: gioco 0,2 mm perché scorra senza ballare. Nome, data e altezza ENGRAVE-V. Fascia UV colore. SICUREZZA: spigoli R12, carteggiatura, vernice atossica. Nesting 40 pz/foglio, riempitivo dei fogli della categoria.",
-   "prompt_img": "three small wooden tiles 96x36 mm with engraved names, dates and heights, one being clipped into the groove of a growth chart, bright printed colour bands, child's bedroom wall"
+   "prompt_img_scena": "three small wooden tiles 96x36 mm with engraved names, dates and heights, one being clipped into the groove of a growth chart, bright printed colour bands, child's bedroom wall"
   },
   {
    "id": "ING-KIDS-DEC-141",
@@ -792,7 +792,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Scatola betulla 4 mm 240x120x144 con nome CUT traforato h 48 mm sul fronte, ponticelli 2,5 mm. Diffusore acrilico satinato interno distanziato 8 mm. Cappello aperto per il calore. SICUREZZA: SOLO LED USB 5V o batteria, mai rete. Spigoli R12, carteggiatura, vernice atossica. Passaggio cavo con fermo antistrappo.",
-   "prompt_img": "a lit wooden name lamp 240x120x144 mm on a shelf in a dark child's room, the name cut straight through the front glowing warmly and casting the letters onto the wall behind"
+   "prompt_img_scena": "a lit wooden name lamp 240x120x144 mm on a shelf in a dark child's room, the name cut straight through the front glowing warmly and casting the letters onto the wall behind"
   },
   {
    "id": "ING-KIDS-EDU-142",
@@ -863,7 +863,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Disco betulla 6 mm Ø264. Ore 1-12 UV in un colore, minuti 5-60 in un altro, ENGRAVE-V per gli indici. Due lancette betulla 6 mm su perno centrale a frizione: si spostano a mano e restano ferme, NESSUN movimento a quarzo. SICUREZZA: spigoli R12, carteggiatura, vernice atossica, perno senza parti sporgenti appuntite.",
-   "prompt_img": "a wooden learning clock 264 mm on a classroom wall, hours printed in blue and minutes in orange around the dial, two wooden hands set by hand, a child's fingers turning the long hand"
+   "prompt_img_scena": "a wooden learning clock 264 mm on a classroom wall, hours printed in blue and minutes in orange around the dial, two wooden hands set by hand, a child's fingers turning the long hand"
   },
   {
    "id": "ING-KIDS-ORG-143",
@@ -932,7 +932,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Betulla 8 mm 360x240x180, incastri 45 gradi. Bordo superiore con battuta di impilamento 6 mm: si incastrano l'una sull'altra senza scivolare. Maniglie ad arco R12 sui lati corti. Nome e pittogramma UV sul fronte. SICUREZZA: aperto sopra (nessun coperchio che schiacci le dita), spigoli R12, carteggiatura interna, vernice atossica.",
-   "prompt_img": "two stackable wooden toy boxes 360x240x180 mm in a child's room, arched cut-out handles, bright printed pictograms on the fronts showing blocks and cars, toys spilling out of the top one"
+   "prompt_img_scena": "two stackable wooden toy boxes 360x240x180 mm in a child's room, arched cut-out handles, bright printed pictograms on the fronts showing blocks and cars, toys spilling out of the top one"
   },
   {
    "id": "ING-KIDS-GIO-144",
@@ -999,7 +999,7 @@
    "s_gift": 9,
    "s_uniq": 8,
    "prompt_prod": "Betulla 8 mm, quadrato 168x168 diviso nei sette pezzi canonici del tangram, tagliati con vassoio dallo stesso foglio. UV a colori pieni, un colore per pezzo. SICUREZZA: carteggiatura di tutti i bordi, spigoli R12 dove possibile senza alterare la geometria, vernice atossica, nessun pezzo sotto i 32 mm. Libretto di 20 sagome incluso.",
-   "prompt_img": "a wooden tangram set 168x168 mm, seven brightly coloured pieces partly arranged into a boat shape beside their cut tray, a small booklet of silhouettes open nearby, child's hands at work"
+   "prompt_img_scena": "a wooden tangram set 168x168 mm, seven brightly coloured pieces partly arranged into a boat shape beside their cut tray, a small booklet of silhouettes open nearby, child's hands at work"
   },
   {
    "id": "ING-KIDS-ORG-145",
@@ -1067,7 +1067,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Betulla 12 mm, piano 420x120 con sponda frontale h 96 mm inclinata 10 gradi. Due mensole laterali sagomate a incastro passante. SICUREZZA: fissaggio a 3 punti con verifica a strappo 15 kg — un bambino ci si appende, va progettato per quello. Spigoli R12, carteggiatura, vernice atossica. Tasselli inclusi con istruzioni sul tipo di muro.",
-   "prompt_img": "a front-facing wooden book shelf 420x120 mm at child height on a bedroom wall, four picture books displayed cover-out, a toddler reaching for one, scrolled bracket sides"
+   "prompt_img_scena": "a front-facing wooden book shelf 420x120 mm at child height on a bedroom wall, four picture books displayed cover-out, a toddler reaching for one, scrolled bracket sides"
   },
   {
    "id": "ING-KIDS-EDU-146",
@@ -1143,7 +1143,7 @@
    "s_gift": 8,
    "s_uniq": 10,
    "prompt_prod": "Pannello betulla 6 mm 300x300 con ruota delle stagioni ENGRAVE-R e lancetta girevole su perno a frizione. 12 tessere betulla 4 mm 48x48 col tempo, UV a colori pieni. SICUREZZA: magneti Ø10 ANNEGATI in sede profonda 2,2 mm e COPERTI da betulla 1,5 mm incollata, mai accessibili. Spigoli R12, carteggiatura, vernice atossica.",
-   "prompt_img": "a wooden weather board 300x300 mm on a nursery wall, an engraved season wheel with a wooden pointer, printed magnetic tiles showing sun, rain and wind arranged along the side, a child turning the pointer"
+   "prompt_img_scena": "a wooden weather board 300x300 mm on a nursery wall, an engraved season wheel with a wooden pointer, printed magnetic tiles showing sun, rain and wind arranged along the side, a child turning the pointer"
   },
   {
    "id": "ING-KIDS-GIO-147",
@@ -1212,7 +1212,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "28 tessere betulla 8 mm 72x36 più vassoio, dallo stesso foglio. Sette soggetti mediterranei al posto dei punti, UV a colori pieni, linea divisoria ENGRAVE-V al centro. SICUREZZA: spessore 8 mm per presa sicura, carteggiatura di tutti i bordi, spigoli R12, vernice atossica, nessun pezzo sotto i 32 mm.",
-   "prompt_img": "wooden dominoes 72x36 mm standing in a line on a table, each half printed with a bold Mediterranean icon instead of pips, one being tipped over, child's hands, warm afternoon light"
+   "prompt_img_scena": "wooden dominoes 72x36 mm standing in a line on a table, each half printed with a bold Mediterranean icon instead of pips, one being tipped over, child's hands, warm afternoon light"
   },
   {
    "id": "ING-KIDS-ORG-148",
@@ -1283,7 +1283,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Betulla 12 mm 360x96 con profilo superiore ad archi R12. Quattro pomelli tornati sul passo 84 mm, pittogramma UV sopra ciascuno (cappotto, zaino, sciarpa, cappello). SICUREZZA: pomelli TONDI senza spigoli e senza estremità appuntite, fissaggio a 2 punti con verifica a strappo 20 kg — un bambino ci si appende. Spigoli R12, carteggiatura, vernice atossica.",
-   "prompt_img": "a wooden coat rack 360x96 mm mounted low on a child's bedroom wall, four rounded knobs with printed pictograms above each, a small jacket and a backpack hanging, arched top profile"
+   "prompt_img_scena": "a wooden coat rack 360x96 mm mounted low on a child's bedroom wall, four rounded knobs with printed pictograms above each, a small jacket and a backpack hanging, arched top profile"
   },
   {
    "id": "ING-KIDS-DEC-149",
@@ -1354,7 +1354,7 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Betulla 6 mm 96x204 con foro a goccia superiore Ø32 per la maniglia. Nome CUT traforato su fondo UV colore. Faccia A messaggio allegro, faccia B messaggio opposto (sto giocando / sto dormendo). SICUREZZA: spigoli R12, carteggiatura, vernice atossica. Nesting 12 pz/foglio.",
-   "prompt_img": "a wooden door hanger 96x204 mm on a child's bedroom door handle, the name cut straight through revealing a bright coral panel, a playful message printed below, teardrop hole at the top"
+   "prompt_img_scena": "a wooden door hanger 96x204 mm on a child's bedroom door handle, the name cut straight through revealing a bright coral panel, a playful message printed below, teardrop hole at the top"
   },
   {
    "id": "ING-KIDS-SCU-150",
@@ -1426,7 +1426,7 @@
    "s_gift": 8,
    "s_uniq": 9,
    "prompt_prod": "Betulla 6 mm 240x120 con tre scomparti di altezza scalare: 132 mm per i righelli, 108 per i pennarelli, 84 per le matite. Fronti con apertura ad arco R12. Nome UV sul fronte. SICUREZZA: spigoli R12, carteggiatura, vernice atossica. Gommini antiscivolo.",
-   "prompt_img": "a wooden desk organiser 240x120x132 mm with three stepped compartments holding rulers, felt pens and pencils, arched cut-outs on the fronts, child's name printed in bold colour, on a homework desk"
+   "prompt_img_scena": "a wooden desk organiser 240x120x132 mm with three stepped compartments holding rulers, felt pens and pencils, arched cut-outs on the fronts, child's name printed in bold colour, on a homework desk"
   },
   {
    "id": "ING-KIDS-SCU-151",
@@ -1497,7 +1497,7 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Betulla 6 mm, quattro pareti 96x120 a incastro 45 gradi con profilo superiore sagomato (barca, pesce, onda). UV a colori pieni. Nome ENGRAVE-V alla base. SICUREZZA: spigoli R12, carteggiatura, vernice atossica. Gommini. Nesting 12 set/foglio.",
-   "prompt_img": "a wooden pen cup 96x96x120 mm shaped like a little boat, brightly printed hull and a wave profile at the rim, full of coloured pencils, child's name engraved at the base, on a desk"
+   "prompt_img_scena": "a wooden pen cup 96x96x120 mm shaped like a little boat, brightly printed hull and a wave profile at the rim, full of coloured pencils, child's name engraved at the base, on a desk"
   },
   {
    "id": "ING-KIDS-SCU-152",
@@ -1569,7 +1569,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Tutto betulla 4 mm dallo stesso foglio 300x204: segnalibro 36x144, targhetta zaino 48x72 con anello, righello 30x200 con tacche ENGRAVE-V, targhetta astuccio 60x30. Nome su ogni pezzo. SICUREZZA: spigoli R12, carteggiatura, vernice atossica. Un foglio = un kit, sfrido sotto il 18 percento. PRODUZIONE DA GIUGNO per il picco di settembre.",
-   "prompt_img": "a back-to-school set laid out on a desk — a wooden ruler, bookmark, backpack tag and pencil case label — all in birch printed with bright Mediterranean colours and the same child's name, satchel blurred behind"
+   "prompt_img_scena": "a back-to-school set laid out on a desk — a wooden ruler, bookmark, backpack tag and pencil case label — all in birch printed with bright Mediterranean colours and the same child's name, satchel blurred behind"
   },
   {
    "id": "ING-KIDS-SCU-153",
@@ -1638,7 +1638,7 @@
    "s_gift": 8,
    "s_uniq": 8,
    "prompt_prod": "Betulla 3 mm 36x144 con gancetto ad arco R12 in testa. Soggetto UV a colori pieni, nome ENGRAVE-V. SICUREZZA: spigoli SMUSSATI accuratamente (sta fra le pagine e in mano), carteggiatura, vernice atossica. Nesting 40 pz/foglio.",
-   "prompt_img": "a slim wooden bookmark 36x144 mm with an arched hook over the page of an open picture book, a bright printed fish and an engraved child's name, warm reading-lamp light"
+   "prompt_img_scena": "a slim wooden bookmark 36x144 mm with an arched hook over the page of an open picture book, a bright printed fish and an engraved child's name, warm reading-lamp light"
   },
   {
    "id": "ING-KIDS-GIO-154",
@@ -1710,7 +1710,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Betulla 8 mm: 12 pesci 60x36 con RONDELLA METALLICA annegata e coperta, vassoio a forma di mare, due canne 12x240 con cordino. IL MAGNETE STA SOLO NELLA CANNA, annegato in sede fresata e coperto da betulla incollata: nel pesce va il metallo inerte, mai il magnete. Spigoli R12, carteggiatura, vernice atossica, nessun pezzo sotto i 32 mm.",
-   "prompt_img": "a wooden magnetic fishing game on a table, twelve brightly printed fish 60x36 mm in a sea-shaped tray, a child lifting one with a small wooden rod and string, thick birch pieces with rounded edges"
+   "prompt_img_scena": "a wooden magnetic fishing game on a table, twelve brightly printed fish 60x36 mm in a sea-shaped tray, a child lifting one with a small wooden rod and string, thick birch pieces with rounded edges"
   },
   {
    "id": "ING-KIDS-GIO-155",
@@ -1781,7 +1781,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Telaio betulla 6 mm 360x300x120 a incastro, con guide per lo schermo in carta da lucido sostituibile. 12 sagome betulla 3 mm su bastoncino, ponticelli minimi 2,5 mm. SICUREZZA: bastoncini con estremità ARROTONDATE, mai appuntite. Spigoli R12, carteggiatura, vernice atossica. Nessuna sorgente luminosa inclusa: si usa una torcia, e va detto in scheda.",
-   "prompt_img": "a wooden shadow theatre frame 360x300 mm on a table in a dim room, a paper screen lit from behind, two child's hands holding cut wooden puppets casting sharp silhouettes of a boat and a fish onto the screen"
+   "prompt_img_scena": "a wooden shadow theatre frame 360x300 mm on a table in a dim room, a paper screen lit from behind, two child's hands holding cut wooden puppets casting sharp silhouettes of a boat and a fish onto the screen"
   },
   {
    "id": "ING-KIDS-EDU-156",
@@ -1849,7 +1849,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Betulla 12 mm 300x300, 20 tessere dalle sagome regionali REALI più vassoio, dallo stesso foglio. Kerf compensato con gioco 0,15 mm. Nome regione e capoluogo ENGRAVE-V su ogni tessera, UV a colori pieni. ATTENZIONE alle regioni piccole: Valle d'Aosta e Molise vanno ingrandite al minimo di 32 mm per la sicurezza, dichiarando la licenza grafica. Carteggiatura, spigoli R12, vernice atossica.",
-   "prompt_img": "a wooden jigsaw of Italy 300x300 mm in thick birch, twenty region-shaped pieces in different flat colours seated in a tray, region and capital names engraved on each, a child fitting Tuscany into place"
+   "prompt_img_scena": "a wooden jigsaw of Italy 300x300 mm in thick birch, twenty region-shaped pieces in different flat colours seated in a tray, region and capital names engraved on each, a child fitting Tuscany into place"
   },
   {
    "id": "ING-KIDS-KEEP-157",
@@ -1924,7 +1924,7 @@
    "s_gift": 9,
    "s_uniq": 10,
    "prompt_prod": "Pannello betulla 6 mm 300x240 con 12 sedi a scanalatura. 12 tessere betulla 4 mm 60x48 con pittogramma ENGRAVE-R e area UV WHITE opaca riscrivibile per la data. SICUREZZA: nessun magnete in questo prodotto, solo incastri meccanici. Spigoli R12, carteggiatura, vernice atossica. Aggancio a fessura.",
-   "prompt_img": "a wooden milestone board 300x240 mm on a nursery wall, twelve small tiles slotted into grooves each with an engraved icon and a handwritten date, child's name printed across the top, soft daylight"
+   "prompt_img_scena": "a wooden milestone board 300x240 mm on a nursery wall, twelve small tiles slotted into grooves each with an engraved icon and a handwritten date, child's name printed across the top, soft daylight"
   },
   {
    "id": "ING-KIDS-DEC-158",
@@ -1997,7 +1997,7 @@
    "s_gift": 9,
    "s_uniq": 9,
    "prompt_prod": "Scatola betulla 6 mm 144x120x168 con fessura superiore 40x3 mm. Finestra ovale sul fianco chiusa da acrilico trasparente 3 mm in battuta. FONDO ESTRAIBILE tenuto da due linguette rotanti: si apre senza rompere nulla. Nome e obiettivo UV sul fronte. SICUREZZA: fessura dimensionata sulle monete, spigoli R12, carteggiatura, vernice atossica.",
-   "prompt_img": "a wooden coin bank 144x120x168 mm on a shelf, a clear oval window on the side showing coins piled inside, a slot on top, child's name and a savings goal printed in bold colour on the front"
+   "prompt_img_scena": "a wooden coin bank 144x120x168 mm on a shelf, a clear oval window on the side showing coins piled inside, a slot on top, child's name and a savings goal printed in bold colour on the front"
   },
   {
    "id": "ING-KIDS-DEC-159",
@@ -2070,7 +2070,7 @@
    "s_gift": 9,
    "s_uniq": 8,
    "prompt_prod": "Cornice betulla 6 mm 168x216 con luce 100x140. Passepartout betulla 4 mm distanziato 3 mm con profilo superiore a onda, UV a colori pieni. Piedino a incastro con battuta a 15 gradi. SICUREZZA: spigoli R12, carteggiatura, vernice atossica, nessun vetro — se serve una protezione si usa acrilico 1 mm.",
-   "prompt_img": "a layered wooden photo frame 168x216 mm on a child's shelf, a wave-shaped passepartout printed in turquoise and coral over a family photograph, the child's name engraved along the base"
+   "prompt_img_scena": "a layered wooden photo frame 168x216 mm on a child's shelf, a wave-shaped passepartout printed in turquoise and coral over a family photograph, the child's name engraved along the base"
   },
   {
    "id": "ING-KIDS-EDU-160",
@@ -2137,7 +2137,7 @@
    "s_gift": 9,
    "s_uniq": 8,
    "prompt_prod": "Betulla 12 mm 240x240, sei forme geometriche con sedi, tagliate dallo stesso foglio. OGNI PEZZO MINIMO 60 mm sul lato corto, molto oltre il limite dei 32 mm: questa fascia d'età mette tutto in bocca. Presa centrale Ø20 su ogni pezzo. Carteggiatura accurata, spigoli R12, vernice a base acqua ATOSSICA e resistente alla saliva. NOTA: per la vendita sotto i 3 anni serve la conformità EN 71 — senza certificazione, posizionare come decor e dichiararlo.",
-   "prompt_img": "a thick wooden shape sorting board 240x240 mm on a play mat, six large brightly coloured geometric pieces with round finger holes, one lifted by a toddler, chunky rounded edges"
+   "prompt_img_scena": "a thick wooden shape sorting board 240x240 mm on a play mat, six large brightly coloured geometric pieces with round finger holes, one lifted by a toddler, chunky rounded edges"
   }
  ]
 }
