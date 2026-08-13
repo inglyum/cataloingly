@@ -1,0 +1,2194 @@
+{
+ "_categoria": "TOUR — 09 Turismo",
+ "_nota": "Linea generica e replicabile su qualsiasi destinazione, complementare alla linea Sicilia. Due vincoli duri: sotto i 7 EUR non si compete con l'import asiatico (0,29-1,25 $ al pezzo) e quella fascia va abbandonata consapevolmente; il VINCOLO VALIGIA di 20x20x3 cm e 300 g e' un criterio di progetto, non un dettaglio — sopra quella soglia il turista non compra anche se gli piace.",
+ "prodotti": [
+  {
+   "id": "ING-TOUR-SOUV-161",
+   "cat": "TOUR",
+   "coll": "SOUVENIR",
+   "name": "Meta",
+   "tipo": "magnete multilayer per località",
+   "tipo_en": "layered destination magnet",
+   "concept": "Magnete a tre strati con il monumento simbolo della località e il nome inciso, matrice replicabile su qualsiasi meta.",
+   "target": "Turisti, negozi souvenir, musei, aeroporti.",
+   "desire": "Un ricordo che non sembri comprato all'autogrill.",
+   "usp": "Una sola matrice serve cento destinazioni: cambia solo lo strato del monumento.",
+   "diff": "Tre strati fisici dove l'import offre resina stampata.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    72,
+    72,
+    12
+   ],
+   "layers": 3,
+   "cut_mm": 700,
+   "vec_mm": 260,
+   "eng_cm2": 8,
+   "uv_cm2": 48,
+   "uv_white": true,
+   "comp": {
+    "lamina_magnetica": 1
+   },
+   "pack": "busta",
+   "lotto": 80,
+   "mkt": [
+    8,
+    18
+   ],
+   "person": [
+    "località",
+    "monumento",
+    "anno",
+    "colore"
+   ],
+   "tags": [
+    "TOURISM",
+    "SOUVENIR",
+    "FAST SELLER",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-TOUR-SOUV-163 portachiavi coordinate",
+    "ING-TOUR-SOUV-165 cartolina",
+    "ING-TOUR-TAV-167 coaster monumenti"
+   ],
+   "bundle": [
+    "SET SOUVENIR DESTINAZIONE",
+    "ESPOSITORE NEGOZIO 80 pz"
+   ],
+   "ref": "https://www.faire.com/category/Paper%20&%20Novelty/subcategory/Stickers,%20Pins,%20&%20Magnets/Magnets",
+   "kw": [
+    "magnete souvenir legno",
+    "calamita città personalizzata",
+    "magnete viaggio multilayer",
+    "destination fridge magnet wood"
+   ],
+   "s_demand": 16,
+   "s_comp": 7,
+   "s_person": 9,
+   "s_gift": 7,
+   "s_uniq": 8,
+   "prompt_prod": "Tre strati betulla 4 mm 72x72 distanziati 2 mm. Strato 1 cielo (pannello UV), strato 2 sfondo urbano, strato 3 monumento simbolo CUT. SOLO LO STRATO 3 CAMBIA per destinazione: gli altri due sono invarianti di catalogo. Nome della località ENGRAVE-V h 5 mm. Lamina magnetica. Nesting 24 set/foglio.",
+   "prompt_img": "a small layered wooden fridge magnet 72x72 mm, three birch layers spaced 2 mm forming a monument silhouette against a printed sky, place name engraved below, on a fridge door"
+  },
+  {
+   "id": "ING-TOUR-SOUV-162",
+   "cat": "TOUR",
+   "coll": "SOUVENIR",
+   "name": "Rotta",
+   "tipo": "targa con coordinate del viaggio",
+   "tipo_en": "travel coordinates plaque",
+   "concept": "Targa da appoggio con nome del luogo, coordinate marcate su acciaio e data del viaggio.",
+   "target": "Viaggiatori 25-55, coppie, regalo di ritorno.",
+   "desire": "Ricordare quel punto esatto, non una città generica.",
+   "usp": "Cambia solo il testo variabile: è il modo meno costoso di rendere unico un souvenir.",
+   "diff": "Le coordinate al fiber si leggono a 2 mm, l'incisione su legno no.",
+   "platform": "P6",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    168,
+    72,
+    48
+   ],
+   "layers": 1,
+   "cut_mm": 760,
+   "vec_mm": 420,
+   "eng_cm2": 16,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_inox": 1,
+    "gommini": 1
+   },
+   "pack": "busta",
+   "lotto": 40,
+   "mkt": [
+    18,
+    55
+   ],
+   "person": [
+    "luogo",
+    "coordinate",
+    "data",
+    "nomi"
+   ],
+   "tags": [
+    "TOURISM",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-TOUR-SOUV-163 portachiavi",
+    "ING-TOUR-DEC-171 portafoto viaggio",
+    "ING-TOUR-DEC-173 mappa mondo"
+   ],
+   "bundle": [
+    "RICORDO DI VIAGGIO",
+    "SET SOUVENIR DESTINAZIONE"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_home_sign",
+   "kw": [
+    "targa coordinate viaggio",
+    "souvenir coordinate gps",
+    "targa luogo personalizzata",
+    "travel coordinates plaque wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Prisma betulla 8 mm 168x72x48 a tre lastre incastrate 45 gradi. Nome del luogo ENGRAVE-V h 12 mm. Placchetta inox 20x40 MOPA con coordinate decimali a 4 cifre e data. ENGRAVE-V filo perimetrale. Gommini. Peso sotto i 200 g per il vincolo valigia.",
+   "prompt_img": "a small wooden desk plaque 168x72 mm with an engraved place name and an inset steel plate finely marked with GPS coordinates and a date, on a shelf beside a passport and a camera"
+  },
+  {
+   "id": "ING-TOUR-SOUV-163",
+   "cat": "TOUR",
+   "coll": "SOUVENIR",
+   "name": "Bussola",
+   "tipo": "portachiavi souvenir premium",
+   "tipo_en": "premium souvenir keyring",
+   "concept": "Portachiavi in betulla con placchetta d'acciaio marcata col nome del luogo e le coordinate.",
+   "target": "Turisti che rifiutano il souvenir da 3 €, negozi di fascia media.",
+   "desire": "Un ricordo tascabile che duri più di una stagione.",
+   "usp": "Entra dai 12 € in su, dove l'import da 0,29 $ non arriva e non può arrivare.",
+   "diff": "Legno e metallo veri contro la lega stampata in serie.",
+   "platform": "P6",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    48,
+    72,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 300,
+   "vec_mm": 200,
+   "eng_cm2": 6,
+   "mopa_cm2": 6,
+   "comp": {
+    "anello_pck": 1,
+    "targhetta_inox": 1
+   },
+   "pack": "busta",
+   "lotto": 100,
+   "mkt": [
+    10,
+    25
+   ],
+   "person": [
+    "luogo",
+    "coordinate",
+    "nome",
+    "data"
+   ],
+   "tags": [
+    "TOURISM",
+    "SOUVENIR",
+    "PREMIUM",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-TOUR-SOUV-161 magnete",
+    "ING-TOUR-SOUV-162 targa coordinate",
+    "ING-TOUR-VIA-175 luggage tag"
+   ],
+   "bundle": [
+    "SET SOUVENIR DESTINAZIONE",
+    "ESPOSITORE NEGOZIO 100 pz"
+   ],
+   "ref": "https://www.faire.com/discover/souvenir-keychains",
+   "kw": [
+    "portachiavi souvenir legno",
+    "portachiavi coordinate viaggio",
+    "portachiavi città personalizzato",
+    "souvenir keyring wood steel"
+   ],
+   "s_demand": 15,
+   "s_comp": 7,
+   "s_person": 10,
+   "s_gift": 7,
+   "s_uniq": 7,
+   "prompt_prod": "Betulla 6 mm 48x72, testa ad arco R12, foro Ø5. Sede 20x40 per placchetta inox MOPA. ENGRAVE-V filo a 4 mm dal bordo. Nesting 140 pz/foglio: è il riempitivo dei fogli di tutta la categoria turismo.",
+   "prompt_img": "a wooden keyring 48x72 mm with an inset brushed steel plate fiber-marked with a place name and coordinates, arched top, split ring, held in a hand with a map blurred behind"
+  },
+  {
+   "id": "ING-TOUR-SOUV-164",
+   "cat": "TOUR",
+   "coll": "SOUVENIR",
+   "name": "Segno",
+   "tipo": "segnalibro con monumento traforato",
+   "tipo_en": "monument bookmark",
+   "concept": "Segnalibro sottile con la silhouette del monumento traforata e il gancetto che scavalca la pagina.",
+   "target": "Turisti, musei, bookshop, biblioteche.",
+   "desire": "Un ricordo che entri ovunque in valigia e si usi davvero.",
+   "usp": "Peso e ingombro quasi nulli: è il formato ideale per il turismo.",
+   "diff": "Bookshop dei musei è un canale B2B con margini alti e poca concorrenza laser.",
+   "platform": "P1",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    36,
+    144,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 460,
+   "vec_mm": 200,
+   "eng_cm2": 5,
+   "uv_cm2": 20,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 120,
+   "mkt": [
+    5,
+    15
+   ],
+   "person": [
+    "monumento",
+    "luogo",
+    "nome"
+   ],
+   "tags": [
+    "TOURISM",
+    "SOUVENIR",
+    "FAST SELLER",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-TOUR-SOUV-165 cartolina",
+    "ING-TOUR-SOUV-161 magnete",
+    "ING-TOUR-TAV-167 coaster monumenti"
+   ],
+   "bundle": [
+    "SET SOUVENIR DESTINAZIONE",
+    "BOOKSHOP MUSEO"
+   ],
+   "ref": "https://www.faire.com/discover/italian-keychain",
+   "kw": [
+    "segnalibro souvenir legno",
+    "segnalibro monumento città",
+    "segnalibro museo legno",
+    "monument bookmark wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 8,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 3 mm 36x144, gancetto ad arco R12 in testa. Silhouette del monumento CUT traforata nella metà alta, ponticelli minimi 2,5 mm. Nome del luogo ENGRAVE-V h 4 mm. Fascia UV in coda. Spigoli smussati. Nesting 40 pz/foglio.",
+   "prompt_img": "a slim wooden bookmark 36x144 mm with a monument silhouette cut straight through the upper half, engraved place name below, tucked into an open guidebook on a café table"
+  },
+  {
+   "id": "ING-TOUR-SOUV-165",
+   "cat": "TOUR",
+   "coll": "SOUVENIR",
+   "name": "Francobollo",
+   "tipo": "cartolina in legno spedibile",
+   "tipo_en": "mailable wooden postcard",
+   "concept": "Cartolina A6 in betulla sottile, fronte stampato e retro liscio per scrivere e affrancare.",
+   "target": "Turisti, hotel, musei, uffici del turismo.",
+   "desire": "Mandare a casa qualcosa di vero dal posto in cui si è.",
+   "usp": "Si spedisce davvero: è insieme souvenir e gesto verso qualcun altro.",
+   "diff": "Categoria quasi vuota, e chi la produce non certifica la spedibilità.",
+   "platform": "P8",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    144,
+    108,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 520,
+   "vec_mm": 300,
+   "eng_cm2": 6,
+   "uv_cm2": 150,
+   "uv_white": true,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 100,
+   "mkt": [
+    6,
+    18
+   ],
+   "person": [
+    "soggetto",
+    "luogo",
+    "messaggio"
+   ],
+   "tags": [
+    "TOURISM",
+    "SOUVENIR",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-TOUR-SOUV-164 segnalibro",
+    "ING-TOUR-SOUV-161 magnete",
+    "ING-TOUR-SOUV-166 ornamento datato"
+   ],
+   "bundle": [
+    "SET SOUVENIR DESTINAZIONE",
+    "KIT OSPITE"
+   ],
+   "ref": "https://www.wholesalecentral.com/category/Souvenirs",
+   "kw": [
+    "cartolina legno spedibile",
+    "cartolina souvenir legno",
+    "cartolina viaggio personalizzata",
+    "wooden postcard mailable"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 3 mm 144x108 (A6), angoli R12. Fronte UV WHITE + CMYK a piena superficie. Retro LISCIO NON TRATTATO perché la penna scriva: riquadro affrancatura 24x28 e righe ENGRAVE-V tratto 0,2 mm. VERIFICA POSTALE OBBLIGATORIA di peso e spessore ammessi, riportata sul cartellino: se non si può spedire, il prodotto non ha senso.",
+   "prompt_img": "a wooden postcard 144x108 mm printed with a stylised cityscape, shown beside its blank reverse with engraved address lines and a stamp box, a pen and a coffee cup on a café table"
+  },
+  {
+   "id": "ING-TOUR-SOUV-166",
+   "cat": "TOUR",
+   "coll": "SOUVENIR",
+   "name": "Dicembre",
+   "tipo": "ornamento da viaggio datato",
+   "tipo_en": "dated travel ornament",
+   "concept": "Addobbo piatto con luogo e anno, che ogni dicembre riporta a quel viaggio.",
+   "target": "Famiglie in viaggio, turisti, negozi.",
+   "desire": "Ricordare il viaggio ogni anno senza tenere un altro oggetto in casa.",
+   "usp": "Unisce il picco turistico estivo e quello natalizio: risolve la stagionalità meglio di ogni altro prodotto.",
+   "diff": "Si produce in bassa stagione, si vende d'estate in negozio e a dicembre online.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    84,
+    96,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 560,
+   "vec_mm": 260,
+   "eng_cm2": 10,
+   "uv_cm2": 45,
+   "uv_white": true,
+   "comp": {
+    "cordino": 1
+   },
+   "pack": "busta",
+   "lotto": 100,
+   "mkt": [
+    10,
+    26
+   ],
+   "person": [
+    "luogo",
+    "anno",
+    "nomi"
+   ],
+   "tags": [
+    "TOURISM",
+    "SEASONAL",
+    "SOUVENIR",
+    "FAST SELLER"
+   ],
+   "upsell": [
+    "ING-TOUR-SOUV-161 magnete",
+    "ING-TOUR-SOUV-165 cartolina",
+    "ING-SEASON-NAT-191 ornamento datato"
+   ],
+   "bundle": [
+    "SET SOUVENIR DESTINAZIONE",
+    "RICORDO DI VIAGGIO"
+   ],
+   "ref": "https://www.screenprinting.com/blogs/news/profitable-laser-engraved-christmas-ornaments-to-make-and-sell",
+   "kw": [
+    "ornamento viaggio datato",
+    "addobbo natale souvenir viaggio",
+    "ricordo viaggio da appendere",
+    "dated travel ornament wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 4 mm 84x96, foro Ø4 e cordino. Monumento o simbolo del luogo CUT traforato su pannello UV. LUOGO E ANNO ENGRAVE-V ben leggibili: è il motivo per cui il prodotto vale. Formato piatto sotto i 100 mm e peso sotto i 30 g per il vincolo valigia.",
+   "prompt_img": "a flat wooden ornament 84x96 mm hanging on a Christmas tree, a monument silhouette cut through revealing a printed panel, place name and year engraved below, warm fairy lights behind"
+  },
+  {
+   "id": "ING-TOUR-TAV-167",
+   "cat": "TOUR",
+   "coll": "TAVOLA",
+   "name": "Quattro Vedute",
+   "tipo": "set 4 sottobicchieri con monumenti",
+   "tipo_en": "landmark coaster set",
+   "concept": "Quattro sottobicchieri con quattro monumenti diversi della stessa città.",
+   "target": "Turisti 30-60, regalo di ritorno, negozi.",
+   "desire": "Un souvenir utile che resti in uso a casa.",
+   "usp": "Quattro monumenti diversi invece di quattro copie: stesso costo, molto più valore percepito.",
+   "diff": "Il set di mercato ripete la stessa immagine quattro volte.",
+   "platform": "P1",
+   "mat": [
+    "betulla6",
+    "sughero2"
+   ],
+   "quota_mat": {
+    "sughero2": 0.9
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    96,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 1500,
+   "vec_mm": 1200,
+   "eng_cm2": 0,
+   "uv_cm2": 290,
+   "uv_white": true,
+   "comp": {},
+   "pack": "scatola_s",
+   "lotto": 40,
+   "mkt": [
+    18,
+    45
+   ],
+   "person": [
+    "monumenti",
+    "città",
+    "colori"
+   ],
+   "tags": [
+    "TOURISM",
+    "SOUVENIR",
+    "FAST SELLER",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-TOUR-SOUV-161 magnete",
+    "ING-TOUR-DEC-168 mappa città",
+    "ING-TOUR-SOUV-164 segnalibro"
+   ],
+   "bundle": [
+    "SET SOUVENIR DESTINAZIONE",
+    "CASA DEL VIAGGIATORE"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "sottobicchieri souvenir città",
+    "coaster monumenti legno",
+    "set sottobicchieri viaggio",
+    "landmark coasters wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 9,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 8,
+   "prompt_prod": "Quattro dischi betulla 6 mm Ø96 + sughero 2 mm. UV WHITE + CMYK, QUATTRO MONUMENTI DIVERSI della stessa città, stessa palette e stesso stile grafico. Nome del monumento ENGRAVE-V sul bordo. Supporto verticale a croce. Nesting: 4 dischi + supporto in 220x220.",
+   "prompt_img": "four round wooden coasters 96 mm in a slotted holder, each printed with a different city landmark in the same flat graphic style and palette, cork backing visible on one tilted piece"
+  },
+  {
+   "id": "ING-TOUR-DEC-168",
+   "cat": "TOUR",
+   "coll": "DECORO",
+   "name": "Pianta Città",
+   "tipo": "mappa città multilayer per destinazione",
+   "tipo_en": "layered city map",
+   "concept": "Pianta della città su tre strati con il nome traforato e un punto scelto dal cliente.",
+   "target": "Turisti, residenti, hotel, regalo di città.",
+   "desire": "Portare a casa la città, non un generico souvenir.",
+   "usp": "Souvenir che diventa arredo: si compra come ricordo e resta come quadro.",
+   "diff": "Il punto traforato scelto dal cliente rende ogni pezzo diverso.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    240,
+    300,
+    16
+   ],
+   "layers": 3,
+   "cut_mm": 4200,
+   "vec_mm": 900,
+   "eng_cm2": 50,
+   "uv_cm2": 420,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 12,
+   "mkt": [
+    25,
+    90
+   ],
+   "person": [
+    "città",
+    "punto",
+    "data",
+    "nome"
+   ],
+   "tags": [
+    "TOURISM",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-TOUR-TAV-167 coaster monumenti",
+    "ING-TOUR-SOUV-162 targa coordinate",
+    "ING-TOUR-DEC-173 mappa mondo"
+   ],
+   "bundle": [
+    "CASA DEL VIAGGIATORE",
+    "RICORDO DI VIAGGIO"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_wall_decor",
+   "kw": [
+    "mappa città legno",
+    "mappa personalizzata viaggio",
+    "pianta città decorativa",
+    "city map wood layered"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Tre strati betulla 4 mm 240x300 distanziati 4 mm: acqua (pannello UV), isolati, assi principali. SEMPLIFICA A UN SOLO LIVELLO GERARCHICO di strade, ponticelli minimi 2,5 mm, provino obbligatorio. Un foro Ø4 sul punto scelto dal cliente. DATI CARTOGRAFICI con licenza compatibile — OpenStreetMap richiede attribuzione — mai screenshot di mappe proprietarie.",
+   "prompt_img": "a layered wooden city map 240x300 mm, three birch layers showing water, blocks and main streets, a small hole punched at one address letting the blue base show through, city name cut through the header"
+  },
+  {
+   "id": "ING-TOUR-SOUV-169",
+   "cat": "TOUR",
+   "coll": "SOUVENIR",
+   "name": "Modello",
+   "tipo": "miniatura di monumento smontabile",
+   "tipo_en": "flat-pack monument model",
+   "concept": "Monumento a incastro in cinque pezzi che si spedisce piatto e si monta a casa.",
+   "target": "Turisti, musei, bookshop, regalo.",
+   "desire": "Portare via il monumento senza portarsi via il peso.",
+   "usp": "Il costo logistico crolla e il montaggio diventa parte dell'esperienza del ricordo.",
+   "diff": "Le miniature di mercato sono resina pesante; questa sta in una busta.",
+   "platform": "P3",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2",
+   "dim": [
+    144,
+    120,
+    96
+   ],
+   "layers": 1,
+   "cut_mm": 2400,
+   "vec_mm": 600,
+   "eng_cm2": 20,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 50,
+   "mkt": [
+    12,
+    40
+   ],
+   "person": [
+    "monumento",
+    "nome",
+    "anno"
+   ],
+   "tags": [
+    "TOURISM",
+    "SOUVENIR",
+    "FAST SELLER",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-TOUR-DEC-168 mappa città",
+    "ING-TOUR-SOUV-165 cartolina",
+    "ING-TOUR-TAV-167 coaster"
+   ],
+   "bundle": [
+    "SET SOUVENIR DESTINAZIONE",
+    "BOOKSHOP MUSEO"
+   ],
+   "ref": "https://www.wholesalecentral.com/category/Souvenirs",
+   "kw": [
+    "miniatura monumento legno",
+    "modellino smontabile souvenir",
+    "monumento da montare legno",
+    "flat pack monument model wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 7,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 3 mm, MASSIMO 5 PEZZI a incastro, montaggio senza colla e senza attrezzi. Ingombro piatto 200x150x3: entra in busta e rispetta il vincolo valigia. Prova a secco obbligatoria di tutti gli incastri prima del confezionamento. Istruzioni incise sul telaio di sfrido, che diventa il foglietto.",
+   "prompt_img": "a flat-pack wooden monument model assembled on a desk, 144x120x96 mm in thin birch with visible slot joints, its flat uncut sheet lying beside it with engraved assembly steps"
+  },
+  {
+   "id": "ING-TOUR-SOUV-170",
+   "cat": "TOUR",
+   "coll": "SOUVENIR",
+   "name": "Brindisi Viaggio",
+   "tipo": "apribottiglie souvenir",
+   "tipo_en": "souvenir bottle opener",
+   "concept": "Apribottiglie con corpo in betulla e placchetta marcata col nome del luogo.",
+   "target": "Turisti 25-55, birrifici, bar, negozi.",
+   "desire": "Un souvenir che resti in uso invece di finire in un cassetto.",
+   "usp": "La funzione reale è l'antidoto migliore al souvenir che si butta.",
+   "diff": "L'inserto è rivettato e non incollato: è un pezzo sottoposto a sforzo.",
+   "platform": "P6",
+   "mat": [
+    "betulla12"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    48,
+    144,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 420,
+   "vec_mm": 260,
+   "eng_cm2": 8,
+   "mopa_cm2": 6,
+   "comp": {
+    "targhetta_inox": 1
+   },
+   "pack": "busta",
+   "lotto": 60,
+   "mkt": [
+    10,
+    28
+   ],
+   "person": [
+    "luogo",
+    "nome",
+    "logo"
+   ],
+   "tags": [
+    "TOURISM",
+    "SOUVENIR",
+    "B2B",
+    "FAST SELLER"
+   ],
+   "upsell": [
+    "ING-TOUR-SOUV-163 portachiavi",
+    "ING-TOUR-TAV-167 coaster",
+    "ING-TOUR-SOUV-161 magnete"
+   ],
+   "bundle": [
+    "SET SOUVENIR DESTINAZIONE",
+    "REGALO LUI VIAGGIO"
+   ],
+   "ref": "https://www.faire.com/discover/souvenir-keychains",
+   "kw": [
+    "apribottiglie souvenir legno",
+    "apribottiglie personalizzato città",
+    "apribottiglie viaggio inciso",
+    "souvenir bottle opener wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Corpo betulla 12 mm 48x144 con impugnatura ad arco R12 e foro Ø8. Inserto apribottiglie in acciaio incassato e FISSATO CON DUE RIVETTI, mai incollato. Placchetta inox 20x40 MOPA col nome del luogo. Verifica funzionale su 20 tappi prima del lancio.",
+   "prompt_img": "a wooden bottle opener 48x144 mm with a riveted steel head and a small fiber-marked plate on the body, opening a beer bottle on a bar counter"
+  },
+  {
+   "id": "ING-TOUR-DEC-171",
+   "cat": "TOUR",
+   "coll": "DECORO",
+   "name": "Istantanea",
+   "tipo": "portafoto viaggio con tessera coordinate",
+   "tipo_en": "travel photo frame with coordinates tile",
+   "concept": "Cornice con una tessera sostituibile sotto la foto che riporta luogo, data e coordinate.",
+   "target": "Viaggiatori 25-55, coppie, regalo di ritorno.",
+   "desire": "Che la foto dica anche dove e quando.",
+   "usp": "La tessera si sostituisce a ogni viaggio: una cornice, tante destinazioni.",
+   "diff": "Nessuno progetta la cornice come contenitore di dati, solo di immagini.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    192,
+    240,
+    18
+   ],
+   "layers": 2,
+   "cut_mm": 2000,
+   "vec_mm": 800,
+   "eng_cm2": 30,
+   "uv_cm2": 160,
+   "uv_white": true,
+   "mopa_cm2": 6,
+   "comp": {
+    "targhetta_inox": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    25,
+    75
+   ],
+   "person": [
+    "luogo",
+    "data",
+    "coordinate"
+   ],
+   "tags": [
+    "TOURISM",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-TOUR-SOUV-162 targa coordinate",
+    "ING-TOUR-DEC-173 mappa mondo",
+    "ING-TOUR-ORG-174 scatola ricordi"
+   ],
+   "bundle": [
+    "CASA DEL VIAGGIATORE",
+    "RICORDO DI VIAGGIO"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "portafoto viaggio personalizzato",
+    "cornice coordinate luogo",
+    "cornice viaggio legno",
+    "travel photo frame coordinates"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Cornice betulla 6 mm 192x240 con luce ad arco R12 per foto 13x18. Passepartout betulla 4 mm distanziato 3 mm. TESSERA INOX 20x40 MOPA in scanalatura sotto la foto, SOSTITUIBILE: luogo, data e coordinate cambiano a ogni viaggio. Tessere aggiuntive come SKU. Piedino a 15 gradi.",
+   "prompt_img": "a layered wooden photo frame 192x240 mm holding a travel photograph, a small steel tile slotted below it marked with a place name, date and coordinates, standing on a bookshelf"
+  },
+  {
+   "id": "ING-TOUR-DEC-172",
+   "cat": "TOUR",
+   "coll": "DECORO",
+   "name": "Passi",
+   "tipo": "mappa del mondo da segnare",
+   "tipo_en": "world map travel tracker",
+   "concept": "Planisfero a strati con fori sui paesi, dove si inseriscono spilli o tesserine dei luoghi visitati.",
+   "target": "Viaggiatori 25-55, coppie, regalo di laurea e di partenza.",
+   "desire": "Vedere in un colpo d'occhio dove si è stati.",
+   "usp": "È un prodotto che si aggiorna: chi lo compra torna per le tesserine.",
+   "diff": "Tesserine incise al posto delle solite puntine da spillo.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    420,
+    300,
+    16
+   ],
+   "layers": 3,
+   "cut_mm": 5200,
+   "vec_mm": 1400,
+   "eng_cm2": 60,
+   "uv_cm2": 560,
+   "uv_white": true,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "scatola_g",
+   "lotto": 10,
+   "mkt": [
+    45,
+    150
+   ],
+   "person": [
+    "nome",
+    "colori",
+    "paesi"
+   ],
+   "tags": [
+    "TOURISM",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-TOUR-DEC-173 tesserine paesi",
+    "ING-TOUR-ORG-174 scatola ricordi",
+    "ING-TOUR-SOUV-162 targa coordinate"
+   ],
+   "bundle": [
+    "CASA DEL VIAGGIATORE",
+    "REGALO VIAGGIATORE"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_wall_decor",
+   "kw": [
+    "mappa mondo legno viaggi",
+    "planisfero da segnare",
+    "mappa viaggi personalizzata",
+    "world map travel tracker wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 9,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Tre strati betulla 4 mm 420x300 distanziati 4 mm: oceano (pannello UV), continenti, rilievi. Fori Ø3 sulle capitali per le tesserine. PROBLEMA TECNICO REALE: le isole piccole vanno unite alla terraferma con ponticelli o omesse consapevolmente, non lasciate cadere dal taglio. Aggancio a 2 punti.",
+   "prompt_img": "a layered wooden world map 420x300 mm on a wall, continents raised above a deep blue printed ocean, several small engraved tiles pinned into holes at visited capitals"
+  },
+  {
+   "id": "ING-TOUR-DEC-173",
+   "cat": "TOUR",
+   "coll": "DECORO",
+   "name": "Tappe",
+   "tipo": "tesserine dei paesi visitati",
+   "tipo_en": "visited country tiles",
+   "concept": "Tesserine incise col nome del paese e l'anno, da inserire nella mappa del mondo.",
+   "target": "Chi possiede già la mappa, viaggiatori abituali.",
+   "desire": "Segnare il viaggio appena tornato.",
+   "usp": "Consumabile a ricorrenza: si ricompra dopo ogni viaggio, per anni.",
+   "diff": "Trasforma un quadro in un oggetto che si aggiorna.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    36,
+    24,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 140,
+   "vec_mm": 120,
+   "eng_cm2": 3,
+   "uv_cm2": 16,
+   "uv_white": true,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 150,
+   "mkt": [
+    2,
+    8
+   ],
+   "person": [
+    "paese",
+    "anno",
+    "colore"
+   ],
+   "tags": [
+    "TOURISM",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-TOUR-DEC-172 mappa mondo",
+    "ING-TOUR-SOUV-162 targa coordinate",
+    "ING-TOUR-ORG-174 scatola ricordi"
+   ],
+   "bundle": [
+    "CASA DEL VIAGGIATORE",
+    "RICAMBI VIAGGIO x10"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_wall_decor",
+   "kw": [
+    "tesserine paesi visitati",
+    "segnaposto mappa viaggi",
+    "targhette paesi legno",
+    "country tiles travel map"
+   ],
+   "s_demand": 10,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 5,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 4 mm 36x24 con perno Ø2,8 sul retro calibrato sui fori Ø3 della mappa. Nome paese e anno ENGRAVE-V h 3,5 mm — al limite del leggibile, verificare sul provino. Fascia UV colore per continente. Nesting 120 pz/foglio: riempitivo perfetto.",
+   "prompt_img": "a handful of tiny wooden tiles 36x24 mm engraved with country names and years, one being pushed into a hole on a layered wooden world map"
+  },
+  {
+   "id": "ING-TOUR-ORG-174",
+   "cat": "TOUR",
+   "coll": "ORGANIZER",
+   "name": "Bagaglio",
+   "tipo": "scatola ricordi di viaggio",
+   "tipo_en": "travel memory box",
+   "concept": "Scatola con coperchio scorrevole e scomparti per biglietti, monete e piccoli souvenir.",
+   "target": "Viaggiatori 25-60, regalo di ritorno o di partenza.",
+   "desire": "Un posto dove finiscano i biglietti invece del fondo di un cassetto.",
+   "usp": "Risolve un problema che ogni viaggiatore ha e nessuno affronta.",
+   "diff": "Gli scomparti sono dimensionati sugli oggetti reali: biglietti, monete, cartoline.",
+   "platform": "P3",
+   "mat": [
+    "betulla6",
+    "feltro3"
+   ],
+   "quota_mat": {
+    "feltro3": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    204,
+    96
+   ],
+   "layers": 1,
+   "cut_mm": 2800,
+   "vec_mm": 1000,
+   "eng_cm2": 60,
+   "uv_cm2": 220,
+   "uv_white": true,
+   "comp": {},
+   "pack": "scatola_m",
+   "lotto": 18,
+   "mkt": [
+    35,
+    110
+   ],
+   "person": [
+    "nome",
+    "luoghi",
+    "colori"
+   ],
+   "tags": [
+    "TOURISM",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-TOUR-DEC-172 mappa mondo",
+    "ING-TOUR-DEC-171 portafoto",
+    "ING-TOUR-ORG-177 bacheca biglietti"
+   ],
+   "bundle": [
+    "CASA DEL VIAGGIATORE",
+    "REGALO VIAGGIATORE"
+   ],
+   "ref": "https://www.wholesalecentral.com/category/Souvenirs",
+   "kw": [
+    "scatola ricordi viaggio",
+    "box souvenir legno",
+    "cofanetto viaggi personalizzato",
+    "travel memory box wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Scatola betulla 6 mm 300x204x96, coperchio SCORREVOLE in guide fresate con mappa stilizzata ENGRAVE-R. Interno in feltro con quattro scomparti: biglietti 100x60, monete Ø60, cartoline 150x105, piccoli oggetti 80x80. Nome del viaggiatore ENGRAVE-V dentro il coperchio.",
+   "prompt_img": "an open wooden travel memory box 300x204x96 mm with a sliding engraved lid, felt compartments holding boarding passes, foreign coins and a postcard, on a desk beside a passport"
+  },
+  {
+   "id": "ING-TOUR-VIA-175",
+   "cat": "TOUR",
+   "coll": "VIAGGIO",
+   "name": "Etichetta",
+   "tipo": "targhetta per valigia",
+   "tipo_en": "luggage tag",
+   "concept": "Targhetta rigida con nome e recapito su placchetta metallica e finestra per i dati.",
+   "target": "Viaggiatori, aeroporti, negozi di articoli da viaggio.",
+   "desire": "Riconoscere la valigia sul nastro senza il nastro colorato.",
+   "usp": "Oggetto d'uso reale con acquisto d'impulso in aeroporto: il canale è già lì.",
+   "diff": "Metallo marcato invece di plastica stampata che si scolora.",
+   "platform": "P6",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    60,
+    108,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 420,
+   "vec_mm": 280,
+   "eng_cm2": 8,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_inox": 1,
+    "cordino": 1
+   },
+   "pack": "busta",
+   "lotto": 80,
+   "mkt": [
+    8,
+    25
+   ],
+   "person": [
+    "nome",
+    "recapito",
+    "luogo"
+   ],
+   "tags": [
+    "TOURISM",
+    "FAST SELLER",
+    "B2B",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-TOUR-SOUV-163 portachiavi",
+    "ING-TOUR-VIA-176 porta passaporto",
+    "ING-TOUR-ORG-174 scatola ricordi"
+   ],
+   "bundle": [
+    "KIT VIAGGIATORE: targhetta + porta passaporto",
+    "REGALO VIAGGIATORE"
+   ],
+   "ref": "https://www.faire.com/discover/souvenir-keychains",
+   "kw": [
+    "targhetta valigia legno",
+    "luggage tag personalizzato",
+    "etichetta bagaglio incisa",
+    "luggage tag wood steel"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 6 mm 60x108, testa ad arco R12 con foro Ø8 per cordino robusto (non un cordino sottile: si rompe sul nastro bagagli). Placchetta inox 20x40 MOPA col nome. Retro con finestra e cartoncino sostituibile per il recapito, che NON va inciso in chiaro per privacy. Spigoli smussati.",
+   "prompt_img": "a wooden luggage tag 60x108 mm attached to a suitcase handle with a sturdy cord, a fiber-marked steel plate with a name, arched top, airport carousel blurred behind"
+  },
+  {
+   "id": "ING-TOUR-VIA-176",
+   "cat": "TOUR",
+   "coll": "VIAGGIO",
+   "name": "Documenti",
+   "tipo": "porta passaporto e documenti di viaggio",
+   "tipo_en": "passport and travel document holder",
+   "concept": "Custodia rigida a libro con dorso flessibile, per passaporto, carte d'imbarco e valuta.",
+   "target": "Viaggiatori 25-55, regalo di partenza.",
+   "desire": "Non cercare il passaporto nello zaino al gate.",
+   "usp": "Il dorso flessibile ottenuto al laser è un dettaglio tecnico che si nota subito in mano.",
+   "diff": "In legno rigido protegge davvero il documento, a differenza delle custodie in pelle morbida.",
+   "platform": "P3",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    144,
+    204,
+    24
+   ],
+   "layers": 1,
+   "cut_mm": 1600,
+   "vec_mm": 900,
+   "eng_cm2": 30,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {
+    "nastro": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    20,
+    60
+   ],
+   "person": [
+    "nome",
+    "luogo",
+    "colore"
+   ],
+   "tags": [
+    "TOURISM",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-TOUR-VIA-175 targhetta valigia",
+    "ING-TOUR-ORG-174 scatola ricordi",
+    "ING-TOUR-SOUV-162 targa coordinate"
+   ],
+   "bundle": [
+    "KIT VIAGGIATORE",
+    "REGALO VIAGGIATORE"
+   ],
+   "ref": "https://www.wholesalecentral.com/category/Souvenirs",
+   "kw": [
+    "porta passaporto legno",
+    "custodia documenti viaggio",
+    "porta documenti personalizzato",
+    "passport holder wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 4 mm 144x204x24, custodia a libro con DORSO FLESSIBILE ottenuto da SCORE parallele passo 2 mm (living hinge): è il dettaglio che vende il prodotto. Sedi interne per passaporto, due carte d'imbarco e banconote. Nome ENGRAVE-V. Chiusura a nastro. Verifica del dorso su 200 aperture prima del lancio.",
+   "prompt_img": "a wooden passport holder 144x204 mm with a flexible living-hinge spine, open to show a passport and boarding passes inside, engraved name on the cover, on an airport café table"
+  },
+  {
+   "id": "ING-TOUR-ORG-177",
+   "cat": "TOUR",
+   "coll": "DECORO",
+   "name": "Biglietti",
+   "tipo": "bacheca per biglietti e ricordi",
+   "tipo_en": "ticket stub display board",
+   "concept": "Pannello con fessura superiore dove infilare biglietti di musei, concerti e treni, visibili dietro un fronte traforato.",
+   "target": "Viaggiatori, appassionati di concerti, studenti.",
+   "desire": "Non buttare i biglietti e non tenerli in una scatola chiusa.",
+   "usp": "I ricordi si accumulano a vista e il pannello diventa più bello col tempo.",
+   "diff": "Categoria quasi inesistente, con un comportamento diffusissimo che nessuno serve.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "acrilico3"
+   ],
+   "quota_mat": {
+    "acrilico3": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    240,
+    300,
+    24
+   ],
+   "layers": 2,
+   "cut_mm": 2200,
+   "vec_mm": 800,
+   "eng_cm2": 40,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 18,
+   "mkt": [
+    28,
+    80
+   ],
+   "person": [
+    "nome",
+    "frase",
+    "colore"
+   ],
+   "tags": [
+    "TOURISM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-TOUR-ORG-174 scatola ricordi",
+    "ING-TOUR-DEC-172 mappa mondo",
+    "ING-TOUR-DEC-171 portafoto"
+   ],
+   "bundle": [
+    "CASA DEL VIAGGIATORE",
+    "REGALO VIAGGIATORE"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "bacheca biglietti ricordi",
+    "raccogli biglietti viaggio",
+    "porta biglietti da parete",
+    "ticket stub display box"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Cassa betulla 6 mm 240x300x24 con fessura superiore 160x6 mm. Fronte con finestra traforata chiusa da acrilico trasparente 3 mm: i biglietti si accumulano e restano visibili. Fondo removibile per svuotare. Frase o nome ENGRAVE-V sul telaio. Aggancio a 2 punti.",
+   "prompt_img": "a wooden wall box 240x300 mm with a clear front panel filled with a colourful pile of museum and concert ticket stubs, a slot along the top edge, engraved phrase on the frame"
+  },
+  {
+   "id": "ING-TOUR-DEC-178",
+   "cat": "TOUR",
+   "coll": "DECORO",
+   "name": "Sagoma Paese",
+   "tipo": "sagoma di regione o paese da parete",
+   "tipo_en": "country or region silhouette",
+   "concept": "Profilo geografico traforato su pannello colorato, matrice replicabile su qualsiasi territorio.",
+   "target": "Turisti, emigrati, regalo affettivo, negozi locali.",
+   "desire": "Avere il proprio posto alla parete.",
+   "usp": "Serve sia il turista sia chi da quel posto è partito: due pubblici con un prodotto.",
+   "diff": "Proporzioni geografiche corrette, che gli abitanti notano immediatamente.",
+   "platform": "P5",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.8
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    240,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 2200,
+   "vec_mm": 1200,
+   "eng_cm2": 40,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    25,
+    80
+   ],
+   "person": [
+    "territorio",
+    "città",
+    "coordinate",
+    "frase"
+   ],
+   "tags": [
+    "TOURISM",
+    "PERSONALIZZABILE",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-TOUR-DEC-168 mappa città",
+    "ING-TOUR-SOUV-162 targa coordinate",
+    "ING-TOUR-DEC-172 mappa mondo"
+   ],
+   "bundle": [
+    "CASA DEL VIAGGIATORE",
+    "REGALO EMIGRATI"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_wall_decor",
+   "kw": [
+    "sagoma regione legno",
+    "profilo paese da parete",
+    "mappa regione decorativa",
+    "country silhouette wall art wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 8,
+   "prompt_prod": "Fondo betulla 8 mm 300x240 con UV PRINT. Sagoma betulla 4 mm distanziata 4 mm, profilo da DATI CARTOGRAFICI REALI con licenza compatibile. Confini interni ENGRAVE-V tratto 0,3 mm. Un foro Ø4 sulla città scelta dal cliente. Le proporzioni sbagliate sono il difetto più comune della categoria e si notano subito.",
+   "prompt_img": "a wall piece 300x240 mm, the silhouette of a region cut from birch and raised above a printed coloured panel, faint engraved internal borders, one small hole punched at a city"
+  },
+  {
+   "id": "ING-TOUR-SOUV-179",
+   "cat": "TOUR",
+   "coll": "SOUVENIR",
+   "name": "Distintivo",
+   "tipo": "spilla souvenir in legno",
+   "tipo_en": "wooden souvenir pin",
+   "concept": "Spilla piccola con simbolo del luogo, collezionabile e da appuntare su zaino o giacca.",
+   "target": "Giovani viaggiatori 16-35, musei, festival.",
+   "desire": "Collezionare i posti visitati su uno zaino.",
+   "usp": "Serie collezionabile: chi ne compra una torna per le altre.",
+   "diff": "In legno stampato invece della solita spilla smaltata importata.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    48,
+    48,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 220,
+   "vec_mm": 140,
+   "eng_cm2": 4,
+   "uv_cm2": 24,
+   "uv_white": true,
+   "comp": {
+    "spilla": 1
+   },
+   "pack": "busta",
+   "lotto": 150,
+   "mkt": [
+    5,
+    14
+   ],
+   "person": [
+    "simbolo",
+    "luogo",
+    "colore"
+   ],
+   "tags": [
+    "TOURISM",
+    "SOUVENIR",
+    "FAST SELLER",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-TOUR-SOUV-161 magnete",
+    "ING-TOUR-SOUV-163 portachiavi",
+    "ING-TOUR-VIA-175 targhetta valigia"
+   ],
+   "bundle": [
+    "SET SOUVENIR DESTINAZIONE",
+    "COLLEZIONE SPILLE"
+   ],
+   "ref": "https://www.faire.com/discover/souvenir-keychains",
+   "kw": [
+    "spilla souvenir legno",
+    "pin città collezionabile",
+    "spille viaggio personalizzate",
+    "wooden souvenir pin badge"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 8,
+   "s_gift": 7,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 4 mm 48x48, angoli R12. Simbolo del luogo UV a colori pieni con bianco di fondo. Base spilla metallica incollata con biadesivo strutturale, PROVA DI TENUTA obbligatoria: una spilla che si stacca dallo zaino è persa. Nesting 120 pz/foglio.",
+   "prompt_img": "several small wooden pin badges 48 mm attached to a canvas backpack, each printed with a different city symbol in flat bold colour, worn look, outdoor daylight"
+  },
+  {
+   "id": "ING-TOUR-DEC-180",
+   "cat": "TOUR",
+   "coll": "DECORO",
+   "name": "Conteggio",
+   "tipo": "contatore dei paesi visitati",
+   "tipo_en": "countries visited counter",
+   "concept": "Pannello con dischi girevoli che mostrano quanti paesi e continenti si sono visitati.",
+   "target": "Viaggiatori abituali 25-50, regalo per chi viaggia molto.",
+   "desire": "Un numero da aggiornare, che racconta una vita.",
+   "usp": "Si aggiorna a ogni viaggio: l'oggetto resta vivo per anni.",
+   "diff": "Meccanico e tangibile invece di un'app.",
+   "platform": "P7",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    240,
+    168,
+    10
+   ],
+   "layers": 2,
+   "cut_mm": 1800,
+   "vec_mm": 900,
+   "eng_cm2": 30,
+   "uv_cm2": 200,
+   "uv_white": true,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    20,
+    60
+   ],
+   "person": [
+    "nome",
+    "frase",
+    "colori"
+   ],
+   "tags": [
+    "TOURISM",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-TOUR-DEC-172 mappa mondo",
+    "ING-TOUR-DEC-173 tesserine",
+    "ING-TOUR-ORG-174 scatola ricordi"
+   ],
+   "bundle": [
+    "CASA DEL VIAGGIATORE",
+    "REGALO VIAGGIATORE"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "contatore paesi visitati",
+    "countdown viaggi legno",
+    "contatore viaggi personalizzato",
+    "countries visited counter wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Pannello betulla 6 mm 240x168 con due finestre e dischi girevoli betulla 4 mm su perno a frizione, cifre 0-9 ENGRAVE-V. Etichette PAESI e CONTINENTI incise sopra le finestre. Piedino a 15 gradi + aggancio a parete. Il perno deve tenere la posizione: prova su 500 rotazioni.",
+   "prompt_img": "a wooden counter board 240x168 mm on a shelf showing two rotating number discs reading 27, engraved labels above the windows, a world map blurred on the wall behind"
+  },
+  {
+   "id": "ING-TOUR-B2B-181",
+   "cat": "TOUR",
+   "coll": "B2B",
+   "name": "Espositore Souvenir",
+   "tipo": "espositore girevole da banco per souvenir",
+   "tipo_en": "rotating souvenir counter display",
+   "concept": "Espositore girevole a quattro facce che ospita magneti, spille e portachiavi in ordine.",
+   "target": "Negozi souvenir, musei, bookshop, hotel.",
+   "desire": "Esporre cento pezzi piccoli su mezzo metro di bancone.",
+   "usp": "Aumenta le vendite d'impulso del negozio: si ripaga da solo ed è l'argomento B2B più forte.",
+   "diff": "Venduto insieme al primo ordine di souvenir, come parte del pacchetto.",
+   "platform": "P3",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    240,
+    240,
+    360
+   ],
+   "layers": 1,
+   "cut_mm": 4400,
+   "vec_mm": 1200,
+   "eng_cm2": 60,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 10,
+   "mkt": [
+    50,
+    160
+   ],
+   "person": [
+    "logo",
+    "nome negozio",
+    "colore"
+   ],
+   "tags": [
+    "TOURISM",
+    "B2B",
+    "PREMIUM",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-TOUR-SOUV-161 magnete",
+    "ING-TOUR-SOUV-179 spille",
+    "ING-TOUR-B2B-182 cartellini"
+   ],
+   "bundle": [
+    "KIT NEGOZIO SOUVENIR: espositore + 200 pezzi",
+    "PACCHETTO RIVENDITORE"
+   ],
+   "ref": "https://www.etsy.com/market/restaurant_order_numbers",
+   "kw": [
+    "espositore souvenir girevole",
+    "espositore magneti negozio",
+    "display souvenir da banco",
+    "rotating souvenir display wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 3,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 8 mm, struttura a quattro facce 240x240x360 su cuscinetto girevole. Ogni faccia con ganci per portachiavi e spille, e mensole per magneti. Area logo 160x40 in testa. Verifica di stabilità: baricentro basso e base zavorrabile. Smontabile per la spedizione.",
+   "prompt_img": "a rotating wooden souvenir display 240x240x360 mm on a shop counter, four faces hung with wooden keyrings and pins, shop logo engraved at the top, tourists browsing behind"
+  },
+  {
+   "id": "ING-TOUR-B2B-182",
+   "cat": "TOUR",
+   "coll": "B2B",
+   "name": "Prezzi Souvenir",
+   "tipo": "cartellini prezzo per negozio turistico",
+   "tipo_en": "souvenir shop price tags",
+   "concept": "Cartellini bilingue con area riscrivibile e simbolo di valuta inciso.",
+   "target": "Negozi souvenir, mercati, musei.",
+   "desire": "Prezzi chiari anche per chi non parla italiano.",
+   "usp": "Bilingue e riscrivibile: il negozio cambia i prezzi ogni giorno senza ricomprare nulla.",
+   "diff": "Pensato per un cliente straniero, che è il cliente reale di quel negozio.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    72,
+    48,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 420,
+   "vec_mm": 260,
+   "eng_cm2": 6,
+   "uv_cm2": 30,
+   "uv_white": true,
+   "comp": {},
+   "pack": "scatola_s",
+   "lotto": 80,
+   "mkt": [
+    8,
+    28
+   ],
+   "person": [
+    "logo",
+    "valuta",
+    "colore"
+   ],
+   "tags": [
+    "TOURISM",
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-TOUR-B2B-181 espositore",
+    "ING-TOUR-B2B-183 insegna negozio",
+    "ING-B2B-RET-102 cartellini prezzo"
+   ],
+   "bundle": [
+    "KIT NEGOZIO SOUVENIR",
+    "PACCHETTO RIVENDITORE"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "cartellini prezzo negozio souvenir",
+    "segnaprezzo bilingue legno",
+    "cartellini turistici personalizzati",
+    "souvenir price tags wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 13,
+   "s_person": 8,
+   "s_gift": 2,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 4 mm 72x48, testa ad arco R12. Area UV WHITE opaca riscrivibile 56x24, simbolo valuta ENGRAVE-V a lato. Due varianti: con foro Ø4 per pinza e con dente per base P2. Set da 24. Nesting 60 pz/foglio.",
+   "prompt_img": "small wooden price tags 72x48 mm clipped among souvenirs on a shop shelf, each with a handwritten price on a matte panel and an engraved euro symbol, shop logo repeated"
+  },
+  {
+   "id": "ING-TOUR-B2B-183",
+   "cat": "TOUR",
+   "coll": "B2B",
+   "name": "Insegna Souvenir",
+   "tipo": "insegna per negozio turistico",
+   "tipo_en": "tourist shop sign",
+   "concept": "Insegna a due strati con nome del negozio traforato e pittogrammi delle categorie merceologiche.",
+   "target": "Negozi souvenir, chioschi, bookshop.",
+   "desire": "Distinguersi dagli altri dieci negozi della stessa via.",
+   "usp": "In una via turistica tutte le insegne sono uguali: distinguersi è l'unico vantaggio.",
+   "diff": "Legno e traforo dove il resto della via è plastica retroilluminata.",
+   "platform": "P5",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.8
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    420,
+    300,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 3000,
+   "vec_mm": 1100,
+   "eng_cm2": 50,
+   "uv_cm2": 420,
+   "uv_white": true,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "scatola_g",
+   "lotto": 10,
+   "mkt": [
+    60,
+    250
+   ],
+   "person": [
+    "nome negozio",
+    "logo",
+    "colore",
+    "pittogrammi"
+   ],
+   "tags": [
+    "TOURISM",
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-TOUR-B2B-181 espositore",
+    "ING-TOUR-B2B-182 cartellini",
+    "ING-B2B-RET-101 insegna logo"
+   ],
+   "bundle": [
+    "KIT NEGOZIO SOUVENIR",
+    "IDENTITÀ NEGOZIO"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "insegna negozio souvenir",
+    "insegna turistica legno",
+    "insegna negozio personalizzata",
+    "tourist shop sign wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 2,
+   "s_uniq": 9,
+   "prompt_prod": "Fondo betulla 8 mm 420x300 con UV PRINT. Frontale betulla 4 mm distanziato 4 mm con nome CUT traforato h 60 mm. Fascia inferiore con pittogrammi ENGRAVE-R delle merceologie. Trattamento idrorepellente e montaggio su distanziali 12 mm. Se l'insegna sta all'esterno, valutare acrilico e dichiararlo al cliente.",
+   "prompt_img": "a shop sign 420x300 mm above a souvenir shop door, the shop name cut through the front birch layer revealing a warm printed panel, a row of engraved category pictograms below, sunlit street"
+  },
+  {
+   "id": "ING-TOUR-B2B-184",
+   "cat": "TOUR",
+   "coll": "B2B",
+   "name": "Dintorni",
+   "tipo": "pannello mappa dei dintorni per struttura ricettiva",
+   "tipo_en": "local area map panel",
+   "concept": "Mappa dei dintorni a piedi con punti d'interesse numerati e legenda incisa.",
+   "target": "B&B, case vacanza, hotel, affitti brevi.",
+   "desire": "Che l'ospite trovi le cose senza chiedere ogni volta.",
+   "usp": "Riduce le domande all'host e diventa il pezzo più fotografato della casa.",
+   "diff": "Mappa reale dei dintorni, non una decorazione generica a tema viaggio.",
+   "platform": "P1",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    400,
+    300,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 1600,
+   "vec_mm": 1800,
+   "eng_cm2": 80,
+   "uv_cm2": 560,
+   "uv_white": true,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "scatola_g",
+   "lotto": 12,
+   "mkt": [
+    40,
+    130
+   ],
+   "person": [
+    "mappa",
+    "punti",
+    "nome struttura",
+    "logo"
+   ],
+   "tags": [
+    "TOURISM",
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-B2B-HOSP-117 vassoio benvenuto",
+    "ING-B2B-HOSP-129 regolamento casa",
+    "ING-TOUR-B2B-185 kit ospite"
+   ],
+   "bundle": [
+    "KIT B&B COMPLETO",
+    "ACCOGLIENZA"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "mappa dintorni bb",
+    "pannello punti interesse ospiti",
+    "mappa locale casa vacanza",
+    "local area map panel wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 3,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 6 mm 400x300. UV WHITE + CMYK mappa stilizzata dei dintorni a piedi, punti d'interesse NUMERATI. Legenda ENGRAVE-V lungo il bordo inferiore con nome e distanza a piedi in minuti. Nome della struttura in testa. DATI CARTOGRAFICI con licenza compatibile.",
+   "prompt_img": "a wall panel 400x300 mm in a holiday apartment showing a stylised printed map of the surrounding streets with numbered points of interest, an engraved legend along the bottom listing places and walking times"
+  },
+  {
+   "id": "ING-TOUR-B2B-185",
+   "cat": "TOUR",
+   "coll": "B2B",
+   "name": "Kit Ospite",
+   "tipo": "kit di benvenuto per affitto breve",
+   "tipo_en": "short-let guest welcome kit",
+   "concept": "Vassoio, porta chiavi camera, QR wifi e cartolina in legno, coordinati col nome della struttura.",
+   "target": "Affitti brevi, B&B, case vacanza.",
+   "desire": "Un'accoglienza che generi recensioni a cinque stelle.",
+   "usp": "Le recensioni sono l'unico marketing degli affitti brevi: qui si compra direttamente quello.",
+   "diff": "Venduto come kit completo con un preventivo unico, non a pezzi.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    204,
+    48
+   ],
+   "layers": 1,
+   "cut_mm": 3000,
+   "vec_mm": 1400,
+   "eng_cm2": 60,
+   "uv_cm2": 480,
+   "uv_white": true,
+   "comp": {
+    "gancio": 2,
+    "gommini": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 15,
+   "mkt": [
+    45,
+    150
+   ],
+   "person": [
+    "nome struttura",
+    "logo",
+    "QR",
+    "colore"
+   ],
+   "tags": [
+    "TOURISM",
+    "B2B",
+    "PREMIUM",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-TOUR-B2B-184 mappa dintorni",
+    "ING-B2B-HOSP-115 QR wifi",
+    "ING-TOUR-SOUV-165 cartolina"
+   ],
+   "bundle": [
+    "KIT B&B COMPLETO",
+    "ACCOGLIENZA"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "kit benvenuto affitto breve",
+    "welcome kit casa vacanza",
+    "accoglienza ospiti bb legno",
+    "guest welcome kit wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 6,
+   "s_uniq": 10,
+   "prompt_prod": "Da un foglio: vassoio 300x204x48, porta chiavi camera 96x144, QR wifi P2 80x100, cartolina in legno 144x108. Tutti col nome della struttura e la stessa palette. Il QR va su area LISCIA con test di scansione. Ordine minimo 3 kit, ma il valore sta nel riordino quando gli ospiti se li portano via.",
+   "prompt_img": "a coordinated wooden welcome set laid out on a holiday apartment table — a printed tray, a room key holder, a wifi QR stand and a wooden postcard — all bearing the same property name and colours"
+  },
+  {
+   "id": "ING-TOUR-B2B-186",
+   "cat": "TOUR",
+   "coll": "B2B",
+   "name": "Consigli",
+   "tipo": "pannello consigli del padrone di casa",
+   "tipo_en": "host recommendations panel",
+   "concept": "Pannello con tessere sostituibili per i consigli su ristoranti, spiagge e negozi.",
+   "target": "Affitti brevi, B&B, agriturismi.",
+   "desire": "Dare consigli aggiornati senza riscriverli a mano ogni volta.",
+   "usp": "Le tessere si sostituiscono quando un locale chiude: il pannello resta valido per anni.",
+   "diff": "Aggiornabile, dove i pannelli stampati diventano falsi in sei mesi.",
+   "platform": "P7",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    240,
+    10
+   ],
+   "layers": 2,
+   "cut_mm": 2400,
+   "vec_mm": 1600,
+   "eng_cm2": 60,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    35,
+    110
+   ],
+   "person": [
+    "consigli",
+    "nome struttura",
+    "logo",
+    "lingua"
+   ],
+   "tags": [
+    "TOURISM",
+    "B2B",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-TOUR-B2B-184 mappa dintorni",
+    "ING-TOUR-B2B-187 tessere ricambio",
+    "ING-B2B-HOSP-129 regolamento"
+   ],
+   "bundle": [
+    "KIT B&B COMPLETO",
+    "ACCOGLIENZA"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "pannello consigli ospiti",
+    "consigli locali casa vacanza",
+    "bacheca consigli bb",
+    "host recommendations board wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 3,
+   "s_uniq": 10,
+   "prompt_prod": "Pannello betulla 6 mm 300x240 con otto scanalature. Tessere betulla 4 mm 264x24 con nome del locale, tipo e distanza a piedi ENGRAVE-V. Pittogramma di categoria UV all'estremità. Tessere di ricambio come SKU: quando un locale chiude si cambia solo quella.",
+   "prompt_img": "a wooden recommendations panel 300x240 mm on a holiday apartment wall, eight slim engraved tiles slotted into rails listing restaurants and beaches with walking times, small printed category icons"
+  },
+  {
+   "id": "ING-TOUR-B2B-187",
+   "cat": "TOUR",
+   "coll": "B2B",
+   "name": "Tessere Consigli",
+   "tipo": "tessere di ricambio per pannello consigli",
+   "tipo_en": "recommendation replacement tiles",
+   "concept": "Tessere singole incise per aggiornare i consigli quando un locale cambia o chiude.",
+   "target": "Strutture che hanno già il pannello.",
+   "desire": "Aggiornare un consiglio senza rifare tutto il pannello.",
+   "usp": "Consumabile a ricorrenza su un cliente B2B che ordina più volte l'anno.",
+   "diff": "Il modello a ricambi applicato all'hospitality, dove nessuno lo usa.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    264,
+    24,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 580,
+   "vec_mm": 500,
+   "eng_cm2": 10,
+   "uv_cm2": 40,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 80,
+   "mkt": [
+    3,
+    12
+   ],
+   "person": [
+    "nome locale",
+    "tipo",
+    "distanza",
+    "icona"
+   ],
+   "tags": [
+    "TOURISM",
+    "B2B",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-TOUR-B2B-186 pannello consigli",
+    "ING-TOUR-B2B-184 mappa dintorni",
+    "ING-B2B-HOSP-115 QR wifi"
+   ],
+   "bundle": [
+    "KIT B&B COMPLETO",
+    "RICAMBI HOSPITALITY x8"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "tessere ricambio pannello consigli",
+    "targhette locali bb",
+    "ricambi bacheca ospiti",
+    "recommendation tiles wood"
+   ],
+   "s_demand": 10,
+   "s_comp": 14,
+   "s_person": 10,
+   "s_gift": 2,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 4 mm 264x24, spessore calibrato sulla scanalatura da 4,2 mm: gioco 0,2 mm. Nome del locale h 8 mm, tipo e distanza h 5 mm ENGRAVE-V. Pittogramma UV all'estremità sinistra. Nesting 12 pz/foglio, riempitivo dei fogli B2B.",
+   "prompt_img": "three slim wooden tiles 264x24 mm engraved with restaurant names and walking distances, one being slid into the rail of a recommendations panel"
+  },
+  {
+   "id": "ING-TOUR-SOUV-188",
+   "cat": "TOUR",
+   "coll": "SOUVENIR",
+   "name": "Cammino",
+   "tipo": "medaglia commemorativa di percorso",
+   "tipo_en": "trail completion medal",
+   "concept": "Medaglia in legno e metallo per chi completa un cammino, un sentiero o una gara.",
+   "target": "Camminatori, pellegrini, organizzatori di gare, pro loco.",
+   "desire": "Una prova tangibile di averlo fatto.",
+   "usp": "Il canale è l'organizzatore, che ordina a centinaia e ripete ogni anno.",
+   "diff": "Legno e acciaio invece della medaglia in lega stampata identica per tutti gli eventi.",
+   "platform": "P6",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    72,
+    72,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 420,
+   "vec_mm": 280,
+   "eng_cm2": 12,
+   "mopa_cm2": 10,
+   "comp": {
+    "targhetta_inox": 1,
+    "cordino": 1
+   },
+   "pack": "busta",
+   "lotto": 100,
+   "mkt": [
+    8,
+    28
+   ],
+   "person": [
+    "percorso",
+    "anno",
+    "nome",
+    "distanza"
+   ],
+   "tags": [
+    "TOURISM",
+    "B2B",
+    "LIMITED EDITION",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-TOUR-SOUV-179 spille",
+    "ING-TOUR-SOUV-162 targa coordinate",
+    "ING-B2B-AWD-109 placca"
+   ],
+   "bundle": [
+    "PACCHETTO EVENTO: 200 medaglie",
+    "COLLEZIONE CAMMINI"
+   ],
+   "ref": "https://gemarparma.it/trend-2026-nel-merchandising-aziendale/",
+   "kw": [
+    "medaglia cammino legno",
+    "medaglia gara personalizzata",
+    "medaglia trekking souvenir",
+    "trail medal wood steel"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 6 mm Ø72 con foro Ø6 per cordino. Sede circolare Ø40 per disco inox MOPA con nome del percorso, distanza e anno. Numerazione progressiva se edizione dell'anno. ENGRAVE-V corona perimetrale. Nesting 60 pz/foglio. Lotto minimo 100 per l'organizzatore.",
+   "prompt_img": "a wooden trail medal 72 mm on a cotton cord around a walker's neck, an inset steel disc fiber-marked with the route name, distance and year, mountain path blurred behind"
+  },
+  {
+   "id": "ING-TOUR-SOUV-189",
+   "cat": "TOUR",
+   "coll": "SOUVENIR",
+   "name": "Valuta",
+   "tipo": "portamonete da viaggio a scomparti",
+   "tipo_en": "travel coin organiser",
+   "concept": "Custodia piatta con scomparti per separare le valute dei diversi paesi.",
+   "target": "Viaggiatori frequenti, collezionisti di monete.",
+   "desire": "Non ritrovarsi monete di quattro paesi mescolate in tasca.",
+   "usp": "Problema reale di chi viaggia, con zero prodotti dedicati sul mercato.",
+   "diff": "Gli scomparti sono etichettabili: si riusa cambiando le etichette.",
+   "platform": "P3",
+   "mat": [
+    "betulla4",
+    "feltro3"
+   ],
+   "quota_mat": {
+    "feltro3": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    144,
+    108,
+    24
+   ],
+   "layers": 1,
+   "cut_mm": 1500,
+   "vec_mm": 700,
+   "eng_cm2": 20,
+   "uv_cm2": 120,
+   "uv_white": true,
+   "comp": {
+    "nastro": 1
+   },
+   "pack": "busta",
+   "lotto": 40,
+   "mkt": [
+    15,
+    45
+   ],
+   "person": [
+    "nome",
+    "valute",
+    "colore"
+   ],
+   "tags": [
+    "TOURISM",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-TOUR-VIA-176 porta passaporto",
+    "ING-TOUR-VIA-175 targhetta valigia",
+    "ING-TOUR-ORG-174 scatola ricordi"
+   ],
+   "bundle": [
+    "KIT VIAGGIATORE",
+    "REGALO VIAGGIATORE"
+   ],
+   "ref": "https://www.wholesalecentral.com/category/Souvenirs",
+   "kw": [
+    "portamonete viaggio legno",
+    "organizer valute estere",
+    "porta monete scomparti",
+    "travel coin organiser wood"
+   ],
+   "s_demand": 10,
+   "s_comp": 14,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 4 mm 144x108x24, sei scomparti con fondo in feltro perché le monete non tintinnino. Coperchio a libro con dorso flessibile da SCORE passo 2 mm. Etichette UV riscrivibili sopra ogni scomparto. Chiusura a nastro. Peso sotto i 120 g.",
+   "prompt_img": "an open wooden coin organiser 144x108 mm with six felt-lined compartments holding coins of different currencies, small writable labels above each, on a hotel desk beside a passport"
+  },
+  {
+   "id": "ING-TOUR-B2B-190",
+   "cat": "TOUR",
+   "coll": "B2B",
+   "name": "Chiave Camera",
+   "tipo": "porta chiavi camera con coordinate",
+   "tipo_en": "room key fob with coordinates",
+   "concept": "Pendaglio pesante per la chiave della camera, con numero e coordinate della struttura.",
+   "target": "Hotel, B&B, affitti brevi, agriturismi.",
+   "desire": "Che l'ospite non se ne vada con la chiave in tasca.",
+   "usp": "Il peso è la funzione: un pendaglio pesante non finisce in tasca per sbaglio.",
+   "diff": "Le coordinate incise servono davvero all'ospite che deve tornare a casa.",
+   "platform": "P6",
+   "mat": [
+    "betulla12"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    48,
+    120,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 400,
+   "vec_mm": 280,
+   "eng_cm2": 10,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_inox": 1,
+    "anello_pck": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 60,
+   "mkt": [
+    8,
+    25
+   ],
+   "person": [
+    "numero",
+    "coordinate",
+    "logo",
+    "nome"
+   ],
+   "tags": [
+    "TOURISM",
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-B2B-HOSP-112 numero camera",
+    "ING-TOUR-B2B-185 kit ospite",
+    "ING-B2B-HOSP-118 rack chiavi"
+   ],
+   "bundle": [
+    "KIT B&B COMPLETO",
+    "KIT CAMERE"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "portachiavi camera hotel",
+    "pendaglio chiave bb",
+    "porta chiavi struttura ricettiva",
+    "hotel room key fob wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 3,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 12 mm 48x120: lo spessore serve al PESO, che è la funzione del prodotto — un pendaglio leggero finisce in tasca. Numero camera CUT traforato h 36 mm. Placchetta inox 20x40 MOPA con coordinate e nome della struttura. Anello robusto. Spigoli smussati: passa di mano ogni giorno.",
+   "prompt_img": "a heavy wooden key fob 48x120 mm hanging from a room key on a reception desk, the room number cut straight through, a steel plate below marked with the property name and coordinates"
+  }
+ ]
+}

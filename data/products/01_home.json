@@ -206,7 +206,7 @@
    "upsell": [
     "ING-HOME-ING-001 portachiavi",
     "ING-HOME-ING-002 svuotatasche",
-    "ING-EVENT-KEEP-053 targa anniversario"
+    "ING-EVENT-KEEP-058 targa anniversario"
    ],
    "bundle": [
     "SET CASA NUOVA",
@@ -276,7 +276,7 @@
    "upsell": [
     "ING-HOME-LUX-006 lampada",
     "ING-HOME-DEC-018 portafoto",
-    "ING-SICILY-DEC-282 mappa"
+    "ING-SICILY-CITTA-252 mappa"
    ],
    "bundle": [
     "PARETE MEDITERRANEA: quadro + lampada",
@@ -561,7 +561,7 @@
    "upsell": [
     "ING-HOME-LUX-006 lampada",
     "ING-HOME-TAV-017 centrotavola",
-    "ING-SEASON-HAL-194 lanterna zucca"
+    "ING-SEASON-HAL-209 lanterna zucca"
    ],
    "bundle": [
     "LUCE DI CASA",
@@ -780,7 +780,7 @@
    "upsell": [
     "ING-HOME-TAV-012 coaster",
     "ING-HOME-TAV-014 portatovaglioli",
-    "ING-B2B-HOSP-121 vassoio benvenuto"
+    "ING-B2B-HOSP-117 vassoio benvenuto"
    ],
    "bundle": [
     "COLAZIONE: vassoio + coaster + portatovaglioli",
@@ -1270,8 +1270,8 @@
    ],
    "upsell": [
     "ING-HOME-DEC-003 targa famiglia",
-    "ING-KIDS-KEEP-137 quadretto nascita",
-    "ING-PET-MEM-072 portafoto pet"
+    "ING-KIDS-KEEP-133 quadretto nascita",
+    "ING-PET-DEC-099 portafoto pet"
    ],
    "bundle": [
     "REGALO CASA",
@@ -1407,7 +1407,7 @@
    "upsell": [
     "ING-HOME-ING-001 portachiavi",
     "ING-HOME-DEC-019 mensola",
-    "ING-PET-ORG-070 porta guinzaglio"
+    "ING-PET-ORG-080 porta guinzaglio"
    ],
    "bundle": [
     "SET INGRESSO",
@@ -1954,7 +1954,7 @@
    ],
    "upsell": [
     "ING-HOME-BAG-029 porta diffusore",
-    "ING-B2B-HOSP-119 targa bagno",
+    "ING-B2B-REST-095 targa bagno",
     "ING-HOME-DEC-019 mensola"
    ],
    "bundle": [

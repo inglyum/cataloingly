@@ -21,8 +21,8 @@ e scarichi, ottieni quei prodotti, non tutti.
 
 | | |
 | --- | --- |
-| Prodotti Ingly completi | **128** su 300 previsti |
-| Categorie prodotto complete | **4** su 10 (01 Casa, 02 Eventi, 04 B2B, 10 Sicilia) |
+| Prodotti Ingly completi | **288** |
+| Categorie prodotto complete | **10 su 10** |
 | Voci di enciclopedia | **63** su tutte e 10 le categorie |
 | Fonti di file catalogate | **24** (6 gratuite, 7 a pagamento, 11 fra rassegne e documentazione) |
 | Strumenti di lavoro | **34** divisi per fase, con costo reale |
@@ -30,9 +30,9 @@ e scarichi, ottieni quei prodotti, non tutti.
 | Analisi di mercato | **10 categorie su 10** — completa |
 | Motore di calcolo | completo e collaudato |
 
-Le sei categorie mancanti (03 Animali, 05 Bambini, 06 Stagionale, 07 Edizioni limitate,
-08 Anime, 09 Turismo) hanno **analisi di mercato, market gap e voci di enciclopedia già
-completi**: manca solo la scrittura dei prodotti, che segue lo stesso schema dei 128 esistenti.
+Il catalogo copre tutte e dieci le categorie. Due hanno meno di 30 prodotti per scelta:
+**07 Edizioni limitate** (16) è un meccanismo di prezzo più che una famiglia di prodotti, e
+**08 Anime** (20) è limitata da ciò che si può fare senza violare proprietà intellettuale altrui.
 
 ---
 
@@ -157,11 +157,12 @@ data/
   fonti.json          24 fonti di file laser, ordinate per licenza
   strumenti.json      34 strumenti per disegnare, ottimizzare, produrre,
                       fotografare e vendere, divisi per fase di lavoro
-  products/
-    01_home.json      30 prodotti
-    02_eventi.json    30 prodotti
-    04_b2b.json       38 prodotti
-    10_sicilia.json   30 prodotti
+  products/           un file per categoria, 288 prodotti in totale
+    01_home.json      30    06_stagionale.json  34
+    02_eventi.json    30    07_limitate.json    16
+    03_animali.json   30    08_anime.json       20
+    04_b2b.json       38    09_turismo.json     30
+    05_bambini.json   30    10_sicilia.json     30
 scripts/
   build.py            motore di calcolo e catalogo Ingly
   build_enciclopedia.py  enciclopedia prodotti e fonti
@@ -180,6 +181,7 @@ out/                  generato — non versionare a mano
 - orologi senza sfere in distinta base o con alberino non verificato
 - prodotti per bambini senza vernici atossiche, spigoli raggiati o magneti annegati
 - **riferimenti a proprietà intellettuale protetta** (blocca il prodotto)
+- **upsell che puntano a SKU inesistenti** (ne ha trovati 28 reali)
 - fasce di mercato incoerenti, campi obbligatori mancanti, prompt non eseguibili
 
 Esce con codice 1 se trova errori bloccanti: si può mettere in una CI.
@@ -229,9 +231,8 @@ non possono acquistare merce contraffatta.
 
 ## Cosa resta da fare
 
-1. Scrivere i prodotti delle 6 categorie mancanti (analisi, gap e voci di enciclopedia già pronti)
-2. **Tarare le tariffe** in `reference.json` sui costi reali di produzione
-3. Verificare le tolleranze con una tavola di test sulla macchina reale —
+1. **Tarare le tariffe** in `reference.json` sui costi reali di produzione
+2. Verificare le tolleranze con una tavola di test sulla macchina reale —
    soprattutto l'asola della piattaforma P2, che si porta dietro otto prodotti
-4. Generare le immagini di catalogo con i prompt già presenti in ogni scheda
-5. Prototipare nell'ordine: prima le piattaforme, poi i prodotti
+3. Generare le immagini di catalogo con i prompt già presenti in ogni scheda
+4. Prototipare nell'ordine: prima le piattaforme, poi i prodotti

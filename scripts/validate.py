@@ -49,6 +49,9 @@ def carica_prodotti():
     return prodotti
 
 
+SKU_ESISTENTI = set()
+
+
 def controlla(p):
     """Ritorna (errori_bloccanti, avvisi)."""
     err, warn = [], []
@@ -177,6 +180,13 @@ def controlla(p):
 
     if len(p.get("upsell", [])) < 3:
         warn.append("meno di 3 prodotti di upsell indicati")
+
+    # Gli upsell devono puntare a SKU che esistono: un riferimento rotto manda
+    # il cliente su una scheda inesistente, e nessuno se ne accorge a mano.
+    for u in p.get("upsell", []):
+        sku_rif = str(u).split()[0]
+        if sku_rif.startswith("ING-") and sku_rif not in SKU_ESISTENTI:
+            err.append(f"upsell verso uno SKU inesistente: {sku_rif}")
     if len(p.get("bundle", [])) < 2:
         warn.append("meno di 2 bundle indicati")
 
@@ -202,6 +212,8 @@ def main():
     prodotti = carica_prodotti()
     if not prodotti:
         sys.exit("Nessun prodotto trovato in data/products/")
+
+    SKU_ESISTENTI.update(p["id"] for p in prodotti)
 
     tot_err = tot_warn = 0
     con_problemi = 0

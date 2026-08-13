@@ -1,0 +1,2460 @@
+{
+ "_categoria": "SEASON — 06 Stagionale",
+ "_nota": "Regola operativa: si produce PRIMA della domanda, non durante. Natale va avviato a settembre, le bomboniere di primavera a febbraio, il rientro a scuola a giugno. Due gap sfruttati qui: i soggetti natalizi sono ovunque alpini e un set mediterraneo e' immediatamente distintivo; la Festa del Papa' italiana cade il 19 marzo e i cataloghi esteri seguono la data anglosassone di giugno, mancando la finestra.",
+ "prodotti": [
+  {
+   "id": "ING-SEASON-NAT-191",
+   "cat": "SEASON",
+   "coll": "NATALE",
+   "name": "Anno",
+   "tipo": "ornamento natalizio datato",
+   "tipo_en": "dated christmas ornament",
+   "concept": "Addobbo piatto con l'anno inciso in grande e un soggetto mediterraneo traforato.",
+   "target": "Famiglie, coppie, mercatini, negozi.",
+   "desire": "Ricordare quest'anno preciso ogni volta che si fa l'albero.",
+   "usp": "Genera il riacquisto automatico: chi ne compra uno torna ogni dicembre, per anni.",
+   "diff": "Soggetti mediterranei dove il mercato è tutto abeti, renne e fiocchi di neve.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    84,
+    96,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 560,
+   "vec_mm": 280,
+   "eng_cm2": 10,
+   "uv_cm2": 45,
+   "uv_white": true,
+   "comp": {
+    "cordino": 1
+   },
+   "pack": "busta",
+   "lotto": 100,
+   "mkt": [
+    6,
+    18
+   ],
+   "person": [
+    "anno",
+    "nomi",
+    "soggetto"
+   ],
+   "tags": [
+    "SEASONAL",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-NAT-192 set 6 ornamenti",
+    "ING-SEASON-NAT-194 calendario avvento",
+    "ING-SEASON-NAT-196 ghirlanda"
+   ],
+   "bundle": [
+    "NATALE MEDITERRANEO: 6 ornamenti + ghirlanda",
+    "EDIZIONE ANNUALE"
+   ],
+   "ref": "https://www.screenprinting.com/blogs/news/profitable-laser-engraved-christmas-ornaments-to-make-and-sell",
+   "kw": [
+    "addobbo natale personalizzato legno",
+    "pallina natale con anno",
+    "ornamento natalizio inciso",
+    "dated christmas ornament wood"
+   ],
+   "s_demand": 18,
+   "s_comp": 7,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 4 mm 84x96 con foro Ø4 e cordino. ANNO ENGRAVE-V h 14 mm ben leggibile: è il motivo per cui si ricompra l'anno dopo, quindi va in evidenza. Soggetto mediterraneo CUT traforato (cupola, fico d'india, onda, sole, limone, campana) su pannello UV. PRODUZIONE DA SETTEMBRE. Nesting 40 pz/foglio.",
+   "prompt_img": "a flat wooden Christmas ornament 84x96 mm hanging on a fir branch, the year engraved large below a cut-out dome shape revealing a deep blue printed panel, cotton cord, warm bokeh lights behind"
+  },
+  {
+   "id": "ING-SEASON-NAT-192",
+   "cat": "SEASON",
+   "coll": "NATALE",
+   "name": "Presepe",
+   "tipo": "set 6 ornamenti mediterranei",
+   "tipo_en": "Mediterranean ornament set",
+   "concept": "Sei addobbi coordinati con soggetti del sud — agrume, cupola, barca, sole, fico d'india, pesce — in scatola.",
+   "target": "Famiglie, regalo, negozi turistici, mercatini.",
+   "desire": "Un albero che non sembri quello di tutti gli altri.",
+   "usp": "Il set completo alza lo scontrino e vende il concetto, non il singolo pezzo.",
+   "diff": "È l'esatto opposto del Natale alpino che occupa tutto il mercato.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    240,
+    168,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 2600,
+   "vec_mm": 900,
+   "eng_cm2": 30,
+   "uv_cm2": 280,
+   "uv_white": true,
+   "comp": {
+    "cordino": 6
+   },
+   "pack": "flatpack",
+   "lotto": 30,
+   "mkt": [
+    25,
+    65
+   ],
+   "person": [
+    "soggetti",
+    "colori",
+    "nomi"
+   ],
+   "tags": [
+    "SEASONAL",
+    "FAST SELLER",
+    "BUNDLE",
+    "SOUVENIR"
+   ],
+   "upsell": [
+    "ING-SEASON-NAT-191 ornamento datato",
+    "ING-SEASON-NAT-196 ghirlanda",
+    "ING-SEASON-NAT-199 albero da tavolo"
+   ],
+   "bundle": [
+    "NATALE MEDITERRANEO",
+    "REGALO NATALE"
+   ],
+   "ref": "https://www.thunderlaser.com/laser-blogs/christmas-laser-ideas.html",
+   "kw": [
+    "addobbi natale mediterranei",
+    "set decorazioni albero legno",
+    "addobbi siciliani natale",
+    "mediterranean christmas ornaments"
+   ],
+   "s_demand": 16,
+   "s_comp": 11,
+   "s_person": 8,
+   "s_gift": 10,
+   "s_uniq": 10,
+   "prompt_prod": "Sei ornamenti betulla 4 mm, ingombro 84x96 ciascuno, tagliati da un foglio 240x168 con lo sfrido che diventa il vassoio della scatola. Palette natalizia mediterranea: cobalto, ocra, verde ulivo, corallo — MAI rosso e verde standard. Cordino su ogni pezzo. Produzione da settembre.",
+   "prompt_img": "six flat wooden Christmas ornaments 84x96 mm laid out in a box, each printed with a Mediterranean motif — citrus, dome, boat, sun, prickly pear, fish — in cobalt, ochre and coral, cotton cords attached"
+  },
+  {
+   "id": "ING-SEASON-NAT-193",
+   "cat": "SEASON",
+   "coll": "NATALE",
+   "name": "Primo Natale",
+   "tipo": "ornamento primo Natale del bambino",
+   "tipo_en": "baby's first christmas ornament",
+   "concept": "Addobbo a due strati con nome, anno e i dati di nascita, per il primo Natale.",
+   "target": "Genitori, nonni, regalo nascita di dicembre.",
+   "desire": "Segnare il primo Natale in modo che resti per sempre.",
+   "usp": "Carico emotivo altissimo e sensibilità al prezzo bassa: è il pezzo più premium della categoria.",
+   "diff": "A due strati con profondità, dove il mercato offre una lastra incisa.",
+   "platform": "P5",
+   "mat": [
+    "betulla4",
+    "betulla3"
+   ],
+   "quota_mat": {
+    "betulla3": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    120,
+    9
+   ],
+   "layers": 2,
+   "cut_mm": 700,
+   "vec_mm": 400,
+   "eng_cm2": 14,
+   "uv_cm2": 60,
+   "uv_white": true,
+   "comp": {
+    "cordino": 1
+   },
+   "pack": "busta",
+   "lotto": 60,
+   "mkt": [
+    10,
+    30
+   ],
+   "person": [
+    "nome",
+    "anno",
+    "data nascita"
+   ],
+   "tags": [
+    "SEASONAL",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-NAT-191 ornamento datato",
+    "ING-KIDS-KEEP-133 quadretto nascita",
+    "ING-SEASON-NAT-192 set ornamenti"
+   ],
+   "bundle": [
+    "NATALE MEDITERRANEO",
+    "REGALO NASCITA"
+   ],
+   "ref": "https://www.screenprinting.com/blogs/news/profitable-laser-engraved-christmas-ornaments-to-make-and-sell",
+   "kw": [
+    "primo natale bambino ornamento",
+    "addobbo primo natale personalizzato",
+    "ricordo primo natale legno",
+    "baby first christmas ornament"
+   ],
+   "s_demand": 15,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Fondo betulla 3 mm 96x120 con UV PRINT. Frontale betulla 4 mm distanziato 2 mm con stella o culla CUT traforata. Nome h 8 mm, anno h 10 mm, data di nascita h 4 mm ENGRAVE-V. Spigoli smussati: lo maneggia una famiglia con un neonato. Cordino in raso.",
+   "prompt_img": "a small two-layer wooden ornament 96x120 mm hanging on a Christmas tree, a star cut through the front layer over a soft printed panel, baby's name and year engraved below, satin ribbon, warm lights"
+  },
+  {
+   "id": "ING-SEASON-NAT-194",
+   "cat": "SEASON",
+   "coll": "NATALE",
+   "name": "Avvento",
+   "tipo": "calendario dell'avvento con cassettini",
+   "tipo_en": "advent calendar with drawers",
+   "concept": "Struttura a 24 cassettini numerati con il cognome inciso sulla traversa alta.",
+   "target": "Famiglie con bambini, regalo importante di novembre.",
+   "desire": "Un calendario dell'avvento che si riusi ogni anno invece di buttarlo.",
+   "usp": "Alto scontrino su un prodotto che dura decenni: il costo per anno è irrisorio e va detto.",
+   "diff": "Cassettini veri in legno dove il mercato usa cartone o sacchetti di stoffa.",
+   "platform": "P3",
+   "mat": [
+    "betulla6",
+    "betulla3"
+   ],
+   "quota_mat": {
+    "betulla3": 0.6
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    420,
+    300,
+    72
+   ],
+   "layers": 1,
+   "cut_mm": 9000,
+   "vec_mm": 2400,
+   "eng_cm2": 80,
+   "uv_cm2": 420,
+   "uv_white": true,
+   "comp": {},
+   "pack": "scatola_g",
+   "lotto": 10,
+   "mkt": [
+    45,
+    160
+   ],
+   "person": [
+    "cognome",
+    "colori",
+    "numeri"
+   ],
+   "tags": [
+    "SEASONAL",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-NAT-192 set ornamenti",
+    "ING-SEASON-NAT-196 ghirlanda",
+    "ING-SEASON-NAT-199 albero da tavolo"
+   ],
+   "bundle": [
+    "NATALE MEDITERRANEO",
+    "REGALO NATALE"
+   ],
+   "ref": "https://aeonlaser.us/blogs/news/20-laser-engraving-business-ideas-2026",
+   "kw": [
+    "calendario avvento legno",
+    "calendario avvento cassetti personalizzato",
+    "avvento riutilizzabile legno",
+    "wooden advent calendar drawers"
+   ],
+   "s_demand": 15,
+   "s_comp": 10,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Telaio betulla 6 mm 420x300x72 con griglia di 24 alloggiamenti 60x60. 24 cassettini betulla 3 mm con presa ad arco R12 e numero ENGRAVE-V. ATTENZIONE AL TEMPO: 24 cassetti sono 24 scatole, e l'assemblaggio va calcolato sul serio prima di fissare il prezzo. Cognome ENGRAVE-R sulla traversa alta. PRODUZIONE DA LUGLIO.",
+   "prompt_img": "a wooden advent calendar 420x300 mm with a grid of twenty-four small numbered drawers, two pulled open, family surname engraved across the top rail, warm printed panel behind the numbers, on a sideboard with candles"
+  },
+  {
+   "id": "ING-SEASON-NAT-195",
+   "cat": "SEASON",
+   "coll": "NATALE",
+   "name": "Puntale",
+   "tipo": "puntale per albero a strati",
+   "tipo_en": "layered tree topper",
+   "concept": "Stella geometrica a tre strati con cono di innesto per il puntale dell'albero.",
+   "target": "Famiglie, negozi, allestimenti.",
+   "desire": "Un puntale che non sia la stella di plastica dorata.",
+   "usp": "È il pezzo più visibile dell'albero: giustifica un prezzo alto su poco materiale.",
+   "diff": "Stella costruita su archi R12 invece della solita punta a cinque raggi.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    192,
+    240,
+    16
+   ],
+   "layers": 3,
+   "cut_mm": 2200,
+   "vec_mm": 600,
+   "eng_cm2": 20,
+   "uv_cm2": 240,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    18,
+    55
+   ],
+   "person": [
+    "colori",
+    "nome famiglia",
+    "anno"
+   ],
+   "tags": [
+    "SEASONAL",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-NAT-192 set ornamenti",
+    "ING-SEASON-NAT-196 ghirlanda",
+    "ING-SEASON-NAT-194 calendario avvento"
+   ],
+   "bundle": [
+    "NATALE MEDITERRANEO",
+    "ALBERO COMPLETO"
+   ],
+   "ref": "https://www.thunderlaser.com/laser-blogs/christmas-laser-ideas.html",
+   "kw": [
+    "puntale albero legno",
+    "stella albero natale personalizzata",
+    "puntale natalizio design",
+    "wooden tree topper star"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Tre strati betulla 4 mm 192x240 distanziati 4 mm, stella costruita con archi R12 sovrapposti. Cono di innesto a incastro sul retro, diametro interno 24 mm per la punta standard dell'albero. Peso sotto i 200 g: sopra, la punta si piega. Anno ENGRAVE-V sul retro.",
+   "prompt_img": "a layered wooden star tree topper 192x240 mm on top of a Christmas tree, three spaced birch layers building depth, warm ochre and gold printed panels between them, fairy lights glowing around it"
+  },
+  {
+   "id": "ING-SEASON-NAT-196",
+   "cat": "SEASON",
+   "coll": "NATALE",
+   "name": "Ghirlanda",
+   "tipo": "ghirlanda da porta a moduli",
+   "tipo_en": "modular door wreath",
+   "concept": "Corona composta da dodici moduli a incastro che si smonta piatta a gennaio.",
+   "target": "Famiglie, negozi, B&B.",
+   "desire": "Una ghirlanda che non occupi un armadio undici mesi l'anno.",
+   "usp": "Si smonta piatta: risolve il problema vero delle decorazioni natalizie, cioè dove metterle.",
+   "diff": "Modulare, quindi si possono aggiungere moduli negli anni successivi.",
+   "platform": "P7",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    360,
+    360,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 3400,
+   "vec_mm": 1200,
+   "eng_cm2": 30,
+   "uv_cm2": 420,
+   "uv_white": true,
+   "comp": {
+    "nastro": 1
+   },
+   "pack": "scatola_l",
+   "lotto": 20,
+   "mkt": [
+    28,
+    80
+   ],
+   "person": [
+    "colori",
+    "nome famiglia",
+    "moduli"
+   ],
+   "tags": [
+    "SEASONAL",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-NAT-192 set ornamenti",
+    "ING-SEASON-NAT-195 puntale",
+    "ING-SEASON-NAT-197 centrotavola"
+   ],
+   "bundle": [
+    "NATALE MEDITERRANEO",
+    "CASA A NATALE"
+   ],
+   "ref": "https://www.thunderlaser.com/laser-blogs/christmas-laser-ideas.html",
+   "kw": [
+    "ghirlanda natale legno",
+    "corona porta natalizia design",
+    "ghirlanda smontabile legno",
+    "modular christmas wreath wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 11,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Dodici moduli betulla 4 mm a incastro reciproco che compongono una corona Ø360. Ogni modulo è un soggetto mediterraneo diverso, UV a colori pieni. Smontaggio senza attrezzi, si ripone piatta in busta. Moduli aggiuntivi come SKU separato per ampliare la corona negli anni.",
+   "prompt_img": "a modular wooden Christmas wreath 360 mm on a blue front door, twelve interlocking printed segments with Mediterranean motifs in ochre and cobalt, satin ribbon at the top, winter sunlight"
+  },
+  {
+   "id": "ING-SEASON-NAT-197",
+   "cat": "SEASON",
+   "coll": "NATALE",
+   "name": "Tavola Natale",
+   "tipo": "centrotavola natalizio smontabile",
+   "tipo_en": "flat-pack christmas centrepiece",
+   "concept": "Struttura a croce con sedi per candele e traforo che proietta il pattern sulla tovaglia.",
+   "target": "Famiglie, ristoranti, catering.",
+   "desire": "Un centrotavola per il pranzo di Natale che poi si ripone in un cassetto.",
+   "usp": "Costo di spedizione da busta invece che da scatola: cambia l'economia della vendita online.",
+   "diff": "Si monta in cinque secondi e si smonta piatto.",
+   "platform": "P1",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2",
+   "dim": [
+    300,
+    300,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 3000,
+   "vec_mm": 900,
+   "eng_cm2": 0,
+   "comp": {
+    "led_tealight": 3
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    25,
+    70
+   ],
+   "person": [
+    "pattern",
+    "nome",
+    "anno"
+   ],
+   "tags": [
+    "SEASONAL",
+    "FAST SELLER",
+    "BUNDLE",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-SEASON-NAT-196 ghirlanda",
+    "ING-SEASON-NAT-198 segnaposto natalizio",
+    "ING-HOME-LUX-008 lanterna"
+   ],
+   "bundle": [
+    "CASA A NATALE",
+    "TAVOLA DI NATALE: centrotavola + 12 segnaposto"
+   ],
+   "ref": "https://www.thunderlaser.com/laser-blogs/christmas-laser-ideas.html",
+   "kw": [
+    "centrotavola natale legno",
+    "centrotavola smontabile natalizio",
+    "decorazione tavola natale",
+    "christmas centrepiece wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 8,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Due lastre betulla 6 mm 300x300 a incastro a croce con traforo mediterraneo, più anello esterno di squadratura. Tre sedi Ø40 per tealight LED. Cartellino con avvertenza SOLO TEALIGHT LED. Tre pezzi totali, spediti piatti.",
+   "prompt_img": "a flat-pack wooden Christmas centrepiece 300 mm across on a laid table, cross-slotted fretwork panels holding three LED tealights, the cut pattern throwing light shapes onto the white tablecloth"
+  },
+  {
+   "id": "ING-SEASON-NAT-198",
+   "cat": "SEASON",
+   "coll": "NATALE",
+   "name": "Posto Natale",
+   "tipo": "segnaposto natalizio con nome",
+   "tipo_en": "christmas place card",
+   "concept": "Segnaposto che dopo il pranzo si sgancia e diventa un addobbo da appendere.",
+   "target": "Famiglie, ristoranti, catering. Lotti da 10 a 30.",
+   "desire": "Segnaposto che non si buttino a fine pranzo.",
+   "usp": "Doppia vita dichiarata: segnaposto oggi, ornamento sull'albero stasera.",
+   "diff": "Nessuno progetta il segnaposto natalizio per sopravvivere al pranzo.",
+   "platform": "P2",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    84,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 600,
+   "vec_mm": 300,
+   "eng_cm2": 8,
+   "uv_cm2": 40,
+   "uv_white": true,
+   "comp": {
+    "cordino": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 60,
+   "mkt": [
+    3,
+    10
+   ],
+   "person": [
+    "nome",
+    "anno",
+    "soggetto"
+   ],
+   "tags": [
+    "SEASONAL",
+    "FAST SELLER",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-NAT-197 centrotavola",
+    "ING-SEASON-NAT-191 ornamento datato",
+    "ING-SEASON-NAT-192 set ornamenti"
+   ],
+   "bundle": [
+    "TAVOLA DI NATALE",
+    "NATALE MEDITERRANEO"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_name_place_cards",
+   "kw": [
+    "segnaposto natale legno",
+    "segnaposto natalizio personalizzato",
+    "segnaposto nome natale",
+    "christmas place card wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 10,
+   "s_person": 10,
+   "s_gift": 7,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 3 mm 96x84 su base P2 ridotta. Nome ENGRAVE-V h 8 mm, anno h 4 mm, soggetto mediterraneo CUT traforato. Foro Ø4 con cordino GIÀ MONTATO: si sfila dalla base e si appende all'albero. La doppia funzione va scritta sul cartellino, altrimenti nessuno se ne accorge.",
+   "prompt_img": "a small wooden Christmas place card standing in a slotted base on a festive table, guest name engraved with a cut-out star above, a cotton cord already attached at the top, candles and pine sprigs around"
+  },
+  {
+   "id": "ING-SEASON-NAT-199",
+   "cat": "SEASON",
+   "coll": "NATALE",
+   "name": "Alberello",
+   "tipo": "albero da tavolo smontabile",
+   "tipo_en": "flat-pack table tree",
+   "concept": "Albero a incastro con ripiani che reggono ornamenti in miniatura.",
+   "target": "Case piccole, uffici, negozi, B&B.",
+   "desire": "Un albero dove non c'è spazio per un albero vero.",
+   "usp": "Chi vive in un monolocale o gestisce un ufficio non può mettere un abete: qui c'è un mercato senza offerta.",
+   "diff": "Ha ripiani veri per gli ornamenti, non è una sagoma piatta.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    300,
+    420
+   ],
+   "layers": 1,
+   "cut_mm": 3600,
+   "vec_mm": 1000,
+   "eng_cm2": 40,
+   "uv_cm2": 220,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    35,
+    110
+   ],
+   "person": [
+    "nome",
+    "colori",
+    "anno"
+   ],
+   "tags": [
+    "SEASONAL",
+    "PREMIUM",
+    "BUNDLE",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-SEASON-NAT-192 set ornamenti",
+    "ING-SEASON-NAT-195 puntale",
+    "ING-SEASON-NAT-196 ghirlanda"
+   ],
+   "bundle": [
+    "NATALE MEDITERRANEO",
+    "UFFICIO A NATALE"
+   ],
+   "ref": "https://aeonlaser.us/blogs/news/20-laser-engraving-business-ideas-2026",
+   "kw": [
+    "albero natale da tavolo legno",
+    "alberello smontabile design",
+    "albero natale piccolo legno",
+    "flat pack table christmas tree"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 6 mm, due sagome a croce incastrate più cinque ripiani circolari di diametro decrescente (240, 192, 144, 96, 48) a incastro. Ogni ripiano ha 6 fori Ø4 per appendere ornamenti in miniatura. Smontaggio completo, si ripone piatto. Ingombro piatto 300x300x18.",
+   "prompt_img": "a flat-pack wooden table Christmas tree 300x300x420 mm, cross-slotted structure with five circular shelves of decreasing size, tiny printed ornaments hanging from holes in each shelf, on an office desk"
+  },
+  {
+   "id": "ING-SEASON-NAT-200",
+   "cat": "SEASON",
+   "coll": "NATALE",
+   "name": "Finestra",
+   "tipo": "decorazione da finestra natalizia",
+   "tipo_en": "christmas window decoration",
+   "concept": "Sagome traforate con ventosa, che di giorno filtrano la luce e di sera si vedono da fuori.",
+   "target": "Famiglie, negozi, vetrine.",
+   "desire": "Decorare la finestra senza le bombolette di neve finta.",
+   "usp": "Si vede da dentro e da fuori: funziona come decorazione domestica e come vetrina.",
+   "diff": "Riusabile per anni contro adesivi e spray che si buttano.",
+   "platform": "P1",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    168,
+    240,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 1800,
+   "vec_mm": 700,
+   "eng_cm2": 20,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {
+    "cordino": 1
+   },
+   "pack": "flatpack",
+   "lotto": 40,
+   "mkt": [
+    12,
+    38
+   ],
+   "person": [
+    "soggetto",
+    "colori",
+    "nome"
+   ],
+   "tags": [
+    "SEASONAL",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-NAT-196 ghirlanda",
+    "ING-SEASON-NAT-192 set ornamenti",
+    "ING-B2B-RET-125 espositore vetrina"
+   ],
+   "bundle": [
+    "CASA A NATALE",
+    "VETRINA DI NATALE"
+   ],
+   "ref": "https://www.thunderlaser.com/laser-blogs/christmas-laser-ideas.html",
+   "kw": [
+    "decorazione finestra natale legno",
+    "sagome natalizie vetrina",
+    "decorazioni vetro natale",
+    "christmas window decoration wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 8,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 3 mm 168x240, traforo denso con ponticelli minimi 2,5 mm. UV su un solo lato: il retro resta a legno naturale e si vede dalla strada. Foro Ø4 con cordino, ventosa inclusa. Trattamento idrorepellente: la condensa sul vetro bagna il legno.",
+   "prompt_img": "a fretwork wooden Christmas decoration 168x240 mm hanging in a window, intricate cut pattern silhouetted against grey winter daylight, printed colour visible on the room side, condensation on the glass"
+  },
+  {
+   "id": "ING-SEASON-NAT-201",
+   "cat": "SEASON",
+   "coll": "NATALE",
+   "name": "Corona Avvento",
+   "tipo": "corona dell'avvento con quattro candele",
+   "tipo_en": "advent candle wreath",
+   "concept": "Base circolare con quattro sedi per candele e numeri delle domeniche incisi.",
+   "target": "Famiglie, parrocchie, negozi religiosi.",
+   "desire": "La corona dell'avvento fatta bene, non quella di plastica.",
+   "usp": "Segmento religioso italiano con domanda costante e nessuna offerta di design.",
+   "diff": "Le sedi sono dimensionate su candele standard, non generiche.",
+   "platform": "P1",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    300,
+    8
+   ],
+   "layers": 1,
+   "cut_mm": 2000,
+   "vec_mm": 800,
+   "eng_cm2": 40,
+   "uv_cm2": 240,
+   "uv_white": true,
+   "comp": {
+    "led_tealight": 4
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    25,
+    75
+   ],
+   "person": [
+    "colori",
+    "nome famiglia",
+    "anno"
+   ],
+   "tags": [
+    "SEASONAL",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-NAT-194 calendario avvento",
+    "ING-SEASON-NAT-197 centrotavola",
+    "ING-SEASON-NAT-196 ghirlanda"
+   ],
+   "bundle": [
+    "CASA A NATALE",
+    "AVVENTO: corona + calendario"
+   ],
+   "ref": "https://aeonlaser.us/blogs/news/20-laser-engraving-business-ideas-2026",
+   "kw": [
+    "corona avvento legno",
+    "corona quattro candele natale",
+    "corona avvento personalizzata",
+    "advent candle wreath wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 8 mm Ø300 con traforo a corona. Quattro sedi Ø40 a 90 gradi per tealight LED, con numeri 1-4 ENGRAVE-V accanto. Fascia UV con motivo mediterraneo. Cartellino con avvertenza SOLO TEALIGHT LED. Gommini sotto.",
+   "prompt_img": "a wooden advent wreath 300 mm on a table, four LED tealights seated in circular recesses with engraved numbers beside each, fretwork ring pattern, two candles lit, dim evening room"
+  },
+  {
+   "id": "ING-SEASON-NAT-202",
+   "cat": "SEASON",
+   "coll": "NATALE",
+   "name": "Regalo Natale",
+   "tipo": "cartellini regalo natalizi",
+   "tipo_en": "christmas gift tags",
+   "concept": "Set di dodici cartellini con nome scrivibile e soggetto stampato, riusabili ogni anno.",
+   "target": "Famiglie, negozi che confezionano, pasticcerie.",
+   "desire": "Cartellini che non si buttino con la carta.",
+   "usp": "Riscrivibili: si riusano ogni Natale, e il cliente li ricompra solo per ampliare il set.",
+   "diff": "In legno riusabile contro i cartoncini usa e getta.",
+   "platform": "P1",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    72,
+    48,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 360,
+   "vec_mm": 200,
+   "eng_cm2": 6,
+   "uv_cm2": 34,
+   "uv_white": true,
+   "comp": {
+    "cordino": 1
+   },
+   "pack": "busta",
+   "lotto": 120,
+   "mkt": [
+    8,
+    25
+   ],
+   "person": [
+    "soggetti",
+    "colori",
+    "nomi"
+   ],
+   "tags": [
+    "SEASONAL",
+    "FAST SELLER",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-NAT-192 set ornamenti",
+    "ING-SEASON-NAT-191 ornamento datato",
+    "ING-B2B-GIFT-128 box aziendale"
+   ],
+   "bundle": [
+    "NATALE MEDITERRANEO",
+    "CONFEZIONE REGALO"
+   ],
+   "ref": "https://www.screenprinting.com/blogs/news/profitable-laser-engraved-christmas-ornaments-to-make-and-sell",
+   "kw": [
+    "cartellini regalo natale legno",
+    "tag regalo personalizzati",
+    "etichette regalo natalizie",
+    "christmas gift tags wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 3 mm 72x48, testa ad arco R12 con foro Ø4. Area UV WHITE opaca riscrivibile a pennarello cancellabile per il nome, soggetto stampato a lato. Set da 12 con cordini. Nesting 40 pz/foglio: riempitivo ideale dei fogli natalizi.",
+   "prompt_img": "twelve small wooden gift tags 72x48 mm scattered on wrapping paper, each with a printed Mediterranean motif and a handwritten name on a matte panel, cotton cords, scissors and ribbon nearby"
+  },
+  {
+   "id": "ING-SEASON-VAL-203",
+   "cat": "SEASON",
+   "coll": "SAN VALENTINO",
+   "name": "Nodo",
+   "tipo": "decorazione San Valentino geometrica",
+   "tipo_en": "valentine geometric decoration",
+   "concept": "Due profili intrecciati che formano un cuore solo guardandoli da un certo angolo.",
+   "target": "Coppie 20-45, regalo di febbraio.",
+   "desire": "Un regalo di San Valentino che non sia un cuore rosso di peluche.",
+   "usp": "Il cuore appare solo nell'insieme: è un oggetto di design, non un cuore stampato.",
+   "diff": "Il cuore generico è saturo; una geometria riconoscibile e originale non lo è.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    168,
+    168,
+    14
+   ],
+   "layers": 2,
+   "cut_mm": 1400,
+   "vec_mm": 600,
+   "eng_cm2": 20,
+   "uv_cm2": 160,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 30,
+   "mkt": [
+    12,
+    40
+   ],
+   "person": [
+    "nomi",
+    "data",
+    "colore"
+   ],
+   "tags": [
+    "SEASONAL",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-VAL-204 portafoto coppia",
+    "ING-SEASON-VAL-205 targa coordinate",
+    "ING-HOME-DEC-018 portafoto"
+   ],
+   "bundle": [
+    "SAN VALENTINO: decorazione + targa coordinate",
+    "REGALO COPPIA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_kawaii",
+   "kw": [
+    "decorazione san valentino legno",
+    "regalo san valentino design",
+    "cuore geometrico legno",
+    "valentine decoration wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Due strati betulla distanziati 4 mm: due archi R12 speculari che si sovrappongono e formano un cuore SOLO nell'insieme, mai disegnato esplicitamente. Nomi e data ENGRAVE-V alla base. Piedino a incastro a 15 gradi. PRODUZIONE DA DICEMBRE per la finestra di febbraio.",
+   "prompt_img": "a layered wooden object 168x168 mm on a shelf, two mirrored arcs in spaced birch layers that read as a heart only when seen together, deep coral printed panel behind, two names engraved at the base"
+  },
+  {
+   "id": "ING-SEASON-VAL-204",
+   "cat": "SEASON",
+   "coll": "SAN VALENTINO",
+   "name": "Due",
+   "tipo": "portafoto per coppia a doppia luce",
+   "tipo_en": "couple double photo frame",
+   "concept": "Cornice con due aperture ad arco affiancate e una tessera incisa fra le due.",
+   "target": "Coppie, anniversari, San Valentino.",
+   "desire": "Due foto insieme invece di due cornici separate.",
+   "usp": "Funziona tutto l'anno come regalo di coppia, non solo a febbraio.",
+   "diff": "La tessera centrale è sostituibile: si aggiorna la data a ogni anniversario.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    180,
+    18
+   ],
+   "layers": 2,
+   "cut_mm": 2000,
+   "vec_mm": 800,
+   "eng_cm2": 30,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    22,
+    65
+   ],
+   "person": [
+    "nomi",
+    "data",
+    "frase"
+   ],
+   "tags": [
+    "SEASONAL",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-VAL-203 decorazione",
+    "ING-SEASON-VAL-205 targa coordinate",
+    "ING-EVENT-KEEP-058 targa anniversario"
+   ],
+   "bundle": [
+    "SAN VALENTINO",
+    "REGALO COPPIA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "portafoto coppia legno",
+    "cornice doppia personalizzata",
+    "regalo coppia portafoto",
+    "couple photo frame wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Cornice betulla 6 mm 300x180 con due luci ad arco R12 per foto 10x15. Passepartout betulla 4 mm distanziato 3 mm. TESSERA CENTRALE 60x120 in scanalatura, sostituibile: nomi e data si aggiornano senza rifare la cornice. Piedino a 15 gradi.",
+   "prompt_img": "a layered wooden double photo frame 300x180 mm on a dresser, two arched apertures holding photographs with a slim engraved tile between them bearing two names and a date"
+  },
+  {
+   "id": "ING-SEASON-VAL-205",
+   "cat": "SEASON",
+   "coll": "SAN VALENTINO",
+   "name": "Incontro",
+   "tipo": "targa con coordinate del primo incontro",
+   "tipo_en": "first meeting coordinates plaque",
+   "concept": "Targa con le coordinate del luogo dove la coppia si è conosciuta, marcate su acciaio.",
+   "target": "Coppie 25-50, anniversari, San Valentino.",
+   "desire": "Ricordare il posto esatto, non una frase generica.",
+   "usp": "Le coordinate rendono il regalo irripetibile cambiando solo il testo variabile.",
+   "diff": "Le coordinate al fiber restano leggibili a 2 mm, cosa che l'incisione su legno non permette.",
+   "platform": "P6",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    204,
+    144,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 1500,
+   "vec_mm": 600,
+   "eng_cm2": 24,
+   "uv_cm2": 160,
+   "uv_white": true,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_inox": 1,
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    20,
+    60
+   ],
+   "person": [
+    "coordinate",
+    "data",
+    "nomi",
+    "luogo"
+   ],
+   "tags": [
+    "SEASONAL",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-VAL-203 decorazione",
+    "ING-SEASON-VAL-204 portafoto coppia",
+    "ING-EVENT-KEEP-058 targa anniversario"
+   ],
+   "bundle": [
+    "SAN VALENTINO",
+    "REGALO COPPIA"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_home_sign",
+   "kw": [
+    "targa coordinate coppia",
+    "regalo coordinate primo incontro",
+    "targa gps personalizzata amore",
+    "coordinates plaque couple"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Fondo betulla 8 mm 204x144 con UV PRINT. Frontale betulla 4 mm distanziato 4 mm con nome del luogo CUT traforato. Placchetta inox 20x40 MOPA con le coordinate in formato decimale a 4 cifre e la data. ENGRAVE-V filo perimetrale.",
+   "prompt_img": "a layered wooden plaque 204x144 mm, a place name cut through the front birch layer over a deep coral panel, a small steel plate below finely marked with GPS coordinates and a date, on a bedroom wall"
+  },
+  {
+   "id": "ING-SEASON-PAS-206",
+   "cat": "SEASON",
+   "coll": "PASQUA",
+   "name": "Uovo",
+   "tipo": "set uova decorative da appendere",
+   "tipo_en": "decorative easter eggs",
+   "concept": "Sei uova piatte con pattern maiolica stampato, da appendere al ramo di Pasqua.",
+   "target": "Famiglie, negozi, pasticcerie.",
+   "desire": "Decorazioni pasquali che non siano di plastica colorata.",
+   "usp": "La stampa UV rende un ovale di compensato un oggetto premium a costo quasi nullo.",
+   "diff": "Pattern maiolica invece dei soliti fiorellini pastello.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    240,
+    168,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 1600,
+   "vec_mm": 600,
+   "eng_cm2": 0,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "comp": {
+    "cordino": 6
+   },
+   "pack": "flatpack",
+   "lotto": 30,
+   "mkt": [
+    15,
+    45
+   ],
+   "person": [
+    "colori",
+    "pattern",
+    "nomi"
+   ],
+   "tags": [
+    "SEASONAL",
+    "FAST SELLER",
+    "BUNDLE",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-SEASON-PAS-207 ghirlanda pasquale",
+    "ING-SEASON-PAS-208 segnaposto pasqua",
+    "ING-SICILY-TAV-247 coaster maiolica"
+   ],
+   "bundle": [
+    "PASQUA MEDITERRANEA",
+    "TAVOLA DI PASQUA"
+   ],
+   "ref": "https://www.thunderlaser.com/laser-blogs/christmas-laser-ideas.html",
+   "kw": [
+    "uova pasqua legno decorative",
+    "decorazioni pasquali legno",
+    "uova da appendere pasqua",
+    "wooden easter eggs decoration"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 8,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Sei uova betulla 4 mm 80x110 da un foglio 240x168. UV WHITE + CMYK, sei varianti dello stesso modulo maiolica per rotazione. Foro Ø4 con cordino. Nesting a incastro fra gli ovali: sfrido sotto il 20 percento. PRODUZIONE DA GENNAIO.",
+   "prompt_img": "six flat wooden Easter eggs 80x110 mm hanging from a branch in a vase, each printed with a different rotation of a cobalt and lemon maiolica pattern, cotton cords, bright spring light"
+  },
+  {
+   "id": "ING-SEASON-PAS-207",
+   "cat": "SEASON",
+   "coll": "PASQUA",
+   "name": "Ramo",
+   "tipo": "ghirlanda pasquale a moduli",
+   "tipo_en": "modular easter wreath",
+   "concept": "Corona di moduli con uova, rondini e rami d'ulivo a incastro.",
+   "target": "Famiglie, negozi, B&B.",
+   "desire": "Decorare la porta a Pasqua senza fiori finti.",
+   "usp": "Stessa matrice della ghirlanda natalizia: sviluppo quasi nullo, stagione diversa.",
+   "diff": "Riusa una piattaforma già collaudata cambiando solo i moduli.",
+   "platform": "P7",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    336,
+    336,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 3200,
+   "vec_mm": 1100,
+   "eng_cm2": 30,
+   "uv_cm2": 380,
+   "uv_white": true,
+   "comp": {
+    "nastro": 1
+   },
+   "pack": "scatola_l",
+   "lotto": 20,
+   "mkt": [
+    25,
+    70
+   ],
+   "person": [
+    "colori",
+    "moduli",
+    "nome"
+   ],
+   "tags": [
+    "SEASONAL",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-SEASON-PAS-206 uova",
+    "ING-SEASON-PAS-208 segnaposto pasqua",
+    "ING-SEASON-NAT-196 ghirlanda natalizia"
+   ],
+   "bundle": [
+    "PASQUA MEDITERRANEA",
+    "CASA A PASQUA"
+   ],
+   "ref": "https://www.thunderlaser.com/laser-blogs/christmas-laser-ideas.html",
+   "kw": [
+    "ghirlanda pasqua legno",
+    "corona porta pasquale",
+    "decorazione pasqua porta",
+    "easter wreath wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 8,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Dodici moduli betulla 4 mm a incastro reciproco, corona Ø336. STESSA GEOMETRIA DI INCASTRO della ghirlanda natalizia: cambiano solo i soggetti e la palette (verde ulivo, giallo, bianco, azzurro). Lo sviluppo di questo prodotto è un'ora di disegno, non un progetto nuovo.",
+   "prompt_img": "a modular wooden Easter wreath 336 mm on a pale door, twelve interlocking printed segments with eggs, swallows and olive branches in green and yellow, ribbon at the top, spring daylight"
+  },
+  {
+   "id": "ING-SEASON-PAS-208",
+   "cat": "SEASON",
+   "coll": "PASQUA",
+   "name": "Posto Pasqua",
+   "tipo": "segnaposto pasquale a coniglio geometrico",
+   "tipo_en": "easter place card",
+   "concept": "Segnaposto con silhouette geometrica e porta-ovetto integrato.",
+   "target": "Famiglie, ristoranti, catering. Pranzo di Pasqua.",
+   "desire": "Una tavola di Pasqua coordinata senza cartoncini stampati.",
+   "usp": "Il porta-ovetto integrato lo rende utile durante il pranzo, non solo decorativo.",
+   "diff": "Due funzioni in un pezzo, che è la regola di tutto il catalogo.",
+   "platform": "P2",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    96,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 700,
+   "vec_mm": 400,
+   "eng_cm2": 10,
+   "uv_cm2": 50,
+   "uv_white": true,
+   "comp": {},
+   "pack": "sfuso_b2b",
+   "lotto": 60,
+   "mkt": [
+    3,
+    10
+   ],
+   "person": [
+    "nome",
+    "colore",
+    "soggetto"
+   ],
+   "tags": [
+    "SEASONAL",
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-PAS-206 uova",
+    "ING-SEASON-PAS-207 ghirlanda",
+    "ING-EVENT-WED-041 segnaposto"
+   ],
+   "bundle": [
+    "TAVOLA DI PASQUA",
+    "PASQUA MEDITERRANEA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_name_place_cards",
+   "kw": [
+    "segnaposto pasqua legno",
+    "segnaposto pasquale personalizzato",
+    "tavola pasqua decorazioni",
+    "easter place card wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 6,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 4 mm 96x96 su base P2. Silhouette geometrica (coniglio o rondine ridotti ad archi R12) con nome ENGRAVE-V h 8 mm. Foro Ø38 nella base che regge un ovetto di cioccolato. UV colore. Nesting 24 pz/foglio.",
+   "prompt_img": "a wooden Easter place card 96x96 mm standing on a laid table, a geometric rabbit silhouette with an engraved guest name, a chocolate egg seated in a hole in the base, spring table setting"
+  },
+  {
+   "id": "ING-SEASON-HAL-209",
+   "cat": "SEASON",
+   "coll": "HALLOWEEN",
+   "name": "Zucca",
+   "tipo": "lanterna di Halloween traforata",
+   "tipo_en": "halloween lantern",
+   "concept": "Lanterna a quattro pareti con volto traforato che proietta il ghigno sulla parete.",
+   "target": "Famiglie, feste, negozi, locali.",
+   "desire": "Una zucca che non marcisca dopo tre giorni.",
+   "usp": "Riusa la lanterna già a catalogo cambiando solo le quattro pareti: sviluppo quasi nullo.",
+   "diff": "Si ripone e si riusa ogni anno, a differenza della zucca vera.",
+   "platform": "P3",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    120,
+    120,
+    168
+   ],
+   "layers": 1,
+   "cut_mm": 2800,
+   "vec_mm": 500,
+   "eng_cm2": 0,
+   "uv_cm2": 120,
+   "uv_white": true,
+   "comp": {
+    "led_tealight": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    15,
+    45
+   ],
+   "person": [
+    "volto",
+    "colore",
+    "nome"
+   ],
+   "tags": [
+    "SEASONAL",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-HAL-210 ghirlanda halloween",
+    "ING-SEASON-HAL-211 sagome finestra",
+    "ING-HOME-LUX-008 lanterna"
+   ],
+   "bundle": [
+    "HALLOWEEN",
+    "CASA D'AUTUNNO"
+   ],
+   "ref": "https://aeonlaser.us/blogs/news/20-laser-engraving-business-ideas-2026",
+   "kw": [
+    "lanterna halloween legno",
+    "zucca halloween legno riutilizzabile",
+    "decorazione halloween luminosa",
+    "halloween lantern wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 8,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "RIUSA LA PIATTAFORMA LANTERNA: base, incastri e packaging identici, cambiano solo le quattro pareti 120x168 con il volto CUT traforato, ponticelli 2,5 mm su occhi e bocca. UV arancio e nero sulle pareti. Tealight LED. Cartellino con avvertenza SOLO LED. Sviluppo: un'ora di disegno.",
+   "prompt_img": "a wooden Halloween lantern 120x120x168 mm glowing on a porch step at dusk, a carved-style face cut through the walls throwing an orange grin onto the wall behind, dry leaves around"
+  },
+  {
+   "id": "ING-SEASON-HAL-210",
+   "cat": "SEASON",
+   "coll": "HALLOWEEN",
+   "name": "Corvi",
+   "tipo": "ghirlanda di Halloween a moduli",
+   "tipo_en": "modular halloween wreath",
+   "concept": "Corona di moduli neri con pipistrelli, corvi e lune, sulla stessa matrice delle altre stagioni.",
+   "target": "Famiglie, negozi, locali.",
+   "desire": "Decorare la porta ad ottobre.",
+   "usp": "Terza stagione sulla stessa geometria di incastro: il costo di sviluppo è già stato pagato due volte.",
+   "diff": "MDF laccato nero invece del compensato dipinto: il nero è finito, non verniciato.",
+   "platform": "P7",
+   "mat": [
+    "mdfnero6"
+   ],
+   "tech": "CO2",
+   "dim": [
+    336,
+    336,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 3400,
+   "vec_mm": 1000,
+   "eng_cm2": 40,
+   "comp": {
+    "nastro": 1
+   },
+   "pack": "scatola_l",
+   "lotto": 20,
+   "mkt": [
+    25,
+    70
+   ],
+   "person": [
+    "moduli",
+    "nome"
+   ],
+   "tags": [
+    "SEASONAL",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-HAL-209 lanterna",
+    "ING-SEASON-HAL-211 sagome finestra",
+    "ING-SEASON-NAT-196 ghirlanda natalizia"
+   ],
+   "bundle": [
+    "HALLOWEEN",
+    "CASA D'AUTUNNO"
+   ],
+   "ref": "https://aeonlaser.us/blogs/news/20-laser-engraving-business-ideas-2026",
+   "kw": [
+    "ghirlanda halloween legno",
+    "corona porta halloween",
+    "decorazione halloween porta",
+    "halloween wreath wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 12,
+   "s_person": 6,
+   "s_gift": 7,
+   "s_uniq": 9,
+   "prompt_prod": "MDF laccato nero 6 mm, dodici moduli a incastro reciproco, corona Ø336. STESSA GEOMETRIA DI INCASTRO delle ghirlande natalizia e pasquale. Il bordo bruciato dal taglio si integra col nero laccato e non va nascosto. Nessuna stampa: il nero opaco è la finitura.",
+   "prompt_img": "a modular black wreath 336 mm on a dark door, twelve interlocking matte black MDF segments cut with bats, crows and crescent moons, orange ribbon at the top, October evening light"
+  },
+  {
+   "id": "ING-SEASON-HAL-211",
+   "cat": "SEASON",
+   "coll": "HALLOWEEN",
+   "name": "Ombre",
+   "tipo": "sagome da finestra per Halloween",
+   "tipo_en": "halloween window silhouettes",
+   "concept": "Set di sei sagome nere con ventosa, che di sera si vedono in controluce dalla strada.",
+   "target": "Famiglie, negozi, vetrine di locali.",
+   "desire": "Una vetrina o una finestra che si noti dalla strada.",
+   "usp": "Funziona in controluce: è la decorazione più efficace per il pubblico esterno.",
+   "diff": "Nero laccato invece di cartoncino, quindi si riusa per anni.",
+   "platform": "P1",
+   "mat": [
+    "mdfnero6"
+   ],
+   "tech": "CO2",
+   "dim": [
+    240,
+    180,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 2400,
+   "vec_mm": 700,
+   "eng_cm2": 0,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 30,
+   "mkt": [
+    12,
+    40
+   ],
+   "person": [
+    "soggetti",
+    "numero pezzi"
+   ],
+   "tags": [
+    "SEASONAL",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-HAL-209 lanterna",
+    "ING-SEASON-HAL-210 ghirlanda",
+    "ING-B2B-RET-125 espositore vetrina"
+   ],
+   "bundle": [
+    "HALLOWEEN",
+    "VETRINA D'AUTUNNO"
+   ],
+   "ref": "https://aeonlaser.us/blogs/news/20-laser-engraving-business-ideas-2026",
+   "kw": [
+    "sagome halloween finestra",
+    "decorazioni vetrina halloween",
+    "silhouette halloween legno",
+    "halloween window silhouettes"
+   ],
+   "s_demand": 11,
+   "s_comp": 12,
+   "s_person": 5,
+   "s_gift": 6,
+   "s_uniq": 9,
+   "prompt_prod": "MDF laccato nero 6 mm, sei sagome da un foglio 240x180. Profili puliti e riconoscibili in CONTROLUCE: nessun dettaglio interno sotto i 4 mm, che sparirebbe. Ventose incluse. Nesting a incastro fra le sagome.",
+   "prompt_img": "black cut-out silhouettes of a cat, a bat and a witch's hat stuck to a window at night, seen from outside as sharp shapes against the warm lit room behind"
+  },
+  {
+   "id": "ING-SEASON-MAM-212",
+   "cat": "SEASON",
+   "coll": "FESTA DELLA MAMMA",
+   "name": "Radici",
+   "tipo": "quadro a tessere per la Festa della Mamma",
+   "tipo_en": "mother's day tile artwork",
+   "concept": "Pannello con un albero inciso e tessere-nome per ogni figlio o nipote, aggiungibili nel tempo.",
+   "target": "Figli e nipoti di ogni età, maggio.",
+   "desire": "Un regalo che rappresenti tutta la famiglia, non solo chi lo regala.",
+   "usp": "Quando nasce un nipote si ricompra la tessera, non il regalo: relazione che dura anni.",
+   "diff": "Il mercato vende un pezzo finito; questo cresce con la famiglia.",
+   "platform": "P7",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.4
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    264,
+    300,
+    10
+   ],
+   "layers": 2,
+   "cut_mm": 2400,
+   "vec_mm": 1400,
+   "eng_cm2": 50,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    25,
+    75
+   ],
+   "person": [
+    "nomi",
+    "numero tessere",
+    "colori"
+   ],
+   "tags": [
+    "SEASONAL",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-MAM-213 tessere ricambio",
+    "ING-SEASON-MAM-214 portagioie",
+    "ING-HOME-DEC-018 portafoto"
+   ],
+   "bundle": [
+    "FESTA DELLA MAMMA",
+    "REGALO FAMIGLIA"
+   ],
+   "ref": "https://aeonlaser.us/blogs/news/20-laser-engraving-business-ideas-2026",
+   "kw": [
+    "regalo festa della mamma legno",
+    "quadro famiglia personalizzato",
+    "albero genealogico legno",
+    "mother's day gift wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 10,
+   "prompt_prod": "Pannello betulla 6 mm 264x300 con albero ENGRAVE-R e otto sedi a scanalatura sui rami. Tessere betulla 4 mm 60x36 con nome e data di nascita ENGRAVE-V, inserite a scorrimento. Tessere aggiuntive come SKU separato. PRODUZIONE DA MARZO per la finestra di maggio.",
+   "prompt_img": "a wooden wall panel 264x300 mm with an engraved tree, small name tiles slotted onto the branches each with a name and birth year, warm printed background, hanging in a family living room"
+  },
+  {
+   "id": "ING-SEASON-MAM-213",
+   "cat": "SEASON",
+   "coll": "FESTA DELLA MAMMA",
+   "name": "Rami",
+   "tipo": "tessere nome aggiuntive",
+   "tipo_en": "additional name tiles",
+   "concept": "Tessere singole da aggiungere al quadro di famiglia quando arriva un nuovo nato.",
+   "target": "Chi possiede già il quadro, famiglie che crescono.",
+   "desire": "Aggiungere il nuovo nipote senza rifare il regalo.",
+   "usp": "È il consumabile che riporta il cliente ogni volta che la famiglia si allarga.",
+   "diff": "Ricorrenza costruita nel prodotto, non nel marketing.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    60,
+    36,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 200,
+   "vec_mm": 160,
+   "eng_cm2": 4,
+   "uv_cm2": 22,
+   "uv_white": true,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 100,
+   "mkt": [
+    3,
+    12
+   ],
+   "person": [
+    "nome",
+    "data",
+    "colore"
+   ],
+   "tags": [
+    "SEASONAL",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-SEASON-MAM-212 quadro tessere",
+    "ING-KIDS-DEC-140 tessere crescita",
+    "ING-SEASON-MAM-214 portagioie"
+   ],
+   "bundle": [
+    "FESTA DELLA MAMMA",
+    "RICAMBI FAMIGLIA"
+   ],
+   "ref": "https://aeonlaser.us/blogs/news/20-laser-engraving-business-ideas-2026",
+   "kw": [
+    "tessere nome quadro famiglia",
+    "targhette nomi legno",
+    "ricambi albero genealogico",
+    "name tiles wood family"
+   ],
+   "s_demand": 10,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 6,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 4 mm 60x36 con clip calibrata sulla scanalatura da 4,2 mm del quadro: gioco 0,2 mm. Nome e anno ENGRAVE-V. Fascia UV colore coordinata. Nesting 60 pz/foglio: riempitivo dei fogli della categoria.",
+   "prompt_img": "three small wooden name tiles 60x36 mm in a hand, each engraved with a name and a birth year, one being slotted onto the branch of an engraved family tree panel"
+  },
+  {
+   "id": "ING-SEASON-MAM-214",
+   "cat": "SEASON",
+   "coll": "FESTA DELLA MAMMA",
+   "name": "Gioie",
+   "tipo": "portagioie a scomparti con specchio",
+   "tipo_en": "jewellery box with mirror",
+   "concept": "Scatola con scomparti in feltro, specchio nel coperchio e dedica incisa all'interno.",
+   "target": "Regalo per la mamma, compleanni, anniversari.",
+   "desire": "Un regalo che si usi ogni giorno, non che si metta in un cassetto.",
+   "usp": "La dedica sta dentro il coperchio: si legge ogni volta che si apre.",
+   "diff": "Lo specchio nel coperchio trasforma un contenitore in un oggetto d'uso quotidiano.",
+   "platform": "P3",
+   "mat": [
+    "betulla6",
+    "feltro3"
+   ],
+   "quota_mat": {
+    "feltro3": 0.6
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    240,
+    180,
+    72
+   ],
+   "layers": 1,
+   "cut_mm": 2600,
+   "vec_mm": 900,
+   "eng_cm2": 50,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    30,
+    90
+   ],
+   "person": [
+    "nome",
+    "dedica",
+    "colore"
+   ],
+   "tags": [
+    "SEASONAL",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-MAM-212 quadro tessere",
+    "ING-HOME-ING-002 svuotatasche",
+    "ING-HOME-DEC-018 portafoto"
+   ],
+   "bundle": [
+    "FESTA DELLA MAMMA",
+    "REGALO LEI"
+   ],
+   "ref": "https://www.outfy.com/blog/top-selling-etsy-home-decor-trends/",
+   "kw": [
+    "portagioie legno personalizzato",
+    "scatola gioielli incisa",
+    "portagioie con specchio legno",
+    "jewellery box wood personalised"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Scatola betulla 6 mm 240x180x72 con coperchio incernierato. Specchio acrilico 1 mm incollato nell'interno del coperchio. Interno in feltro 3 mm con cinque scomparti sagomati (anelli, catenine, orecchini). DEDICA ENGRAVE-V incisa dentro il coperchio, attorno allo specchio: si legge a ogni apertura.",
+   "prompt_img": "an open wooden jewellery box 240x180x72 mm, felt compartments holding rings and a necklace, a mirror set into the inside of the lid with an engraved dedication around it, on a dressing table"
+  },
+  {
+   "id": "ING-SEASON-PAP-215",
+   "cat": "SEASON",
+   "coll": "FESTA DEL PAPÀ",
+   "name": "Diciannove",
+   "tipo": "svuotatasche per la Festa del Papà",
+   "tipo_en": "father's day valet tray",
+   "concept": "Vassoio da comodino con placchetta metallica marcata e fondo stampato.",
+   "target": "Figli e mogli. Finestra italiana del 19 marzo.",
+   "desire": "Un regalo per il papà che non sia l'ennesima cravatta.",
+   "usp": "I cataloghi esteri seguono la data anglosassone di giugno e mancano completamente la finestra italiana di marzo.",
+   "diff": "La placchetta al fiber differenzia subito dalla marea di targhe incise su legno.",
+   "platform": "P6",
+   "mat": [
+    "betulla6",
+    "feltro3"
+   ],
+   "quota_mat": {
+    "feltro3": 0.8
+   },
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    204,
+    156,
+    24
+   ],
+   "layers": 1,
+   "cut_mm": 1400,
+   "vec_mm": 700,
+   "eng_cm2": 20,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_inox": 1,
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    22,
+    60
+   ],
+   "person": [
+    "nome",
+    "dedica",
+    "data"
+   ],
+   "tags": [
+    "SEASONAL",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-PAP-216 targa papà",
+    "ING-HOME-ORG-022 porta occhiali",
+    "ING-HOME-ING-002 svuotatasche"
+   ],
+   "bundle": [
+    "FESTA DEL PAPÀ",
+    "REGALO LUI"
+   ],
+   "ref": "https://aeonlaser.us/blogs/news/20-laser-engraving-business-ideas-2026",
+   "kw": [
+    "regalo festa del papà legno",
+    "svuotatasche personalizzato papà",
+    "regalo 19 marzo",
+    "father's day gift wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Vassoio betulla 6 mm 204x156x24, fondo UV a piena superficie, quattro sponde a incastro 45 gradi. Placchetta inox 20x40 MOPA con la dedica, incassata nel fondo. Feltro sotto e gommini. PRODUZIONE DA GENNAIO per la finestra del 19 marzo — data fissa italiana, non giugno.",
+   "prompt_img": "a wooden valet tray 204x156 mm on a bedside table holding a watch and keys, base printed with a dark geometric pattern, a small steel plate fiber-marked with a dedication set into the base"
+  },
+  {
+   "id": "ING-SEASON-PAP-216",
+   "cat": "SEASON",
+   "coll": "FESTA DEL PAPÀ",
+   "name": "Officina",
+   "tipo": "targa da parete per il papà",
+   "tipo_en": "father's day wall plaque",
+   "concept": "Targa con dedica traforata e placca in ottone, per garage, studio o cantina.",
+   "target": "Figli adulti, regalo di marzo e compleanni.",
+   "desire": "Un regalo per un uomo che dice di non volere regali.",
+   "usp": "Registro maschile e sobrio, che manca quasi del tutto nella categoria regalo.",
+   "diff": "Ottone e legno scuro invece del legno chiaro con la scritta in corsivo.",
+   "platform": "P6",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    264,
+    168,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 1800,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "uv_cm2": 220,
+   "uv_white": true,
+   "mopa_cm2": 10,
+   "comp": {
+    "targhetta_ottone": 1,
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    25,
+    75
+   ],
+   "person": [
+    "nome",
+    "dedica",
+    "anno"
+   ],
+   "tags": [
+    "SEASONAL",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-PAP-215 svuotatasche",
+    "ING-B2B-OFF-104 desk sign",
+    "ING-HOME-DEC-003 targa famiglia"
+   ],
+   "bundle": [
+    "FESTA DEL PAPÀ",
+    "REGALO LUI"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_home_sign",
+   "kw": [
+    "targa papà personalizzata",
+    "regalo papà legno inciso",
+    "targa garage personalizzata",
+    "father's day plaque wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Fondo betulla 8 mm 264x168 con UV PRINT scuro (grafite, verde bottiglia). Frontale betulla 4 mm distanziato 4 mm con testo CUT traforato h 24 mm. Placca ottone 20x40 MOPA con nome e anno. ENGRAVE-V filo perimetrale. Palette volutamente sobria.",
+   "prompt_img": "a layered wooden plaque 264x168 mm on a workshop wall, a short phrase cut through the front birch layer over a dark graphite panel, a polished brass plate below with an engraved name and year, tools blurred behind"
+  },
+  {
+   "id": "ING-SEASON-EST-217",
+   "cat": "SEASON",
+   "coll": "ESTATE",
+   "name": "Onda",
+   "tipo": "decorazione estiva da parete",
+   "tipo_en": "summer wall decoration",
+   "concept": "Pannello a strati con onde sfalsate, per case al mare e stabilimenti.",
+   "target": "Case vacanza, B&B, stabilimenti balneari, negozi costieri.",
+   "desire": "Arredare la casa al mare senza conchiglie incollate.",
+   "usp": "In Sicilia l'estate è alta stagione, non bassa: questa categoria copre il buco degli altri.",
+   "diff": "Astrazione geometrica del mare invece del repertorio marinaro da souvenir.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    360,
+    168,
+    16
+   ],
+   "layers": 3,
+   "cut_mm": 2400,
+   "vec_mm": 500,
+   "eng_cm2": 30,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    20,
+    65
+   ],
+   "person": [
+    "colori",
+    "nome",
+    "luogo"
+   ],
+   "tags": [
+    "SEASONAL",
+    "B2B",
+    "SOUVENIR",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-EST-218 porta accessori spiaggia",
+    "ING-SICILY-CASA-259 quadro costa",
+    "ING-SEASON-EST-219 ventaglio"
+   ],
+   "bundle": [
+    "CASA AL MARE",
+    "KIT B&B COSTIERO"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "decorazione mare legno",
+    "quadro onde legno",
+    "decor casa al mare",
+    "summer wave wall art wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 8,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Tre strati betulla 4 mm 360x168 distanziati 4 mm, onde sfalsate costruite su archi R12. Fondo UV gradiente turchese-crema. Nome del luogo ENGRAVE-V in basso a destra. Trattamento idrorepellente: sta in una casa al mare, con salsedine e umidità.",
+   "prompt_img": "a layered wooden wall panel 360x168 mm of overlapping wave shapes in spaced birch, gradient turquoise printed background, hanging on a whitewashed seaside wall, strong summer light"
+  },
+  {
+   "id": "ING-SEASON-EST-218",
+   "cat": "SEASON",
+   "coll": "ESTATE",
+   "name": "Spiaggia",
+   "tipo": "organizer da spiaggia per piccoli oggetti",
+   "tipo_en": "beach valet organiser",
+   "concept": "Vassoio con scomparti per occhiali, chiavi e telefono, da tenere sotto l'ombrellone.",
+   "target": "Stabilimenti balneari, case vacanza, turisti.",
+   "desire": "Non trovare la sabbia dentro il telefono.",
+   "usp": "Prodotto pensato per un contesto reale che nessuno progetta: la spiaggia.",
+   "diff": "In acrilico perché sabbia, sale e acqua distruggono il legno in una stagione.",
+   "platform": "P3",
+   "mat": [
+    "acrilico5"
+   ],
+   "tech": "CO2",
+   "dim": [
+    240,
+    168,
+    60
+   ],
+   "layers": 1,
+   "cut_mm": 1900,
+   "vec_mm": 600,
+   "eng_cm2": 20,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    18,
+    55
+   ],
+   "person": [
+    "nome",
+    "logo",
+    "colore"
+   ],
+   "tags": [
+    "SEASONAL",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-EST-217 decorazione onda",
+    "ING-SEASON-EST-219 ventaglio",
+    "ING-B2B-HOSP-117 vassoio benvenuto"
+   ],
+   "bundle": [
+    "CASA AL MARE",
+    "KIT STABILIMENTO"
+   ],
+   "ref": "https://www.outfy.com/blog/top-selling-etsy-home-decor-trends/",
+   "kw": [
+    "organizer spiaggia",
+    "porta oggetti ombrellone",
+    "vassoio spiaggia acrilico",
+    "beach valet tray acrylic"
+   ],
+   "s_demand": 11,
+   "s_comp": 13,
+   "s_person": 8,
+   "s_gift": 6,
+   "s_uniq": 10,
+   "prompt_prod": "Acrilico colato 5 mm 240x168x60, tre scomparti, bordi lucidi a vista. Fondo con griglia di fori Ø4 che fa cadere la sabbia invece di trattenerla. Incastri 45 gradi + adesivo per acrilico. NESSUN LEGNO: sabbia, sale e sole lo distruggerebbero in una stagione.",
+   "prompt_img": "a clear acrylic beach organiser 240x168x60 mm on a towel under an umbrella, three compartments holding sunglasses, keys and a phone, sand falling through the perforated base, bright seaside light"
+  },
+  {
+   "id": "ING-SEASON-EST-219",
+   "cat": "SEASON",
+   "coll": "ESTATE",
+   "name": "Scirocco",
+   "tipo": "ventaglio in legno con traforo",
+   "tipo_en": "wooden hand fan",
+   "concept": "Ventaglio piatto con impugnatura integrata e traforo mediterraneo.",
+   "target": "Turisti, matrimoni estivi, feste all'aperto, negozi.",
+   "desire": "Sopravvivere a luglio con qualcosa di più bello di un depliant piegato.",
+   "usp": "Prodotto estivo per definizione, vendibile sia al turista sia al matrimonio.",
+   "diff": "Traforo generativo invece del ventaglio in carta stampata.",
+   "platform": "P1",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    180,
+    216,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 1400,
+   "vec_mm": 800,
+   "eng_cm2": 20,
+   "uv_cm2": 140,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 60,
+   "mkt": [
+    6,
+    20
+   ],
+   "person": [
+    "nome",
+    "luogo",
+    "colore"
+   ],
+   "tags": [
+    "SEASONAL",
+    "SOUVENIR",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-EST-217 decorazione onda",
+    "ING-EVENT-WED-067 ventaglio cerimonia",
+    "ING-SICILY-SOUV-244 segnalibro"
+   ],
+   "bundle": [
+    "CASA AL MARE",
+    "ESTATE: ventaglio + segnalibro"
+   ],
+   "ref": "https://www.wholesalecentral.com/category/Souvenirs",
+   "kw": [
+    "ventaglio legno traforato",
+    "ventaglio souvenir estate",
+    "ventaglio personalizzato matrimonio",
+    "wooden hand fan laser"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 7,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 3 mm 180x216 con impugnatura integrata 36x84 e traforo denso, ponticelli 2,5 mm. Spigoli SMUSSATI: si tiene in mano a lungo. Peso sotto i 40 g. UV su una faccia. Nesting 6 pz/foglio.",
+   "prompt_img": "a fretwork wooden hand fan 180x216 mm with an integrated handle, dense Mediterranean cut pattern, held up against bright summer sunlight, out-of-focus piazza behind"
+  },
+  {
+   "id": "ING-SEASON-CAP-220",
+   "cat": "SEASON",
+   "coll": "CAPODANNO",
+   "name": "Conto",
+   "tipo": "calendario perpetuo da parete",
+   "tipo_en": "perpetual wall calendar",
+   "concept": "Pannello con tessere di giorno, mese e anno che si spostano a mano, valido per sempre.",
+   "target": "Case, uffici, regalo di fine anno.",
+   "desire": "Un calendario che non si butti il 31 dicembre.",
+   "usp": "Copre la finestra di gennaio e resta vendibile tutto l'anno come oggetto d'arredo.",
+   "diff": "Da parete e grande, dove il calendario perpetuo di mercato è quasi sempre da scrivania.",
+   "platform": "P7",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    240,
+    10
+   ],
+   "layers": 2,
+   "cut_mm": 2600,
+   "vec_mm": 1800,
+   "eng_cm2": 60,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    25,
+    75
+   ],
+   "person": [
+    "nome",
+    "logo",
+    "colori",
+    "lingua"
+   ],
+   "tags": [
+    "SEASONAL",
+    "B2B",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-HOME-ORG-023 calendario da scrivania",
+    "ING-SEASON-CAP-221 countdown",
+    "ING-B2B-GIFT-128 box aziendale"
+   ],
+   "bundle": [
+    "CAPODANNO",
+    "REGALO AZIENDALE DICEMBRE"
+   ],
+   "ref": "https://www.xtool.com/blogs/business-ideas/laser-cutter-projects-engraving-ideas",
+   "kw": [
+    "calendario perpetuo parete legno",
+    "calendario perpetuo personalizzato",
+    "calendario legno riutilizzabile",
+    "perpetual wall calendar wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Pannello betulla 6 mm 300x240 con tre file di scanalature. Tessere betulla 4 mm: 31 giorni, 12 mesi, cifre per l'anno. Tessere ENGRAVE-V su ENTRAMBI i lati per raddoppiare le combinazioni e dimezzare il numero di pezzi. Vaschetta porta-tessere inutilizzate alla base.",
+   "prompt_img": "a wooden perpetual wall calendar 300x240 mm, engraved day, month and year tiles sitting in grooved rails, a small tray of spare tiles at the bottom, hanging in a kitchen"
+  },
+  {
+   "id": "ING-SEASON-CAP-221",
+   "cat": "SEASON",
+   "coll": "CAPODANNO",
+   "name": "Countdown",
+   "tipo": "contatore alla rovescia riutilizzabile",
+   "tipo_en": "reusable countdown board",
+   "concept": "Pannello con cifre girevoli per contare i giorni a un evento, riusabile per qualsiasi occasione.",
+   "target": "Famiglie, uffici, locali, scuole.",
+   "desire": "Contare i giorni a qualcosa senza segnare il calendario.",
+   "usp": "Funziona per Capodanno, compleanni, viaggi e nascite: una sola matrice per molte occasioni.",
+   "diff": "Finestra brevissima ma senza concorrenza organizzata, e riusabile tutto l'anno.",
+   "platform": "P7",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    264,
+    180,
+    10
+   ],
+   "layers": 2,
+   "cut_mm": 2000,
+   "vec_mm": 1200,
+   "eng_cm2": 40,
+   "uv_cm2": 220,
+   "uv_white": true,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    20,
+    55
+   ],
+   "person": [
+    "evento",
+    "nome",
+    "colori"
+   ],
+   "tags": [
+    "SEASONAL",
+    "FAST SELLER",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-SEASON-CAP-220 calendario perpetuo",
+    "ING-EVENT-FEST-062 numero età",
+    "ING-HOME-ORG-023 calendario scrivania"
+   ],
+   "bundle": [
+    "CAPODANNO",
+    "CONTO ALLA ROVESCIA"
+   ],
+   "ref": "https://www.thunderlaser.com/laser-blogs/christmas-laser-ideas.html",
+   "kw": [
+    "countdown legno riutilizzabile",
+    "contatore giorni personalizzato",
+    "conto alla rovescia legno",
+    "reusable countdown board wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Pannello betulla 6 mm 264x180 con due finestre e cifre su dischi girevoli betulla 4 mm su perno a frizione, 0-9 su ciascuno. Fascia superiore con TESSERA EVENTO sostituibile in scanalatura: Capodanno, compleanno, viaggio, nascita. Piedino a 15 gradi + aggancio a parete.",
+   "prompt_img": "a wooden countdown board 264x180 mm on a shelf showing two rotating number discs reading 07, a replaceable engraved tile above naming the event, warm printed panel, family kitchen background"
+  },
+  {
+   "id": "ING-SEASON-SCU-222",
+   "cat": "SEASON",
+   "coll": "SCUOLA",
+   "name": "Primo Giorno",
+   "tipo": "lavagna del primo giorno di scuola",
+   "tipo_en": "first day of school board",
+   "concept": "Pannello riscrivibile con campi incisi da compilare per la foto del primo giorno.",
+   "target": "Genitori, settembre, asili e scuole primarie.",
+   "desire": "La foto del primo giorno fatta bene, ogni anno.",
+   "usp": "Si riusa ogni settembre per anni: una foto della serie completa vale più di ogni singola.",
+   "diff": "Campi incisi fissi e area riscrivibile, invece del cartoncino rifatto ogni anno.",
+   "platform": "P1",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    240,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 1200,
+   "vec_mm": 1600,
+   "eng_cm2": 60,
+   "uv_cm2": 340,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    20,
+    55
+   ],
+   "person": [
+    "nome",
+    "campi",
+    "colori"
+   ],
+   "tags": [
+    "SEASONAL",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-SCU-152 kit scuola",
+    "ING-KIDS-SCU-150 organizer scrivania",
+    "ING-KIDS-KEEP-157 tabella traguardi"
+   ],
+   "bundle": [
+    "RIENTRO A SCUOLA",
+    "RICORDI DI SCUOLA"
+   ],
+   "ref": "https://www.xtool.com/blogs/business-ideas/laser-cutter-projects-engraving-ideas",
+   "kw": [
+    "lavagna primo giorno scuola",
+    "cartello foto rientro scuola",
+    "lavagna riscrivibile bambini",
+    "first day of school board wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 6 mm 300x240 con cornice UV a colori pieni. Campi ENGRAVE-V fissi (classe, età, cosa voglio fare da grande, il mio amico) e aree UV WHITE opache riscrivibili a pennarello cancellabile. Spigoli R12, carteggiatura, vernice atossica: lo tiene in mano un bambino. PRODUZIONE DA GIUGNO.",
+   "prompt_img": "a child holding a wooden first-day-of-school board 300x240 mm, engraved field labels with handwritten answers on matte white panels, bright printed border, front door background, morning light"
+  },
+  {
+   "id": "ING-SEASON-AUT-223",
+   "cat": "SEASON",
+   "coll": "AUTUNNO",
+   "name": "Vendemmia",
+   "tipo": "decorazione autunnale a strati",
+   "tipo_en": "autumn layered decoration",
+   "concept": "Pannello con grappoli e foglie di vite su tre strati, per la stagione della vendemmia.",
+   "target": "Cantine, agriturismi, case, negozi enogastronomici.",
+   "desire": "Decorare l'autunno senza zucche e foglie di acero canadese.",
+   "usp": "L'autunno mediterraneo è vendemmia e olive, non foliage nordico: soggetto inedito.",
+   "diff": "Vendibile in B2B a cantine e agriturismi, canale che nessuno presidia in stagione.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    240,
+    300,
+    16
+   ],
+   "layers": 3,
+   "cut_mm": 2800,
+   "vec_mm": 700,
+   "eng_cm2": 40,
+   "uv_cm2": 340,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    22,
+    70
+   ],
+   "person": [
+    "colori",
+    "nome cantina",
+    "anno"
+   ],
+   "tags": [
+    "SEASONAL",
+    "B2B",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-HAL-210 ghirlanda halloween",
+    "ING-B2B-REST-130 targhette cantina",
+    "ING-HOME-TAV-016 portabottiglia"
+   ],
+   "bundle": [
+    "CASA D'AUTUNNO",
+    "KIT CANTINA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "decorazione autunno legno",
+    "decor vendemmia cantina",
+    "pannello uva legno",
+    "autumn wall decor wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 7,
+   "s_uniq": 10,
+   "prompt_prod": "Tre strati betulla 4 mm 240x300 distanziati 4 mm: foglie di vite, grappolo, tralcio. Palette autunno mediterraneo — ruggine, ocra, verde oliva, viola scuro. Nome della cantina e annata ENGRAVE-V alla base. Aggancio a fessura.",
+   "prompt_img": "a layered wooden autumn panel 240x300 mm showing vine leaves and a grape cluster in three spaced birch layers, rust and olive printed background, hanging on a stone wall in a wine cellar"
+  },
+  {
+   "id": "ING-SEASON-NAT-224",
+   "cat": "SEASON",
+   "coll": "NATALE",
+   "name": "Vetrina Natale",
+   "tipo": "kit decorazione vetrina natalizia B2B",
+   "tipo_en": "christmas shop window kit",
+   "concept": "Set di sagome, pendenti e cartellini coordinati per allestire una vetrina intera.",
+   "target": "Negozi, bar, pasticcerie, parrucchieri.",
+   "desire": "Una vetrina di Natale che non sia spray e neve finta.",
+   "usp": "Il B2B stagionale è molto meno presidiato del retail e ordina in quantità.",
+   "diff": "Venduto come allestimento completo con un unico preventivo, non a pezzi.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    400,
+    300,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 4400,
+   "vec_mm": 1600,
+   "eng_cm2": 50,
+   "uv_cm2": 600,
+   "uv_white": true,
+   "comp": {
+    "cordino": 12
+   },
+   "pack": "scatola_g",
+   "lotto": 15,
+   "mkt": [
+    60,
+    220
+   ],
+   "person": [
+    "logo",
+    "colori",
+    "soggetti"
+   ],
+   "tags": [
+    "SEASONAL",
+    "B2B",
+    "PREMIUM",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-SEASON-NAT-200 decorazione finestra",
+    "ING-B2B-RET-125 espositore vetrina",
+    "ING-SEASON-NAT-202 cartellini regalo"
+   ],
+   "bundle": [
+    "VETRINA DI NATALE",
+    "NATALE COMMERCIALE"
+   ],
+   "ref": "https://www.thunderlaser.com/laser-blogs/christmas-laser-ideas.html",
+   "kw": [
+    "allestimento vetrina natale",
+    "decorazioni vetrina negozio natale",
+    "kit natale negozio legno",
+    "christmas shop window kit"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 4,
+   "s_uniq": 10,
+   "prompt_prod": "Kit da un foglio 400x300 in betulla 4 mm: 12 pendenti, 4 sagome grandi, 8 cartellini prezzo natalizi, tutti col logo del negozio. UV nella palette del brand. Cordini e ventose inclusi. ORDINE MINIMO 1 kit, ma il valore sta nel riordino annuale. PRODUZIONE DA SETTEMBRE, e va comunicato ai clienti B2B in agosto.",
+   "prompt_img": "a shop window decorated with a coordinated set of hanging wooden ornaments and cut silhouettes, small printed price cards among the products, shop logo repeated on the pieces, seen from the street at dusk"
+  }
+ ]
+}

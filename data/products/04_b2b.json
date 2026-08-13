@@ -1057,7 +1057,7 @@
    "upsell": [
     "ING-B2B-OFF-103 porta biglietti",
     "ING-HOME-ORG-009 organizer",
-    "ING-B2B-GIFT-108 kit onboarding"
+    "ING-B2B-GIFT-119 kit onboarding"
    ],
    "bundle": [
     "ONBOARDING",
@@ -1203,7 +1203,7 @@
    ],
    "upsell": [
     "ING-B2B-OFF-104 desk sign",
-    "ING-B2B-GIFT-108 kit onboarding",
+    "ING-B2B-GIFT-119 kit onboarding",
     "ING-B2B-RET-101 insegna"
    ],
    "bundle": [
@@ -1280,7 +1280,7 @@
    "upsell": [
     "ING-B2B-AWD-107 trofeo",
     "ING-B2B-OFF-104 desk sign",
-    "ING-B2B-GIFT-110 portachiavi brandizzato"
+    "ING-B2B-GIFT-120 portachiavi brandizzato"
    ],
    "bundle": [
     "PREMIAZIONE",
@@ -1786,7 +1786,7 @@
    "upsell": [
     "ING-B2B-HOSP-115 QR wifi",
     "ING-B2B-HOSP-111 welcome sign",
-    "ING-SICILY-SOUV-271 souvenir ospite"
+    "ING-TOUR-SOUV-179 souvenir ospite"
    ],
    "bundle": [
     "ACCOGLIENZA",

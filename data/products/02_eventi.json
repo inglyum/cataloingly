@@ -273,7 +273,7 @@
    ],
    "upsell": [
     "ING-EVENT-WED-041 segnaposto",
-    "ING-EVENT-WED-049 menu cerimonia",
+    "ING-EVENT-WED-057 menu cerimonia",
     "ING-EVENT-WED-042 tableau"
    ],
    "bundle": [
@@ -350,7 +350,7 @@
    ],
    "upsell": [
     "ING-EVENT-WED-042 tableau",
-    "ING-EVENT-WED-051 indicazioni",
+    "ING-EVENT-WED-063 indicazioni",
     "ING-EVENT-WED-044 numeri tavolo"
    ],
    "bundle": [
@@ -866,7 +866,7 @@
    "upsell": [
     "ING-EVENT-BOMB-049 segnalibro",
     "ING-EVENT-BOMB-050 magnete",
-    "ING-EVENT-CERI-056 quadretto cresima"
+    "ING-EVENT-CERI-054 quadretto cresima"
    ],
    "bundle": [
     "BOMBONIERE CRESIMA x80",
@@ -1096,7 +1096,7 @@
    "upsell": [
     "ING-EVENT-BOMB-050 magnete",
     "ING-EVENT-BOMB-048 scatolina",
-    "ING-KIDS-KEEP-137 quadretto nascita"
+    "ING-KIDS-KEEP-133 quadretto nascita"
    ],
    "bundle": [
     "BATTESIMO COMPLETO: quadretto + 60 bomboniere",
@@ -1539,7 +1539,7 @@
    ],
    "upsell": [
     "ING-EVENT-FEST-060 topper",
-    "ING-KIDS-GIO-146 memory",
+    "ING-KIDS-GIO-136 memory",
     "ING-EVENT-FEST-062 numero da tavolo"
    ],
    "bundle": [

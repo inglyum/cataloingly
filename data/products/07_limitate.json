@@ -1,0 +1,1191 @@
+{
+ "_categoria": "LIMITED — 07 Edizioni Limitate",
+ "_nota": "Non e' una categoria di prodotto ma un MECCANISMO DI PREZZO. La scarsita' dichiarata, la numerazione al fiber e il certificato spostano lo stesso oggetto di una fascia intera cambiando solo packaging, cartellino e marcatura. Condizione perche' funzioni: la scarsita' deve essere VERA e rispettata. Se la tiratura dichiarata viene superata, la fiducia si brucia una volta sola e non torna.",
+ "prodotti": [
+  {
+   "id": "ING-LIMIT-SER-225",
+   "cat": "LIMITED",
+   "coll": "SERIE",
+   "name": "Dodici",
+   "tipo": "serie collezionabile di 12 tessere territoriali",
+   "tipo_en": "twelve-tile collectible series",
+   "concept": "Dodici tessere numerate, una per luogo, che condividono telaio e formato e si completano nel tempo.",
+   "target": "Collezionisti locali, turisti affezionati, negozi del territorio.",
+   "desire": "Completare la serie, non comprare un pezzo.",
+   "usp": "Chi ne compra una torna per le altre: il secondo acquisto è quasi automatico.",
+   "diff": "La logica della serie da completare è quasi assente nel laser artigianale.",
+   "platform": "P1",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    96,
+    96,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 420,
+   "vec_mm": 300,
+   "eng_cm2": 12,
+   "uv_cm2": 80,
+   "uv_white": true,
+   "mopa_cm2": 4,
+   "comp": {
+    "targhetta_inox": 1
+   },
+   "pack": "busta",
+   "lotto": 60,
+   "mkt": [
+    12,
+    40
+   ],
+   "person": [
+    "luogo",
+    "numero",
+    "anno"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "SOUVENIR",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-LIMIT-SER-226 espositore serie",
+    "ING-LIMIT-DOC-231 certificato",
+    "ING-LIMIT-SER-227 cofanetto collezione"
+   ],
+   "bundle": [
+    "COLLEZIONE COMPLETA 12 pz",
+    "SERIE + ESPOSITORE"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "serie collezionabile legno",
+    "tessere da collezione territorio",
+    "collezione numerata legno",
+    "collectible wooden tile series"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 6 mm 96x96, angoli R12, formato invariante su tutta la serie. Soggetto UV a colori pieni, uno per luogo. Placchetta inox 20x40 MOPA con NUMERO PROGRESSIVO XX/500 e anno. DICHIARARE LA TIRATURA e rispettarla: tenere un registro dei numeri emessi, altrimenti il meccanismo non regge.",
+   "prompt_img": "a wooden collectible tile 96x96 mm held in a hand, a flat graphic place motif printed on it and a small fiber-marked steel plate with an edition number, five more tiles arranged behind"
+  },
+  {
+   "id": "ING-LIMIT-SER-226",
+   "cat": "LIMITED",
+   "coll": "SERIE",
+   "name": "Vetrinetta",
+   "tipo": "espositore da parete per la serie",
+   "tipo_en": "series display frame",
+   "concept": "Telaio con dodici sedi che si riempiono man mano che la collezione si completa.",
+   "target": "Chi ha iniziato la serie, collezionisti.",
+   "desire": "Vedere quanto manca al completamento.",
+   "usp": "Gli spazi vuoti sono il miglior venditore che esista: ricordano ogni giorno cosa manca.",
+   "diff": "Nessuno vende l'espositore insieme alla serie, ed è ciò che spinge a completarla.",
+   "platform": "P5",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    420,
+    300,
+    20
+   ],
+   "layers": 2,
+   "cut_mm": 2800,
+   "vec_mm": 1200,
+   "eng_cm2": 50,
+   "uv_cm2": 380,
+   "uv_white": true,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "scatola_g",
+   "lotto": 12,
+   "mkt": [
+    40,
+    120
+   ],
+   "person": [
+    "nome collezione",
+    "anno",
+    "colore"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "PREMIUM",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-LIMIT-SER-225 tessere serie",
+    "ING-LIMIT-DOC-231 certificato",
+    "ING-LIMIT-SER-227 cofanetto"
+   ],
+   "bundle": [
+    "COLLEZIONE COMPLETA",
+    "SERIE + ESPOSITORE"
+   ],
+   "ref": "https://www.etsy.com/market/lasercut_wall_decor",
+   "kw": [
+    "espositore collezione parete",
+    "vetrinetta tessere legno",
+    "display collezione legno",
+    "collection display frame wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 14,
+   "s_person": 8,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Fondo betulla 8 mm 420x300 con UV PRINT. Frontale betulla 4 mm distanziato 6 mm con 12 finestre 96x96 su griglia 12 mm, ciascuna con il nome del luogo ENGRAVE-V sotto. Le tessere si inseriscono da dietro e restano rimovibili. Aggancio a 2 punti.",
+   "prompt_img": "a wooden display frame 420x300 mm on a wall with twelve square openings, seven filled with printed collectible tiles and five still empty showing the engraved place names beneath"
+  },
+  {
+   "id": "ING-LIMIT-SER-227",
+   "cat": "LIMITED",
+   "coll": "SERIE",
+   "name": "Cofanetto",
+   "tipo": "cofanetto per collezione completa",
+   "tipo_en": "complete collection case",
+   "concept": "Scatola con interno sagomato che accoglie la serie completa e il certificato.",
+   "target": "Collezionisti, regalo importante, aziende.",
+   "desire": "Ricevere la collezione intera in una volta.",
+   "usp": "Vende l'intera serie in un solo ordine invece di dodici acquisti incerti.",
+   "diff": "Il cofanetto giustifica il prezzo pieno della collezione senza sconto quantità.",
+   "platform": "P3",
+   "mat": [
+    "betulla6",
+    "feltro3"
+   ],
+   "quota_mat": {
+    "feltro3": 0.6
+   },
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    360,
+    300,
+    72
+   ],
+   "layers": 1,
+   "cut_mm": 3200,
+   "vec_mm": 1100,
+   "eng_cm2": 70,
+   "uv_cm2": 260,
+   "uv_white": true,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_inox": 1
+   },
+   "pack": "scatola_g",
+   "lotto": 10,
+   "mkt": [
+    80,
+    300
+   ],
+   "person": [
+    "nome collezione",
+    "numero",
+    "anno",
+    "dedica"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "PREMIUM",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-LIMIT-SER-225 tessere",
+    "ING-LIMIT-DOC-231 certificato",
+    "ING-LIMIT-SER-226 espositore"
+   ],
+   "bundle": [
+    "COLLEZIONE COMPLETA",
+    "REGALO COLLEZIONISTA"
+   ],
+   "ref": "https://gemarparma.it/trend-2026-nel-merchandising-aziendale/",
+   "kw": [
+    "cofanetto collezione legno",
+    "box collezione numerata",
+    "cofanetto edizione limitata",
+    "collector case wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 14,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 10,
+   "prompt_prod": "Scatola betulla 6 mm 360x300x72 con coperchio scorrevole ENGRAVE-R. Interno in feltro con 12 sedi 96x96 e una tasca per il certificato. Placchetta inox MOPA col numero della collezione. L'interno sagomato costa pochi centesimi e cambia completamente il momento dell'apertura.",
+   "prompt_img": "an open wooden collector case 360x300x72 mm with a sliding engraved lid, twelve printed tiles seated in shaped felt recesses, a certificate tucked in a side pocket"
+  },
+  {
+   "id": "ING-LIMIT-ANN-228",
+   "cat": "LIMITED",
+   "coll": "ANNUALE",
+   "name": "Millesimo",
+   "tipo": "ornamento annuale numerato",
+   "tipo_en": "numbered annual ornament",
+   "concept": "Un solo soggetto all'anno, numerato e prodotto in tiratura chiusa, mai ristampato.",
+   "target": "Clienti ricorrenti, collezionisti, famiglie.",
+   "desire": "Non perdere l'edizione di quest'anno.",
+   "usp": "Costruisce l'abitudine annuale: è il riacquisto automatico più facile del catalogo.",
+   "diff": "La tiratura chiusa e mai ristampata è quello che rende credibile la scarsità.",
+   "platform": "P6",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    96,
+    108,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 640,
+   "vec_mm": 300,
+   "eng_cm2": 12,
+   "uv_cm2": 60,
+   "uv_white": true,
+   "mopa_cm2": 4,
+   "comp": {
+    "targhetta_inox": 1,
+    "cordino": 1
+   },
+   "pack": "busta",
+   "lotto": 80,
+   "mkt": [
+    15,
+    45
+   ],
+   "person": [
+    "numero",
+    "anno",
+    "nome"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "SEASONAL",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-LIMIT-DOC-231 certificato",
+    "ING-LIMIT-SER-226 espositore",
+    "ING-SEASON-NAT-191 ornamento datato"
+   ],
+   "bundle": [
+    "EDIZIONE ANNUALE",
+    "COLLEZIONE ANNI"
+   ],
+   "ref": "https://www.screenprinting.com/blogs/news/profitable-laser-engraved-christmas-ornaments-to-make-and-sell",
+   "kw": [
+    "ornamento annuale numerato",
+    "edizione limitata natale legno",
+    "addobbo da collezione",
+    "numbered annual ornament wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 10,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 4 mm 96x108. Soggetto dell'anno CUT traforato su pannello UV, diverso ogni anno e MAI RIPETUTO. Placchetta inox MOPA con anno e numero XX/300. Registro dei numeri emessi obbligatorio. Comunicare l'apertura della tiratura alla lista clienti con 7 giorni di anticipo.",
+   "prompt_img": "a numbered annual wooden ornament 96x108 mm hanging on a tree, a year motif cut through over a printed panel, a small steel plate with the year and edition number, three previous years' ornaments hanging nearby"
+  },
+  {
+   "id": "ING-LIMIT-ANN-229",
+   "cat": "LIMITED",
+   "coll": "ANNUALE",
+   "name": "Medaglia Anno",
+   "tipo": "medaglia commemorativa annuale",
+   "tipo_en": "annual commemorative medal",
+   "concept": "Medaglia in legno e acciaio emessa una volta l'anno, con il tema scelto per quell'anno.",
+   "target": "Collezionisti, clienti fedeli, aziende, comunità locali.",
+   "desire": "Segnare l'anno con un oggetto che resta.",
+   "usp": "Formato piccolo e costo basso ma percezione da oggetto da collezione.",
+   "diff": "La medaglia annuale è un genere consolidato che nel laser non esiste.",
+   "platform": "P6",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    72,
+    72,
+    8
+   ],
+   "layers": 1,
+   "cut_mm": 420,
+   "vec_mm": 300,
+   "eng_cm2": 16,
+   "mopa_cm2": 10,
+   "comp": {
+    "targhetta_inox": 1,
+    "cordino": 1
+   },
+   "pack": "scatola_s",
+   "lotto": 60,
+   "mkt": [
+    15,
+    50
+   ],
+   "person": [
+    "anno",
+    "numero",
+    "tema",
+    "dedica"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "PREMIUM",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-LIMIT-ANN-228 ornamento annuale",
+    "ING-LIMIT-DOC-231 certificato",
+    "ING-LIMIT-SER-227 cofanetto"
+   ],
+   "bundle": [
+    "EDIZIONE ANNUALE",
+    "COLLEZIONE ANNI"
+   ],
+   "ref": "https://gemarparma.it/trend-2026-nel-merchandising-aziendale/",
+   "kw": [
+    "medaglia annuale collezione",
+    "medaglia commemorativa legno",
+    "medaglia numerata anno",
+    "annual commemorative medal wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 14,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 8 mm Ø72 con corona ENGRAVE-R. Disco inox Ø40 MOPA al centro con anno, tema e numero XX/200. Scatola piccola con interno sagomato: la medaglia va presentata, non consegnata in busta. Registro dei numeri emessi.",
+   "prompt_img": "a wooden commemorative medal 72 mm in an open presentation box, engraved wreath border around an inset steel disc marked with a year and edition number, dark background, directional light"
+  },
+  {
+   "id": "ING-LIMIT-ART-230",
+   "cat": "LIMITED",
+   "coll": "ARTISTA",
+   "name": "Firma",
+   "tipo": "pannello d'arte numerato",
+   "tipo_en": "numbered art panel",
+   "concept": "Pannello a strati prodotto in tiratura dichiarata, con numerazione al fiber e firma dell'autore.",
+   "target": "Collezionisti, arredo, gallerie, regalo importante.",
+   "desire": "Possedere un pezzo che esiste in pochi esemplari.",
+   "usp": "La numerazione permanente al fiber è molto più credibile della matita, che si può rifare.",
+   "diff": "Il laser rende la numerazione parte del pezzo, non un'aggiunta a posteriori.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    300,
+    400,
+    24
+   ],
+   "layers": 4,
+   "cut_mm": 4400,
+   "vec_mm": 900,
+   "eng_cm2": 60,
+   "uv_cm2": 720,
+   "uv_white": true,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_inox": 1,
+    "gancio": 2
+   },
+   "pack": "scatola_g",
+   "lotto": 8,
+   "mkt": [
+    80,
+    350
+   ],
+   "person": [
+    "soggetto",
+    "numero",
+    "anno",
+    "firma"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-LIMIT-DOC-231 certificato",
+    "ING-LIMIT-ART-232 capsule artista",
+    "ING-LIMIT-SER-227 cofanetto"
+   ],
+   "bundle": [
+    "EDIZIONE D'ARTE",
+    "REGALO COLLEZIONISTA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_wall_decor",
+   "kw": [
+    "pannello arte numerato legno",
+    "edizione limitata arte legno",
+    "quadro numerato artista",
+    "numbered art panel wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 13,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Quattro strati betulla 4 mm 300x400 distanziati 5 mm su perni asimmetrici. Placchetta inox MOPA in basso a destra con numero XX/50, anno e firma dell'autore. TIRATURA MASSIMA 50: sopra quel numero il prodotto smette di essere un'edizione e diventa un articolo di catalogo, e va detto.",
+   "prompt_img": "a layered wooden art panel 300x400 mm on a gallery wall, four spaced birch layers building an abstract landscape, a small steel plate at the lower right marked with an edition number and signature"
+  },
+  {
+   "id": "ING-LIMIT-DOC-231",
+   "cat": "LIMITED",
+   "coll": "DOCUMENTI",
+   "name": "Certificato",
+   "tipo": "certificato di autenticità con custodia",
+   "tipo_en": "certificate of authenticity",
+   "concept": "Cartoncino numerato con custodia in legno inciso, che accompagna ogni pezzo dell'edizione.",
+   "target": "Chi compra un'edizione limitata, gallerie, aziende.",
+   "desire": "La prova che il pezzo è quello che dice di essere.",
+   "usp": "Costo di stampa minimo ed effetto sul prezzo percepito sproporzionato.",
+   "diff": "Il certificato con custodia in legno inciso non è carta: è parte dell'oggetto.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    168,
+    120,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 700,
+   "vec_mm": 600,
+   "eng_cm2": 30,
+   "mopa_cm2": 6,
+   "comp": {
+    "targhetta_inox": 1
+   },
+   "pack": "busta",
+   "lotto": 80,
+   "mkt": [
+    5,
+    20
+   ],
+   "person": [
+    "numero",
+    "data",
+    "materiale",
+    "firma"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-LIMIT-ART-230 pannello numerato",
+    "ING-LIMIT-SER-227 cofanetto",
+    "ING-LIMIT-ANN-229 medaglia"
+   ],
+   "bundle": [
+    "EDIZIONE D'ARTE",
+    "COLLEZIONE COMPLETA"
+   ],
+   "ref": "https://gemarparma.it/trend-2026-nel-merchandising-aziendale/",
+   "kw": [
+    "certificato autenticità legno",
+    "certificato edizione limitata",
+    "custodia certificato inciso",
+    "certificate of authenticity wood"
+   ],
+   "s_demand": 10,
+   "s_comp": 14,
+   "s_person": 10,
+   "s_gift": 5,
+   "s_uniq": 10,
+   "prompt_prod": "Custodia betulla 4 mm 168x120 a libro con dorso flessibile. Interno con sede per il cartoncino stampato. Placchetta inox MOPA col numero. IL CERTIFICATO DEVE RIPORTARE numero, data di produzione, materiale, dimensioni e firma: se è generico non aggiunge nulla e si vede.",
+   "prompt_img": "an open wooden certificate holder 168x120 mm with a printed numbered certificate inside, a small fiber-marked steel plate on the cover, lying beside the artwork it belongs to"
+  },
+  {
+   "id": "ING-LIMIT-ART-232",
+   "cat": "LIMITED",
+   "coll": "ARTISTA",
+   "name": "Capsule",
+   "tipo": "collezione in collaborazione con artista",
+   "tipo_en": "artist collaboration capsule",
+   "concept": "Serie breve disegnata con un artista esterno, numerata e prodotta una volta sola.",
+   "target": "Il pubblico dell'artista, collezionisti, gallerie.",
+   "desire": "Un pezzo di quell'artista in un formato che non ha mai fatto.",
+   "usp": "Porta un pubblico già formato che Ingly Design da sola non raggiungerebbe.",
+   "diff": "Richiede un accordo scritto sui diritti d'uso, e va gestito bene fin dall'inizio.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    240,
+    300,
+    20
+   ],
+   "layers": 3,
+   "cut_mm": 3200,
+   "vec_mm": 800,
+   "eng_cm2": 50,
+   "uv_cm2": 440,
+   "uv_white": true,
+   "mopa_cm2": 6,
+   "comp": {
+    "targhetta_inox": 1,
+    "gancio": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 10,
+   "mkt": [
+    60,
+    250
+   ],
+   "person": [
+    "artista",
+    "numero",
+    "anno",
+    "soggetto"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-LIMIT-DOC-231 certificato",
+    "ING-LIMIT-ART-230 pannello numerato",
+    "ING-LIMIT-SER-227 cofanetto"
+   ],
+   "bundle": [
+    "EDIZIONE D'ARTE",
+    "CAPSULE ARTISTA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_wall_decor",
+   "kw": [
+    "collaborazione artista legno",
+    "capsule collection laser",
+    "edizione artista limitata",
+    "artist collaboration wood panel"
+   ],
+   "s_demand": 11,
+   "s_comp": 14,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Tre strati betulla 4 mm 240x300. Il DISEGNO è dell'artista, la traduzione in strati e la producibilità sono di Ingly Design. ACCORDO SCRITTO OBBLIGATORIO prima di iniziare: chi detiene i diritti, per quanto tempo, su quali canali, con quale ripartizione. Senza contratto non si produce. Placchetta MOPA con nome artista e numero.",
+   "prompt_img": "a layered wooden art panel 240x300 mm in a gallery, an artist's illustration translated into three cut birch layers with printed colour behind, a steel plate with the artist's name and edition number"
+  },
+  {
+   "id": "ING-LIMIT-EVE-233",
+   "cat": "LIMITED",
+   "coll": "EVENTI",
+   "name": "Presente",
+   "tipo": "edizione numerata da fiera o evento",
+   "tipo_en": "event-only numbered edition",
+   "concept": "Pezzo venduto solo durante un evento, con data e luogo incisi e numerazione progressiva.",
+   "target": "Partecipanti a fiere, sagre, festival, concerti.",
+   "desire": "Avere la prova di esserci stato.",
+   "usp": "La scarsità è reale e verificabile: quel pezzo esiste solo per chi c'era.",
+   "diff": "Nessuna concorrenza, perché il prodotto non esiste al di fuori di quel luogo e di quei giorni.",
+   "platform": "P6",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    96,
+    144,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 700,
+   "vec_mm": 400,
+   "eng_cm2": 16,
+   "uv_cm2": 110,
+   "uv_white": true,
+   "mopa_cm2": 6,
+   "comp": {
+    "targhetta_inox": 1
+   },
+   "pack": "busta",
+   "lotto": 100,
+   "mkt": [
+    12,
+    40
+   ],
+   "person": [
+    "evento",
+    "data",
+    "numero",
+    "luogo"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "B2B",
+    "FAST SELLER",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-LIMIT-DOC-231 certificato",
+    "ING-LIMIT-ANN-229 medaglia",
+    "ING-TOUR-SOUV-188 medaglia cammino"
+   ],
+   "bundle": [
+    "PACCHETTO EVENTO 200 pz",
+    "EDIZIONE EVENTO"
+   ],
+   "ref": "https://gemarparma.it/trend-2026-nel-merchandising-aziendale/",
+   "kw": [
+    "edizione limitata evento",
+    "souvenir fiera numerato",
+    "gadget evento da collezione",
+    "event limited edition wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 14,
+   "s_person": 10,
+   "s_gift": 7,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 6 mm 96x144. Soggetto dell'evento UV, data e luogo ENGRAVE-V. Placchetta inox MOPA col numero progressivo, marcata SUL POSTO durante l'evento: la marcatura dal vivo è essa stessa un richiamo per lo stand. Portare il fiber in fiera e numerare davanti al cliente.",
+   "prompt_img": "a small wooden event edition piece 96x144 mm being fiber-marked with a progressive number at a trade fair stand, a queue of visitors watching, printed event graphic on the front"
+  },
+  {
+   "id": "ING-LIMIT-EVE-234",
+   "cat": "LIMITED",
+   "coll": "EVENTI",
+   "name": "Centenario",
+   "tipo": "edizione celebrativa per anniversari di comunità",
+   "tipo_en": "community anniversary edition",
+   "concept": "Pezzo commemorativo per anniversari cittadini, con stemma e anno traforati.",
+   "target": "Comuni, pro loco, parrocchie, associazioni, aziende storiche.",
+   "desire": "Celebrare una ricorrenza con qualcosa che resti nelle case.",
+   "usp": "Canale pubblico e associativo che nessun laboratorio laser presidia, con ordini a centinaia.",
+   "diff": "Vendibile a un ente, non a un privato: la decisione è di budget, non di gusto.",
+   "platform": "P6",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.8
+   },
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    204,
+    264,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 2200,
+   "vec_mm": 800,
+   "eng_cm2": 40,
+   "uv_cm2": 260,
+   "uv_white": true,
+   "mopa_cm2": 10,
+   "comp": {
+    "targhetta_ottone": 1,
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    35,
+    140
+   ],
+   "person": [
+    "stemma",
+    "anno",
+    "numero",
+    "dedica"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-LIMIT-DOC-231 certificato",
+    "ING-B2B-AWD-121 targa anniversario",
+    "ING-LIMIT-ANN-229 medaglia"
+   ],
+   "bundle": [
+    "EDIZIONE CELEBRATIVA",
+    "PACCHETTO ENTE 200 pz"
+   ],
+   "ref": "https://gemarparma.it/trend-2026-nel-merchandising-aziendale/",
+   "kw": [
+    "edizione celebrativa comune",
+    "targa anniversario città",
+    "commemorativa associazione legno",
+    "community anniversary edition wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 14,
+   "s_person": 10,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Fondo betulla 8 mm 204x264 con UV PRINT. Frontale betulla 4 mm con anno e stemma CUT traforati: richiedere lo stemma in VETTORIALE e l'autorizzazione scritta dell'ente all'uso. Placca ottone MOPA con numero e dedica. L'ottone dà il registro istituzionale che la ricorrenza richiede.",
+   "prompt_img": "a layered wooden commemorative plaque 204x264 mm, a town crest and a year cut through the front layer over a deep printed panel, a brass plate below with an engraved dedication and edition number"
+  },
+  {
+   "id": "ING-LIMIT-MAT-235",
+   "cat": "LIMITED",
+   "coll": "MATERIALE",
+   "name": "Sciara Nera",
+   "tipo": "edizione in pietra lavica numerata",
+   "tipo_en": "lava stone numbered edition",
+   "concept": "Pezzo inciso su pietra lavica, numerato, con la scarsità che viene dal materiale stesso.",
+   "target": "Collezionisti, fascia alta, regalo importante, aziende del territorio.",
+   "desire": "Un oggetto che non si può fare altrove.",
+   "usp": "Materiale identitario più scarsità dichiarata: due leve di prezzo che si sommano.",
+   "diff": "La numerazione è incisa nella pietra, non scritta su un cartellino.",
+   "platform": "P1",
+   "mat": [
+    "ardesia"
+   ],
+   "tech": "CO2",
+   "dim": [
+    144,
+    204,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 0,
+   "vec_mm": 0,
+   "eng_cm2": 170,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 10,
+   "mkt": [
+    60,
+    220
+   ],
+   "person": [
+    "soggetto",
+    "numero",
+    "anno",
+    "dedica"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-LIMIT-DOC-231 certificato",
+    "ING-SICILY-PIETRA-256 portacandela pietra",
+    "ING-LIMIT-SER-227 cofanetto"
+   ],
+   "bundle": [
+    "EDIZIONE MATERIALE",
+    "LINEA PIETRA LAVICA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "pietra lavica edizione limitata",
+    "targa pietra numerata",
+    "edizione materiale raro legno",
+    "numbered lava stone edition"
+   ],
+   "s_demand": 10,
+   "s_comp": 14,
+   "s_person": 10,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "VINCOLO: la pietra lavica NON si taglia al laser CO2, si incide soltanto. Lastre 144x204x12 acquistate a formato, quindi il perimetro è dato e si lavora solo la superficie. ENGRAVE-R ad altissimo contrasto. Numerazione XX/50 incisa in basso a destra h 5 mm. Certificato cartaceo con numero, data e provenienza del materiale.",
+   "prompt_img": "a black lava stone plaque 144x204 mm engraved in high-contrast white with a geometric motif and a small edition number, leaning against a pale wall, dramatic raking light on the rough texture"
+  },
+  {
+   "id": "ING-LIMIT-DROP-236",
+   "cat": "LIMITED",
+   "coll": "DROP",
+   "name": "Ritorno",
+   "tipo": "riedizione a tempo di un pezzo esaurito",
+   "tipo_en": "limited-time reissue",
+   "concept": "Un pezzo già esaurito torna in vendita per 72 ore, con numerazione della seconda tiratura.",
+   "target": "Clienti esistenti, lista di attesa, follower.",
+   "desire": "Recuperare il pezzo che si era perso.",
+   "usp": "Riattiva la lista clienti a costo zero, senza sviluppare nulla di nuovo.",
+   "diff": "La seconda tiratura è dichiarata come tale: non si finge che sia la prima.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    240,
+    300,
+    16
+   ],
+   "layers": 3,
+   "cut_mm": 3200,
+   "vec_mm": 800,
+   "eng_cm2": 40,
+   "uv_cm2": 420,
+   "uv_white": true,
+   "mopa_cm2": 6,
+   "comp": {
+    "targhetta_inox": 1,
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    40,
+    150
+   ],
+   "person": [
+    "soggetto",
+    "numero",
+    "tiratura",
+    "anno"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "PREMIUM",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-LIMIT-DOC-231 certificato",
+    "ING-LIMIT-SER-226 espositore",
+    "ING-LIMIT-ANN-228 ornamento annuale"
+   ],
+   "bundle": [
+    "EDIZIONE D'ARTE",
+    "DROP A TEMPO"
+   ],
+   "ref": "https://themakerschest.com/blogs/laser-engravers/is-a-laser-engraving-business-profitable",
+   "kw": [
+    "riedizione limitata legno",
+    "drop a tempo laser",
+    "seconda tiratura numerata",
+    "limited time reissue wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 15,
+   "s_person": 8,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Stesso file della prima tiratura, nessun costo di sviluppo. Placchetta MOPA marcata II/XX per distinguere la SECONDA tiratura dalla prima: dichiararlo è ciò che tiene in piedi la credibilità di tutte le edizioni future. Comunicazione alla lista con 7 giorni di anticipo, finestra di 72 ore, poi si chiude davvero.",
+   "prompt_img": "a layered wooden art panel 240x300 mm being packed for shipping, a steel plate marked as a second edition, a laptop beside it showing a countdown timer"
+  },
+  {
+   "id": "ING-LIMIT-SER-237",
+   "cat": "LIMITED",
+   "coll": "SERIE",
+   "name": "Mesi",
+   "tipo": "serie dei dodici mesi",
+   "tipo_en": "twelve months series",
+   "concept": "Dodici pannelli, uno per mese, con il soggetto stagionale mediterraneo corrispondente.",
+   "target": "Collezionisti, arredo, regalo ricorrente.",
+   "desire": "Cambiare il quadro con la stagione.",
+   "usp": "Genera dodici occasioni di acquisto in un anno da un solo cliente.",
+   "diff": "I mesi mediterranei — mandorlo in fiore, vendemmia, raccolta olive — non il calendario nordico.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    204,
+    204,
+    16
+   ],
+   "layers": 3,
+   "cut_mm": 2600,
+   "vec_mm": 700,
+   "eng_cm2": 40,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "mopa_cm2": 4,
+   "comp": {
+    "targhetta_inox": 1,
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    28,
+    90
+   ],
+   "person": [
+    "mese",
+    "numero",
+    "anno",
+    "colori"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-LIMIT-SER-226 espositore",
+    "ING-LIMIT-SER-227 cofanetto",
+    "ING-LIMIT-DOC-231 certificato"
+   ],
+   "bundle": [
+    "COLLEZIONE DODICI MESI",
+    "SERIE + ESPOSITORE"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_wall_decor",
+   "kw": [
+    "serie dodici mesi legno",
+    "quadri stagioni collezione",
+    "serie mensile numerata",
+    "twelve months art series wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 14,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Tre strati betulla 4 mm 204x204, formato e telaio INVARIANTI su tutti e dodici: cambia solo il soggetto. Un solo aggancio a parete serve tutta la serie, così si sostituisce il pannello ogni mese. Placchetta MOPA con mese e numero. Sviluppo ammortizzato su dodici prodotti.",
+   "prompt_img": "a square layered wooden panel 204x204 mm on a wall showing an almond blossom in spaced birch layers, three other months' panels stacked on a shelf below waiting to be swapped in"
+  },
+  {
+   "id": "ING-LIMIT-SER-238",
+   "cat": "LIMITED",
+   "coll": "SERIE",
+   "name": "Cielo",
+   "tipo": "serie dei segni zodiacali",
+   "tipo_en": "zodiac series",
+   "concept": "Dodici pannelli con le costellazioni traforate e le stelle forate che lasciano passare la luce.",
+   "target": "18-45, regalo di compleanno, appassionati.",
+   "desire": "Il proprio segno, fatto bene.",
+   "usp": "Ogni compleanno dell'anno è un'occasione di vendita: la domanda è distribuita su tutto il calendario.",
+   "diff": "Le stelle sono fori veri che lasciano passare la luce, non punti stampati.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    204,
+    264,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 2000,
+   "vec_mm": 900,
+   "eng_cm2": 30,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "mopa_cm2": 4,
+   "comp": {
+    "targhetta_inox": 1,
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    25,
+    80
+   ],
+   "person": [
+    "segno",
+    "nome",
+    "data",
+    "numero"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-LIMIT-SER-237 serie mesi",
+    "ING-LIMIT-DOC-231 certificato",
+    "ING-TOUR-SOUV-162 targa coordinate"
+   ],
+   "bundle": [
+    "COLLEZIONE ZODIACO",
+    "REGALO COMPLEANNO"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_wall_decor",
+   "kw": [
+    "quadro segno zodiacale legno",
+    "costellazione da parete",
+    "regalo segno zodiacale personalizzato",
+    "zodiac constellation wall art wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Due strati betulla 4 mm 204x264. Strato frontale con la costellazione: STELLE COME FORI VERI di diametro variabile (Ø2 a Ø5 secondo la magnitudine reale) e linee ENGRAVE-V. Fondo UV blu notte. Nome e data di nascita ENGRAVE-V. Placchetta MOPA col numero. Formato invariante sui dodici segni.",
+   "prompt_img": "a layered wooden panel 204x264 mm on a dark wall, a constellation cut as real holes of different sizes through the front birch layer over a deep night-blue panel, faint engraved connecting lines, a lamp behind making the star holes glow"
+  },
+  {
+   "id": "ING-LIMIT-B2B-239",
+   "cat": "LIMITED",
+   "coll": "AZIENDALE",
+   "name": "Fondatore",
+   "tipo": "targa membro fondatore",
+   "tipo_en": "founding member plaque",
+   "concept": "Targa numerata per i primi clienti, soci o dipendenti di un'attività.",
+   "target": "Startup, associazioni, club, palestre, community.",
+   "desire": "Riconoscere chi c'era all'inizio.",
+   "usp": "Crea appartenenza a costo bassissimo: il numero basso vale più dell'oggetto.",
+   "diff": "La numerazione bassa è il prodotto: il numero 007 vale più del 340 e tutti lo sanno.",
+   "platform": "P6",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+MOPA",
+   "dim": [
+    144,
+    96,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 600,
+   "vec_mm": 400,
+   "eng_cm2": 16,
+   "mopa_cm2": 8,
+   "comp": {
+    "targhetta_inox": 1
+   },
+   "pack": "scatola_s",
+   "lotto": 50,
+   "mkt": [
+    12,
+    45
+   ],
+   "person": [
+    "nome",
+    "numero",
+    "logo",
+    "anno"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "B2B",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-LIMIT-DOC-231 certificato",
+    "ING-B2B-AWD-109 placca",
+    "ING-B2B-GIFT-120 portachiavi"
+   ],
+   "bundle": [
+    "PACCHETTO COMMUNITY 100 pz",
+    "EDIZIONE FONDATORI"
+   ],
+   "ref": "https://gemarparma.it/trend-2026-nel-merchandising-aziendale/",
+   "kw": [
+    "targa membro fondatore",
+    "riconoscimento primi soci",
+    "targa numerata community",
+    "founding member plaque wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 14,
+   "s_person": 10,
+   "s_gift": 7,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 6 mm 144x96, logo ENGRAVE-R. Placchetta inox 20x40 MOPA con NOME e NUMERO PROGRESSIVO. Il numero va grande e in evidenza: è quello che conta per chi lo riceve. Registro dei numeri assegnati tenuto dal cliente. Lotto minimo 50.",
+   "prompt_img": "a small wooden plaque 144x96 mm with an engraved company logo and a steel plate marked FOUNDING MEMBER 007 with a name, held in a hand at an office opening event"
+  },
+  {
+   "id": "ING-LIMIT-SER-240",
+   "cat": "LIMITED",
+   "coll": "SERIE",
+   "name": "Puzzle Collezione",
+   "tipo": "puzzle a tiratura numerata",
+   "tipo_en": "numbered collectible puzzle",
+   "concept": "Puzzle in legno con soggetto d'autore, numerato e prodotto in tiratura chiusa.",
+   "target": "Adulti collezionisti, regalo premium, appassionati di puzzle.",
+   "desire": "Un puzzle che valga la pena tenere montato.",
+   "usp": "Il puzzle di legno per adulti è un segmento premium in crescita, quasi assente in Italia.",
+   "diff": "Pezzi a incastro irregolare e alcune sagome figurative nascoste nel taglio.",
+   "platform": "P7",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    300,
+    240,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 9000,
+   "vec_mm": 600,
+   "eng_cm2": 20,
+   "uv_cm2": 480,
+   "uv_white": true,
+   "mopa_cm2": 4,
+   "comp": {
+    "targhetta_inox": 1
+   },
+   "pack": "scatola_m",
+   "lotto": 15,
+   "mkt": [
+    45,
+    160
+   ],
+   "person": [
+    "soggetto",
+    "numero",
+    "anno",
+    "dedica"
+   ],
+   "tags": [
+    "LIMITED EDITION",
+    "PREMIUM",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-LIMIT-DOC-231 certificato",
+    "ING-LIMIT-SER-227 cofanetto",
+    "ING-KIDS-GIO-136 memory"
+   ],
+   "bundle": [
+    "EDIZIONE D'ARTE",
+    "REGALO COLLEZIONISTA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_puzzle",
+   "kw": [
+    "puzzle legno adulti premium",
+    "puzzle numerato da collezione",
+    "puzzle legno artistico",
+    "numbered wooden jigsaw puzzle"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 10,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 4 mm 300x240, circa 200 pezzi a incastro IRREGOLARE, con 8-10 sagome figurative nascoste fra i pezzi (whimsy pieces): è la firma del puzzle di legno premium. UV a piena superficie prima del taglio. ATTENZIONE AL TEMPO: 9 metri di taglio sono circa 12 minuti di macchina, vanno nel prezzo. Placchetta MOPA col numero nella scatola.",
+   "prompt_img": "a wooden jigsaw puzzle 300x240 mm partly assembled on a table, irregular birch pieces with a few figurative whimsy shapes visible among them, full-colour printed artwork, a numbered steel plate in the open box"
+  }
+ ]
+}

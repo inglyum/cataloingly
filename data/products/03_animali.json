@@ -200,7 +200,7 @@
    "upsell": [
     "ING-PET-MEM-074 suncatcher",
     "ING-PET-MEM-075 scatola ricordo",
-    "ING-PET-DEC-081 portafoto"
+    "ING-PET-DEC-099 portafoto"
    ],
    "bundle": [
     "RICORDO: targa + scatola",
@@ -269,7 +269,7 @@
    "upsell": [
     "ING-PET-MEM-073 targa memoriale",
     "ING-PET-MEM-075 scatola ricordo",
-    "ING-PET-DEC-081 portafoto"
+    "ING-PET-DEC-099 portafoto"
    ],
    "bundle": [
     "MEMORIA",
@@ -342,7 +342,7 @@
    "upsell": [
     "ING-PET-MEM-073 targa memoriale",
     "ING-PET-MEM-074 suncatcher",
-    "ING-PET-DEC-081 portafoto"
+    "ING-PET-DEC-099 portafoto"
    ],
    "bundle": [
     "RICORDO",
@@ -417,7 +417,7 @@
    ],
    "upsell": [
     "ING-PET-DEC-077 silhouette razza",
-    "ING-PET-DEC-081 portafoto",
+    "ING-PET-DEC-099 portafoto",
     "ING-PET-MEM-073 targa memoriale"
    ],
    "bundle": [
