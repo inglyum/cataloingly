@@ -1,0 +1,2143 @@
+{
+ "_categoria": "KIDS — 05 Bambini",
+ "_nota": "IL GAP PIU' NETTO DI TUTTA LA RICERCA: l'estetica per bambini e' interamente nordica — pastelli spenti, animali del bosco, minimalismo scandinavo. Un linguaggio MEDITERRANEO per bambini, con colori pieni, mare, agrumi e figure siciliane, non esiste. Regole di sicurezza non negoziabili su ogni prodotto: vernici a base acqua atossiche, spigoli raggiati R12, carteggiatura di tutti i bordi, nessun pezzo staccabile sotto i 32 mm, magneti sempre annegati e coperti.",
+ "prodotti": [
+  {
+   "id": "ING-KIDS-GIO-131",
+   "cat": "KIDS",
+   "coll": "GIOCO",
+   "name": "Nome",
+   "tipo": "puzzle nome personalizzato in betulla spessa",
+   "tipo_en": "personalised name puzzle",
+   "concept": "Le lettere del nome tagliate in betulla da 12 mm, dentro un vassoio sagomato, con un soggetto mediterraneo per ogni lettera.",
+   "target": "Genitori, nonni, regalo nascita e primo compleanno.",
+   "desire": "Un regalo che insegni il nome e duri più di una stagione.",
+   "usp": "Lo spessore da 12 mm si sente in mano: presa sicura e valore percepito doppio rispetto ai 4-6 mm di mercato.",
+   "diff": "Soggetti mediterranei al posto di volpi e caprioli scandinavi.",
+   "platform": "P7",
+   "mat": [
+    "betulla12"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    144,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 2200,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "uv_cm2": 320,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    25,
+    60
+   ],
+   "person": [
+    "nome",
+    "colori",
+    "soggetti"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-DEC-132 metro crescita",
+    "ING-KIDS-KEEP-133 quadretto nascita",
+    "ING-KIDS-GIO-137 alfabeto"
+   ],
+   "bundle": [
+    "CAMERETTA MEDITERRANEA: nome + metro + targa",
+    "REGALO NASCITA"
+   ],
+   "ref": "https://www.etsy.com/market/kid_puzzle_laser_cut",
+   "kw": [
+    "puzzle nome personalizzato legno",
+    "puzzle bambino nome",
+    "regalo nascita puzzle",
+    "personalised name puzzle wood"
+   ],
+   "s_demand": 17,
+   "s_comp": 8,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 12 mm, vassoio 300x144 e lettere tagliate dallo stesso foglio. Kerf compensato con gioco 0,15 mm perché la lettera esca facile ma non balli. Ogni lettera stampata UV a colori pieni con un soggetto mediterraneo (limone, onda, sole, fico d'india, barca). SICUREZZA: carteggiatura obbligatoria di tutti i bordi, spigoli raggiati R12, vernice a base acqua ATOSSICA, nessun pezzo sotto i 32 mm.",
+   "prompt_img": "a thick birch name puzzle 300x144 mm on a play mat, six chunky letters in bold Mediterranean colours seated in a cut tray, one letter lifted by a toddler's hand, lemon and wave motifs printed on the pieces, bright daylight"
+  },
+  {
+   "id": "ING-KIDS-DEC-132",
+   "cat": "KIDS",
+   "coll": "CAMERETTA",
+   "name": "Crescita",
+   "tipo": "metro di crescita a tessere spostabili",
+   "tipo_en": "growth chart with movable tiles",
+   "concept": "Asta verticale con guida a scanalatura e tessere che si agganciano alla tacca raggiunta, una per misurazione.",
+   "target": "Genitori, regalo nascita e battesimo.",
+   "desire": "Segnare quanto è cresciuto senza rovinare lo stipite della porta.",
+   "usp": "Diventa un rituale di famiglia e genera il riacquisto delle tessere aggiuntive.",
+   "diff": "Il mercato vende un righello stampato: qui le tessere si spostano davvero.",
+   "platform": "P5",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.4
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    168,
+    1200,
+    20
+   ],
+   "layers": 2,
+   "cut_mm": 3200,
+   "vec_mm": 2400,
+   "eng_cm2": 60,
+   "uv_cm2": 600,
+   "uv_white": true,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "tubo",
+   "lotto": 12,
+   "mkt": [
+    35,
+    90
+   ],
+   "person": [
+    "nome",
+    "colori",
+    "tessere extra"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-DEC-140 tessere ricambio",
+    "ING-KIDS-GIO-131 puzzle nome",
+    "ING-KIDS-KEEP-133 quadretto nascita"
+   ],
+   "bundle": [
+    "CAMERETTA MEDITERRANEA",
+    "REGALO NASCITA"
+   ],
+   "ref": "https://www.etsy.com/market/kids_growth_chart_laser_file",
+   "kw": [
+    "metro crescita legno bambino",
+    "altimetro cameretta personalizzato",
+    "growth chart legno",
+    "kids growth chart wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 9,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Asta betulla 8 mm 168x1200 con scanalatura verticale 4,2 mm su tutta la lunghezza. Tacche ENGRAVE-V ogni 10 mm, numeri ogni 100 mm, da 60 a 160 cm. Sei tessere betulla 4 mm 96x36 con clip che scorre nella guida, nome e data incisi. SICUREZZA: spigoli R12, carteggiatura, vernice atossica. Fissaggio a 2 punti in alto e in basso: non deve staccarsi se ci si appoggia.",
+   "prompt_img": "a tall wooden growth chart 168x1200 mm on a child's bedroom wall, engraved centimetre marks along a grooved rail, three small printed tiles clipped at different heights with names and dates, warm Mediterranean colour bands, child standing beside it"
+  },
+  {
+   "id": "ING-KIDS-KEEP-133",
+   "cat": "KIDS",
+   "coll": "RICORDO",
+   "name": "Nascita",
+   "tipo": "quadretto nascita a strati",
+   "tipo_en": "birth announcement keepsake",
+   "concept": "Pannello a quattro strati con nome, data, peso e lunghezza, su un fondo di onde stampate.",
+   "target": "Nonni e zii che regalano, non i genitori stessi.",
+   "desire": "Un regalo importante per una nascita, non il solito body ricamato.",
+   "usp": "I dati del neonato sono irripetibili: il prodotto è unico e sfugge al confronto di prezzo.",
+   "diff": "La fascia 60-120 € è quasi vuota in Italia, ed è dove sta un regalo di nonni.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    240,
+    300,
+    20
+   ],
+   "layers": 4,
+   "cut_mm": 3400,
+   "vec_mm": 1200,
+   "eng_cm2": 50,
+   "uv_cm2": 480,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    30,
+    110
+   ],
+   "person": [
+    "nome",
+    "data",
+    "peso",
+    "lunghezza",
+    "ora"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-GIO-131 puzzle nome",
+    "ING-KIDS-DEC-132 metro crescita",
+    "ING-EVENT-CERI-055 quadretto battesimo"
+   ],
+   "bundle": [
+    "REGALO NASCITA",
+    "CAMERETTA MEDITERRANEA"
+   ],
+   "ref": "https://www.etsy.com/market/kids_growth_chart_laser_file",
+   "kw": [
+    "quadretto nascita personalizzato",
+    "regalo nascita legno",
+    "targa dati neonato",
+    "birth announcement wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 10,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 9,
+   "prompt_prod": "Quattro strati betulla 4 mm 240x300 distanziati 4 mm su perni Ø3 asimmetrici. Strato 1 nome CUT traforato h 40 mm, strato 2 onde sfalsate, strato 3 sole nascente, strato 4 fondo UV gradiente. Data, peso, lunghezza e ora ENGRAVE-V h 5 mm su quattro righe. SICUREZZA: spigoli R12, carteggiatura, vernice atossica — sta in una cameretta.",
+   "prompt_img": "a layered wooden birth keepsake 240x300 mm, the baby's name cut through the top birch layer over stacked wave shapes and a rising sun, gradient turquoise printed background, engraved birth data below, on a nursery shelf"
+  },
+  {
+   "id": "ING-KIDS-DEC-134",
+   "cat": "KIDS",
+   "coll": "CAMERETTA",
+   "name": "Cameretta",
+   "tipo": "insegna nome per cameretta a strati",
+   "tipo_en": "nursery name sign",
+   "concept": "Nome traforato su fondo colorato con una cornice di soggetti mediterranei incisi.",
+   "target": "Genitori, regalo nascita.",
+   "desire": "Personalizzare la cameretta con qualcosa che non sia un adesivo murale.",
+   "usp": "È il caso da manuale del 'legno con un nome sopra': qui la differenza la fa il linguaggio visivo.",
+   "diff": "Colori pieni e soggetti mediterranei contro il pastello spento scandinavo che domina la categoria.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    360,
+    168,
+    14
+   ],
+   "layers": 2,
+   "cut_mm": 2400,
+   "vec_mm": 900,
+   "eng_cm2": 40,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    20,
+    70
+   ],
+   "person": [
+    "nome",
+    "colori",
+    "soggetti"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-GIO-131 puzzle nome",
+    "ING-KIDS-DEC-132 metro crescita",
+    "ING-KIDS-DEC-149 targa porta"
+   ],
+   "bundle": [
+    "CAMERETTA MEDITERRANEA",
+    "REGALO NASCITA"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "insegna nome cameretta",
+    "targa nome bambino legno",
+    "nome bambino da parete",
+    "nursery name sign wood"
+   ],
+   "s_demand": 16,
+   "s_comp": 6,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Fondo betulla 6 mm 360x168 con UV PRINT a colori pieni (turchese, giallo limone, corallo — MAI pastelli spenti). Frontale betulla 4 mm distanziato 4 mm con nome CUT traforato h 60 mm, ponticelli 2,5 mm sulle lettere chiuse. Cornice di soggetti mediterranei ENGRAVE-R. Spigoli R12, carteggiatura, vernice atossica.",
+   "prompt_img": "a layered wooden nursery name sign 360x168 mm, a child's name cut straight through the front birch layer revealing a bright turquoise and lemon printed panel, engraved border of small suns and waves, on a white bedroom wall above a cot"
+  },
+  {
+   "id": "ING-KIDS-EDU-135",
+   "cat": "KIDS",
+   "coll": "EDUCATIVO",
+   "name": "Giornata",
+   "tipo": "tabella routine con tessere magnetiche",
+   "tipo_en": "daily routine chart",
+   "concept": "Pannello a griglia con tessere magnetiche illustrate per le attività della giornata.",
+   "target": "Genitori 30-45 con bambini 3-8 anni.",
+   "desire": "Smettere di ripetere dieci volte le stesse cose ogni mattina.",
+   "usp": "Risolve un problema quotidiano reale: non è decorazione, è uno strumento.",
+   "diff": "I magneti sono annegati e coperti, mentre molti prodotti in commercio li lasciano accessibili.",
+   "platform": "P7",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    360,
+    240,
+    10
+   ],
+   "layers": 2,
+   "cut_mm": 3000,
+   "vec_mm": 1600,
+   "eng_cm2": 60,
+   "uv_cm2": 380,
+   "uv_white": true,
+   "comp": {
+    "magnete_neo": 16,
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 18,
+   "mkt": [
+    30,
+    65
+   ],
+   "person": [
+    "nome",
+    "attività",
+    "colori"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-EDU-146 tabella meteo",
+    "ING-KIDS-EDU-142 orologio didattico",
+    "ING-KIDS-DEC-134 insegna nome"
+   ],
+   "bundle": [
+    "ROUTINE: tabella giornata + meteo",
+    "CAMERETTA MEDITERRANEA"
+   ],
+   "ref": "https://laser-templates.com/collections/kids-stuff",
+   "kw": [
+    "tabella routine bambini",
+    "tabella attività magnetica",
+    "routine chart legno",
+    "kids routine board wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Pannello betulla 6 mm 360x240 con griglia 12 mm e area in lamina magnetica. 16 tessere betulla 4 mm 48x48 con pittogrammi ENGRAVE-R e UV a colori pieni. SICUREZZA ASSOLUTA: magneti Ø10 ANNEGATI in sede fresata profonda 2,2 mm e COPERTI da uno strato di betulla 1,5 mm incollato a tutta superficie, mai accessibili — un magnete al neodimio ingerito e' un'emergenza chirurgica. Spigoli R12, carteggiatura, vernice atossica.",
+   "prompt_img": "a wooden routine board 360x240 mm on a child's wall, a grid of printed magnetic tiles showing morning activities in bold colours, a child's hand moving one tile across, engraved name at the top"
+  },
+  {
+   "id": "ING-KIDS-GIO-136",
+   "cat": "KIDS",
+   "coll": "GIOCO",
+   "name": "Coppie",
+   "tipo": "memory a tema mediterraneo",
+   "tipo_en": "Mediterranean memory game",
+   "concept": "Ventiquattro tessere a coppie con pesci, agrumi, barche e monumenti dell'isola.",
+   "target": "Bambini 3-8, famiglie, turisti, negozi di musei.",
+   "desire": "Un gioco che insegni qualcosa del posto in cui vivono o sono stati.",
+   "usp": "Tutto risolto in stampa: assemblaggio quasi nullo e margine alto.",
+   "diff": "Il memory di mercato ha soggetti generici; qui c'è un contenuto territoriale.",
+   "platform": "P7",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    288,
+    216,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 2000,
+   "vec_mm": 700,
+   "eng_cm2": 0,
+   "uv_cm2": 460,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    20,
+    50
+   ],
+   "person": [
+    "soggetti",
+    "nome",
+    "colori"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE",
+    "SOUVENIR"
+   ],
+   "upsell": [
+    "ING-KIDS-GIO-147 domino",
+    "ING-KIDS-GIO-144 tangram",
+    "ING-SICILY-KIDS-265 puzzle province"
+   ],
+   "bundle": [
+    "GIOCHI DA TAVOLO: memory + domino + tangram",
+    "REGALO BAMBINO"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_puzzle",
+   "kw": [
+    "memory bambini legno",
+    "gioco memoria legno",
+    "memory personalizzato",
+    "wooden memory game kids"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "24 tessere betulla 6 mm 60x60, angoli R12, tagliate tutte dallo stesso foglio con vassoio. 12 soggetti a coppie ridotti a geometria piana e colore. Retro tutto uguale con pattern maiolica. SICUREZZA: carteggiatura di tutti i bordi, spigoli R12, vernice a base acqua atossica. Nessun pezzo sotto i 32 mm.",
+   "prompt_img": "twenty-four square wooden memory tiles 60 mm laid in a grid on a table, each printed with a flat geometric Mediterranean motif — fish, lemon, boat, dome — in bold colour, a few turned over showing a uniform tile pattern, child's hands playing"
+  },
+  {
+   "id": "ING-KIDS-EDU-137",
+   "cat": "KIDS",
+   "coll": "EDUCATIVO",
+   "name": "Alfabeto",
+   "tipo": "tessere alfabeto con soggetti",
+   "tipo_en": "alphabet tile set",
+   "concept": "Ventuno tessere, una per lettera, con un soggetto mediterraneo che comincia con quella lettera.",
+   "target": "Bambini 3-6, scuole materne, logopedisti.",
+   "desire": "Imparare le lettere con oggetti che il bambino riconosce davvero.",
+   "usp": "Le parole sono quelle del suo mondo — mare, limone, barca — non quelle di un manuale nordico.",
+   "diff": "L'alfabeto illustrato di mercato usa sempre gli stessi animali esotici.",
+   "platform": "P7",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    288,
+    216,
+    8
+   ],
+   "layers": 1,
+   "cut_mm": 2200,
+   "vec_mm": 900,
+   "eng_cm2": 40,
+   "uv_cm2": 440,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    25,
+    65
+   ],
+   "person": [
+    "nome",
+    "colori",
+    "lingua"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-KIDS-GIO-131 puzzle nome",
+    "ING-KIDS-EDU-138 numeri",
+    "ING-KIDS-GIO-136 memory"
+   ],
+   "bundle": [
+    "IMPARARE: alfabeto + numeri",
+    "REGALO BAMBINO"
+   ],
+   "ref": "https://www.etsy.com/market/kid_puzzle_laser_cut",
+   "kw": [
+    "alfabeto legno bambini",
+    "tessere lettere gioco",
+    "alfabeto montessori legno",
+    "wooden alphabet tiles kids"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "21 tessere betulla 8 mm 48x48 più vassoio, dallo stesso foglio. Lettera ENGRAVE-R grande e soggetto UV a colori pieni sotto. SICUREZZA: spessore 8 mm per presa sicura, carteggiatura di tutti i bordi, spigoli R12, vernice a base acqua atossica, nessun pezzo sotto i 32 mm.",
+   "prompt_img": "twenty-one thick wooden alphabet tiles 48 mm in a cut tray, each with a large engraved letter and a small printed Mediterranean object below, bold flat colours, a child picking up the letter M with a sea motif"
+  },
+  {
+   "id": "ING-KIDS-EDU-138",
+   "cat": "KIDS",
+   "coll": "EDUCATIVO",
+   "name": "Conta",
+   "tipo": "gioco a incastri per i numeri",
+   "tipo_en": "number matching puzzle",
+   "concept": "Tessere con la cifra da abbinare a quelle con la quantità corrispondente disegnata.",
+   "target": "Bambini 3-6, scuole materne.",
+   "desire": "Far capire i numeri prima ancora di saperli scrivere.",
+   "usp": "L'incastro conferma da solo se l'abbinamento è giusto: il bambino impara senza un adulto.",
+   "diff": "L'autocorrezione è nella geometria, non in un adulto che dice sì o no.",
+   "platform": "P7",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    288,
+    216,
+    8
+   ],
+   "layers": 1,
+   "cut_mm": 2600,
+   "vec_mm": 900,
+   "eng_cm2": 40,
+   "uv_cm2": 400,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    25,
+    60
+   ],
+   "person": [
+    "colori",
+    "nome"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-EDU-137 alfabeto",
+    "ING-KIDS-GIO-144 tangram",
+    "ING-KIDS-EDU-142 orologio didattico"
+   ],
+   "bundle": [
+    "IMPARARE",
+    "REGALO BAMBINO"
+   ],
+   "ref": "https://busypuzzle.com/",
+   "kw": [
+    "gioco numeri legno bambini",
+    "puzzle conta montessori",
+    "gioco matematica legno",
+    "number puzzle wood kids"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 7,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 8 mm, 20 tessere 48x72 a coppie con profilo di incastro DIVERSO per ogni coppia: solo la coppia giusta combacia, e il bambino si autocorregge. Cifra UV su una metà, quantità di soggetti sull'altra. SICUREZZA: carteggiatura, spigoli R12, vernice atossica, nessun pezzo sotto i 32 mm.",
+   "prompt_img": "wooden number matching tiles 48x72 mm on a table, each pair with a unique interlocking profile, printed numeral on one half and a matching count of lemons on the other, a child fitting two together"
+  },
+  {
+   "id": "ING-KIDS-DEC-139",
+   "cat": "KIDS",
+   "coll": "CAMERETTA",
+   "name": "Notte",
+   "tipo": "luce notturna a strati",
+   "tipo_en": "layered night light",
+   "concept": "Scena marina a tre strati retroilluminata, con luce calda regolabile.",
+   "target": "Genitori di bambini 2-8.",
+   "desire": "Che si addormenti senza paura del buio.",
+   "usp": "L'oggetto acceso è irresistibile in foto e risolve un problema serale reale.",
+   "diff": "Alimentazione a bassa tensione dichiarata: per un genitore la sicurezza è un argomento d'acquisto.",
+   "platform": "P5",
+   "mat": [
+    "betulla4",
+    "acrilicosat3"
+   ],
+   "quota_mat": {
+    "acrilicosat3": 0.6
+   },
+   "tech": "CO2",
+   "dim": [
+    240,
+    168,
+    72
+   ],
+   "layers": 3,
+   "cut_mm": 2800,
+   "vec_mm": 600,
+   "eng_cm2": 20,
+   "comp": {
+    "led_usb": 1,
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    25,
+    70
+   ],
+   "person": [
+    "nome",
+    "scena",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-DEC-141 lampada nome",
+    "ING-KIDS-DEC-134 insegna nome",
+    "ING-KIDS-DEC-132 metro crescita"
+   ],
+   "bundle": [
+    "CAMERETTA MEDITERRANEA",
+    "BUONANOTTE: luce + lampada nome"
+   ],
+   "ref": "https://laser-templates.com/collections/kids-stuff",
+   "kw": [
+    "luce notturna bambini legno",
+    "lampada cameretta personalizzata",
+    "night light legno",
+    "kids night light wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 11,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Tre strati betulla 4 mm 240x168 distanziati 6 mm: onde, barca, sole. Diffusore acrilico satinato 3 mm dietro, distanziato 8 mm per la dissipazione. SICUREZZA: SOLO modulo LED USB 5V o a batteria, MAI rete diretta, e va dichiarato in scheda prodotto. Nome ENGRAVE-V alla base. Spigoli R12, carteggiatura, vernice atossica. Cavo con fermo antistrappo.",
+   "prompt_img": "a lit layered wooden night light 240x168 mm on a bedside table in a dark child's room, three birch layers forming waves, a boat and a sun, warm glow diffusing through from behind, child's name engraved at the base"
+  },
+  {
+   "id": "ING-KIDS-DEC-140",
+   "cat": "KIDS",
+   "coll": "CAMERETTA",
+   "name": "Tessere Crescita",
+   "tipo": "tessere di ricambio per metro di crescita",
+   "tipo_en": "growth chart replacement tiles",
+   "concept": "Tessere aggiuntive con nome e data, per registrare ogni nuova misurazione.",
+   "target": "Chi ha già il metro di crescita, famiglie con più figli.",
+   "desire": "Aggiungere la misura di quest'anno senza cancellare quella dell'anno scorso.",
+   "usp": "È il consumabile che fa tornare il cliente: si ricompra a ogni compleanno.",
+   "diff": "Il metro di crescita di mercato finisce lì; questo continua.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    36,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 280,
+   "vec_mm": 200,
+   "eng_cm2": 6,
+   "uv_cm2": 34,
+   "uv_white": true,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 80,
+   "mkt": [
+    4,
+    14
+   ],
+   "person": [
+    "nome",
+    "data",
+    "altezza",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-KIDS-DEC-132 metro crescita",
+    "ING-KIDS-DEC-134 insegna nome",
+    "ING-KIDS-KEEP-133 quadretto nascita"
+   ],
+   "bundle": [
+    "CAMERETTA MEDITERRANEA",
+    "RICAMBI CRESCITA x6"
+   ],
+   "ref": "https://www.etsy.com/market/kids_growth_chart_laser_file",
+   "kw": [
+    "tessere metro crescita",
+    "ricambi altimetro bambino",
+    "targhette crescita legno",
+    "growth chart tiles wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 6,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 4 mm 96x36 con clip integrata calibrata sulla scanalatura da 4,2 mm del metro: gioco 0,2 mm perché scorra senza ballare. Nome, data e altezza ENGRAVE-V. Fascia UV colore. SICUREZZA: spigoli R12, carteggiatura, vernice atossica. Nesting 40 pz/foglio, riempitivo dei fogli della categoria.",
+   "prompt_img": "three small wooden tiles 96x36 mm with engraved names, dates and heights, one being clipped into the groove of a growth chart, bright printed colour bands, child's bedroom wall"
+  },
+  {
+   "id": "ING-KIDS-DEC-141",
+   "cat": "KIDS",
+   "coll": "CAMERETTA",
+   "name": "Lampada Nome",
+   "tipo": "lampada con nome traforato",
+   "tipo_en": "name night lamp",
+   "concept": "Il nome del bambino traforato in una scatola luminosa che lo proietta sulla parete.",
+   "target": "Genitori, regalo primo compleanno.",
+   "desire": "Una luce che sia sua e solo sua.",
+   "usp": "Il nome proiettato sul muro è l'effetto che fa comprare: si vede subito in un video.",
+   "diff": "Nome traforato invece che stampato: funziona solo da acceso, ed è quello il punto.",
+   "platform": "P3",
+   "mat": [
+    "betulla4",
+    "acrilicosat3"
+   ],
+   "quota_mat": {
+    "acrilicosat3": 0.5
+   },
+   "tech": "CO2",
+   "dim": [
+    240,
+    120,
+    144
+   ],
+   "layers": 2,
+   "cut_mm": 2600,
+   "vec_mm": 700,
+   "eng_cm2": 0,
+   "comp": {
+    "led_usb": 1,
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    25,
+    70
+   ],
+   "person": [
+    "nome",
+    "colore",
+    "pattern"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-DEC-139 luce notturna",
+    "ING-KIDS-DEC-134 insegna nome",
+    "ING-KIDS-GIO-131 puzzle nome"
+   ],
+   "bundle": [
+    "BUONANOTTE",
+    "CAMERETTA MEDITERRANEA"
+   ],
+   "ref": "https://laser-templates.com/collections/kids-stuff",
+   "kw": [
+    "lampada nome bambino",
+    "lampada personalizzata cameretta",
+    "luce nome traforato",
+    "name light lamp wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Scatola betulla 4 mm 240x120x144 con nome CUT traforato h 48 mm sul fronte, ponticelli 2,5 mm. Diffusore acrilico satinato interno distanziato 8 mm. Cappello aperto per il calore. SICUREZZA: SOLO LED USB 5V o batteria, mai rete. Spigoli R12, carteggiatura, vernice atossica. Passaggio cavo con fermo antistrappo.",
+   "prompt_img": "a lit wooden name lamp 240x120x144 mm on a shelf in a dark child's room, the name cut straight through the front glowing warmly and casting the letters onto the wall behind"
+  },
+  {
+   "id": "ING-KIDS-EDU-142",
+   "cat": "KIDS",
+   "coll": "EDUCATIVO",
+   "name": "Ore",
+   "tipo": "orologio didattico per imparare l'ora",
+   "tipo_en": "learning clock",
+   "concept": "Orologio con doppia numerazione, ore e minuti, e lancette spostabili a mano.",
+   "target": "Bambini 5-9, scuole primarie, genitori.",
+   "desire": "Che impari a leggere l'ora su un orologio vero e non sul telefono.",
+   "usp": "Le lancette si spostano a mano: è uno strumento didattico, non un orologio da parete.",
+   "diff": "Doppia numerazione con colori diversi per ore e minuti, che rende visibile la differenza.",
+   "platform": "P5",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    264,
+    264,
+    18
+   ],
+   "layers": 2,
+   "cut_mm": 2400,
+   "vec_mm": 1600,
+   "eng_cm2": 40,
+   "uv_cm2": 380,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    22,
+    60
+   ],
+   "person": [
+    "nome",
+    "colori",
+    "lingua"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-KIDS-EDU-135 tabella routine",
+    "ING-KIDS-EDU-146 tabella meteo",
+    "ING-KIDS-EDU-138 numeri"
+   ],
+   "bundle": [
+    "IMPARARE",
+    "ROUTINE"
+   ],
+   "ref": "https://laser-templates.com/collections/kids-stuff",
+   "kw": [
+    "orologio didattico bambini legno",
+    "imparare le ore gioco",
+    "orologio scuola legno",
+    "learning clock wood kids"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Disco betulla 6 mm Ø264. Ore 1-12 UV in un colore, minuti 5-60 in un altro, ENGRAVE-V per gli indici. Due lancette betulla 6 mm su perno centrale a frizione: si spostano a mano e restano ferme, NESSUN movimento a quarzo. SICUREZZA: spigoli R12, carteggiatura, vernice atossica, perno senza parti sporgenti appuntite.",
+   "prompt_img": "a wooden learning clock 264 mm on a classroom wall, hours printed in blue and minutes in orange around the dial, two wooden hands set by hand, a child's fingers turning the long hand"
+  },
+  {
+   "id": "ING-KIDS-ORG-143",
+   "cat": "KIDS",
+   "coll": "ORGANIZER",
+   "name": "Baule Giochi",
+   "tipo": "box porta giochi impilabile",
+   "tipo_en": "stackable toy box",
+   "concept": "Cassa aperta e bassa, impilabile con le altre, con nome e pittogramma del contenuto.",
+   "target": "Genitori, ludoteche, asili.",
+   "desire": "Mettere via i giochi senza contenitori di plastica scoloriti.",
+   "usp": "Impilabile e coordinato con gli altri pezzi della cameretta: nessuno tratta la categoria a sistema.",
+   "diff": "Il pittogramma dice cosa c'è dentro anche a chi non sa ancora leggere.",
+   "platform": "P3",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    360,
+    240,
+    180
+   ],
+   "layers": 1,
+   "cut_mm": 3400,
+   "vec_mm": 1000,
+   "eng_cm2": 50,
+   "uv_cm2": 260,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    35,
+    90
+   ],
+   "person": [
+    "nome",
+    "pittogramma",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-ORG-145 porta libri",
+    "ING-KIDS-ORG-148 appendini",
+    "ING-KIDS-DEC-134 insegna nome"
+   ],
+   "bundle": [
+    "CAMERETTA MEDITERRANEA",
+    "ORDINE: box + porta libri + appendini"
+   ],
+   "ref": "https://laser-templates.com/collections/kids-stuff",
+   "kw": [
+    "box giochi bambini legno",
+    "contenitore giochi cameretta",
+    "cassa giochi impilabile",
+    "kids toy box wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 8 mm 360x240x180, incastri 45 gradi. Bordo superiore con battuta di impilamento 6 mm: si incastrano l'una sull'altra senza scivolare. Maniglie ad arco R12 sui lati corti. Nome e pittogramma UV sul fronte. SICUREZZA: aperto sopra (nessun coperchio che schiacci le dita), spigoli R12, carteggiatura interna, vernice atossica.",
+   "prompt_img": "two stackable wooden toy boxes 360x240x180 mm in a child's room, arched cut-out handles, bright printed pictograms on the fronts showing blocks and cars, toys spilling out of the top one"
+  },
+  {
+   "id": "ING-KIDS-GIO-144",
+   "cat": "KIDS",
+   "coll": "GIOCO",
+   "name": "Tangram",
+   "tipo": "tangram in betulla con vassoio",
+   "tipo_en": "wooden tangram set",
+   "concept": "I sette pezzi del tangram in colori pieni, con un libretto di sagome da comporre.",
+   "target": "Bambini 4-10, scuole, regalo.",
+   "desire": "Un gioco che duri più di un pomeriggio.",
+   "usp": "Produzione elementare, sette tagli e una stampa: è fra i prodotti a margine più alto della categoria.",
+   "diff": "Le sagome del libretto sono mediterranee — barche, pesci, cupole — non le solite figure astratte.",
+   "platform": "P7",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    168,
+    168,
+    8
+   ],
+   "layers": 1,
+   "cut_mm": 900,
+   "vec_mm": 400,
+   "eng_cm2": 10,
+   "uv_cm2": 220,
+   "uv_white": true,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 40,
+   "mkt": [
+    15,
+    40
+   ],
+   "person": [
+    "colori",
+    "nome"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-GIO-136 memory",
+    "ING-KIDS-GIO-147 domino",
+    "ING-KIDS-EDU-138 numeri"
+   ],
+   "bundle": [
+    "GIOCHI DA TAVOLO",
+    "REGALO BAMBINO"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_puzzle",
+   "kw": [
+    "tangram legno bambini",
+    "gioco tangram colorato",
+    "tangram montessori",
+    "wooden tangram set kids"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 6,
+   "s_gift": 9,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 8 mm, quadrato 168x168 diviso nei sette pezzi canonici del tangram, tagliati con vassoio dallo stesso foglio. UV a colori pieni, un colore per pezzo. SICUREZZA: carteggiatura di tutti i bordi, spigoli R12 dove possibile senza alterare la geometria, vernice atossica, nessun pezzo sotto i 32 mm. Libretto di 20 sagome incluso.",
+   "prompt_img": "a wooden tangram set 168x168 mm, seven brightly coloured pieces partly arranged into a boat shape beside their cut tray, a small booklet of silhouettes open nearby, child's hands at work"
+  },
+  {
+   "id": "ING-KIDS-ORG-145",
+   "cat": "KIDS",
+   "coll": "ORGANIZER",
+   "name": "Biblioteca",
+   "tipo": "porta libri frontale da parete",
+   "tipo_en": "front-facing book shelf",
+   "concept": "Mensola stretta che mostra le copertine invece dei dorsi, così il bambino sceglie da solo.",
+   "target": "Genitori, asili, biblioteche per l'infanzia.",
+   "desire": "Che prenda i libri da solo invece di chiederli.",
+   "usp": "La copertina in vista cambia davvero quanto un bambino legge: è un argomento pedagogico riconosciuto.",
+   "diff": "Le mensole normali nascondono i libri; questa li espone.",
+   "platform": "P3",
+   "mat": [
+    "betulla12"
+   ],
+   "tech": "CO2",
+   "dim": [
+    420,
+    120,
+    168
+   ],
+   "layers": 1,
+   "cut_mm": 2400,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "comp": {
+    "gancio": 3
+   },
+   "pack": "scatola_g",
+   "lotto": 15,
+   "mkt": [
+    30,
+    85
+   ],
+   "person": [
+    "nome",
+    "colore"
+   ],
+   "tags": [
+    "PREMIUM",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-KIDS-ORG-143 box giochi",
+    "ING-KIDS-ORG-148 appendini",
+    "ING-KIDS-DEC-134 insegna nome"
+   ],
+   "bundle": [
+    "ORDINE",
+    "CAMERETTA MEDITERRANEA"
+   ],
+   "ref": "https://www.etsy.com/market/kid_puzzle_laser_cut",
+   "kw": [
+    "porta libri bambini parete",
+    "mensola libri frontale",
+    "libreria cameretta legno",
+    "front facing book shelf kids"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 7,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 12 mm, piano 420x120 con sponda frontale h 96 mm inclinata 10 gradi. Due mensole laterali sagomate a incastro passante. SICUREZZA: fissaggio a 3 punti con verifica a strappo 15 kg — un bambino ci si appende, va progettato per quello. Spigoli R12, carteggiatura, vernice atossica. Tasselli inclusi con istruzioni sul tipo di muro.",
+   "prompt_img": "a front-facing wooden book shelf 420x120 mm at child height on a bedroom wall, four picture books displayed cover-out, a toddler reaching for one, scrolled bracket sides"
+  },
+  {
+   "id": "ING-KIDS-EDU-146",
+   "cat": "KIDS",
+   "coll": "EDUCATIVO",
+   "name": "Meteo",
+   "tipo": "tabella meteo e stagioni",
+   "tipo_en": "weather and seasons board",
+   "concept": "Pannello con ruota delle stagioni e tessere magnetiche del tempo, da aggiornare ogni mattina.",
+   "target": "Bambini 3-7, scuole materne, genitori.",
+   "desire": "Un piccolo rito quotidiano che insegni a osservare.",
+   "usp": "Si usa tutti i giorni, quindi resta in vista e viene notato da chi passa in casa.",
+   "diff": "Stagioni mediterranee — non neve e foglie cadute, ma sole alto, vendemmia, pioggia breve.",
+   "platform": "P7",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    300,
+    10
+   ],
+   "layers": 2,
+   "cut_mm": 2800,
+   "vec_mm": 1400,
+   "eng_cm2": 50,
+   "uv_cm2": 380,
+   "uv_white": true,
+   "comp": {
+    "magnete_neo": 12,
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 18,
+   "mkt": [
+    28,
+    70
+   ],
+   "person": [
+    "nome",
+    "lingua",
+    "colori"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-EDU-135 tabella routine",
+    "ING-KIDS-EDU-142 orologio didattico",
+    "ING-KIDS-DEC-134 insegna nome"
+   ],
+   "bundle": [
+    "ROUTINE",
+    "IMPARARE"
+   ],
+   "ref": "https://laser-templates.com/collections/kids-stuff",
+   "kw": [
+    "tabella meteo bambini",
+    "calendario stagioni legno",
+    "gioco tempo atmosferico",
+    "weather board kids wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Pannello betulla 6 mm 300x300 con ruota delle stagioni ENGRAVE-R e lancetta girevole su perno a frizione. 12 tessere betulla 4 mm 48x48 col tempo, UV a colori pieni. SICUREZZA: magneti Ø10 ANNEGATI in sede profonda 2,2 mm e COPERTI da betulla 1,5 mm incollata, mai accessibili. Spigoli R12, carteggiatura, vernice atossica.",
+   "prompt_img": "a wooden weather board 300x300 mm on a nursery wall, an engraved season wheel with a wooden pointer, printed magnetic tiles showing sun, rain and wind arranged along the side, a child turning the pointer"
+  },
+  {
+   "id": "ING-KIDS-GIO-147",
+   "cat": "KIDS",
+   "coll": "GIOCO",
+   "name": "Domino",
+   "tipo": "domino illustrato in betulla",
+   "tipo_en": "illustrated wooden dominoes",
+   "concept": "Ventotto tessere domino con soggetti mediterranei al posto dei punti.",
+   "target": "Bambini 4-9, famiglie, regalo.",
+   "desire": "Un gioco da tavolo che funzioni anche con chi non sa contare.",
+   "usp": "Riconoscere un'immagine viene prima di contare i punti: gioca anche il più piccolo.",
+   "diff": "Immagini invece di punti, e immagini del proprio territorio invece che generiche.",
+   "platform": "P7",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    288,
+    216,
+    8
+   ],
+   "layers": 1,
+   "cut_mm": 2400,
+   "vec_mm": 900,
+   "eng_cm2": 20,
+   "uv_cm2": 420,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    20,
+    50
+   ],
+   "person": [
+    "soggetti",
+    "colori",
+    "nome"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE",
+    "SOUVENIR"
+   ],
+   "upsell": [
+    "ING-KIDS-GIO-136 memory",
+    "ING-KIDS-GIO-144 tangram",
+    "ING-KIDS-EDU-137 alfabeto"
+   ],
+   "bundle": [
+    "GIOCHI DA TAVOLO",
+    "REGALO BAMBINO"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_puzzle",
+   "kw": [
+    "domino legno bambini",
+    "domino illustrato gioco",
+    "domino personalizzato legno",
+    "wooden dominoes kids"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 7,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "28 tessere betulla 8 mm 72x36 più vassoio, dallo stesso foglio. Sette soggetti mediterranei al posto dei punti, UV a colori pieni, linea divisoria ENGRAVE-V al centro. SICUREZZA: spessore 8 mm per presa sicura, carteggiatura di tutti i bordi, spigoli R12, vernice atossica, nessun pezzo sotto i 32 mm.",
+   "prompt_img": "wooden dominoes 72x36 mm standing in a line on a table, each half printed with a bold Mediterranean icon instead of pips, one being tipped over, child's hands, warm afternoon light"
+  },
+  {
+   "id": "ING-KIDS-ORG-148",
+   "cat": "KIDS",
+   "coll": "ORGANIZER",
+   "name": "Appendini",
+   "tipo": "appendini da cameretta ad altezza bambino",
+   "tipo_en": "child-height coat hooks",
+   "concept": "Barra con quattro pomelli e pittogramma sopra ciascuno, montata a un metro da terra.",
+   "target": "Genitori, asili, ludoteche.",
+   "desire": "Che appenda il cappotto da solo invece di lasciarlo per terra.",
+   "usp": "Ogni pomello ha il suo pittogramma: il bambino sa dove va ogni cosa senza saper leggere.",
+   "diff": "Progettata per l'altezza di un bambino, non per quella di un adulto.",
+   "platform": "P1",
+   "mat": [
+    "betulla12"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    360,
+    96,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 1000,
+   "vec_mm": 600,
+   "eng_cm2": 30,
+   "uv_cm2": 140,
+   "uv_white": true,
+   "comp": {
+    "gancio": 2
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    22,
+    60
+   ],
+   "person": [
+    "nome",
+    "pittogrammi",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-ORG-143 box giochi",
+    "ING-KIDS-ORG-145 porta libri",
+    "ING-KIDS-DEC-149 targa porta"
+   ],
+   "bundle": [
+    "ORDINE",
+    "CAMERETTA MEDITERRANEA"
+   ],
+   "ref": "https://www.etsy.com/market/lasercut_wall_decor",
+   "kw": [
+    "appendini cameretta bambino",
+    "attaccapanni bambini legno",
+    "ganci cameretta altezza bambino",
+    "kids coat hooks wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 12 mm 360x96 con profilo superiore ad archi R12. Quattro pomelli tornati sul passo 84 mm, pittogramma UV sopra ciascuno (cappotto, zaino, sciarpa, cappello). SICUREZZA: pomelli TONDI senza spigoli e senza estremità appuntite, fissaggio a 2 punti con verifica a strappo 20 kg — un bambino ci si appende. Spigoli R12, carteggiatura, vernice atossica.",
+   "prompt_img": "a wooden coat rack 360x96 mm mounted low on a child's bedroom wall, four rounded knobs with printed pictograms above each, a small jacket and a backpack hanging, arched top profile"
+  },
+  {
+   "id": "ING-KIDS-DEC-149",
+   "cat": "KIDS",
+   "coll": "CAMERETTA",
+   "name": "Porta",
+   "tipo": "targa per la porta della cameretta",
+   "tipo_en": "bedroom door plate",
+   "concept": "Targa appesa alla maniglia con nome traforato e un messaggio girabile sul retro.",
+   "target": "Bambini 4-12, regalo piccolo.",
+   "desire": "Che la stanza sia sua e si veda dalla porta.",
+   "usp": "Prezzo d'ingresso alla linea cameretta: si regala facilmente e porta agli altri pezzi.",
+   "diff": "Bifacciale con due messaggi, invece della solita targa fissa.",
+   "platform": "P1",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    204,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 800,
+   "vec_mm": 500,
+   "eng_cm2": 20,
+   "uv_cm2": 110,
+   "uv_white": true,
+   "comp": {
+    "cordino": 1
+   },
+   "pack": "flatpack",
+   "lotto": 50,
+   "mkt": [
+    10,
+    32
+   ],
+   "person": [
+    "nome",
+    "messaggi",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-DEC-134 insegna nome",
+    "ING-KIDS-ORG-148 appendini",
+    "ING-KIDS-GIO-131 puzzle nome"
+   ],
+   "bundle": [
+    "CAMERETTA MEDITERRANEA",
+    "REGALO BAMBINO"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "targa porta cameretta",
+    "cartello nome bambino porta",
+    "targhetta cameretta legno",
+    "kids door sign wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 10,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 6 mm 96x204 con foro a goccia superiore Ø32 per la maniglia. Nome CUT traforato su fondo UV colore. Faccia A messaggio allegro, faccia B messaggio opposto (sto giocando / sto dormendo). SICUREZZA: spigoli R12, carteggiatura, vernice atossica. Nesting 12 pz/foglio.",
+   "prompt_img": "a wooden door hanger 96x204 mm on a child's bedroom door handle, the name cut straight through revealing a bright coral panel, a playful message printed below, teardrop hole at the top"
+  },
+  {
+   "id": "ING-KIDS-SCU-150",
+   "cat": "KIDS",
+   "coll": "SCUOLA",
+   "name": "Scrivania",
+   "tipo": "organizer da scrivania per bambini",
+   "tipo_en": "kids desk organiser",
+   "concept": "Tre scomparti dimensionati su matite, pennarelli e righelli, con nome inciso.",
+   "target": "Bambini 6-12, rientro a scuola.",
+   "desire": "Una scrivania in ordine senza doverlo ripetere.",
+   "usp": "Settembre è un picco d'acquisto reale e quasi nessuno lo presidia nel laser.",
+   "diff": "Le altezze degli scomparti sono calcolate sugli oggetti veri, non generiche.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    240,
+    120,
+    132
+   ],
+   "layers": 1,
+   "cut_mm": 2200,
+   "vec_mm": 700,
+   "eng_cm2": 40,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    22,
+    55
+   ],
+   "person": [
+    "nome",
+    "colori",
+    "pittogrammi"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "SEASONAL",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-SCU-151 portapenne",
+    "ING-KIDS-SCU-152 kit scuola",
+    "ING-KIDS-ORG-145 porta libri"
+   ],
+   "bundle": [
+    "RIENTRO A SCUOLA: organizer + portapenne + segnalibro",
+    "CAMERETTA MEDITERRANEA"
+   ],
+   "ref": "https://www.xtool.com/blogs/business-ideas/laser-cutter-projects-engraving-ideas",
+   "kw": [
+    "organizer scrivania bambini",
+    "porta pennarelli legno",
+    "organizer scuola cameretta",
+    "kids desk organiser wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 6 mm 240x120 con tre scomparti di altezza scalare: 132 mm per i righelli, 108 per i pennarelli, 84 per le matite. Fronti con apertura ad arco R12. Nome UV sul fronte. SICUREZZA: spigoli R12, carteggiatura, vernice atossica. Gommini antiscivolo.",
+   "prompt_img": "a wooden desk organiser 240x120x132 mm with three stepped compartments holding rulers, felt pens and pencils, arched cut-outs on the fronts, child's name printed in bold colour, on a homework desk"
+  },
+  {
+   "id": "ING-KIDS-SCU-151",
+   "cat": "KIDS",
+   "coll": "SCUOLA",
+   "name": "Matite",
+   "tipo": "portapenne bambino a soggetto",
+   "tipo_en": "kids pen cup",
+   "concept": "Portapenne sagomato a barca o a pesce, col nome inciso alla base.",
+   "target": "Bambini 5-10, regalo scolastico.",
+   "desire": "Un portapenne che sia anche un oggetto divertente.",
+   "usp": "Prezzo basso, produzione elementare, ottimo riempitivo di nesting.",
+   "diff": "Sagomato, non il solito cilindro con un adesivo.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    96,
+    120
+   ],
+   "layers": 1,
+   "cut_mm": 1300,
+   "vec_mm": 400,
+   "eng_cm2": 20,
+   "uv_cm2": 100,
+   "uv_white": true,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "busta",
+   "lotto": 40,
+   "mkt": [
+    12,
+    32
+   ],
+   "person": [
+    "nome",
+    "soggetto",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "SEASONAL",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-SCU-150 organizer scrivania",
+    "ING-KIDS-SCU-152 kit scuola",
+    "ING-KIDS-SCU-153 segnalibro"
+   ],
+   "bundle": [
+    "RIENTRO A SCUOLA",
+    "REGALO BAMBINO"
+   ],
+   "ref": "https://www.xtool.com/blogs/business-ideas/laser-cutter-projects-engraving-ideas",
+   "kw": [
+    "portapenne bambino legno",
+    "porta matite personalizzato",
+    "portapenne scuola legno",
+    "kids pen holder wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 6 mm, quattro pareti 96x120 a incastro 45 gradi con profilo superiore sagomato (barca, pesce, onda). UV a colori pieni. Nome ENGRAVE-V alla base. SICUREZZA: spigoli R12, carteggiatura, vernice atossica. Gommini. Nesting 12 set/foglio.",
+   "prompt_img": "a wooden pen cup 96x96x120 mm shaped like a little boat, brightly printed hull and a wave profile at the rim, full of coloured pencils, child's name engraved at the base, on a desk"
+  },
+  {
+   "id": "ING-KIDS-SCU-152",
+   "cat": "KIDS",
+   "coll": "SCUOLA",
+   "name": "Rientro",
+   "tipo": "kit personalizzato per il rientro a scuola",
+   "tipo_en": "back to school kit",
+   "concept": "Portapenne, segnalibro, targhetta per lo zaino e righello, tutti col nome del bambino.",
+   "target": "Genitori, settembre, regalo di inizio anno.",
+   "desire": "Che le sue cose non si perdano in classe.",
+   "usp": "Il nome su tutto risolve il problema vero di settembre: gli oggetti che spariscono.",
+   "diff": "Venduto come kit unico invece che come pezzi sciolti.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    204,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 2000,
+   "vec_mm": 1400,
+   "eng_cm2": 40,
+   "uv_cm2": 340,
+   "uv_white": true,
+   "comp": {
+    "anello_pck": 1
+   },
+   "pack": "flatpack",
+   "lotto": 30,
+   "mkt": [
+    25,
+    60
+   ],
+   "person": [
+    "nome",
+    "classe",
+    "colori"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "SEASONAL",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-SCU-150 organizer",
+    "ING-KIDS-SCU-151 portapenne",
+    "ING-KIDS-EDU-142 orologio didattico"
+   ],
+   "bundle": [
+    "RIENTRO A SCUOLA",
+    "REGALO BAMBINO"
+   ],
+   "ref": "https://www.xtool.com/blogs/business-ideas/laser-cutter-projects-engraving-ideas",
+   "kw": [
+    "kit rientro scuola personalizzato",
+    "set scuola nome bambino",
+    "accessori scuola legno",
+    "back to school kit wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Tutto betulla 4 mm dallo stesso foglio 300x204: segnalibro 36x144, targhetta zaino 48x72 con anello, righello 30x200 con tacche ENGRAVE-V, targhetta astuccio 60x30. Nome su ogni pezzo. SICUREZZA: spigoli R12, carteggiatura, vernice atossica. Un foglio = un kit, sfrido sotto il 18 percento. PRODUZIONE DA GIUGNO per il picco di settembre.",
+   "prompt_img": "a back-to-school set laid out on a desk — a wooden ruler, bookmark, backpack tag and pencil case label — all in birch printed with bright Mediterranean colours and the same child's name, satchel blurred behind"
+  },
+  {
+   "id": "ING-KIDS-SCU-153",
+   "cat": "KIDS",
+   "coll": "SCUOLA",
+   "name": "Segnalibro Bimbo",
+   "tipo": "segnalibro bambino con soggetto",
+   "tipo_en": "kids bookmark",
+   "concept": "Segnalibro con gancetto ad arco e un soggetto marino stampato a colori pieni.",
+   "target": "Bambini 5-12, scuole, biblioteche, regalo piccolo.",
+   "desire": "Non perdere il segno e avere qualcosa di suo nel libro.",
+   "usp": "Costo industriale bassissimo: è il riempitivo di nesting perfetto per tutta la categoria.",
+   "diff": "Il gancetto scavalca la pagina e non cade quando si chiude il libro.",
+   "platform": "P1",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    36,
+    144,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 400,
+   "vec_mm": 200,
+   "eng_cm2": 6,
+   "uv_cm2": 40,
+   "uv_white": true,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 100,
+   "mkt": [
+    4,
+    12
+   ],
+   "person": [
+    "nome",
+    "soggetto",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE",
+    "SEASONAL"
+   ],
+   "upsell": [
+    "ING-KIDS-SCU-152 kit scuola",
+    "ING-KIDS-ORG-145 porta libri",
+    "ING-KIDS-SCU-151 portapenne"
+   ],
+   "bundle": [
+    "RIENTRO A SCUOLA",
+    "REGALO BAMBINO"
+   ],
+   "ref": "https://www.etsy.com/market/kid_puzzle_laser_cut",
+   "kw": [
+    "segnalibro bambini legno",
+    "segnalibro personalizzato scuola",
+    "segnalibro nome bambino",
+    "kids bookmark wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 3 mm 36x144 con gancetto ad arco R12 in testa. Soggetto UV a colori pieni, nome ENGRAVE-V. SICUREZZA: spigoli SMUSSATI accuratamente (sta fra le pagine e in mano), carteggiatura, vernice atossica. Nesting 40 pz/foglio.",
+   "prompt_img": "a slim wooden bookmark 36x144 mm with an arched hook over the page of an open picture book, a bright printed fish and an engraved child's name, warm reading-lamp light"
+  },
+  {
+   "id": "ING-KIDS-GIO-154",
+   "cat": "KIDS",
+   "coll": "GIOCO",
+   "name": "Pesca",
+   "tipo": "gioco della pesca magnetica",
+   "tipo_en": "magnetic fishing game",
+   "concept": "Pesci in betulla con inserto metallico e due canne con magnete, dentro un vassoio a forma di mare.",
+   "target": "Bambini 3-6, ludoteche, asili.",
+   "desire": "Un gioco che tenga occupati due bambini insieme.",
+   "usp": "Sviluppa la coordinazione ed è un classico che i genitori riconoscono subito.",
+   "diff": "Il magnete sta nella canna e il metallo nel pesce, mai il contrario: nessun magnete staccabile a portata di bocca.",
+   "platform": "P7",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    288,
+    216,
+    8
+   ],
+   "layers": 1,
+   "cut_mm": 2400,
+   "vec_mm": 800,
+   "eng_cm2": 30,
+   "uv_cm2": 400,
+   "uv_white": true,
+   "comp": {
+    "magnete_neo": 2,
+    "cordino": 2
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    25,
+    60
+   ],
+   "person": [
+    "nome",
+    "colori",
+    "numero pesci"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-KIDS-GIO-136 memory",
+    "ING-KIDS-GIO-144 tangram",
+    "ING-KIDS-EDU-138 numeri"
+   ],
+   "bundle": [
+    "GIOCHI DA TAVOLO",
+    "REGALO BAMBINO"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_puzzle",
+   "kw": [
+    "gioco pesca magnetica legno",
+    "pesca bambini gioco",
+    "gioco magnetico pesci",
+    "magnetic fishing game wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 8 mm: 12 pesci 60x36 con RONDELLA METALLICA annegata e coperta, vassoio a forma di mare, due canne 12x240 con cordino. IL MAGNETE STA SOLO NELLA CANNA, annegato in sede fresata e coperto da betulla incollata: nel pesce va il metallo inerte, mai il magnete. Spigoli R12, carteggiatura, vernice atossica, nessun pezzo sotto i 32 mm.",
+   "prompt_img": "a wooden magnetic fishing game on a table, twelve brightly printed fish 60x36 mm in a sea-shaped tray, a child lifting one with a small wooden rod and string, thick birch pieces with rounded edges"
+  },
+  {
+   "id": "ING-KIDS-GIO-155",
+   "cat": "KIDS",
+   "coll": "GIOCO",
+   "name": "Ombre",
+   "tipo": "teatrino delle ombre",
+   "tipo_en": "shadow theatre set",
+   "concept": "Telaio con schermo in carta e sagome su bastoncino, per raccontare storie con la luce.",
+   "target": "Bambini 4-10, famiglie, scuole.",
+   "desire": "Un gioco che spenga gli schermi per una sera.",
+   "usp": "È un'esperienza condivisa: coinvolge il genitore, non solo il bambino.",
+   "diff": "Le sagome raccontano storie del Mediterraneo, non le solite fiabe nordiche.",
+   "platform": "P3",
+   "mat": [
+    "betulla6",
+    "betulla3"
+   ],
+   "quota_mat": {
+    "betulla3": 0.5
+   },
+   "tech": "CO2",
+   "dim": [
+    360,
+    300,
+    120
+   ],
+   "layers": 1,
+   "cut_mm": 3800,
+   "vec_mm": 900,
+   "eng_cm2": 20,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    30,
+    80
+   ],
+   "person": [
+    "nome",
+    "sagome",
+    "storia"
+   ],
+   "tags": [
+    "PREMIUM",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-KIDS-DEC-139 luce notturna",
+    "ING-KIDS-GIO-136 memory",
+    "ING-KIDS-GIO-144 tangram"
+   ],
+   "bundle": [
+    "GIOCHI DA TAVOLO",
+    "REGALO BAMBINO"
+   ],
+   "ref": "https://laser-templates.com/collections/kids-stuff",
+   "kw": [
+    "teatrino ombre legno",
+    "gioco ombre cinesi bambini",
+    "teatro sagome legno",
+    "shadow theatre kids wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 13,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Telaio betulla 6 mm 360x300x120 a incastro, con guide per lo schermo in carta da lucido sostituibile. 12 sagome betulla 3 mm su bastoncino, ponticelli minimi 2,5 mm. SICUREZZA: bastoncini con estremità ARROTONDATE, mai appuntite. Spigoli R12, carteggiatura, vernice atossica. Nessuna sorgente luminosa inclusa: si usa una torcia, e va detto in scheda.",
+   "prompt_img": "a wooden shadow theatre frame 360x300 mm on a table in a dim room, a paper screen lit from behind, two child's hands holding cut wooden puppets casting sharp silhouettes of a boat and a fish onto the screen"
+  },
+  {
+   "id": "ING-KIDS-EDU-156",
+   "cat": "KIDS",
+   "coll": "EDUCATIVO",
+   "name": "Italia",
+   "tipo": "puzzle delle regioni italiane",
+   "tipo_en": "Italian regions puzzle",
+   "concept": "Venti tessere, una per regione, con capoluogo inciso, dentro un vassoio sagomato.",
+   "target": "Bambini 6-11, scuole primarie, famiglie.",
+   "desire": "Imparare la geografia senza il libro.",
+   "usp": "È un contenuto scolastico obbligatorio: la domanda è garantita dal programma.",
+   "diff": "Sagome regionali reali, non pezzi generici con i nomi sopra.",
+   "platform": "P7",
+   "mat": [
+    "betulla12"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    300,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 3600,
+   "vec_mm": 1200,
+   "eng_cm2": 50,
+   "uv_cm2": 420,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 18,
+   "mkt": [
+    28,
+    70
+   ],
+   "person": [
+    "nome",
+    "colori"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-SICILY-KIDS-265 puzzle province",
+    "ING-KIDS-GIO-136 memory",
+    "ING-KIDS-EDU-137 alfabeto"
+   ],
+   "bundle": [
+    "IMPARARE",
+    "GEOGRAFIA: Italia + Sicilia"
+   ],
+   "ref": "https://www.etsy.com/market/kid_puzzle_laser_cut",
+   "kw": [
+    "puzzle italia regioni legno",
+    "gioco geografia bambini",
+    "puzzle regioni italiane",
+    "italy regions puzzle wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 7,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 12 mm 300x300, 20 tessere dalle sagome regionali REALI più vassoio, dallo stesso foglio. Kerf compensato con gioco 0,15 mm. Nome regione e capoluogo ENGRAVE-V su ogni tessera, UV a colori pieni. ATTENZIONE alle regioni piccole: Valle d'Aosta e Molise vanno ingrandite al minimo di 32 mm per la sicurezza, dichiarando la licenza grafica. Carteggiatura, spigoli R12, vernice atossica.",
+   "prompt_img": "a wooden jigsaw of Italy 300x300 mm in thick birch, twenty region-shaped pieces in different flat colours seated in a tray, region and capital names engraved on each, a child fitting Tuscany into place"
+  },
+  {
+   "id": "ING-KIDS-KEEP-157",
+   "cat": "KIDS",
+   "coll": "RICORDO",
+   "name": "Primi",
+   "tipo": "tabella dei primi traguardi",
+   "tipo_en": "baby milestones board",
+   "concept": "Pannello con tessere per i primi traguardi — primo dente, primi passi, prima parola — da riempire nel tempo.",
+   "target": "Genitori al primo figlio, nonni.",
+   "desire": "Segnare i momenti senza affidarli solo alle foto del telefono.",
+   "usp": "Si compila per anni: il prodotto accompagna la famiglia invece di esaurirsi subito.",
+   "diff": "Le tessere si scrivono e si agganciano, non è una stampa da riempire a penna.",
+   "platform": "P7",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    240,
+    10
+   ],
+   "layers": 2,
+   "cut_mm": 2600,
+   "vec_mm": 1400,
+   "eng_cm2": 50,
+   "uv_cm2": 340,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 18,
+   "mkt": [
+    28,
+    80
+   ],
+   "person": [
+    "nome",
+    "traguardi",
+    "colori"
+   ],
+   "tags": [
+    "PERSONALIZZABILE",
+    "BUNDLE",
+    "PREMIUM"
+   ],
+   "upsell": [
+    "ING-KIDS-KEEP-133 quadretto nascita",
+    "ING-KIDS-DEC-132 metro crescita",
+    "ING-KIDS-DEC-140 tessere ricambio"
+   ],
+   "bundle": [
+    "REGALO NASCITA",
+    "CAMERETTA MEDITERRANEA"
+   ],
+   "ref": "https://www.etsy.com/market/kids_growth_chart_laser_file",
+   "kw": [
+    "tabella traguardi neonato",
+    "primi traguardi bambino legno",
+    "milestone board legno",
+    "baby milestone board wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Pannello betulla 6 mm 300x240 con 12 sedi a scanalatura. 12 tessere betulla 4 mm 60x48 con pittogramma ENGRAVE-R e area UV WHITE opaca riscrivibile per la data. SICUREZZA: nessun magnete in questo prodotto, solo incastri meccanici. Spigoli R12, carteggiatura, vernice atossica. Aggancio a fessura.",
+   "prompt_img": "a wooden milestone board 300x240 mm on a nursery wall, twelve small tiles slotted into grooves each with an engraved icon and a handwritten date, child's name printed across the top, soft daylight"
+  },
+  {
+   "id": "ING-KIDS-DEC-158",
+   "cat": "KIDS",
+   "coll": "CAMERETTA",
+   "name": "Salvadanaio",
+   "tipo": "salvadanaio a incastro con finestra",
+   "tipo_en": "coin bank with window",
+   "concept": "Scatola con fessura e finestra trasparente sul fianco, per vedere quanto si è risparmiato.",
+   "target": "Bambini 5-12, regalo.",
+   "desire": "Vedere crescere i risparmi invece di indovinarli.",
+   "usp": "La finestra rende visibile il progresso, che è tutto il punto di un salvadanaio per un bambino.",
+   "diff": "Si apre dal fondo senza rompersi, a differenza dei salvadanai tradizionali.",
+   "platform": "P3",
+   "mat": [
+    "betulla6",
+    "acrilico3"
+   ],
+   "quota_mat": {
+    "acrilico3": 0.3
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    144,
+    120,
+    168
+   ],
+   "layers": 1,
+   "cut_mm": 1900,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "uv_cm2": 160,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    18,
+    50
+   ],
+   "person": [
+    "nome",
+    "obiettivo",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-DEC-149 targa porta",
+    "ING-KIDS-SCU-151 portapenne",
+    "ING-KIDS-DEC-134 insegna nome"
+   ],
+   "bundle": [
+    "CAMERETTA MEDITERRANEA",
+    "REGALO BAMBINO"
+   ],
+   "ref": "https://laser-templates.com/collections/kids-stuff",
+   "kw": [
+    "salvadanaio legno bambini",
+    "salvadanaio personalizzato nome",
+    "salvadanaio con finestra",
+    "kids coin bank wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 9,
+   "prompt_prod": "Scatola betulla 6 mm 144x120x168 con fessura superiore 40x3 mm. Finestra ovale sul fianco chiusa da acrilico trasparente 3 mm in battuta. FONDO ESTRAIBILE tenuto da due linguette rotanti: si apre senza rompere nulla. Nome e obiettivo UV sul fronte. SICUREZZA: fessura dimensionata sulle monete, spigoli R12, carteggiatura, vernice atossica.",
+   "prompt_img": "a wooden coin bank 144x120x168 mm on a shelf, a clear oval window on the side showing coins piled inside, a slot on top, child's name and a savings goal printed in bold colour on the front"
+  },
+  {
+   "id": "ING-KIDS-DEC-159",
+   "cat": "KIDS",
+   "coll": "CAMERETTA",
+   "name": "Ricordi",
+   "tipo": "portafoto cameretta a strati",
+   "tipo_en": "kids photo frame",
+   "concept": "Cornice con passepartout sagomato a onda e piedino a incastro, in colori pieni.",
+   "target": "Bambini 4-12, regalo di famiglia.",
+   "desire": "Una foto sua, in camera sua.",
+   "usp": "Coordinata con tutta la linea cameretta e con la stessa palette.",
+   "diff": "Il piedino è progettato e non si ribalta al primo urto.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    168,
+    216,
+    18
+   ],
+   "layers": 2,
+   "cut_mm": 1800,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    18,
+    50
+   ],
+   "person": [
+    "nome",
+    "colori",
+    "soggetto"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-KEEP-133 quadretto nascita",
+    "ING-KIDS-DEC-134 insegna nome",
+    "ING-KIDS-DEC-158 salvadanaio"
+   ],
+   "bundle": [
+    "CAMERETTA MEDITERRANEA",
+    "REGALO NASCITA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_home_decor",
+   "kw": [
+    "portafoto bambini legno",
+    "cornice cameretta personalizzata",
+    "portafoto nome bambino",
+    "kids photo frame wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 11,
+   "s_person": 9,
+   "s_gift": 9,
+   "s_uniq": 8,
+   "prompt_prod": "Cornice betulla 6 mm 168x216 con luce 100x140. Passepartout betulla 4 mm distanziato 3 mm con profilo superiore a onda, UV a colori pieni. Piedino a incastro con battuta a 15 gradi. SICUREZZA: spigoli R12, carteggiatura, vernice atossica, nessun vetro — se serve una protezione si usa acrilico 1 mm.",
+   "prompt_img": "a layered wooden photo frame 168x216 mm on a child's shelf, a wave-shaped passepartout printed in turquoise and coral over a family photograph, the child's name engraved along the base"
+  },
+  {
+   "id": "ING-KIDS-EDU-160",
+   "cat": "KIDS",
+   "coll": "EDUCATIVO",
+   "name": "Incastri",
+   "tipo": "gioco di incastri di forme geometriche",
+   "tipo_en": "shape sorting board",
+   "concept": "Vassoio con sedi geometriche e pezzi corrispondenti, il primo gioco di logica.",
+   "target": "Bambini 1-3, asili nido.",
+   "desire": "Un gioco per i più piccoli che non sia di plastica.",
+   "usp": "Fascia 1-3 anni con vincoli di sicurezza severi: chi li rispetta ha una barriera all'ingresso.",
+   "diff": "Pezzi sovradimensionati e spessi, ben oltre il minimo di sicurezza.",
+   "platform": "P7",
+   "mat": [
+    "betulla12"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    240,
+    240,
+    12
+   ],
+   "layers": 1,
+   "cut_mm": 1600,
+   "vec_mm": 600,
+   "eng_cm2": 20,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    20,
+    55
+   ],
+   "person": [
+    "colori",
+    "nome"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-KIDS-EDU-138 numeri",
+    "ING-KIDS-GIO-144 tangram",
+    "ING-KIDS-GIO-131 puzzle nome"
+   ],
+   "bundle": [
+    "IMPARARE",
+    "REGALO BAMBINO"
+   ],
+   "ref": "https://busypuzzle.com/",
+   "kw": [
+    "gioco incastri forme legno",
+    "gioco geometrico bambini piccoli",
+    "shape sorter legno",
+    "shape sorting board wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 6,
+   "s_gift": 9,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 12 mm 240x240, sei forme geometriche con sedi, tagliate dallo stesso foglio. OGNI PEZZO MINIMO 60 mm sul lato corto, molto oltre il limite dei 32 mm: questa fascia d'età mette tutto in bocca. Presa centrale Ø20 su ogni pezzo. Carteggiatura accurata, spigoli R12, vernice a base acqua ATOSSICA e resistente alla saliva. NOTA: per la vendita sotto i 3 anni serve la conformità EN 71 — senza certificazione, posizionare come decor e dichiararlo.",
+   "prompt_img": "a thick wooden shape sorting board 240x240 mm on a play mat, six large brightly coloured geometric pieces with round finger holes, one lifted by a toddler, chunky rounded edges"
+  }
+ ]
+}

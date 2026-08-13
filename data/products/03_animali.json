@@ -1,0 +1,2148 @@
+{
+ "_categoria": "PET — 03 Animali & Accessori",
+ "_nota": "Categoria emotiva con la disponibilita' di spesa piu' alta rispetto al valore oggettivo. Due regole: sulle medagliette la DURATA e' il criterio d'acquisto, quindi metallo marcato al fiber e non legno inciso; sul memoriale serve sobrieta', perche' e' un prodotto di lutto e il registro kitsch fa perdere la vendita.",
+ "prodotti": [
+  {
+   "id": "ING-PET-ID-071",
+   "cat": "PET",
+   "coll": "IDENTIFICAZIONE",
+   "name": "Collare",
+   "tipo": "medaglietta incisa per collare",
+   "tipo_en": "engraved pet ID tag",
+   "concept": "Medaglietta in acciaio con nome e recapito marcati al fiber, profilo ad arco e bordo smussato.",
+   "target": "Proprietari di cani e gatti, 25-60.",
+   "desire": "Che il cane torni a casa se si perde.",
+   "usp": "La marcatura MOPA resta leggibile per anni: le recensioni del segmento premiano esattamente questo.",
+   "diff": "Il profilo è disegnato, non un disco stampato in serie.",
+   "platform": "P6",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "MOPA",
+   "dim": [
+    36,
+    48,
+    1
+   ],
+   "layers": 1,
+   "cut_mm": 0,
+   "vec_mm": 0,
+   "eng_cm2": 0,
+   "mopa_cm2": 12,
+   "comp": {
+    "targhetta_inox": 1,
+    "anello_pck": 1
+   },
+   "pack": "busta",
+   "lotto": 100,
+   "mkt": [
+    8,
+    25
+   ],
+   "person": [
+    "nome",
+    "telefono",
+    "microchip",
+    "indirizzo"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-PET-ID-072 medaglietta QR",
+    "ING-PET-ORG-078 porta guinzaglio",
+    "ING-PET-DEC-077 silhouette razza"
+   ],
+   "bundle": [
+    "SET INGRESSO PET",
+    "BENVENUTO CUCCIOLO: medaglietta + ciotola + box giochi"
+   ],
+   "ref": "https://www.etsy.com/market/engraved_pet_tag",
+   "kw": [
+    "medaglietta cane incisa",
+    "targhetta gatto personalizzata",
+    "medaglietta collare acciaio",
+    "engraved dog tag"
+   ],
+   "s_demand": 17,
+   "s_comp": 5,
+   "s_person": 10,
+   "s_gift": 6,
+   "s_uniq": 6,
+   "prompt_prod": "Placchetta inox 36x48x1 acquistata a formato, NESSUN TAGLIO LASER sul metallo. Marcatura MOPA fronte e retro: nome h 6 mm sul fronte, telefono e microchip h 3 mm sul retro. Profondità di marcatura alta, non superficiale: deve reggere anni di sfregamento sul collare. Spigoli smussati e anello passante. Sgrassare con alcol prima di marcare.",
+   "prompt_img": "macro of a brushed stainless steel pet tag 36x48 mm hanging from a leather dog collar, deeply fiber-marked name on the front, rounded arched profile, shallow depth of field, warm daylight"
+  },
+  {
+   "id": "ING-PET-ID-072",
+   "cat": "PET",
+   "coll": "IDENTIFICAZIONE",
+   "name": "Ritrovo",
+   "tipo": "medaglietta con QR code",
+   "tipo_en": "QR code pet tag",
+   "concept": "Medaglietta con QR marcato che porta alla scheda del proprietario, più il telefono in chiaro sul retro.",
+   "target": "Proprietari attenti, 25-50, cani che scappano.",
+   "desire": "Che chi trova il cane sappia subito chi chiamare, anche senza leggere numeri piccoli.",
+   "usp": "Il QR sta su una superficie liscia ad alto contrasto: si legge davvero, a differenza di quelli decorati.",
+   "diff": "Doppia modalità QR e telefono in chiaro: funziona anche con chi non sa scansionare.",
+   "platform": "P6",
+   "mat": [
+    "betulla3"
+   ],
+   "tech": "MOPA",
+   "dim": [
+    36,
+    36,
+    1
+   ],
+   "layers": 1,
+   "cut_mm": 0,
+   "vec_mm": 0,
+   "eng_cm2": 0,
+   "mopa_cm2": 10,
+   "comp": {
+    "targhetta_inox": 1,
+    "anello_pck": 1
+   },
+   "pack": "busta",
+   "lotto": 100,
+   "mkt": [
+    10,
+    28
+   ],
+   "person": [
+    "QR",
+    "URL",
+    "telefono",
+    "nome"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "B2B"
+   ],
+   "upsell": [
+    "ING-PET-ID-071 medaglietta incisa",
+    "ING-PET-ORG-078 porta guinzaglio",
+    "ING-PET-ORG-088 porta documenti"
+   ],
+   "bundle": [
+    "SET INGRESSO PET",
+    "BENVENUTO CUCCIOLO"
+   ],
+   "ref": "https://www.etsy.com/market/custom_engraved_dog_tag",
+   "kw": [
+    "medaglietta qr cane",
+    "targhetta qr code pet",
+    "medaglietta smart animale",
+    "qr pet tag steel"
+   ],
+   "s_demand": 14,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 5,
+   "s_uniq": 10,
+   "prompt_prod": "Placchetta inox 36x36. QR 24x24 marcato MOPA sul fronte, su superficie COMPLETAMENTE LISCIA, contrasto minimo 60 percento, livello di correzione errori alto perché regga graffi e usura. Telefono h 3 mm sul retro. TEST DI SCANSIONE OBBLIGATORIO su 3 telefoni prima della spedizione, e ripetuto dopo 100 cicli di sfregamento.",
+   "prompt_img": "macro of a square steel pet tag 36x36 mm with a crisply fiber-marked QR code, hanging from a collar, a phone held just behind it scanning the code, soft indoor light"
+  },
+  {
+   "id": "ING-PET-MEM-073",
+   "cat": "PET",
+   "coll": "MEMORIALE",
+   "name": "Quiete",
+   "tipo": "targa commemorativa sobria",
+   "tipo_en": "pet memorial plaque",
+   "concept": "Targa a due strati con la silhouette essenziale dell'animale, nome e due date. Nient'altro.",
+   "target": "30-65, dopo la perdita dell'animale.",
+   "desire": "Un posto dove ricordarlo senza sentirsi ridicoli.",
+   "usp": "La sobrietà è il prodotto: il segmento è pieno di arcobaleni e frasi lunghe, e chi soffre non le vuole.",
+   "diff": "Molto spazio vuoto, nessuna frase preimpostata, nessun angelo.",
+   "platform": "P5",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    156,
+    204,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 1600,
+   "vec_mm": 600,
+   "eng_cm2": 24,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    25,
+    90
+   ],
+   "person": [
+    "nome",
+    "date",
+    "silhouette",
+    "frase"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-PET-MEM-074 suncatcher",
+    "ING-PET-MEM-075 scatola ricordo",
+    "ING-PET-DEC-081 portafoto"
+   ],
+   "bundle": [
+    "RICORDO: targa + scatola",
+    "MEMORIA: targa + suncatcher"
+   ],
+   "ref": "https://www.etsy.com/market/pet_memorial_laser_engraved",
+   "kw": [
+    "targa memoriale cane",
+    "ricordo gatto personalizzato",
+    "targa commemorativa animale",
+    "pet memorial plaque wood"
+   ],
+   "s_demand": 15,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 7,
+   "s_uniq": 9,
+   "prompt_prod": "Fondo betulla 8 mm 156x204 con UV PRINT in tinta unita desaturata (grigio pietra, verde salvia, sabbia). Strato frontale betulla 4 mm distanziato 4 mm con silhouette CUT traforata, profilo essenziale a pochi tratti. Nome h 10 mm, due date h 5 mm ENGRAVE-V. NESSUNA frase preimpostata: se il cliente ne vuole una, è la sua. Packaging sobrio, nessun nastro colorato.",
+   "prompt_img": "a quiet layered wooden memorial plaque 156x204 mm, the simple silhouette of a dog cut through the front birch layer over a muted sage panel, engraved name and two dates below, generous empty space, on a plain shelf in soft light"
+  },
+  {
+   "id": "ING-PET-MEM-074",
+   "cat": "PET",
+   "coll": "MEMORIALE",
+   "name": "Controluce",
+   "tipo": "suncatcher commemorativo in acrilico",
+   "tipo_en": "memorial suncatcher",
+   "concept": "Disco in acrilico inciso con silhouette e nome, appeso alla finestra: la luce lo attraversa.",
+   "target": "30-65, memoriale, regalo di condoglianze.",
+   "desire": "Vederlo ogni mattina quando entra il sole.",
+   "usp": "La luce che passa è l'argomento emotivo più forte del segmento memorial.",
+   "diff": "Acrilico invece del vetro artigianale: costo molto minore, nessuna fragilità in spedizione.",
+   "platform": "P1",
+   "mat": [
+    "acrilico3"
+   ],
+   "tech": "CO2",
+   "dim": [
+    120,
+    120,
+    3
+   ],
+   "layers": 1,
+   "cut_mm": 600,
+   "vec_mm": 800,
+   "eng_cm2": 40,
+   "comp": {
+    "cordino": 1
+   },
+   "pack": "busta",
+   "lotto": 40,
+   "mkt": [
+    18,
+    50
+   ],
+   "person": [
+    "nome",
+    "date",
+    "silhouette"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-MEM-073 targa memoriale",
+    "ING-PET-MEM-075 scatola ricordo",
+    "ING-PET-DEC-081 portafoto"
+   ],
+   "bundle": [
+    "MEMORIA",
+    "RICORDO"
+   ],
+   "ref": "https://www.etsy.com/market/pet_memorial_laser_engraved",
+   "kw": [
+    "suncatcher pet memorial",
+    "decorazione finestra ricordo animale",
+    "suncatcher inciso",
+    "pet memorial suncatcher"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 10,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Acrilico trasparente 3 mm Ø120, bordi lucidi a vista. Silhouette e nome INCISI (non stampati): devono leggersi in controluce, e solo l'incisione diffonde la luce. Foro Ø4 con cordino. Pellicola protettiva rimossa solo dopo l'incisione, per evitare graffi.",
+   "prompt_img": "a clear acrylic disc 120 mm hanging in a sunlit window, an engraved cat silhouette and a name catching the light while the rest stays transparent, polished edges glowing, soft focus garden beyond the glass"
+  },
+  {
+   "id": "ING-PET-MEM-075",
+   "cat": "PET",
+   "coll": "MEMORIALE",
+   "name": "Scrigno Pet",
+   "tipo": "scatola ricordo con scomparti",
+   "tipo_en": "pet keepsake box",
+   "concept": "Scatola con coperchio scorrevole inciso e scomparti per collare, medaglietta, ciocca di pelo e foto.",
+   "target": "30-65, subito dopo la perdita.",
+   "desire": "Un posto dove mettere le sue cose invece di lasciarle in giro per casa.",
+   "usp": "Gli scomparti sono dimensionati sugli oggetti reali che restano: collare, medaglietta, foto.",
+   "diff": "Nessuno progetta il contenitore per ciò che davvero rimane di un animale.",
+   "platform": "P3",
+   "mat": [
+    "betulla6",
+    "feltro3"
+   ],
+   "quota_mat": {
+    "feltro3": 0.6
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    240,
+    180,
+    72
+   ],
+   "layers": 1,
+   "cut_mm": 2600,
+   "vec_mm": 900,
+   "eng_cm2": 50,
+   "uv_cm2": 150,
+   "comp": {},
+   "pack": "scatola_m",
+   "lotto": 20,
+   "mkt": [
+    35,
+    110
+   ],
+   "person": [
+    "nome",
+    "date",
+    "silhouette",
+    "dedica"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-MEM-073 targa memoriale",
+    "ING-PET-MEM-074 suncatcher",
+    "ING-PET-DEC-081 portafoto"
+   ],
+   "bundle": [
+    "RICORDO",
+    "MEMORIA"
+   ],
+   "ref": "https://www.etsy.com/market/laser_pet_memorial",
+   "kw": [
+    "scatola ricordo animale",
+    "cofanetto memoria pet",
+    "scatola collare cane",
+    "pet keepsake box wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Scatola betulla 6 mm 240x180x72, incastri 45 gradi. Coperchio SCORREVOLE in guide fresate, con silhouette e nome ENGRAVE-R. Interno in feltro 3 mm con quattro sedi sagomate: collare arrotolato Ø90, medaglietta 40x40, ciocca 60x40, foto 13x18. Palette desaturata, nessun colore acceso.",
+   "prompt_img": "an open wooden keepsake box 240x180x72 mm with a sliding engraved lid, felt-lined compartments holding a rolled leather collar, a steel tag and a photograph, muted tones, quiet domestic light"
+  },
+  {
+   "id": "ING-PET-DEC-076",
+   "cat": "PET",
+   "coll": "DECORO",
+   "name": "Ritratto",
+   "tipo": "ritratto pet stampato in UV",
+   "tipo_en": "UV printed pet portrait",
+   "concept": "Ritratto a colori dalla foto del cliente, stampato in UV su pannello di betulla con cornice a strati.",
+   "target": "25-55, regalo per sé o per altri.",
+   "desire": "Vederlo appeso, non solo sul telefono.",
+   "usp": "In UV si fa a colori e in un decimo del tempo dell'incisione raster: è il cambio di processo che alza di più il margine in categoria.",
+   "diff": "Quasi tutti lo fanno in raster monocromo e ci mettono mezz'ora di macchina.",
+   "platform": "P8",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    204,
+    264,
+    10
+   ],
+   "layers": 2,
+   "cut_mm": 1200,
+   "vec_mm": 500,
+   "eng_cm2": 10,
+   "uv_cm2": 480,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    25,
+    80
+   ],
+   "person": [
+    "foto",
+    "nome",
+    "sfondo",
+    "cornice"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PREMIUM",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-PET-DEC-077 silhouette razza",
+    "ING-PET-DEC-081 portafoto",
+    "ING-PET-MEM-073 targa memoriale"
+   ],
+   "bundle": [
+    "PARETE PET: ritratto + silhouette",
+    "REGALO PADRONE"
+   ],
+   "ref": "https://www.etsy.com/market/laser_pet_memorial",
+   "kw": [
+    "ritratto cane personalizzato legno",
+    "ritratto gatto da foto",
+    "quadro pet personalizzato",
+    "custom pet portrait wood"
+   ],
+   "s_demand": 16,
+   "s_comp": 8,
+   "s_person": 10,
+   "s_gift": 10,
+   "s_uniq": 8,
+   "prompt_prod": "Pannello betulla 6 mm 204x264: UV WHITE di fondo (la venatura altrimenti spegne i colori) + CMYK del ritratto elaborato dalla foto del cliente. Cornice betulla 4 mm distanziata 3 mm con luce ad arco R12. RICHIEDERE al cliente una foto minimo 1500 px sul lato corto: sotto, il risultato è scadente e va rifiutato l'ordine, non consegnato male.",
+   "prompt_img": "a UV-printed pet portrait on a birch panel 204x264 mm, a dog's face in full colour on a warm flat background, layered birch frame with an arched aperture, hanging on a pale wall beside a bookshelf"
+  },
+  {
+   "id": "ING-PET-DEC-077",
+   "cat": "PET",
+   "coll": "DECORO",
+   "name": "Razza",
+   "tipo": "silhouette di razza a strati",
+   "tipo_en": "layered breed silhouette",
+   "concept": "Profilo della razza su tre strati sfalsati, con il nome del cane inciso alla base.",
+   "target": "25-60, identificazione fortissima con la razza posseduta.",
+   "desire": "Riconoscere il proprio cane in un oggetto d'arredo.",
+   "usp": "Il profilo di razza attiva un'identificazione immediata: si vende da solo a chi ha quella razza.",
+   "diff": "A strati con profondità, mentre il mercato offre profili piatti.",
+   "platform": "P5",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    204,
+    204,
+    16
+   ],
+   "layers": 3,
+   "cut_mm": 2400,
+   "vec_mm": 600,
+   "eng_cm2": 24,
+   "uv_cm2": 260,
+   "uv_white": true,
+   "comp": {
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    15,
+    50
+   ],
+   "person": [
+    "razza",
+    "nome",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-DEC-076 ritratto",
+    "ING-PET-ORG-078 porta guinzaglio",
+    "ING-PET-ID-071 medaglietta"
+   ],
+   "bundle": [
+    "PARETE PET",
+    "SET INGRESSO PET"
+   ],
+   "ref": "https://www.etsy.com/market/laser_pet_memorial",
+   "kw": [
+    "silhouette razza cane legno",
+    "profilo cane da parete",
+    "decorazione razza gatto",
+    "dog breed silhouette wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 9,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Tre strati betulla 4 mm 204x204 distanziati 4 mm. Strato 1 profilo della razza CUT, strato 2 ombra sfalsata di 6 mm, strato 3 fondo UV. Serie iniziale di 12 razze più diffuse in Italia più il gatto europeo. Nome ENGRAVE-V h 8 mm alla base. Aggancio a fessura.",
+   "prompt_img": "a layered wooden wall piece 204x204 mm showing a dog breed profile cut through three spaced birch layers, offset shadow layer beneath, warm ochre printed background, engraved dog name at the base, on a hallway wall"
+  },
+  {
+   "id": "ING-PET-ORG-078",
+   "cat": "PET",
+   "coll": "INGRESSO",
+   "name": "Guinzaglio",
+   "tipo": "porta guinzaglio da parete",
+   "tipo_en": "leash hanger",
+   "concept": "Pannello con quattro ganci, silhouette traforata e mensola per medagliette e sacchetti.",
+   "target": "25-55, ingresso di casa.",
+   "desire": "Non cercare il guinzaglio ogni volta che si esce.",
+   "usp": "Ha anche la mensola: guinzaglio, sacchetti e medaglietta stanno nello stesso posto.",
+   "diff": "Progettato come parte di un set ingresso pet coordinato, che nessuno vende a sistema.",
+   "platform": "P5",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.6
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    288,
+    144,
+    72
+   ],
+   "layers": 2,
+   "cut_mm": 2000,
+   "vec_mm": 800,
+   "eng_cm2": 30,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {
+    "gancio": 4
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    20,
+    55
+   ],
+   "person": [
+    "nome",
+    "razza",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-ORG-079 porta sacchetti",
+    "ING-PET-ID-071 medaglietta",
+    "ING-PET-DEC-077 silhouette razza"
+   ],
+   "bundle": [
+    "SET INGRESSO PET",
+    "BENVENUTO CUCCIOLO"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_dog_tags",
+   "kw": [
+    "porta guinzaglio parete",
+    "appendi guinzaglio legno",
+    "organizer ingresso cane",
+    "dog leash holder wall"
+   ],
+   "s_demand": 15,
+   "s_comp": 10,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 8,
+   "prompt_prod": "Fondo betulla 8 mm 288x144 con UV PRINT. Frontale betulla 4 mm distanziato 4 mm con silhouette CUT traforata. Quattro ganci sul passo 48 mm. Mensola 288x72 a incastro 45 gradi sotto. Nome del cane ENGRAVE-V. VERIFICA DI CARICO 5 kg: un guinzaglio strattonato tira davvero. Asole a goccia interasse 240 mm.",
+   "prompt_img": "a wall-mounted leash holder 288x144 mm in birch, a dog silhouette cut through the front layer showing a teal panel behind, four hooks with leads hanging, small shelf below holding a tag and poop bags, entrance hall"
+  },
+  {
+   "id": "ING-PET-ORG-079",
+   "cat": "PET",
+   "coll": "INGRESSO",
+   "name": "Sacchetti",
+   "tipo": "porta sacchetti igienici da parete",
+   "tipo_en": "poop bag dispenser wall",
+   "concept": "Dispenser da parete che tiene il rotolo e fa uscire il sacchetto da un'asola ad arco.",
+   "target": "25-55, ingresso, garage, giardino.",
+   "desire": "Non dimenticare i sacchetti quando si esce di corsa.",
+   "usp": "L'asola ad arco fa uscire il sacchetto senza strapparlo: dettaglio banale che quasi tutti sbagliano.",
+   "diff": "Categoria quasi scoperta nel laser, con funzione chiarissima e produzione semplice.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    144,
+    96
+   ],
+   "layers": 1,
+   "cut_mm": 1400,
+   "vec_mm": 500,
+   "eng_cm2": 20,
+   "uv_cm2": 70,
+   "comp": {},
+   "pack": "busta",
+   "lotto": 40,
+   "mkt": [
+    10,
+    28
+   ],
+   "person": [
+    "nome",
+    "silhouette",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-ORG-078 porta guinzaglio",
+    "ING-PET-ORG-080 porta sacchetti guinzaglio",
+    "ING-PET-ID-071 medaglietta"
+   ],
+   "bundle": [
+    "SET INGRESSO PET",
+    "PASSEGGIATA: dispenser + porta sacchetti da guinzaglio"
+   ],
+   "ref": "https://www.etsy.com/market/custom_engraved_dog_tag",
+   "kw": [
+    "porta sacchetti cane parete",
+    "dispenser sacchetti igienici",
+    "porta sacchetti legno",
+    "poop bag dispenser wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 8,
+   "s_gift": 6,
+   "s_uniq": 9,
+   "prompt_prod": "Scatola betulla 6 mm 96x144x96, aperta sopra per il caricamento. Diametro interno libero 88 mm: accoglie i rotoli standard. Asola di uscita ad arco R12 sul fronte, 40x8 mm con bordi SMUSSATI, altrimenti il sacchetto si strappa. Retro con due asole a goccia.",
+   "prompt_img": "a small wall-mounted wooden dispenser 96x144x96 mm by a back door, a green poop bag emerging from an arched slot on the front, engraved dog name above, leash hanging beside it"
+  },
+  {
+   "id": "ING-PET-ORG-080",
+   "cat": "PET",
+   "coll": "PASSEGGIATA",
+   "name": "Passeggiata",
+   "tipo": "porta sacchetti da guinzaglio",
+   "tipo_en": "leash-mounted bag holder",
+   "concept": "Custodia compatta che si aggancia al guinzaglio e porta il rotolo in passeggiata.",
+   "target": "25-55, chi porta fuori il cane ogni giorno.",
+   "desire": "Avere i sacchetti sempre addosso senza le tasche piene.",
+   "usp": "Prezzo d'impulso su un oggetto d'uso quotidiano: alto tasso di riacquisto e di regalo.",
+   "diff": "In legno e acrilico invece della solita custodia in silicone da supermercato.",
+   "platform": "P3",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    60,
+    96,
+    60
+   ],
+   "layers": 1,
+   "cut_mm": 900,
+   "vec_mm": 400,
+   "eng_cm2": 10,
+   "uv_cm2": 40,
+   "comp": {
+    "anello_pck": 1
+   },
+   "pack": "busta",
+   "lotto": 60,
+   "mkt": [
+    8,
+    22
+   ],
+   "person": [
+    "nome",
+    "silhouette"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-ORG-079 dispenser parete",
+    "ING-PET-ID-071 medaglietta",
+    "ING-PET-ORG-078 porta guinzaglio"
+   ],
+   "bundle": [
+    "PASSEGGIATA",
+    "SET INGRESSO PET"
+   ],
+   "ref": "https://www.etsy.com/market/custom_engraved_dog_tag",
+   "kw": [
+    "porta sacchetti guinzaglio",
+    "custodia sacchetti cane",
+    "dispenser da passeggio",
+    "leash poop bag holder"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 8,
+   "s_gift": 6,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 4 mm 60x96x60, sviluppo a incastro con moschettone passante. Diametro interno 52 mm per rotoli compatti. Asola di uscita ad arco smussata. PESO SOTTO I 60 g: appeso al guinzaglio, se pesa dà fastidio e viene tolto. Trattamento idrorepellente: sta fuori con qualsiasi tempo.",
+   "prompt_img": "a small wooden bag holder 60x96 mm clipped to a dog leash, a bag emerging from the arched slot, engraved paw motif, held mid-walk with a park path blurred behind"
+  },
+  {
+   "id": "ING-PET-ALI-081",
+   "cat": "PET",
+   "coll": "ALIMENTAZIONE",
+   "name": "Mensa",
+   "tipo": "supporto ciotola rialzato singolo",
+   "tipo_en": "single raised bowl stand",
+   "concept": "Struttura in betulla spessa che solleva una ciotola in acciaio all'altezza giusta per l'animale.",
+   "target": "30-60, proprietari attenti alla salute dell'animale.",
+   "desire": "Che il cane non mangi piegato a terra.",
+   "usp": "Scontrino alto, ciotola acquistata a catalogo, nessuno sviluppo grafico necessario.",
+   "diff": "Segmento quasi scoperto nel laser, con un argomento di salute che vende da solo.",
+   "platform": "P3",
+   "mat": [
+    "betulla12"
+   ],
+   "tech": "CO2",
+   "dim": [
+    240,
+    240,
+    144
+   ],
+   "layers": 1,
+   "cut_mm": 2600,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    30,
+    90
+   ],
+   "person": [
+    "nome",
+    "altezza",
+    "silhouette"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-ALI-082 supporto doppio",
+    "ING-PET-ALI-083 box crocchette",
+    "ING-PET-ALI-084 tappetino"
+   ],
+   "bundle": [
+    "ANGOLO PAPPA: supporto + box crocchette + tappetino",
+    "BENVENUTO CUCCIOLO"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_dog_tags",
+   "kw": [
+    "ciotola rialzata cane legno",
+    "supporto ciotola design",
+    "porta ciotola rialzato",
+    "raised dog bowl stand"
+   ],
+   "s_demand": 13,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 7,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 12 mm, quattro pareti a incastro 45 gradi, ingombro 240x240x144. Foro circolare dimensionato sulla ciotola inox scelta (fornire tre altezze: 96, 144, 192 mm per taglia piccola, media, grande come SKU distinti). VERIFICA DI CARICO con acqua e cibo, e piedini antiscivolo: un cane di 30 kg che spinge deve trovarlo fermo. Olio idrorepellente su tutte le facce.",
+   "prompt_img": "a raised wooden dog bowl stand 240x240x144 mm in thick birch with a stainless bowl seated in the top, engraved dog name on the side, a labrador eating from it, kitchen floor background"
+  },
+  {
+   "id": "ING-PET-ALI-082",
+   "cat": "PET",
+   "coll": "ALIMENTAZIONE",
+   "name": "Mensa Doppia",
+   "tipo": "supporto ciotole rialzato doppio",
+   "tipo_en": "double raised bowl stand",
+   "concept": "Struttura a due sedi per acqua e cibo, con vano sottostante per la paletta dosatrice.",
+   "target": "30-60, cani di taglia media e grande.",
+   "desire": "Un angolo pappa ordinato invece di due ciotole per terra.",
+   "usp": "Il vano sotto risolve dove mettere la paletta, che finisce sempre nel sacco.",
+   "diff": "Nessuno ricava lo spazio del dosatore nella struttura stessa.",
+   "platform": "P3",
+   "mat": [
+    "betulla12"
+   ],
+   "tech": "CO2",
+   "dim": [
+    420,
+    240,
+    144
+   ],
+   "layers": 1,
+   "cut_mm": 3600,
+   "vec_mm": 900,
+   "eng_cm2": 40,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "scatola_g",
+   "lotto": 12,
+   "mkt": [
+    45,
+    130
+   ],
+   "person": [
+    "nome",
+    "altezza",
+    "silhouette"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-ALI-083 box crocchette",
+    "ING-PET-ALI-084 tappetino",
+    "ING-PET-ORG-078 porta guinzaglio"
+   ],
+   "bundle": [
+    "ANGOLO PAPPA",
+    "BENVENUTO CUCCIOLO"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_dog_tags",
+   "kw": [
+    "supporto due ciotole cane",
+    "porta ciotole rialzato doppio",
+    "angolo pappa cane legno",
+    "double raised dog bowls"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 7,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 12 mm 420x240x144, incastri 45 gradi con traversa centrale portante. Due fori circolari sulle ciotole scelte, interasse 216 mm. Vano frontale 120x96 per la paletta dosatrice, apertura ad arco R12. Tre altezze come SKU. Verifica di carico e piedini antiscivolo.",
+   "prompt_img": "a double raised dog bowl stand 420x240x144 mm in thick birch, two stainless bowls seated in the top, a scoop tucked into an arched opening below, engraved name on the front rail, on a tiled kitchen floor"
+  },
+  {
+   "id": "ING-PET-ALI-083",
+   "cat": "PET",
+   "coll": "ALIMENTAZIONE",
+   "name": "Dispensa",
+   "tipo": "box porta crocchette con dosatore",
+   "tipo_en": "kibble storage box",
+   "concept": "Contenitore con coperchio scorrevole e sede interna per la paletta, dimensionato su un sacco da 3 kg.",
+   "target": "30-60, chi tiene il sacco aperto in cucina.",
+   "desire": "Togliere dalla cucina il sacco di plastica accartocciato.",
+   "usp": "Dimensionato su un formato reale di sacco, non su una misura generica.",
+   "diff": "Il coperchio scorrevole non ha cerniere da rompere e chiude meglio.",
+   "platform": "P3",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    240,
+    300
+   ],
+   "layers": 1,
+   "cut_mm": 3800,
+   "vec_mm": 900,
+   "eng_cm2": 60,
+   "uv_cm2": 220,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 12,
+   "mkt": [
+    40,
+    120
+   ],
+   "person": [
+    "nome",
+    "silhouette",
+    "colore"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-ALI-081 supporto ciotola",
+    "ING-PET-ALI-084 tappetino",
+    "ING-PET-ORG-085 box giochi"
+   ],
+   "bundle": [
+    "ANGOLO PAPPA",
+    "CASA PET"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_dog_tags",
+   "kw": [
+    "contenitore crocchette legno",
+    "box croccantini design",
+    "porta crocchette cucina",
+    "kibble storage box wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 7,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 8 mm 300x240x300, capienza calibrata su un sacco da 3 kg. Coperchio SCORREVOLE in guide fresate. Sede interna a clip per la paletta sul lato corto. Nome e silhouette ENGRAVE-R sul fronte, fascia UV colore. NOTA IGIENICA sul cartellino: il legno non è a contatto alimentare diretto, lasciare le crocchette nel loro sacchetto interno.",
+   "prompt_img": "a wooden kibble storage box 300x240x300 mm with a sliding lid partly open, a scoop clipped inside, engraved dog name and silhouette on the front, standing in a kitchen corner"
+  },
+  {
+   "id": "ING-PET-ALI-084",
+   "cat": "PET",
+   "coll": "ALIMENTAZIONE",
+   "name": "Sottopappa",
+   "tipo": "tappetino sottociotola in acrilico",
+   "tipo_en": "under-bowl mat",
+   "concept": "Base sagomata in acrilico che raccoglie acqua e crocchette cadute, con nome inciso.",
+   "target": "25-60, tutti i proprietari.",
+   "desire": "Non asciugare il pavimento dopo ogni pasto.",
+   "usp": "In acrilico perché sta sempre bagnato: il legno qui si gonfia e lo diciamo.",
+   "diff": "Onestà tecnica: dove il legno non va, non lo usiamo.",
+   "platform": "P1",
+   "mat": [
+    "acrilico5"
+   ],
+   "tech": "CO2",
+   "dim": [
+    360,
+    240,
+    5
+   ],
+   "layers": 1,
+   "cut_mm": 1200,
+   "vec_mm": 600,
+   "eng_cm2": 30,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    18,
+    50
+   ],
+   "person": [
+    "nome",
+    "silhouette",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-ALI-081 supporto ciotola",
+    "ING-PET-ALI-083 box crocchette",
+    "ING-PET-ID-071 medaglietta"
+   ],
+   "bundle": [
+    "ANGOLO PAPPA",
+    "BENVENUTO CUCCIOLO"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_dog_tags",
+   "kw": [
+    "tappetino ciotola cane",
+    "base sottociotola acrilico",
+    "tappetino pappa personalizzato",
+    "pet bowl mat acrylic"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 6,
+   "s_uniq": 9,
+   "prompt_prod": "Acrilico colato 5 mm 360x240, angoli R12, bordi lucidi a vista. Bordo rialzato ottenuto incollando una cornice 8 mm sul perimetro: trattiene l'acqua. Nome ENGRAVE inciso sul fondo, visibile attraverso. Gommini in silicone sotto. NESSUN LEGNO: contatto continuo con acqua.",
+   "prompt_img": "a clear acrylic pet feeding mat 360x240 mm with a raised rim and an engraved dog name visible through it, two bowls sitting on top, a few kibbles scattered, tiled floor"
+  },
+  {
+   "id": "ING-PET-ORG-085",
+   "cat": "PET",
+   "coll": "ORGANIZER",
+   "name": "Baule",
+   "tipo": "box porta giochi per animali",
+   "tipo_en": "pet toy box",
+   "concept": "Cassa aperta con maniglie ad arco e nome inciso, dove finiscono tutti i giochi.",
+   "target": "25-55, case con cani e gatti.",
+   "desire": "Smettere di inciampare nei giochi in salotto.",
+   "usp": "Usa la stessa scatola P3 di altri prodotti: costo di sviluppo già ammortizzato.",
+   "diff": "Aperto e basso, così l'animale ci arriva da solo.",
+   "platform": "P3",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    420,
+    300,
+    240
+   ],
+   "layers": 1,
+   "cut_mm": 4000,
+   "vec_mm": 1000,
+   "eng_cm2": 60,
+   "uv_cm2": 250,
+   "uv_white": true,
+   "comp": {},
+   "pack": "scatola_g",
+   "lotto": 12,
+   "mkt": [
+    35,
+    85
+   ],
+   "person": [
+    "nome",
+    "silhouette",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-ALI-083 box crocchette",
+    "ING-PET-ORG-086 organizer collari",
+    "ING-PET-DEC-077 silhouette razza"
+   ],
+   "bundle": [
+    "CASA PET",
+    "BENVENUTO CUCCIOLO"
+   ],
+   "ref": "https://www.etsy.com/market/laser_pet_memorial",
+   "kw": [
+    "box giochi cane legno",
+    "cesta giochi animali",
+    "contenitore giochi pet",
+    "pet toy box wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 7,
+   "s_uniq": 8,
+   "prompt_prod": "Betulla 8 mm 420x300x240, incastri 45 gradi, APERTO sopra e basso davanti (h 160 mm sul fronte) perché l'animale ci arrivi. Maniglie ad arco R12 traforate sui lati corti. Nome e silhouette ENGRAVE-R sul fronte. Spigoli interni carteggiati: ci mette il muso. Verifica di carico 8 kg.",
+   "prompt_img": "an open wooden toy box 420x300x240 mm with arched cut-out handles and a lower front, filled with dog toys, engraved name on the front, a dog pulling a rope toy out of it, living room floor"
+  },
+  {
+   "id": "ING-PET-ORG-086",
+   "cat": "PET",
+   "coll": "ORGANIZER",
+   "name": "Collari",
+   "tipo": "organizer da parete per collari e accessori",
+   "tipo_en": "collar and accessory organiser",
+   "concept": "Pannello con barra portacollari, ganci e vaschetta per medagliette e pettorine.",
+   "target": "Case con più animali, allevatori, dog sitter.",
+   "desire": "Sapere quale collare è di chi, senza cercarlo.",
+   "usp": "Pensato per il multi-animale, che il mercato ignora quasi del tutto.",
+   "diff": "Ogni posizione ha il nome inciso: si vede subito cosa manca.",
+   "platform": "P5",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.6
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    360,
+    240,
+    72
+   ],
+   "layers": 2,
+   "cut_mm": 2400,
+   "vec_mm": 1000,
+   "eng_cm2": 40,
+   "uv_cm2": 200,
+   "uv_white": true,
+   "comp": {
+    "gancio": 6
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    30,
+    85
+   ],
+   "person": [
+    "nomi",
+    "numero posizioni",
+    "colore"
+   ],
+   "tags": [
+    "PERSONALIZZABILE",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-ORG-078 porta guinzaglio",
+    "ING-PET-ORG-079 porta sacchetti",
+    "ING-PET-ORG-088 porta documenti"
+   ],
+   "bundle": [
+    "SET INGRESSO PET",
+    "CASA PET"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_dog_tags",
+   "kw": [
+    "organizer collari cane",
+    "porta accessori pet parete",
+    "organizer multi cane",
+    "pet collar organiser wall"
+   ],
+   "s_demand": 11,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 6,
+   "s_uniq": 10,
+   "prompt_prod": "Fondo betulla 8 mm 360x240 con UV PRINT. Barra portacollari betulla 4 mm distanziata 12 mm dal fondo. Sei ganci sul passo 48 mm con NOME INCISO sotto ciascuno. Vaschetta 360x72 a incastro in basso. Configurabile a 4, 6 o 8 posizioni come SKU. Verifica di carico 6 kg.",
+   "prompt_img": "a wall organiser 360x240 mm in birch holding collars on a rail and leads on hooks, each position with an engraved pet name beneath, a shallow tray at the bottom with tags, utility room wall"
+  },
+  {
+   "id": "ING-PET-GIO-087",
+   "cat": "PET",
+   "coll": "GIOCO",
+   "name": "Fiuto",
+   "tipo": "gioco di attivazione mentale a cursori",
+   "tipo_en": "sliding puzzle enrichment toy",
+   "concept": "Piano con cursori che nascondono gli snack: il cane deve spostarli per trovarli.",
+   "target": "25-55, cani annoiati, comportamentisti, addestratori.",
+   "desire": "Stancare il cane mentalmente quando non si può uscire.",
+   "usp": "L'attivazione mentale stanca più della corsa: è un argomento che i proprietari conoscono bene.",
+   "diff": "In legno spesso e lavabile invece della plastica sottile che il cane distrugge.",
+   "platform": "P7",
+   "mat": [
+    "betulla12",
+    "betulla6"
+   ],
+   "quota_mat": {
+    "betulla6": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    300,
+    24
+   ],
+   "layers": 2,
+   "cut_mm": 3000,
+   "vec_mm": 1200,
+   "eng_cm2": 40,
+   "uv_cm2": 280,
+   "uv_white": true,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    25,
+    70
+   ],
+   "person": [
+    "nome",
+    "difficoltà",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-GIO-089 gioco gatto",
+    "ING-PET-ORG-085 box giochi",
+    "ING-PET-ID-071 medaglietta"
+   ],
+   "bundle": [
+    "GIOCO PET: attivazione + box giochi",
+    "BENVENUTO CUCCIOLO"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_puzzle",
+   "kw": [
+    "gioco attivazione mentale cane",
+    "gioco intelligenza cane legno",
+    "puzzle snack cane",
+    "dog enrichment puzzle wood"
+   ],
+   "s_demand": 14,
+   "s_comp": 12,
+   "s_person": 8,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Base betulla 12 mm 300x300 con 9 pozzetti Ø48 profondi 8 mm. Piano betulla 6 mm sovrapposto con 9 cursori scorrevoli in guide, ciascuno con presa ad arco R12. SICUREZZA: nessun pezzo staccabile, gioco 0,3 mm perché scorra ma non esca, spigoli tutti raggiati R12. Vernice a base acqua ATOSSICA e lavabile: va in bocca. Gommini antiscivolo.",
+   "prompt_img": "a wooden dog enrichment puzzle 300x300 mm on a floor, nine sliding covers over treat wells, a dog's nose pushing one aside to reveal a treat, thick birch with rounded edges, bright home lighting"
+  },
+  {
+   "id": "ING-PET-ORG-088",
+   "cat": "PET",
+   "coll": "ORGANIZER",
+   "name": "Libretto",
+   "tipo": "porta documenti e libretto sanitario",
+   "tipo_en": "pet document holder",
+   "concept": "Custodia rigida per libretto sanitario, passaporto e microchip, con nome inciso.",
+   "target": "25-60, chi viaggia con l'animale, veterinari.",
+   "desire": "Trovare il libretto quando serve, non cercarlo la mattina della visita.",
+   "usp": "Il libretto sanitario ha un formato standard: la custodia è dimensionata su quello.",
+   "diff": "Categoria praticamente inesistente, con un bisogno reale e ricorrente.",
+   "platform": "P3",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    168,
+    240,
+    24
+   ],
+   "layers": 1,
+   "cut_mm": 1600,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "uv_cm2": 140,
+   "uv_white": true,
+   "comp": {
+    "nastro": 1
+   },
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    18,
+    50
+   ],
+   "person": [
+    "nome",
+    "microchip",
+    "razza",
+    "colore"
+   ],
+   "tags": [
+    "PERSONALIZZABILE",
+    "B2B",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-ID-072 medaglietta QR",
+    "ING-PET-ORG-086 organizer collari",
+    "ING-PET-B2B-098 targhette veterinario"
+   ],
+   "bundle": [
+    "SET INGRESSO PET",
+    "VIAGGIO CON IL CANE"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_dog_tags",
+   "kw": [
+    "porta libretto sanitario cane",
+    "custodia documenti animale",
+    "porta passaporto pet",
+    "pet document holder wood"
+   ],
+   "s_demand": 11,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 7,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 4 mm 168x240x24, custodia a libro con dorso flessibile ottenuto da SCORE parallele passo 2 mm (living hinge). Sede interna dimensionata sul libretto sanitario standard più tasca per il passaporto. Nome, razza e microchip ENGRAVE-V sul fronte. Chiusura a nastro.",
+   "prompt_img": "a wooden pet document folder 168x240 mm with a flexible living-hinge spine, open to show a health booklet inside, engraved pet name and microchip number on the cover, tied with a ribbon, on a vet's counter"
+  },
+  {
+   "id": "ING-PET-GIO-089",
+   "cat": "PET",
+   "coll": "GIOCO",
+   "name": "Agguato",
+   "tipo": "gioco per gatto con snack",
+   "tipo_en": "cat treat puzzle",
+   "concept": "Torre a fori sfalsati dove la crocchetta cade da un livello all'altro quando il gatto la spinge.",
+   "target": "25-55, proprietari di gatti.",
+   "desire": "Far muovere un gatto che dorme venti ore al giorno.",
+   "usp": "Il gatto è quasi assente dal mercato laser a parità di domanda potenziale.",
+   "diff": "Verticale invece che piano: sfrutta il modo in cui il gatto usa la zampa.",
+   "platform": "P3",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    168,
+    168,
+    300
+   ],
+   "layers": 1,
+   "cut_mm": 3200,
+   "vec_mm": 900,
+   "eng_cm2": 40,
+   "uv_cm2": 200,
+   "uv_white": true,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    22,
+    60
+   ],
+   "person": [
+    "nome",
+    "colore",
+    "difficoltà"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-PET-GIO-087 gioco cane",
+    "ING-PET-DEC-091 mensola gatto",
+    "ING-PET-ORG-085 box giochi"
+   ],
+   "bundle": [
+    "GIOCO PET",
+    "MONDO GATTO: gioco + mensola + tiragraffi"
+   ],
+   "ref": "https://www.etsy.com/market/laser_cut_puzzle",
+   "kw": [
+    "gioco gatto snack legno",
+    "gioco intelligenza gatto",
+    "dispenser crocchette gatto",
+    "cat treat puzzle wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 8,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Torre betulla 6 mm 168x168x300, quattro ripiani interni inclinati 10 gradi e sfalsati. Fori d'accesso Ø60 su fianchi alterni: il gatto infila la zampa e la crocchetta scende al livello sotto. Vaschetta di raccolta estraibile alla base. Spigoli R12, vernice atossica lavabile. Base zavorrabile: non deve ribaltarsi.",
+   "prompt_img": "a vertical wooden cat treat tower 168x168x300 mm, staggered internal shelves visible through round side openings, a cat's paw reaching into one hole, a kibble in the collection tray at the base, living room floor"
+  },
+  {
+   "id": "ING-PET-DEC-090",
+   "cat": "PET",
+   "coll": "GATTO",
+   "name": "Mensola Gatto",
+   "tipo": "mensola da parete per gatti",
+   "tipo_en": "cat wall shelf",
+   "concept": "Mensola portante con superficie antiscivolo incisa, per creare percorsi in verticale.",
+   "target": "25-50, case piccole con gatti.",
+   "desire": "Dare spazio al gatto senza occupare il pavimento.",
+   "usp": "Il gatto vive in verticale: la parete è spazio che nessun altro arredo usa.",
+   "diff": "Superficie con incisione antiscivolo, non liscia come le mensole normali.",
+   "platform": "P3",
+   "mat": [
+    "betulla12"
+   ],
+   "tech": "CO2",
+   "dim": [
+    360,
+    240,
+    144
+   ],
+   "layers": 1,
+   "cut_mm": 2200,
+   "vec_mm": 800,
+   "eng_cm2": 90,
+   "comp": {
+    "gancio": 4
+   },
+   "pack": "flatpack",
+   "lotto": 15,
+   "mkt": [
+    30,
+    90
+   ],
+   "person": [
+    "nome",
+    "colore",
+    "forma"
+   ],
+   "tags": [
+    "PREMIUM",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-PET-GIO-089 gioco gatto",
+    "ING-PET-DEC-091 tiragraffi",
+    "ING-PET-DEC-092 casetta gatto"
+   ],
+   "bundle": [
+    "MONDO GATTO",
+    "PARETE GATTO: 3 mensole"
+   ],
+   "ref": "https://www.etsy.com/market/lasercut_wall_decor",
+   "kw": [
+    "mensola gatto parete",
+    "percorso gatto legno",
+    "mensole per gatti design",
+    "cat wall shelf wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 7,
+   "s_gift": 7,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 12 mm, piano 360x240 con due mensole laterali sagomate 144 mm a incastro passante. ENGRAVE-R antiscivolo sul piano: griglia di solchi 0,8 mm profondi, passo 12 mm. VERIFICA DI CARICO 8 kg con margine: un gatto ci salta sopra, non ci si appoggia. Fissaggio a 4 punti, tasselli inclusi con istruzioni sul tipo di muro.",
+   "prompt_img": "a wooden cat wall shelf 360x240 mm mounted at height, engraved grip grooves across the top surface, a cat sitting on it looking down, scrolled bracket sides, pale living room wall"
+  },
+  {
+   "id": "ING-PET-DEC-091",
+   "cat": "PET",
+   "coll": "GATTO",
+   "name": "Artiglio",
+   "tipo": "struttura tiragraffi da parete",
+   "tipo_en": "wall-mounted scratching post",
+   "concept": "Telaio in legno che regge un pannello di corda sisal sostituibile.",
+   "target": "25-50, proprietari di gatti, case con divani da salvare.",
+   "desire": "Che il gatto smetta di farsi le unghie sul divano.",
+   "usp": "Il sisal è un consumabile: il telaio resta, il pannello si ricompra. Ricorrenza automatica.",
+   "diff": "I tiragraffi di mercato si buttano interi quando la corda è finita.",
+   "platform": "P5",
+   "mat": [
+    "betulla12",
+    "betulla6"
+   ],
+   "quota_mat": {
+    "betulla6": 0.5
+   },
+   "tech": "CO2",
+   "dim": [
+    240,
+    600,
+    48
+   ],
+   "layers": 2,
+   "cut_mm": 2400,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "comp": {
+    "gancio": 4
+   },
+   "pack": "scatola_xl",
+   "lotto": 12,
+   "mkt": [
+    35,
+    110
+   ],
+   "person": [
+    "nome",
+    "colore"
+   ],
+   "tags": [
+    "PREMIUM",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-PET-DEC-090 mensola gatto",
+    "ING-PET-DEC-092 casetta gatto",
+    "ING-PET-GIO-089 gioco gatto"
+   ],
+   "bundle": [
+    "MONDO GATTO",
+    "PARETE GATTO"
+   ],
+   "ref": "https://www.etsy.com/market/lasercut_wall_decor",
+   "kw": [
+    "tiragraffi parete legno",
+    "tiragraffi design gatto",
+    "tiragraffi sisal sostituibile",
+    "wall cat scratcher wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 7,
+   "s_gift": 7,
+   "s_uniq": 10,
+   "prompt_prod": "Telaio betulla 12 mm 240x600 con guide laterali. Pannello betulla 6 mm avvolto in corda sisal, INSERITO A SCORRIMENTO nel telaio e tenuto da due linguette: si sfila e si sostituisce senza attrezzi. Pannelli di ricambio come SKU separato. Fissaggio a 4 punti, verifica a trazione 15 kg: il gatto tira davvero.",
+   "prompt_img": "a wall-mounted cat scratching panel 240x600 mm, birch frame holding a sisal-wrapped insert, a cat stretching up against it with claws out, one spare panel leaning against the wall nearby"
+  },
+  {
+   "id": "ING-PET-DEC-092",
+   "cat": "PET",
+   "coll": "GATTO",
+   "name": "Rifugio",
+   "tipo": "casetta per gatto smontabile",
+   "tipo_en": "flat-pack cat house",
+   "concept": "Cuccia a incastro con ingresso ad arco e tetto removibile per la pulizia.",
+   "target": "25-55, gatti e cani di piccola taglia.",
+   "desire": "Dare al gatto un posto suo che non sia una scatola di cartone.",
+   "usp": "Si smonta piatta: si spedisce a costo basso e si ripone quando non serve.",
+   "diff": "Il tetto si toglie, quindi si pulisce davvero — cosa che le cucce chiuse non permettono.",
+   "platform": "P3",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    420,
+    360,
+    360
+   ],
+   "layers": 1,
+   "cut_mm": 4400,
+   "vec_mm": 1200,
+   "eng_cm2": 80,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "comp": {},
+   "pack": "scatola_xl",
+   "lotto": 10,
+   "mkt": [
+    45,
+    140
+   ],
+   "person": [
+    "nome",
+    "colore",
+    "forma ingresso"
+   ],
+   "tags": [
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-DEC-090 mensola gatto",
+    "ING-PET-DEC-091 tiragraffi",
+    "ING-PET-ORG-085 box giochi"
+   ],
+   "bundle": [
+    "MONDO GATTO",
+    "CASA PET"
+   ],
+   "ref": "https://www.etsy.com/market/laser_pet_memorial",
+   "kw": [
+    "casetta gatto legno",
+    "cuccia gatto design",
+    "casetta smontabile animali",
+    "flat pack cat house wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 9,
+   "prompt_prod": "Betulla 8 mm 420x360x360, incastri 45 gradi SENZA COLLA, montaggio in 6 mosse. Ingresso ad arco R12 Ø200. TETTO REMOVIBILE appoggiato su quattro dentini: si toglie per pulire. Fori di ventilazione Ø24 sui fianchi. Nome ENGRAVE-R sul fronte, fascia UV colore. Spigoli interni carteggiati.",
+   "prompt_img": "a flat-pack wooden cat house 420x360x360 mm with an arched entrance, a cat sitting inside looking out, removable roof slightly lifted to show the joint, engraved name on the front, in a sunlit corner of a room"
+  },
+  {
+   "id": "ING-PET-DEC-093",
+   "cat": "PET",
+   "coll": "DECORO",
+   "name": "Cuccia",
+   "tipo": "targa nome per cuccia",
+   "tipo_en": "kennel name plate",
+   "concept": "Targa ad arco con nome e silhouette, da fissare sopra la cuccia o la porta.",
+   "target": "25-60, regalo per cuccioli, allevatori.",
+   "desire": "Che la cuccia sia sua e si veda.",
+   "usp": "Prezzo d'ingresso al mondo pet: regalo facile e produzione banale.",
+   "diff": "Coordinata con la silhouette di razza e col porta guinzaglio.",
+   "platform": "P1",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    204,
+    96,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 700,
+   "vec_mm": 500,
+   "eng_cm2": 20,
+   "uv_cm2": 90,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 50,
+   "mkt": [
+    10,
+    30
+   ],
+   "person": [
+    "nome",
+    "silhouette",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-DEC-077 silhouette razza",
+    "ING-PET-ORG-078 porta guinzaglio",
+    "ING-PET-ID-071 medaglietta"
+   ],
+   "bundle": [
+    "BENVENUTO CUCCIOLO",
+    "SET INGRESSO PET"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_dog_tags",
+   "kw": [
+    "targa nome cuccia",
+    "targhetta cane personalizzata parete",
+    "insegna cuccia legno",
+    "kennel name sign wood"
+   ],
+   "s_demand": 13,
+   "s_comp": 10,
+   "s_person": 10,
+   "s_gift": 8,
+   "s_uniq": 7,
+   "prompt_prod": "Betulla 6 mm 204x96, testa ad arco R12. Nome CUT traforato h 36 mm su pannello UV colore incollato a filo dietro. Silhouette ENGRAVE-R a lato. Biadesivo strutturale o due fori Ø4. Nesting 12 pz/foglio.",
+   "prompt_img": "a wooden name plate 204x96 mm above a dog bed, the name cut straight through revealing a warm ochre panel behind, a small engraved breed silhouette beside it, arched top, cosy corner of a room"
+  },
+  {
+   "id": "ING-PET-DEC-094",
+   "cat": "PET",
+   "coll": "DECORO",
+   "name": "Attenti",
+   "tipo": "targa attenti al cane di design",
+   "tipo_en": "beware of the dog sign",
+   "concept": "Targa da cancello con silhouette traforata e testo inciso, in acrilico per l'esterno.",
+   "target": "25-60, case con giardino.",
+   "desire": "Avvisare chi entra senza il cartello di plastica gialla.",
+   "usp": "Sostituisce un oggetto brutto e obbligato con uno di design.",
+   "diff": "In acrilico perché sta fuori: il legno su un cancello dura una stagione.",
+   "platform": "P1",
+   "mat": [
+    "acrilico5"
+   ],
+   "tech": "CO2",
+   "dim": [
+    240,
+    168,
+    5
+   ],
+   "layers": 1,
+   "cut_mm": 1400,
+   "vec_mm": 700,
+   "eng_cm2": 30,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 25,
+   "mkt": [
+    18,
+    55
+   ],
+   "person": [
+    "testo",
+    "razza",
+    "nome"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-PET-DEC-093 targa cuccia",
+    "ING-PET-DEC-077 silhouette razza",
+    "ING-PET-ORG-078 porta guinzaglio"
+   ],
+   "bundle": [
+    "INGRESSO CASA PET",
+    "SET INGRESSO PET"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "targa attenti al cane design",
+    "cartello cane giardino",
+    "targa cancello cane",
+    "beware of dog sign acrylic"
+   ],
+   "s_demand": 12,
+   "s_comp": 12,
+   "s_person": 9,
+   "s_gift": 6,
+   "s_uniq": 9,
+   "prompt_prod": "Acrilico colato 5 mm 240x168, bordi lucidi. Silhouette della razza CUT traforata, testo ENGRAVE h 14 mm. Quattro fori Ø6 (+0,3 mm su acrilico) agli angoli per fascette o viti. NESSUN LEGNO: sta su un cancello, esposto a sole e pioggia tutto l'anno.",
+   "prompt_img": "a clear acrylic sign 240x168 mm zip-tied to a garden gate, a dog breed silhouette cut straight through, engraved warning text below, polished edges catching sunlight, green hedge behind"
+  },
+  {
+   "id": "ING-PET-ORG-095",
+   "cat": "PET",
+   "coll": "ORGANIZER",
+   "name": "Promemoria",
+   "tipo": "tabella promemoria cure e vaccini",
+   "tipo_en": "pet care reminder board",
+   "concept": "Pannello con tessere magnetiche per antiparassitario, vaccini, toelettatura e visite.",
+   "target": "25-55, famiglie con più animali.",
+   "desire": "Non dimenticare l'antiparassitario del mese.",
+   "usp": "Risolve un problema pratico ricorrente, non estetico.",
+   "diff": "I magneti sono annegati e coperti, come nei prodotti per bambini: qui l'animale li ingerirebbe.",
+   "platform": "P7",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.5
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    240,
+    10
+   ],
+   "layers": 2,
+   "cut_mm": 2600,
+   "vec_mm": 1400,
+   "eng_cm2": 50,
+   "uv_cm2": 300,
+   "uv_white": true,
+   "comp": {
+    "magnete_neo": 12,
+    "gancio": 1
+   },
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    28,
+    75
+   ],
+   "person": [
+    "nomi animali",
+    "voci",
+    "colore"
+   ],
+   "tags": [
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-ORG-088 porta documenti",
+    "ING-PET-ORG-086 organizer collari",
+    "ING-PET-ID-071 medaglietta"
+   ],
+   "bundle": [
+    "CASA PET",
+    "GESTIONE: promemoria + porta documenti"
+   ],
+   "ref": "https://laser-templates.com/collections/kids-stuff",
+   "kw": [
+    "promemoria vaccini cane",
+    "tabella cure animali",
+    "lavagna gestione pet",
+    "pet care reminder board"
+   ],
+   "s_demand": 11,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 6,
+   "s_uniq": 10,
+   "prompt_prod": "Pannello betulla 6 mm 300x240 con griglia 12 mm, area magnetica in lamina. 12 tessere betulla 4 mm 48x48 con pittogrammi ENGRAVE-R. SICUREZZA: magneti Ø10 ANNEGATI in sede fresata profonda 2,2 mm e COPERTI da betulla 1,5 mm incollata a tutta superficie, mai accessibili — un magnete al neodimio ingerito è un'emergenza. Aggancio a fessura.",
+   "prompt_img": "a wooden reminder board 300x240 mm on a kitchen wall, a grid of engraved magnetic tiles showing pet care icons arranged under weekday columns, pet names printed along the top, a hand moving one tile"
+  },
+  {
+   "id": "ING-PET-B2B-096",
+   "cat": "PET",
+   "coll": "B2B",
+   "name": "Toelettatura",
+   "tipo": "insegna e segnaletica per toelettatura",
+   "tipo_en": "pet grooming salon sign",
+   "concept": "Insegna a due strati con logo del salone e set di targhe di servizio coordinate.",
+   "target": "Toelettature, pet shop, cliniche veterinarie.",
+   "desire": "Un'immagine coordinata invece di adesivi stampati.",
+   "usp": "Microimprese numerosissime e mai presidiate da nessuno con un'offerta dedicata.",
+   "diff": "Venduta come sistema di insegna più segnaletica, non come pezzo singolo.",
+   "platform": "P6",
+   "mat": [
+    "betulla8",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.8
+   },
+   "tech": "CO2+UV+MOPA",
+   "dim": [
+    360,
+    300,
+    16
+   ],
+   "layers": 2,
+   "cut_mm": 2600,
+   "vec_mm": 900,
+   "eng_cm2": 50,
+   "uv_cm2": 340,
+   "uv_white": true,
+   "mopa_cm2": 12,
+   "comp": {
+    "targhetta_inox": 1,
+    "gancio": 2
+   },
+   "pack": "flatpack",
+   "lotto": 10,
+   "mkt": [
+    60,
+    250
+   ],
+   "person": [
+    "logo",
+    "nome",
+    "colore brand",
+    "orari"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-B2B-097 espositore negozio",
+    "ING-PET-B2B-098 targhette box",
+    "ING-B2B-RET-102 cartellini prezzo"
+   ],
+   "bundle": [
+    "KIT TOELETTATURA: insegna + orari + espositore",
+    "IDENTITÀ PET SHOP"
+   ],
+   "ref": "https://www.etsy.com/market/custom_wall_signs",
+   "kw": [
+    "insegna toelettatura",
+    "targa pet shop personalizzata",
+    "insegna veterinario legno",
+    "pet grooming sign wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 10,
+   "s_gift": 3,
+   "s_uniq": 10,
+   "prompt_prod": "Fondo betulla 8 mm 360x300 con UV PRINT nel colore brand. Frontale betulla 4 mm distanziato 4 mm con logo CUT traforato: richiedere il file VETTORIALE, tratto minimo 3 mm. Placchetta inox MOPA con orari o payoff. Aggancio su distanziali 12 mm per l'ombra. Set coordinato di 4 targhe di servizio come SKU aggiuntivo.",
+   "prompt_img": "a pet grooming salon sign 360x300 mm on an interior wall, birch front layer with the salon logo cut through revealing a soft teal panel, a small steel plate with opening hours below, mounted on spacers"
+  },
+  {
+   "id": "ING-PET-B2B-097",
+   "cat": "PET",
+   "coll": "B2B",
+   "name": "Espositore Pet",
+   "tipo": "espositore da banco per pet shop",
+   "tipo_en": "pet shop counter display",
+   "concept": "Espositore a tre ripiani con cartellini prezzo integrati, per snack e accessori sul bancone.",
+   "target": "Pet shop, toelettature, cliniche veterinarie.",
+   "desire": "Vendere di più all'ultimo momento, alla cassa.",
+   "usp": "Si ripaga da solo aumentando le vendite d'impulso: è l'argomento B2B più forte che esista.",
+   "diff": "Cartellini prezzo integrati nella struttura, non appiccicati sopra.",
+   "platform": "P3",
+   "mat": [
+    "betulla8"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    300,
+    204,
+    264
+   ],
+   "layers": 1,
+   "cut_mm": 3400,
+   "vec_mm": 1000,
+   "eng_cm2": 50,
+   "uv_cm2": 200,
+   "uv_white": true,
+   "comp": {
+    "gommini": 1
+   },
+   "pack": "flatpack",
+   "lotto": 12,
+   "mkt": [
+    45,
+    130
+   ],
+   "person": [
+    "logo",
+    "nome negozio",
+    "colore brand"
+   ],
+   "tags": [
+    "B2B",
+    "PREMIUM",
+    "BUNDLE",
+    "PERSONALIZZABILE"
+   ],
+   "upsell": [
+    "ING-PET-B2B-096 insegna toelettatura",
+    "ING-PET-B2B-098 targhette box",
+    "ING-B2B-RET-102 cartellini"
+   ],
+   "bundle": [
+    "KIT TOELETTATURA",
+    "IDENTITÀ PET SHOP"
+   ],
+   "ref": "https://www.etsy.com/market/restaurant_order_numbers",
+   "kw": [
+    "espositore pet shop",
+    "espositore banco negozio animali",
+    "display snack cani",
+    "pet shop counter display"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 3,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 8 mm 300x204x264, tre ripiani inclinati 5 gradi con fermo frontale 8 mm. Fianchi traforati con silhouette di animali. Ogni ripiano ha una scanalatura frontale 4,2 mm per i cartellini prezzo sostituibili. Area logo 120x30 sulla traversa alta. Verifica di carico 3 kg per ripiano. Smontabile.",
+   "prompt_img": "a three-tier wooden counter display 300x204x264 mm in a pet shop, animal silhouettes cut into the side panels, bags of treats on the inclined shelves, small price cards slotted into the front edges, shop logo engraved at the top"
+  },
+  {
+   "id": "ING-PET-B2B-098",
+   "cat": "PET",
+   "coll": "B2B",
+   "name": "Degenza",
+   "tipo": "targhette identificative per box e gabbie",
+   "tipo_en": "kennel and cage ID tags",
+   "concept": "Targhette riscrivibili da agganciare ai box, con nome, terapia e proprietario.",
+   "target": "Cliniche veterinarie, pensioni per animali, canili, toelettature.",
+   "desire": "Sapere a colpo d'occhio chi c'è nel box e cosa deve fare.",
+   "usp": "Riscrivibili a pennarello cancellabile: si riusano ogni giorno per anni.",
+   "diff": "Segmento professionale con bisogno quotidiano e nessuna offerta di design.",
+   "platform": "P1",
+   "mat": [
+    "betulla4"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    144,
+    96,
+    4
+   ],
+   "layers": 1,
+   "cut_mm": 600,
+   "vec_mm": 700,
+   "eng_cm2": 16,
+   "uv_cm2": 110,
+   "uv_white": true,
+   "comp": {
+    "cordino": 1
+   },
+   "pack": "sfuso_b2b",
+   "lotto": 60,
+   "mkt": [
+    5,
+    18
+   ],
+   "person": [
+    "logo",
+    "campi",
+    "colore",
+    "numero"
+   ],
+   "tags": [
+    "B2B",
+    "FAST SELLER",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-B2B-096 insegna",
+    "ING-PET-B2B-097 espositore",
+    "ING-PET-ORG-088 porta documenti"
+   ],
+   "bundle": [
+    "KIT VETERINARIO: 24 targhette",
+    "IDENTITÀ PET SHOP"
+   ],
+   "ref": "https://www.etsy.com/market/custom_engraved_dog_tag",
+   "kw": [
+    "targhette box veterinario",
+    "cartellini gabbie animali",
+    "targhe identificative canile",
+    "kennel id tags wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 2,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 4 mm 144x96, angoli R12, foro Ø5 per cordino o gancio. Area riscrivibile UV WHITE opaca 120x60 con righe di campo ENGRAVE-V (nome, proprietario, terapia, dieta). Logo della struttura ENGRAVE-V in testa. Vernice lavabile: sta in un ambiente disinfettato ogni giorno. Nesting 24 pz/foglio.",
+   "prompt_img": "wooden ID tags 144x96 mm hanging on kennel doors in a veterinary ward, each with a matte writable panel filled in by hand with a pet name and treatment, clinic logo engraved at the top, clean clinical lighting"
+  },
+  {
+   "id": "ING-PET-DEC-099",
+   "cat": "PET",
+   "coll": "DECORO",
+   "name": "Zampa",
+   "tipo": "portafoto pet con impronta",
+   "tipo_en": "pet photo frame with paw print",
+   "concept": "Cornice a strati con una sede per l'impronta in pasta modellabile accanto alla foto.",
+   "target": "25-60, cuccioli e memoriale.",
+   "desire": "Conservare la sua impronta insieme alla sua foto.",
+   "usp": "L'impronta è irripetibile: rende il prodotto unico senza costo aggiuntivo di produzione.",
+   "diff": "La sede per l'impronta è progettata, non un buco improvvisato.",
+   "platform": "P5",
+   "mat": [
+    "betulla6",
+    "betulla4"
+   ],
+   "quota_mat": {
+    "betulla4": 0.7
+   },
+   "tech": "CO2+UV",
+   "dim": [
+    264,
+    180,
+    18
+   ],
+   "layers": 2,
+   "cut_mm": 2000,
+   "vec_mm": 800,
+   "eng_cm2": 30,
+   "uv_cm2": 180,
+   "uv_white": true,
+   "comp": {},
+   "pack": "flatpack",
+   "lotto": 20,
+   "mkt": [
+    22,
+    70
+   ],
+   "person": [
+    "nome",
+    "data",
+    "silhouette"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-DEC-076 ritratto",
+    "ING-PET-MEM-073 targa memoriale",
+    "ING-PET-MEM-075 scatola ricordo"
+   ],
+   "bundle": [
+    "PARETE PET",
+    "RICORDO"
+   ],
+   "ref": "https://www.etsy.com/market/memorial_dog_tags",
+   "kw": [
+    "portafoto cane impronta",
+    "cornice pet personalizzata",
+    "cornice impronta zampa",
+    "pet photo frame paw print"
+   ],
+   "s_demand": 13,
+   "s_comp": 11,
+   "s_person": 10,
+   "s_gift": 9,
+   "s_uniq": 10,
+   "prompt_prod": "Cornice betulla 6 mm 264x180 con due luci: foto 10x15 ad arco R12 a sinistra, sede circolare Ø72 profonda 6 mm per l'impronta a destra. Passepartout betulla 4 mm distanziato 3 mm. Nome e data ENGRAVE-V. Fornire nel kit la pasta modellabile ad asciugatura all'aria e le istruzioni per prendere l'impronta.",
+   "prompt_img": "a layered wooden frame 264x180 mm holding a photo of a dog on one side and a clay paw print set into a round recess on the other, engraved name and date between them, standing on a shelf"
+  },
+  {
+   "id": "ING-PET-ORG-100",
+   "cat": "PET",
+   "coll": "INGRESSO",
+   "name": "Uscita",
+   "tipo": "campanello da porta per il cane",
+   "tipo_en": "dog door bell",
+   "concept": "Pannello da appendere alla maniglia con campanelli che il cane suona quando vuole uscire.",
+   "target": "25-55, addestramento cuccioli.",
+   "desire": "Che il cane avvisi invece di fare i bisogni in casa.",
+   "usp": "È uno strumento di addestramento riconosciuto: risolve un problema che fa disperare i proprietari.",
+   "diff": "In legno con campanelli fissati bene, invece del nastro con sonagli che si sfila.",
+   "platform": "P1",
+   "mat": [
+    "betulla6"
+   ],
+   "tech": "CO2+UV",
+   "dim": [
+    96,
+    300,
+    6
+   ],
+   "layers": 1,
+   "cut_mm": 900,
+   "vec_mm": 600,
+   "eng_cm2": 24,
+   "uv_cm2": 110,
+   "uv_white": true,
+   "comp": {
+    "cordino": 1
+   },
+   "pack": "flatpack",
+   "lotto": 30,
+   "mkt": [
+    15,
+    45
+   ],
+   "person": [
+    "nome",
+    "silhouette",
+    "colore"
+   ],
+   "tags": [
+    "FAST SELLER",
+    "PERSONALIZZABILE",
+    "BUNDLE"
+   ],
+   "upsell": [
+    "ING-PET-ORG-078 porta guinzaglio",
+    "ING-PET-ORG-079 porta sacchetti",
+    "ING-PET-GIO-087 gioco attivazione"
+   ],
+   "bundle": [
+    "BENVENUTO CUCCIOLO",
+    "SET INGRESSO PET"
+   ],
+   "ref": "https://www.etsy.com/market/personalized_dog_tags",
+   "kw": [
+    "campanello cane porta",
+    "campanelli addestramento cucciolo",
+    "dog bell porta legno",
+    "dog door bells wood"
+   ],
+   "s_demand": 12,
+   "s_comp": 13,
+   "s_person": 9,
+   "s_gift": 8,
+   "s_uniq": 10,
+   "prompt_prod": "Betulla 6 mm 96x300, profilo ad arco R12 in testa con asola per la maniglia. Quattro fori Ø6 sul bordo inferiore per i campanelli, fissati con anelli metallici (non cuciti su nastro: si sfilano). Nome e silhouette ENGRAVE-R. ALTEZZA REGOLABILE tramite cordino, perché un cucciolo cresce.",
+   "prompt_img": "a wooden dog training bell panel 96x300 mm hanging from a door handle, four brass bells on rings along the bottom edge, engraved dog name and silhouette, a puppy nosing it, hallway light"
+  }
+ ]
+}

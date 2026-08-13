@@ -264,12 +264,12 @@
       ]
     },
     "tubo": {
-      "nome": "Tubo per pannelli lunghi",
-      "eur": 2.2,
+      "nome": "Tubo rigido per pannelli lunghi",
+      "eur": 2.6,
       "max_mm": [
         1600,
-        120,
-        120
+        200,
+        200
       ]
     },
     "flatpack": {

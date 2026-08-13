@@ -141,8 +141,15 @@ def controlla(p):
                 "prodotto per bambini senza riferimenti a vernici atossiche, "
                 "spigoli raggiati o carteggiatura nel prompt di produzione"
             )
-        if "magnet" in pp and "anneg" not in pp and "copert" not in pp:
-            err.append("magneti in un prodotto per bambini senza indicazione che siano annegati e coperti")
+        # Il segnale attendibile e' la distinta base, non il testo: una frase come
+        # "nessun magnete in questo prodotto" contiene comunque la parola 'magnete'.
+        ha_magneti = any(k.startswith("magnete") or k.startswith("lamina_magn")
+                         for k in p.get("comp", {}))
+        if ha_magneti and "anneg" not in pp and "copert" not in pp:
+            err.append(
+                "magneti in distinta base per un prodotto bambini, senza indicazione "
+                "nel prompt di produzione che siano annegati e coperti"
+            )
 
     # --- proprieta' intellettuale ----------------------------------------
     testo = " ".join(str(p.get(k, "")) for k in
