@@ -1,0 +1,164 @@
+{
+  "_meta": {
+    "sistema": "INGLY PRODUCT INTELLIGENCE SYSTEM",
+    "versione": "2.0",
+    "data": "2026-08",
+    "rapporto_con_il_catalogo_esistente": "Questo e' un catalogo SEPARATO, non una revisione di quello Mediterraneo/Sicilia. Le due visioni sono in conflitto esplicito su un punto: qui si dichiara 'oggetti acquistabili tutto l'anno, non legati a festivita'', mentre il catalogo esistente ha 34 prodotti stagionali e 30 di cerimonia. Non ho cancellato quel lavoro: convivono come due linee con posizionamenti diversi. Se la linea INGLY deve sostituire l'altra, va deciso e detto.",
+    "correzioni_al_brief": [
+      "COLLISIONI DI CODICE: nel documento di partenza sette prefissi sono usati due volte (D01 organizer e dock, C01 sottobicchieri e calendario, K01 portachiavi e organizer chiavi, W01 portafoglio e scatola vino, M01 quadro e biglietto metallo, B01 biglietto acrilico e scatola regalo, G01 luggage tag e scatola giochi). Nella lista WINNER 'D01-C' compare due volte come due prodotti diversi. Qui ogni base ha un prefisso univoco di tre lettere.",
+      "PUNTEGGIO CHE NON BOCCIA MAI: il documento classifica 54 WINNER, 40 TEST, 0 SCARTARE e dichiara che 'tutti hanno almeno 70 punti'. Un punteggio che non scarta nulla non e' un filtro. Qui l'INGLY SCORE e' calcolato, non assegnato, e due voci su otto (margine e velocita' di produzione) escono dal modello di costo e non sono modificabili a mano.",
+      "MARGINE NON E' PROFITTO: il documento indica margini del 63-71% calcolati come (prezzo - costo materiali) / prezzo. Il brief stesso chiede il TRUE COST con commissioni, costi di pagamento, marketing e spedizione. Con quelli dentro, un prodotto al 67% di margine lordo scende intorno al 35-45% di profitto reale sul canale marketplace. E' la differenza fra un catalogo che sembra redditizio e uno che lo e'."
+    ]
+  },
+
+  "vision": {
+    "principi": [
+      "Minimalismo elegante: si toglie finche' resta solo cio' che serve",
+      "Geometrie pulite e proprietarie, riconoscibili senza logo",
+      "Materiali premium: legno selezionato, acrilico tecnico, metallo satinato, pelle PU di qualita'",
+      "Incisioni precise, micro-pattern, texture UV",
+      "Packaging ordinato, tecnico, premium",
+      "Oggetti che sembrano di un brand, non di un laboratorio",
+      "Personalizzazione come valore, non come decorazione",
+      "Design ingegneristico, replicabile, pulito",
+      "Acquistabili tutto l'anno, non legati a festivita'"
+    ],
+    "test_del_brand": "Se togli il nome inciso e l'oggetto smette di avere senso, non e' un prodotto INGLY: e' un supporto per una scritta. La personalizzazione deve aggiungersi a un oggetto che gia' sta in piedi da solo."
+  },
+
+  "macchine": {
+    "P3": {"nome": "xTool P3 80W (CO₂)", "eur_h": 26.0,
+           "materiali": ["legno", "MDF", "acrilico", "pelle PU", "cartone", "sughero", "feltro"],
+           "note": "Il cavallo di battaglia. Taglia fino a 20 mm di legno, incide tutto tranne il metallo nudo."},
+    "F2":  {"nome": "xTool F2 (fiber MOPA)", "eur_h": 30.0,
+            "materiali": ["alluminio anodizzato", "acciaio inox", "ottone", "titanio"],
+            "note": "Marcatura profonda su metallo e taglio di lamiere sottili. E' cio' che rende premium un oggetto piccolo."},
+    "IR":  {"nome": "Modulo IR / diodo", "eur_h": 14.0,
+            "materiali": ["metallo leggero", "plastica", "pelle"],
+            "note": "Alternativa economica al fiber su marcature poco profonde. Piu' lento, meno contrastato."},
+    "UV":  {"nome": "Stampante UV a piano", "eur_h": 45.0,
+            "materiali": ["tutti i piani rigidi"],
+            "note": "Colore, micro-pattern, texture in rilievo, vernice lucida selettiva."},
+    "PRESS": {"nome": "WonderPress (termopressa)", "eur_h": 12.0,
+              "materiali": ["pelle PU", "tessuto", "trasferimenti"],
+              "note": "Accoppiamenti a caldo, goffratura, applicazione di inserti su pelle."}
+  },
+
+  "materiali": {
+    "pelle_pu":    {"nome": "Pelle PU premium 1,2 mm", "eur_mq": 42.0, "sp": 1.2, "scarto": 0.08, "macchina": "P3",
+                    "note": "Taglio a bassa potenza e alta velocita'. Aspirazione obbligatoria: l'odore resta sul prodotto."},
+    "allu_anod":   {"nome": "Alluminio anodizzato 2 mm satinato", "eur_mq": 68.0, "sp": 2, "scarto": 0.02, "macchina": "F2",
+                    "note": "L'anodizzazione si marca a contrasto bianco senza asportare materiale: e' la finitura piu' pulita che esista sul metallo."},
+    "inox_1":      {"nome": "Acciaio inox 1 mm satinato", "eur_mq": 58.0, "sp": 1, "scarto": 0.02, "macchina": "F2",
+                    "note": "Marcatura nera profonda, resistente all'usura."},
+    "ottone_1":    {"nome": "Ottone 1 mm", "eur_mq": 96.0, "sp": 1, "scarto": 0.02, "macchina": "F2",
+                    "note": "Registro istituzionale, invecchia bene. Costoso: usarlo come inserto, non come corpo."},
+    "acr_tra_3":   {"nome": "Acrilico trasparente 3 mm", "eur_mq": 32.0, "sp": 3, "scarto": 0.03, "macchina": "P3",
+                    "note": "Bordo lucido a specchio se tagliato bene. Pellicola rimossa solo a fine lavorazione."},
+    "acr_tra_5":   {"nome": "Acrilico trasparente 5 mm", "eur_mq": 46.0, "sp": 5, "scarto": 0.03, "macchina": "P3"},
+    "acr_nero_3":  {"nome": "Acrilico nero opaco 3 mm", "eur_mq": 36.0, "sp": 3, "scarto": 0.03, "macchina": "P3"},
+    "acr_sat_3":   {"nome": "Acrilico satinato 3 mm", "eur_mq": 38.0, "sp": 3, "scarto": 0.03, "macchina": "P3"},
+    "noce_6":      {"nome": "Noce massello 6 mm", "eur_mq": 78.0, "sp": 6, "scarto": 0.06, "macchina": "P3",
+                    "note": "Legno selezionato per la linea alta. Venatura scura, incisione ad altissimo contrasto."},
+    "rovere_6":    {"nome": "Rovere massello 6 mm", "eur_mq": 66.0, "sp": 6, "scarto": 0.06, "macchina": "P3"},
+    "betulla_4":   {"nome": "Betulla multistrato 4 mm", "eur_mq": 22.0, "sp": 4, "scarto": 0.05, "macchina": "P3"},
+    "betulla_6":   {"nome": "Betulla multistrato 6 mm", "eur_mq": 30.0, "sp": 6, "scarto": 0.05, "macchina": "P3"},
+    "betulla_8":   {"nome": "Betulla multistrato 8 mm", "eur_mq": 38.0, "sp": 8, "scarto": 0.05, "macchina": "P3"},
+    "mdf_lacc_6":  {"nome": "MDF laccato opaco 6 mm", "eur_mq": 28.0, "sp": 6, "scarto": 0.05, "macchina": "P3",
+                    "note": "Superficie gia' finita: salta il ciclo di verniciatura e abbatte la manodopera."},
+    "mdf_lacc_10": {"nome": "MDF laccato opaco 10 mm", "eur_mq": 36.0, "sp": 10, "scarto": 0.05, "macchina": "P3"},
+    "sughero_2":   {"nome": "Sughero tecnico 2 mm", "eur_mq": 9.0, "sp": 2, "scarto": 0.04, "macchina": "P3"},
+    "feltro_3":    {"nome": "Feltro tecnico 3 mm", "eur_mq": 14.0, "sp": 3, "scarto": 0.04, "macchina": "P3"},
+    "cartone_2":   {"nome": "Cartone rigido 2 mm", "eur_mq": 6.0, "sp": 2, "scarto": 0.06, "macchina": "P3"}
+  },
+
+  "componenti": {
+    "nfc_tag":      {"nome": "Chip NFC NTAG213 programmabile", "eur": 0.38},
+    "rfid_block":   {"nome": "Foglio schermante RFID", "eur": 0.55},
+    "anello_acc":   {"nome": "Anello portachiavi acciaio D25", "eur": 0.14},
+    "moschettone":  {"nome": "Moschettone acciaio satinato", "eur": 0.32},
+    "elastico":     {"nome": "Elastico di chiusura per diario", "eur": 0.12},
+    "blocco_a5":    {"nome": "Blocco carta A5 100 fogli 100 g", "eur": 2.10},
+    "blocco_a6":    {"nome": "Blocco carta A6 80 fogli 100 g", "eur": 1.20},
+    "blocco_a4":    {"nome": "Blocco carta A4 120 fogli 100 g", "eur": 3.40},
+    "magnete_d8":   {"nome": "Magnete neodimio D8x2", "eur": 0.11},
+    "gommini":      {"nome": "Set 4 piedini in silicone", "eur": 0.09},
+    "vite_m3":      {"nome": "Set viti M3 inox + boccole", "eur": 0.22},
+    "cerniera":     {"nome": "Cerniera nascosta in ottone", "eur": 0.48},
+    "led_usb_c":    {"nome": "Modulo LED USB-C 5V con cavo", "eur": 2.80},
+    "cavo_ric":     {"nome": "Passacavo in silicone", "eur": 0.10},
+    "biadesivo":    {"nome": "Biadesivo strutturale 3M 0,2 mm (per pz)", "eur": 0.16},
+    "card_qr":      {"nome": "Card storytelling con QR, cartoncino 350 g", "eur": 0.22},
+    "sacchetto":    {"nome": "Sacchetto in cotone con coulisse", "eur": 0.65}
+  },
+
+  "packaging": {
+    "_nota": "Il packaging e' parte del prodotto, non l'imballo. Ogni confezione include la card QR con la storia del pezzo.",
+    "busta_tec":   {"nome": "Busta tecnica nera + cartoncino", "eur": 0.65, "max_mm": [200, 150, 12]},
+    "scat_magn_s": {"nome": "Scatolina magnetica nera piccola", "eur": 1.60, "max_mm": [140, 100, 40]},
+    "scat_magn_m": {"nome": "Scatola magnetica nera media", "eur": 2.90, "max_mm": [250, 180, 60]},
+    "scat_rigida": {"nome": "Scatola rigida nera con logo inciso", "eur": 4.20, "max_mm": [320, 240, 80]},
+    "astuccio":    {"nome": "Astuccio in cartone premium con finestra", "eur": 1.40, "max_mm": [180, 130, 25]},
+    "scat_onda":   {"nome": "Scatola ondulata con inserti in schiuma", "eur": 2.20, "max_mm": [400, 300, 120]},
+    "scat_exec":   {"nome": "Scatola executive con interno sagomato", "eur": 6.50, "max_mm": [420, 320, 140]}
+  },
+
+  "fasce_prezzo": {
+    "ESSENTIAL": {"min": 9,  "max": 19, "ruolo": "Ingresso al brand, acquisto d'impulso, riempitivo di nesting"},
+    "SIGNATURE": {"min": 20, "max": 39, "ruolo": "Il cuore del catalogo: regalo, autoacquisto, volume"},
+    "PREMIUM":   {"min": 40, "max": 69, "ruolo": "Regalo importante, B2B, marginalita' assoluta alta"},
+    "EXECUTIVE": {"min": 70, "max": 400, "ruolo": "Pezzo di posizionamento, corporate, edizioni"}
+  },
+
+  "categorie": {
+    "01-EVE": "01 — Everyday Essentials",
+    "02-TRA": "02 — Travel & Discovery",
+    "03-DSK": "03 — Desk & Workspace",
+    "04-HOS": "04 — Hospitality & Restaurant",
+    "05-BIZ": "05 — Business Identity",
+    "06-TEC": "06 — Personal Tech",
+    "07-PET": "07 — Pet Lifestyle",
+    "08-HOB": "08 — Hobby & Passions",
+    "09-JRN": "09 — Journal & Analog Life",
+    "10-BAR": "10 — Drink & Bar",
+    "11-AUT": "11 — Auto & Motor",
+    "12-MEM": "12 — Memory & Sentiment",
+    "13-LUX": "13 — Small Luxury",
+    "14-COL": "14 — INGLY Collections"
+  },
+
+  "true_cost": {
+    "_nota": "Il brief chiede esplicitamente il TRUE COST. Il costo industriale e' solo la prima meta': su un marketplace le commissioni, il pagamento e l'acquisizione cliente si mangiano fra il 20 e il 30 percento del prezzo. Un catalogo che ignora questa parte sembra redditizio e non lo e'.",
+    "manodopera_eur_h": 18.0,
+    "energia_eur_h": 1.10,
+    "canali": {
+      "ETSY":      {"nome": "Etsy", "commissione_pct": 0.065, "inserzione_eur": 0.18, "note": "6,5% transazione + inserzione + eventuale Offsite Ads al 12-15%"},
+      "AMAZON":    {"nome": "Amazon", "commissione_pct": 0.15, "inserzione_eur": 0.0, "note": "15% referral fee sulla categoria handmade/home"},
+      "SHOPIFY":   {"nome": "Shop proprio", "commissione_pct": 0.0, "inserzione_eur": 0.0, "note": "Nessuna commissione di marketplace, ma il traffico va pagato"},
+      "B2B":       {"nome": "Vendita diretta B2B", "commissione_pct": 0.0, "inserzione_eur": 0.0, "note": "Nessuna commissione, ma sconto rivenditore 40-50%"}
+    },
+    "pagamento_pct": 0.029,
+    "pagamento_fisso_eur": 0.30,
+    "marketing_pct": 0.10,
+    "_nota_marketing": "10% del prezzo come costo di acquisizione medio. Su Etsy con Offsite Ads attivi puo' arrivare al 15%: verificare sui dati reali dopo i primi 90 giorni.",
+    "spedizione_eur": {"busta_tec": 3.90, "scat_magn_s": 5.90, "scat_magn_m": 6.90,
+                       "astuccio": 5.90, "scat_rigida": 7.90, "scat_onda": 8.90, "scat_exec": 11.90},
+    "_nota_spedizione": "Costo pieno di spedizione nazionale. Se e' inclusa nel prezzo pesa sul profitto; se e' a carico del cliente esce dal conto ma abbassa la conversione. Il modello la conta SEMPRE, che e' l'ipotesi prudente."
+  },
+
+  "ingly_score": {
+    "_nota": "Pesi come da brief. Due voci su otto — margine e velocita' di produzione — sono CALCOLATE dal modello di costo e non si possono assegnare a mano. E' cio' che impedisce al punteggio di essere un timbro.",
+    "pesi": {
+      "domanda": 20,
+      "margine": 25,
+      "personalizzazione": 15,
+      "differenziazione": 15,
+      "velocita_produzione": 10,
+      "spedibilita": 5,
+      "upsell": 5,
+      "repeat_business": 5
+    },
+    "soglie": {"WINNER": 85, "TEST": 75, "RISERVA": 65, "SCARTARE": 0},
+    "_nota_soglie": "Se dopo il calcolo nessun prodotto finisce sotto i 65 punti, il problema non e' che il catalogo e' perfetto: e' che i criteri sono troppo generosi. Un filtro che non filtra va ritarato."
+  }
+}
