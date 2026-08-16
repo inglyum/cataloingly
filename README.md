@@ -26,6 +26,7 @@ e scarichi, ottieni quei prodotti, non tutti.
 | Voci di enciclopedia | **63** su tutte e 10 le categorie |
 | Fonti di file catalogate | **24** (6 gratuite, 7 a pagamento, 11 fra rassegne e documentazione) |
 | Strumenti di lavoro | **34** divisi per fase, con costo reale |
+| Fornitori mappati | **52** in 10 paesi, 7 categorie merceologiche |
 | Piattaforme costruttive | 8 |
 | Analisi di mercato | **10 categorie su 10** — completa |
 | Motore di calcolo | completo e collaudato |
@@ -40,8 +41,10 @@ Il catalogo copre tutte e dieci le categorie. Due hanno meno di 30 prodotti per 
 
 ```bash
 python3 scripts/validate.py           # controllo qualità: blocca gli errori di producibilità
-python3 scripts/build.py              # catalogo Ingly: calcola tutto e genera gli output
+python3 scripts/build.py              # catalogo Mediterraneo: calcola tutto e genera gli output
 python3 scripts/build_enciclopedia.py # enciclopedia prodotti e fonti
+python3 scripts/build_ingly.py        # sistema INGLY: 27 basi × 4 varianti, TRUE COST per canale
+python3 scripts/build_fornitori.py    # fornitori di grezzo e di blank, confronto preventivi
 ```
 
 `build.py` produce in `out/`:
@@ -58,6 +61,11 @@ python3 scripts/build_enciclopedia.py # enciclopedia prodotti e fonti
 | `enciclopedia.csv` / `.json` | Le 63 voci con i prompt di design |
 | `fonti.csv` | Le 24 fonti di file con licenze e costi |
 | `strumenti.csv` | I 34 strumenti con costo, fase e consiglio d'uso |
+| `ingly.html` | Sistema INGLY: 108 SKU con INGLY SCORE e profitto reale per canale |
+| `ingly_catalogo.csv` / `.json` | Gli stessi SKU con TRUE COST Etsy, Amazon, shop proprio, B2B |
+| `fornitori.html` | I 52 fornitori navigabili, con classifica, capitolato e richieste di preventivo |
+| `fornitori.csv` / `.json` | Gli stessi dati per il foglio di lavoro |
+| `preventivi_template.csv` | Il foglio da compilare quando arrivano i preventivi |
 
 ---
 
@@ -205,6 +213,13 @@ data/
                       trattamenti del bordo, livelli di finitura, regole fotografiche
   strumenti.json      34 strumenti per disegnare, ottimizzare, produrre,
                       fotografare e vendere, divisi per fase di lavoro
+  fornitori.json      52 fornitori italiani ed europei di grezzo e di blank,
+                      benchmark di prezzo, capitolato, richieste di preventivo,
+                      concorrenti da osservare
+  preventivi.csv      (opzionale, lo crei tu) i preventivi ricevuti: se c'è,
+                      build_fornitori.py calcola l'euro/m² utile e li classifica
+  ingly/              sistema INGLY: 27 basi costruttive × 4 varianti,
+                      TRUE COST per canale di vendita
   products/           un file per categoria, 288 prodotti in totale
     01_home.json      30    06_stagionale.json  34
     02_eventi.json    30    07_limitate.json    16
@@ -212,11 +227,46 @@ data/
     04_b2b.json       38    09_turismo.json     30
     05_bambini.json   30    10_sicilia.json     30
 scripts/
-  build.py            motore di calcolo e catalogo Ingly
+  build.py            motore di calcolo e catalogo Mediterraneo
   build_enciclopedia.py  enciclopedia prodotti e fonti
+  build_ingly.py      sistema INGLY, TRUE COST e INGLY SCORE
+  build_fornitori.py  fornitori, benchmark e confronto preventivi
   validate.py         controllo qualità pre-produzione
 out/                  generato — non versionare a mano
 ```
+
+---
+
+## I fornitori: cosa è verificato e cosa no
+
+`data/fornitori.json` mappa **52 fornitori** in 10 paesi: pannelli in legno 3-4-6 mm,
+PMMA, alluminio anodizzato e laminati per la fiber, blank neutri per la ristorazione,
+grossisti di articoli promozionali.
+
+Di ognuno sono verificati **esistenza, indirizzo web e categoria merceologica**.
+I prezzi **no**, con una sola eccezione: le voci che portano il campo `prezzo_rilevato`,
+che riportano la fonte e da cui lo script calcola l'euro al metro quadro. Al momento
+è **una sola su 52**. Non è una lacuna da nascondere: i listini dei fornitori di
+materiale sono quasi tutti riservati, e inventarli sarebbe l'errore peggiore possibile
+in un documento su cui poi si decide un acquisto.
+
+Il file compensa con tre cose che valgono più di un prezzo finto:
+
+- **Il capitolato.** Quattro richieste di preventivo pronte da copiare, una per famiglia
+  di materiale, che contengono già le specifiche tecniche (grado BB/BB, levigatura,
+  collante idoneo al laser, tolleranza di spessore, PMMA colato e non estruso). Senza
+  capitolato i preventivi che ricevi non sono confrontabili tra loro.
+- **Il benchmark.** Fasce di prezzo di mercato dichiarate come stime, per capire se un
+  preventivo è buono, normale o fuori scala.
+- **Il confronto.** Se crei `data/preventivi.csv`, `build_fornitori.py` calcola l'unica
+  cifra che conta: **euro per metro quadro utile**, cioè materiale più trasporto diviso
+  la superficie che resta dopo lo scarto. Un pannello a 12 €/m² con il 15% di scarto
+  costa più di uno a 14 con il 3%, e questa è la ragione per cui il fornitore più
+  economico spesso non è quello che costa meno.
+
+I cinque punteggi (prezzo, qualità, gamma, facilità, logistica) sono **valutazioni di
+Ingly Design su scala 0-10**, non dati dichiarati dai fornitori. Sono esposti nel JSON
+proprio perché si possano correggere.
 
 ---
 
