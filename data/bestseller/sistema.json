@@ -1,0 +1,163 @@
+{
+  "_meta": {
+    "versione": "R1",
+    "rilevazione": "agosto 2026",
+    "titolo": "I più venduti, e come rifarli con il nostro stile",
+    "scopo": "Categoria separata dal catalogo Ingly: cosa vende davvero nel mondo su Etsy e sugli altri marketplace, dove si trovano i file, cosa fanno i concorrenti, e per ognuno il prompt per rifarlo con la geometria, la finitura e la palette di Ingly Design.",
+    "cosa_e_verificato": "Le famiglie di prodotto, i temi ricorrenti e i volumi di ricerca citati provengono da rassegne di settore pubblicate e rilevate ad agosto 2026, elencate in fonti_dati. I link di riferimento sono pagine di CATEGORIA e di ricerca per parola chiave dei marketplace, non singole inserzioni.",
+    "cosa_non_e_verificato": "Nessun marketplace pubblica i volumi di vendita reali per prodotto. I numeri di ricerca mensile che trovi qui sono dichiarati da blog di settore che usano strumenti terzi di stima: sono utili per confrontare le parole chiave TRA LORO, non per prevedere quanto venderai. Le fasce di prezzo sono osservazioni di categoria. Chi ti mostra il fatturato esatto di un negozio ha uno strumento che stima, non che misura.",
+    "perche_niente_inserzioni_singole": "Non trovi qui link a singoli negozi con il numero di vendite. Primo perché quel dato cambia ogni giorno e un catalogo che lo riporta nasce già falso. Secondo perché indicare un venditore specifico da copiare è esattamente il modo di finire in una segnalazione per violazione di proprietà intellettuale. Le pagine di categoria mostrano lo stesso fenomeno senza puntare il dito su nessuno.",
+    "regola_di_uso": "Questi prodotti sono ARCHETIPI, non modelli da ricalcare. Un archetipo è una funzione più una forma generica: 'tagliere personalizzato', 'lampada che proietta un nome', 'espositore da tavolo con QR'. Gli archetipi non sono di nessuno. Il disegno di un concorrente sì. Da qui si prende la funzione e si butta il disegno."
+  },
+
+  "metodo": {
+    "titolo": "Come è stata costruita questa lista",
+    "passi": [
+      "Rilevazione delle famiglie di prodotto ricorrenti nelle rassegne di settore sul laser e sulla stampa UV pubblicate per il 2026.",
+      "Incrocio con le parole chiave a più alto volume di ricerca dichiarato sui marketplace generalisti.",
+      "Verifica dell'esistenza della categoria sul marketplace tramite pagina di ricerca per parola chiave.",
+      "Per ognuna: identificazione di cosa fanno tutti allo stesso modo, che è il punto dove si differenzia.",
+      "Scrittura del prompt di ricostruzione secondo il sistema Ingly: geometria propria, finitura a livelli, vernice all'acqua, bordo trattato.",
+      "Assegnazione alla piattaforma costruttiva e alla base INGLY corrispondente, per non progettare da zero ciò che è già progettato."
+    ]
+  },
+
+  "fonti_dati": [
+    {"nome": "Etsy Seller Handbook — Seller Trend Report", "url": "https://www.etsy.com/seller-handbook/article/1473931456647", "cosa_da": "Le uniche indicazioni di tendenza che arrivano direttamente dalla piattaforma. Non danno numeri di vendita ma dicono su cosa la piattaforma stessa punta."},
+    {"nome": "eRank — Top Etsy Searches", "url": "https://help.erank.com/blog/top-etsy-searches-q2-2026/", "cosa_da": "Classifiche trimestrali delle ricerche. Stime da strumento terzo, non dati ufficiali."},
+    {"nome": "Printify — Etsy search trends", "url": "https://printify.com/blog/top-etsy-searches/", "cosa_da": "Volumi di ricerca mensili stimati per parola chiave. È la fonte dei numeri nella sezione parole chiave."},
+    {"nome": "xTool — Profitable laser engraved products", "url": "https://www.xtool.eu/blogs/business-ideas/profitable-laser-engraved-products", "cosa_da": "Rassegna dei prodotti a margine più alto, dal produttore della tua macchina."},
+    {"nome": "Etsy — pagine di ricerca per parola chiave", "url": "https://www.etsy.com/market/top_selling_laser_items", "cosa_da": "Verifica diretta che la categoria esista e ampiezza dell'offerta."}
+  ],
+
+  "parole_chiave": {
+    "avvertenza": "Volumi mensili STIMATI da strumenti terzi e ripresi da rassegne di settore. Etsy non pubblica i propri volumi di ricerca. Servono a capire il rapporto di grandezza tra una parola e l'altra: 'wedding gift' vale circa il doppio di 'wall art', e questo è il dato utile. Il numero assoluto no.",
+    "fonte": "Printify, rilevazione 2026",
+    "voci": [
+      {"kw": "wedding gift", "vol": 201000, "nota": "Il primo mercato in assoluto. Alto valore percepito, tolleranza al prezzo, urgenza di consegna."},
+      {"kw": "personalized gift", "vol": 189000, "nota": "La personalizzazione non è una funzione: è la categoria."},
+      {"kw": "birthday gift", "vol": 156000, "nota": "Ricorrenza continua tutto l'anno, non stagionale. Coerente con la visione INGLY."},
+      {"kw": "christmas ornament", "vol": 142000, "nota": "Stagionale puro: sette settimane di vendite e undici mesi di magazzino fermo."},
+      {"kw": "wall art", "vol": 134000, "nota": "Valore alto per metro quadro di materiale. Il problema è la spedizione."},
+      {"kw": "jewelry", "vol": 128000, "nota": "Enorme ma quasi tutto fuori dalla nostra tecnologia, tranne l'acrilico."},
+      {"kw": "custom gift", "vol": 119000, "nota": "Variante di personalized gift: vale come conferma, non come mercato in più."},
+      {"kw": "printable", "vol": 112000, "nota": "Prodotto digitale: margine quasi totale, zero spedizione, concorrenza feroce."},
+      {"kw": "digital download", "vol": 108000, "nota": "Idem. È il mercato dove finiscono i file, non gli oggetti."},
+      {"kw": "home decor", "vol": 98000, "nota": "Contenitore generico. Si vince solo scendendo nel sottotema."}
+    ],
+    "lettura_ingly": "Tre delle prime quattro parole sono regali per persone, non oggetti per case. Significa che il prodotto è metà oggetto e metà occasione: la confezione, il biglietto e la spedizione veloce contano quanto l'incisione. E significa che la nostra scheda prodotto deve dire per chi è il regalo, non di che materiale è fatto."
+  },
+
+  "fonti_file": [
+    {
+      "nome": "Creative Fabrica — Laser Cut Files",
+      "url": "https://www.creativefabrica.com/tag/laser-cut-files/",
+      "tipo": "A_PAGAMENTO",
+      "licenza": "COMMERCIALE — la piattaforma dichiara licenza commerciale su ogni download",
+      "volume": "38.519 file dichiarati a catalogo alla rilevazione",
+      "costo": "Abbonamento con accesso illimitato, oppure acquisto singolo",
+      "formati": "SVG, DXF, EPS, AI, PDF, PNG, JPG",
+      "nota": "È l'eccezione al problema che affligge quasi tutte le altre fonti: qui la licenza commerciale è inclusa invece che venduta a parte. Restano comunque due limiti da leggere sempre: non puoi rivendere il file come file, e la licenza vale per l'uso che ne fai tu, non per una sub-licenza. Verifica sempre sulla scheda del singolo prodotto: la regola generale della piattaforma non sostituisce la licenza del file.",
+      "uso_ingly": "Serve a studiare come è risolto un incastro, una tolleranza, una stratificazione. Non a produrre merce identica a quella di altre migliaia di compratori dello stesso file."
+    },
+    {
+      "nome": "Creative Fabrica — Free Laser Cutting",
+      "url": "https://www.creativefabrica.com/freebies/free-laser-cutting/",
+      "tipo": "GRATUITA",
+      "licenza": "DA_VERIFICARE per singolo file",
+      "volume": "sezione freebies aggiornata periodicamente",
+      "costo": "gratuito con registrazione",
+      "formati": "SVG, DXF",
+      "nota": "I freebies hanno spesso una licenza diversa da quella dei prodotti a pagamento della stessa piattaforma. Vanno letti uno per uno.",
+      "uso_ingly": "Materiale di prova per tarare i parametri di taglio su un materiale nuovo, senza spendere."
+    },
+    {
+      "nome": "MakerFlo — 1000+ file gratuiti per uso commerciale",
+      "url": "https://makerflo.com/blogs/craft-library/free-laser-engraving-cutting-files",
+      "tipo": "GRATUITA",
+      "licenza": "COMMERCIALE dichiarata nella raccolta",
+      "volume": "oltre 1000 file dichiarati",
+      "costo": "gratuito",
+      "formati": "SVG, DXF",
+      "nota": "Raccolta che dichiara esplicitamente l'uso commerciale. Rara: la regola generale del settore è l'uso personale. Proprio perché è un'eccezione, va verificata sulla pagina prima di ogni uso produttivo.",
+      "uso_ingly": "La fonte più sicura per elementi di servizio: scatole, incastri, cerniere, meccanismi. Non per il disegno principale, che deve essere tuo."
+    },
+    {
+      "nome": "Laser SVG Templates",
+      "url": "https://lasersvgtemplates.com/",
+      "tipo": "A_PAGAMENTO",
+      "licenza": "COMMERCIALE dichiarata",
+      "volume": "catalogo di vettoriali e template",
+      "costo": "acquisto singolo",
+      "formati": "SVG, DXF, AI",
+      "nota": "Catalogo specializzato, meno affollato dei generalisti.",
+      "uso_ingly": "Utile per i template strutturali complessi, dove sbagliare la tolleranza costa più di quanto costi il file."
+    },
+    {
+      "nome": "Le altre 24 fonti già catalogate",
+      "url": "https://claude.ai/code/artifact/cb1d1b63-062e-4455-b611-194344fdfccd",
+      "tipo": "RASSEGNA",
+      "licenza": "VARIABILE",
+      "volume": "24 fonti ordinate per licenza",
+      "costo": "misto",
+      "formati": "vari",
+      "nota": "In data/fonti.json trovi la mappa completa con la licenza come primo criterio, inclusi i limiti reali: molte fonti sono solo per uso personale, alcune limitano il numero di pezzi vendibili.",
+      "uso_ingly": "Da leggere PRIMA di scaricare qualunque cosa, non dopo aver prodotto."
+    }
+  ],
+
+  "competitor_osservati": [
+    {
+      "nome": "Shopdaddy Studio — collezione QR Menu",
+      "url": "https://shopdaddy-studio.com/collections/qr-menu",
+      "cosa_fa": "Negozio specializzato in espositori e supporti con QR code per menu digitali: dischi incisi, stand da tavolo, cartoncini per il servizio senza contatto.",
+      "cosa_impariamo": "Hanno fatto di UNA funzione un intero negozio. Non vendono 'oggetti in legno': vendono la soluzione al problema del menu digitale. È la lezione di posizionamento più importante di tutta questa lista.",
+      "come_ci_differenziamo": "Loro risolvono il problema. Noi lo risolviamo e lo arrediamo: stesso QR, ma dentro un sistema coordinato — segnatavolo, portatovaglioli, portaconto, sottobicchieri — con una geometria sola e una palette sola. Il locale non compra un accessorio, allestisce una sala."
+    },
+    {
+      "nome": "Insight Agent — classifiche best seller",
+      "url": "https://www.insightagent.app/guides/top-selling-laser-cut-items-on-etsy",
+      "cosa_fa": "Strumento di analisi che pubblica classifiche di ciò che vende su Etsy per categoria.",
+      "cosa_impariamo": "Utile per vedere le famiglie di prodotto in movimento. Ma sono stime da scraping, non dati di piattaforma: leggile come una direzione, non come una misura.",
+      "come_ci_differenziamo": "Non è un concorrente di prodotto ma di informazione: se lo leggi tu, lo leggono migliaia di altri. Quello che trovi lì è già affollato per definizione. Serve a capire dove NON andare a fare la stessa cosa."
+    },
+    {
+      "nome": "I venditori di file su Creative Fabrica",
+      "url": "https://www.creativefabrica.com/laser-cutting/",
+      "cosa_fa": "Migliaia di autori vendono bundle di file laser, spesso con centinaia di soggetti per pacchetto.",
+      "cosa_impariamo": "Il loro modello è il volume: tanti soggetti, poca profondità. Per questo i prodotti che ne escono si somigliano tutti — chiunque compri quel bundle produce lo stesso oggetto.",
+      "come_ci_differenziamo": "È esattamente la ragione per cui il file comprato non può essere il nostro prodotto principale. Chi compra un bundle da 300 soggetti sta comprando la stessa cosa di altre migliaia di laboratori. Il nostro vantaggio è avere un sistema di disegno proprio: nessuno può comprarlo."
+    }
+  ],
+
+  "regole_di_riscrittura": {
+    "titolo": "Come si riscrive un best seller senza copiarlo",
+    "passi": [
+      "Isola la FUNZIONE, che è libera: tenere un menu in piedi, proiettare un nome, proteggere un tavolo dal calore. La funzione non è di nessuno.",
+      "Butta il disegno che hai visto. Tutto. Anche se ti sembrava solo un dettaglio: la somiglianza parziale è il modo più veloce per ricevere una segnalazione.",
+      "Ricostruisci la forma sul modulo da 12 mm della Griglia Mediterranea, con l'arco R12 e il taglio a 45°. La proporzione cambia, la funzione resta.",
+      "Metti almeno una delle tre firme Ingly: la finestra, il filo a 4 mm, il bordo ambrato. Se non ce n'è nessuna, non è un nostro prodotto.",
+      "Assegna il livello di finitura in base al prezzo atteso, non al desiderio: NATURALE, PREMIUM o LUXURY. Un oggetto da 14 euro non regge diciotto minuti di finitura.",
+      "Scegli la palette dalle vernici all'acqua già catalogate. Mai un colore fuori sistema: la riconoscibilità viene dalla ripetizione, non dalla varietà.",
+      "Controlla la proprietà intellettuale prima di disegnare, non dopo: personaggi, loghi, marchi, frasi di film e caratteri tipografici sono tutti protetti. Anche il font è proprietà di qualcuno.",
+      "Passa da validate.py. Se il prodotto non entra nel packaging o cita un marchio, si ferma lì."
+    ]
+  },
+
+  "categorie": {
+    "CASA": {"nome": "Casa e parete", "analisi": "È la categoria dove il laser dà il massimo valore per metro quadro di materiale e il massimo problema di spedizione. L'arte a strati domina le classifiche perché la profondità si vede in fotografia, ed è la fotografia che vende. Il rischio è la saturazione: mandala e sagome di montagne sono ovunque."},
+    "TAVOLA": {"nome": "Cucina e tavola", "analisi": "Il tagliere personalizzato è il singolo prodotto a margine più alto di tutto il laser secondo tutte le rassegne rilevate. Sottobicchieri e accessori da tavola hanno rotazione alta e prezzo basso: vivono di set, non di pezzo singolo."},
+    "LUCE": {"nome": "Luce", "analisi": "Le lampade e le luci notturne hanno il rapporto più favorevole tra costo del materiale e prezzo percepito di tutta la lista, perché la luce fa metà del lavoro. In compenso servono componenti elettrici, e con essi la conformità CE."},
+    "HORECA": {"nome": "Ristorazione e ospitalità", "analisi": "Il mercato B2B più accessibile che esista per un laboratorio laser: un solo ristorante compra venti segnatavolo, una lavagna menu, un'insegna di benvenuto e la cartellonistica di servizio. E poi ritorna. È dove Ingly ha il vantaggio geografico più forte."},
+    "EVENTI": {"nome": "Matrimoni ed eventi", "analisi": "La parola chiave a più alto volume in assoluto. Tolleranza al prezzo altissima, urgenza altissima, ricorrenza zero: ogni cliente compra una volta sola. Si vive di volume di clienti nuovi e di fotografie che circolano."},
+    "UFFICIO": {"nome": "Ufficio e scrivania", "analisi": "In crescita dichiarata per via del lavoro da casa. Prodotti piccoli, spedibili, ripetibili, e con un committente aziendale che compra a decine."},
+    "PICCOLI": {"nome": "Portachiavi e piccoli oggetti", "analisi": "Il fondo del mercato per prezzo unitario e il vertice per volume. Da soli non pagano il tempo: esistono per essere l'upsell e il campione di prova che porta al prodotto grande."},
+    "GIOIELLI": {"nome": "Gioielli in acrilico", "analisi": "L'unico spicchio della gioielleria raggiungibile con la nostra tecnologia. Materiale pochissimo, prezzo discreto, ma il pubblico è quello della moda e cambia gusto in fretta."},
+    "ANIMALI": {"nome": "Animali", "analisi": "Domanda costante, emotività massima, sensibilità al prezzo minima. La medaglietta e il memoriale sono due prodotti opposti nello stesso mercato: uno d'uso e uno di lutto."},
+    "BAMBINI": {"nome": "Bambini", "analisi": "Il nome del bambino è il motore di tutta la categoria. Attenzione doppia però: vernici atossiche, spigoli raggiati, magneti annegati, e niente parti staccabili sotto i tre anni."},
+    "ORDINE": {"nome": "Organizzazione", "analisi": "Categoria a domanda continua e concorrenza sorprendentemente bassa nel segmento premium, perché quasi tutti la trattano come prodotto tecnico e non come oggetto d'arredo."},
+    "AZIENDA": {"nome": "Aziendale e premi", "analisi": "Prezzo per pezzo alto, ordini a decine, cliente che ritorna ogni anno. È il mercato dove il laser fibra vale più del CO2, e dove Ingly ha già la macchina giusta."},
+    "DIGITALE": {"nome": "File e prodotti digitali", "analisi": "Margine quasi totale e nessuna spedizione, ma è anche il mercato dove il tuo disegno diventa il prodotto di chiunque lo compri. Va trattato come una linea a parte, con disegni che non useresti sui prodotti fisici."},
+    "STAGIONE": {"nome": "Stagionale", "analisi": "Volumi enormi concentrati in poche settimane. In contrasto dichiarato con la visione INGLY di oggetti acquistabili tutto l'anno: è qui che va presa una decisione, non un compromesso."}
+  }
+}

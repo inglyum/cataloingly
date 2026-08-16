@@ -265,7 +265,7 @@ def costruisci():
     h = []
     a = h.append
     a('<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">')
-    a("<title>Fornitori Ingly</title>")
+    a("<title>Fornitori del grezzo</title>")
     a(f"<style>{CSS}{CSS_EXTRA}</style>")
 
     a('<header class="top"><div class="wrap" style="padding-top:26px">')

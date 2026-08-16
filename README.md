@@ -27,6 +27,7 @@ e scarichi, ottieni quei prodotti, non tutti.
 | Fonti di file catalogate | **24** (6 gratuite, 7 a pagamento, 11 fra rassegne e documentazione) |
 | Strumenti di lavoro | **34** divisi per fase, con costo reale |
 | Fornitori mappati | **52** in 10 paesi, 7 categorie merceologiche |
+| Archetipi best seller | **30** su tutte e 14 le categorie INGLY |
 | Piattaforme costruttive | 8 |
 | Analisi di mercato | **10 categorie su 10** — completa |
 | Motore di calcolo | completo e collaudato |
@@ -45,6 +46,7 @@ python3 scripts/build.py              # catalogo Mediterraneo: calcola tutto e g
 python3 scripts/build_enciclopedia.py # enciclopedia prodotti e fonti
 python3 scripts/build_ingly.py        # sistema INGLY: 27 basi × 4 varianti, TRUE COST per canale
 python3 scripts/build_fornitori.py    # fornitori di grezzo e di blank, confronto preventivi
+python3 scripts/build_bestseller.py   # i più venduti nel mondo e come rifarli con il nostro stile
 ```
 
 `build.py` produce in `out/`:
@@ -66,6 +68,8 @@ python3 scripts/build_fornitori.py    # fornitori di grezzo e di blank, confront
 | `fornitori.html` | I 52 fornitori navigabili, con classifica, capitolato e richieste di preventivo |
 | `fornitori.csv` / `.json` | Gli stessi dati per il foglio di lavoro |
 | `preventivi_template.csv` | Il foglio da compilare quando arrivano i preventivi |
+| `bestseller.html` | I 30 archetipi più venduti, con punteggio di opportunità e prompt di riscrittura |
+| `bestseller.csv` / `.json` | Gli stessi dati per il foglio di lavoro |
 
 ---
 
@@ -220,6 +224,11 @@ data/
                       build_fornitori.py calcola l'euro/m² utile e li classifica
   ingly/              sistema INGLY: 27 basi costruttive × 4 varianti,
                       TRUE COST per canale di vendita
+  bestseller/         i 30 archetipi più venduti nel mondo, con il buco di
+                      mercato di ciascuno e il prompt per rifarlo in stile Ingly
+    sistema.json      parole chiave, fonti di file, competitor, regole di riscrittura
+    voci_a.json       casa, tavola, luce, ristorazione, eventi, ufficio, piccoli
+    voci_b.json       gioielli, animali, bambini, ordine, azienda, digitale, stagione
   products/           un file per categoria, 288 prodotti in totale
     01_home.json      30    06_stagionale.json  34
     02_eventi.json    30    07_limitate.json    16
@@ -231,6 +240,7 @@ scripts/
   build_enciclopedia.py  enciclopedia prodotti e fonti
   build_ingly.py      sistema INGLY, TRUE COST e INGLY SCORE
   build_fornitori.py  fornitori, benchmark e confronto preventivi
+  build_bestseller.py archetipi di mercato, punteggio di opportunità, riscrittura
   validate.py         controllo qualità pre-produzione
 out/                  generato — non versionare a mano
 ```
